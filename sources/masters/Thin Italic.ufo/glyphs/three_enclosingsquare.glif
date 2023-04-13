@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="three_enclosingsquare" format="2">
-  <advance width="3912"/>
-  <outline>
-    <component base="three.1" xOffset="1114"/>
-    <component base="enclosingsquarecomb" xOffset="1152"/>
-  </outline>
-</glyph>

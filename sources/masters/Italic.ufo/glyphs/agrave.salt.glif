@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="agrave.salt" format="2">
-  <advance width="1752"/>
-  <unicode hex="E041"/>
-  <outline>
-    <component base="acyr.salt" xOffset="131"/>
-    <component base="grave" xOffset="139"/>
-  </outline>
-</glyph>

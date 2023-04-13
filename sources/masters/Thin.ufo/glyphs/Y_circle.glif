@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ycircle" format="2">
-  <advance width="3912"/>
-  <unicode hex="24CE"/>
-  <outline>
-    <component base="Y" xOffset="1091"/>
-    <component base="enclosingcirclecomb" xOffset="1131"/>
-  </outline>
-</glyph>

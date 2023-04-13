@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="adblgrave.salt" format="2">
-  <advance width="1693"/>
-  <unicode hex="E03B"/>
-  <outline>
-    <component base="acyr.salt" xOffset="28"/>
-    <component base="dblgravecomb" xOffset="1594"/>
-  </outline>
-</glyph>

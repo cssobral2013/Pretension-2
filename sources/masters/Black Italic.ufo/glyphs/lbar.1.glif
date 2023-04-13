@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lbar.1" format="2">
-  <advance width="832"/>
-  <outline>
-    <component base="l.1" xOffset="-1"/>
-    <component base="uniE103" xOffset="-309" yOffset="-52"/>
-  </outline>
-</glyph>

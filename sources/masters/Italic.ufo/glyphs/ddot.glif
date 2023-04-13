@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ddot" format="2">
-  <advance width="1750"/>
-  <unicode hex="1E0B"/>
-  <outline>
-    <component base="d" xOffset="131"/>
-    <component base="dotaccent" xOffset="653" yOffset="256"/>
-  </outline>
-</glyph>

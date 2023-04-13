@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="onehundred.romansmall" format="2">
-  <advance width="1426"/>
-  <unicode hex="217D"/>
-  <outline>
-    <component base="c" xOffset="-205"/>
-  </outline>
-</glyph>

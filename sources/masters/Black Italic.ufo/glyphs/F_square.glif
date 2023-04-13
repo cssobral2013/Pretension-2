@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Fsquare" format="2">
-  <advance width="3912"/>
-  <unicode hex="1F135"/>
-  <outline>
-    <component base="F" xOffset="1136"/>
-    <component base="enclosingsquarecomb" xOffset="904"/>
-  </outline>
-</glyph>

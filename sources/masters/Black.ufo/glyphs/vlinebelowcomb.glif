@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="vlinebelowcomb" format="2">
-  <advance width="76"/>
-  <unicode hex="0329"/>
-  <outline>
-    <component base="verticallinemod" xOffset="-1213" yOffset="-2276"/>
-  </outline>
-</glyph>

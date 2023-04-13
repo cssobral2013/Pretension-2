@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="numbersign_enclosingcircle" format="2">
-  <advance width="3912"/>
-  <unicode hex="E133"/>
-  <outline>
-    <component base="numbersign" xOffset="1049"/>
-    <component base="enclosingcirclecomb" xOffset="909"/>
-  </outline>
-</glyph>

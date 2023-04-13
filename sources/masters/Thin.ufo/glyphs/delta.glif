@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="delta" format="2">
-  <advance width="1198"/>
-  <unicode hex="1E9F"/>
-  <outline>
-    <component base="delta-grek" xOffset="-189"/>
-  </outline>
-</glyph>

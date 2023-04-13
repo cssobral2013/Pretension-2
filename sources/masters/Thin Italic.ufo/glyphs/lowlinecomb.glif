@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lowlinecomb" format="2">
-  <unicode hex="0332"/>
-  <outline>
-    <component base="underscore" xOffset="-1353" yOffset="-192"/>
-  </outline>
-</glyph>

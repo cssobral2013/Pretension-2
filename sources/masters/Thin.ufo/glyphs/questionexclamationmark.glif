@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="questionexclamationmark" format="2">
-  <advance width="2084"/>
-  <unicode hex="2048"/>
-  <outline>
-    <component base="question" xOffset="-1"/>
-    <component base="exclam" xOffset="1347"/>
-  </outline>
-</glyph>

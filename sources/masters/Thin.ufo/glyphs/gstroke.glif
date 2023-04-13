@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gstroke" format="2">
-  <advance width="1644"/>
-  <unicode hex="01E5"/>
-  <outline>
-    <component base="g" xOffset="-1"/>
-    <component base="uniE103" xOffset="747" yOffset="-224"/>
-  </outline>
-</glyph>

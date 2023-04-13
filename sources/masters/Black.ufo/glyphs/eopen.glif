@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="eopen" format="2">
-  <advance width="1656"/>
-  <unicode hex="025B"/>
-  <outline>
-    <component base="epsilon" xOffset="-1"/>
-  </outline>
-</glyph>

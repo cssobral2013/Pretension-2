@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="acutedblmiddlemod" format="2">
-  <advance width="1400"/>
-  <unicode hex="02F6"/>
-  <outline>
-    <component base="hungarumlautcomb" xOffset="1841" yOffset="-380"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="upsilonlenis" format="2">
-  <advance width="1655"/>
-  <unicode hex="1F50"/>
-  <outline>
-    <component base="upsilon-grek" xOffset="-3"/>
-    <component base="koronis" xOffset="403" yOffset="168"/>
-  </outline>
-</glyph>

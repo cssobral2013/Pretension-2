@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ringhalfrightbelowcomb" format="2">
-  <unicode hex="0339"/>
-  <outline>
-    <component base="ringhalfrightmod" xOffset="-1247" yOffset="-2188"/>
-  </outline>
-</glyph>

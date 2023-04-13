@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="plus_enclosingcircle" format="2">
-  <advance width="3912"/>
-  <unicode hex="E15F"/>
-  <outline>
-    <component base="plus.case" xOffset="1059"/>
-    <component base="enclosingcirclecomb" xOffset="1131"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Upsilonacutehooksymbol" format="2">
-  <advance width="1816"/>
-  <unicode hex="03D3"/>
-  <outline>
-    <component base="Upsilonhooksymbol" xOffset="71"/>
-    <component base="tonos" xOffset="-205" yOffset="-48"/>
-  </outline>
-</glyph>

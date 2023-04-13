@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="upsilonaspertilde" format="2">
-  <advance width="1644"/>
-  <unicode hex="1F57"/>
-  <outline>
-    <component base="upsilon-grek" xOffset="121"/>
-    <component base="aspertilde" xOffset="429" yOffset="168"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="three.alt.1" format="2">
-  <advance width="1824"/>
-  <unicode hex="E074"/>
-  <unicode hex="E07D"/>
-  <outline>
-    <component base="three" xOffset="47"/>
-  </outline>
-</glyph>

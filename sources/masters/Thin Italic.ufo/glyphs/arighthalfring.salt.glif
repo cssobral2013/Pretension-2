@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="arighthalfring.salt" format="2">
-  <advance width="1693"/>
-  <unicode hex="E046"/>
-  <outline>
-    <component base="acyr.salt" xOffset="28"/>
-    <component base="ringhalfrightmod" xOffset="684" yOffset="160"/>
-  </outline>
-</glyph>

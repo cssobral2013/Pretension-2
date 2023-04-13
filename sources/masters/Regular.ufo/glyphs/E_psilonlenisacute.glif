@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Epsilonlenisacute" format="2">
-  <advance width="2468"/>
-  <unicode hex="1F1C"/>
-  <outline>
-    <component base="E" xOffset="783"/>
-    <component base="uniE0FD" xOffset="-121"/>
-  </outline>
-</glyph>

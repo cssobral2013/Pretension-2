@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Rdot" format="2">
-  <advance width="1880"/>
-  <unicode hex="1E58"/>
-  <outline>
-    <component base="R" xOffset="-1"/>
-    <component base="dotaccent" xOffset="467" yOffset="512"/>
-  </outline>
-</glyph>

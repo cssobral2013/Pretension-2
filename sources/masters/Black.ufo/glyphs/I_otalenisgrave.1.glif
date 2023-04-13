@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Iotalenisgrave.1" format="2">
-  <advance width="1732"/>
-  <outline>
-    <component base="I.1" xOffset="923"/>
-    <component base="uniE0FB" xOffset="-113"/>
-  </outline>
-</glyph>

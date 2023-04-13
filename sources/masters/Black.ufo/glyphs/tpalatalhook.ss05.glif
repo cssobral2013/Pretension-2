@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tpalatalhook.ss05" format="2">
-  <advance width="1152"/>
-  <outline>
-    <component base="t.1" xOffset="-1"/>
-    <component base="palatalhookcomb" xOffset="1051"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="izhitsagravedblcyr" format="2">
-  <advance width="1772"/>
-  <unicode hex="0477"/>
-  <outline>
-    <component base="izhitsacyr" xOffset="-1"/>
-    <component base="dblgravecomb" xOffset="1723"/>
-  </outline>
-</glyph>

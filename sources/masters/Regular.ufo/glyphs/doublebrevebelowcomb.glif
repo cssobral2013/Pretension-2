@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="doublebrevebelowcomb" format="2">
-  <unicode hex="035C"/>
-  <outline>
-    <component base="doublebrevecomb" xOffset="-1" yOffset="-2188"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="check_enclosingsquare" format="2">
-  <advance width="3912"/>
-  <unicode hex="E15D"/>
-  <outline>
-    <component base="check" xOffset="755" yOffset="60"/>
-    <component base="enclosingsquarecomb" xOffset="1131"/>
-  </outline>
-</glyph>

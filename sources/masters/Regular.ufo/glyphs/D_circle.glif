@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Dcircle" format="2">
-  <advance width="3912"/>
-  <unicode hex="24B9"/>
-  <outline>
-    <component base="D" xOffset="1051"/>
-    <component base="enclosingcirclecomb" xOffset="1051"/>
-  </outline>
-</glyph>

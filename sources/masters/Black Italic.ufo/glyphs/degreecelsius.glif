@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="degreecelsius" format="2">
-  <advance width="3404"/>
-  <unicode hex="2103"/>
-  <outline>
-    <component base="degree" xOffset="-1"/>
-    <component base="C" xOffset="1239"/>
-  </outline>
-</glyph>

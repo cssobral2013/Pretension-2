@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="greater_enclosingsquare" format="2">
-  <advance width="3912"/>
-  <unicode hex="E153"/>
-  <outline>
-    <component base="greater.case" xOffset="1099"/>
-    <component base="enclosingsquarecomb" xOffset="1131"/>
-  </outline>
-</glyph>

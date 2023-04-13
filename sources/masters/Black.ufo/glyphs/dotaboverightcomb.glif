@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dotaboverightcomb" format="2">
-  <unicode hex="0358"/>
-  <outline>
-    <component base="dotbelowcomb" xOffset="1215" yOffset="2136"/>
-  </outline>
-</glyph>

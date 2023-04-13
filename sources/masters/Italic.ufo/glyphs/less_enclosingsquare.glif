@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="less_enclosingsquare" format="2">
-  <advance width="3912"/>
-  <unicode hex="E152"/>
-  <outline>
-    <component base="less.case" xOffset="1000"/>
-    <component base="enclosingsquarecomb" xOffset="1072"/>
-  </outline>
-</glyph>

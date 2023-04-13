@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="omegalenis" format="2">
-  <advance width="2284"/>
-  <unicode hex="1F60"/>
-  <outline>
-    <component base="omega" xOffset="-1"/>
-    <component base="koronis" xOffset="811" yOffset="168"/>
-  </outline>
-</glyph>

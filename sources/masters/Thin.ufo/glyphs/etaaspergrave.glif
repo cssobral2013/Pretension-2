@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="etaaspergrave" format="2">
-  <advance width="1600"/>
-  <unicode hex="1F23"/>
-  <outline>
-    <component base="eta" xOffset="-1"/>
-    <component base="aspergrave" xOffset="315" yOffset="176"/>
-  </outline>
-</glyph>

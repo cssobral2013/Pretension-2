@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Bsquare" format="2">
-  <advance width="3912"/>
-  <unicode hex="1F131"/>
-  <outline>
-    <component base="B" xOffset="1052"/>
-    <component base="enclosingsquarecomb" xOffset="1072"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Aring_ogonekmod" format="2">
-  <advance width="1904"/>
-  <unicode hex="EE02"/>
-  <outline>
-    <component base="Aring" xOffset="-1"/>
-    <component base="ogonek" xOffset="1231"/>
-  </outline>
-</glyph>

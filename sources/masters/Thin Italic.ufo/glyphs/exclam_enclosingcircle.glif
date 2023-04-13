@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="exclam_enclosingcircle" format="2">
-  <advance width="3912"/>
-  <unicode hex="E131"/>
-  <outline>
-    <component base="exclam" xOffset="1627"/>
-    <component base="enclosingcirclecomb" xOffset="1157"/>
-  </outline>
-</glyph>

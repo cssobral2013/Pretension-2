@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ninecircle.1" format="2">
-  <advance width="3912"/>
-  <outline>
-    <component base="nine.1" xOffset="1135"/>
-    <component base="enclosingcirclecomb" xOffset="1131"/>
-  </outline>
-</glyph>

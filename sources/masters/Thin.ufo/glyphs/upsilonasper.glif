@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="upsilonasper" format="2">
-  <advance width="1655"/>
-  <unicode hex="1F51"/>
-  <outline>
-    <component base="upsilon-grek" xOffset="-3"/>
-    <component base="asper" xOffset="503" yOffset="176"/>
-  </outline>
-</glyph>

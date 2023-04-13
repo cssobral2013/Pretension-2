@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="fmod.alt" format="2">
-  <advance width="772"/>
-  <unicode hex="E0AC"/>
-  <outline>
-    <component base="fmod" xOffset="-1" yOffset="-1376"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="linferior" format="2">
-  <advance width="540"/>
-  <unicode hex="2097"/>
-  <outline>
-    <component base="lsupmod" xOffset="-229" yOffset="-1376"/>
-  </outline>
-</glyph>

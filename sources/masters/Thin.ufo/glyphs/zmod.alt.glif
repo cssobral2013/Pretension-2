@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zmod.alt" format="2">
-  <advance width="968"/>
-  <unicode hex="E0B1"/>
-  <outline>
-    <component base="zmod" xOffset="-1" yOffset="-1376"/>
-  </outline>
-</glyph>

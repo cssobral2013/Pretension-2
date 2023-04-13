@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="adieresismacron.salt" format="2">
-  <advance width="1816"/>
-  <unicode hex="E03D"/>
-  <outline>
-    <component base="acyr.salt" xOffset="-1"/>
-    <component base="uniE10D" xOffset="1855" yOffset="-44"/>
-  </outline>
-</glyph>

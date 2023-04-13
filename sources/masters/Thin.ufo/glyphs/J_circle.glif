@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Jcircle" format="2">
-  <advance width="3912"/>
-  <unicode hex="24BF"/>
-  <outline>
-    <component base="J" xOffset="1227"/>
-    <component base="enclosingcirclecomb" xOffset="1131"/>
-  </outline>
-</glyph>

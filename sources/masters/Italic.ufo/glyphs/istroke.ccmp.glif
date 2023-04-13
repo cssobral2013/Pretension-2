@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="istroke.ccmp" format="2">
-  <advance width="668"/>
-  <unicode hex="E0F3"/>
-  <outline>
-    <component base="dotlessi" xOffset="-1"/>
-    <component base="uniE103" xOffset="-325" yOffset="-176"/>
-  </outline>
-</glyph>

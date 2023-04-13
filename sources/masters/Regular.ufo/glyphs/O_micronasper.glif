@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Omicronasper" format="2">
-  <advance width="2392"/>
-  <unicode hex="1F49"/>
-  <outline>
-    <component base="O" xOffset="247"/>
-    <component base="uniE0FA" xOffset="-97"/>
-  </outline>
-</glyph>

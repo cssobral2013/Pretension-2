@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="adotmacron.salt" format="2">
-  <advance width="1748"/>
-  <unicode hex="E040"/>
-  <outline>
-    <component base="acyr.salt" xOffset="-1"/>
-    <component base="uniE10C" xOffset="1675"/>
-  </outline>
-</glyph>

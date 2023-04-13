@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Wdot" format="2">
-  <advance width="2672"/>
-  <unicode hex="1E86"/>
-  <outline>
-    <component base="W" xOffset="-1"/>
-    <component base="dotaccent" xOffset="999" yOffset="512"/>
-  </outline>
-</glyph>

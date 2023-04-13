@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="seven_enclosingsquare" format="2">
-  <advance width="3912"/>
-  <unicode hex="E145"/>
-  <outline>
-    <component base="seven" xOffset="1203"/>
-    <component base="enclosingsquarecomb" xOffset="1051"/>
-  </outline>
-</glyph>

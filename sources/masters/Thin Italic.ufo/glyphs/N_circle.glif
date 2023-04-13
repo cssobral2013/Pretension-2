@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ncircle" format="2">
-  <advance width="3912"/>
-  <unicode hex="24C3"/>
-  <outline>
-    <component base="N" xOffset="893"/>
-    <component base="enclosingcirclecomb" xOffset="1157"/>
-  </outline>
-</glyph>

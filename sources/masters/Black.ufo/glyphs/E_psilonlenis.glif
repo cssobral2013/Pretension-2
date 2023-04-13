@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Epsilonlenis" format="2">
-  <advance width="2196"/>
-  <unicode hex="1F18"/>
-  <outline>
-    <component base="E" xOffset="443"/>
-    <component base="koronisaccentleft.cn" xOffset="-25" yOffset="-8"/>
-  </outline>
-</glyph>

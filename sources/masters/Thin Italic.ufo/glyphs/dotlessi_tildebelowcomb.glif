@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dotlessi_tildebelowcomb" format="2">
-  <advance width="624"/>
-  <unicode hex="E04B"/>
-  <outline>
-    <component base="dotlessi" xOffset="-1"/>
-    <component base="tildebelowcomb" xOffset="1217"/>
-  </outline>
-</glyph>

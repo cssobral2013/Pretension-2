@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="six_enclosingsquare" format="2">
-  <advance width="3912"/>
-  <outline>
-    <component base="six.1" xOffset="1150"/>
-    <component base="enclosingsquarecomb" xOffset="1152"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rstroke.1" format="2">
-  <advance width="1220"/>
-  <outline>
-    <component base="r.1" xOffset="-1"/>
-    <component base="uniE103" xOffset="-361" yOffset="-372"/>
-  </outline>
-</glyph>

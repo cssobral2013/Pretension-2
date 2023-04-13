@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rholenis" format="2">
-  <advance width="1704"/>
-  <unicode hex="1FE4"/>
-  <outline>
-    <component base="rho" xOffset="-1"/>
-    <component base="koronis" xOffset="647" yOffset="168"/>
-  </outline>
-</glyph>

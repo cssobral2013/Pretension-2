@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="etatilde" format="2">
-  <advance width="1648"/>
-  <unicode hex="1FC6"/>
-  <outline>
-    <component base="eta" xOffset="-1"/>
-    <component base="tilde-gr" xOffset="199"/>
-  </outline>
-</glyph>

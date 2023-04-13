@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="alphaasperacute" format="2">
-  <advance width="1775"/>
-  <unicode hex="1F05"/>
-  <outline>
-    <component base="alpha-grek" xOffset="25"/>
-    <component base="asperacute" xOffset="449" yOffset="176"/>
-  </outline>
-</glyph>

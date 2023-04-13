@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Bstroke" format="2">
-  <advance width="1988"/>
-  <unicode hex="0243"/>
-  <outline>
-    <component base="B" xOffset="159"/>
-    <component base="uniE103" xOffset="-173" yOffset="-416"/>
-  </outline>
-</glyph>

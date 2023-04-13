@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="twoasterisksalignedvertically" format="2">
-  <advance width="1708"/>
-  <unicode hex="2051"/>
-  <outline>
-    <component base="asterisk" xOffset="131"/>
-    <component base="asterisk" xOffset="139" yOffset="-1388"/>
-  </outline>
-</glyph>

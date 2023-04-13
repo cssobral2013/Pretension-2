@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="clicklateral" format="2">
-  <advance width="1008"/>
-  <unicode hex="01C1"/>
-  <outline>
-    <component base="clickdental" xOffset="-57"/>
-    <component base="clickdental" xOffset="315"/>
-  </outline>
-</glyph>

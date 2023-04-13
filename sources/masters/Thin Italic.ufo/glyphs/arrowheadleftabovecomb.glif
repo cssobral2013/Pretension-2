@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="arrowheadleftabovecomb" format="2">
-  <unicode hex="1DFE"/>
-  <outline>
-    <component base="arrowheadleftmod" xOffset="-1209" yOffset="788"/>
-  </outline>
-</glyph>

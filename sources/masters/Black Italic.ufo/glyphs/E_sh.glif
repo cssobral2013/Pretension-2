@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Esh" format="2">
-  <advance width="1972"/>
-  <unicode hex="01A9"/>
-  <outline>
-    <component base="Sigma" xOffset="-1"/>
-  </outline>
-</glyph>

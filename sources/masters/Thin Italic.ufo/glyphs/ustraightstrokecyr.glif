@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ustraightstrokecyr" format="2">
-  <advance width="1468"/>
-  <unicode hex="04B1"/>
-  <outline>
-    <component base="gamma-grek" xOffset="-1"/>
-    <component base="uniE103" xOffset="-15" yOffset="-956"/>
-  </outline>
-</glyph>

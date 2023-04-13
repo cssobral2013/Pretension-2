@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Klinebelow" format="2">
-  <advance width="1836"/>
-  <unicode hex="1E34"/>
-  <outline>
-    <component base="K" xOffset="-1"/>
-    <component base="macronbelowcomb" xOffset="1751"/>
-  </outline>
-</glyph>

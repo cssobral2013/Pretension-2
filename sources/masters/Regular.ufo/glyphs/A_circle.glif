@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Acircle" format="2">
-  <advance width="3912"/>
-  <unicode hex="24B6"/>
-  <outline>
-    <component base="A" xOffset="1003"/>
-    <component base="enclosingcirclecomb" xOffset="1051"/>
-  </outline>
-</glyph>

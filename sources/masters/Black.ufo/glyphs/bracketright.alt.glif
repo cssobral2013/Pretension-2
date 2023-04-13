@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bracketright.alt" format="2">
-  <advance width="828"/>
-  <unicode hex="E0B3"/>
-  <outline>
-    <component base="bracketright.sups" xOffset="-1" yOffset="-1376"/>
-  </outline>
-</glyph>

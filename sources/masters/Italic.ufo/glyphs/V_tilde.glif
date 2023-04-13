@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Vtilde" format="2">
-  <advance width="1904"/>
-  <unicode hex="1E7C"/>
-  <outline>
-    <component base="V" xOffset="-1"/>
-    <component base="tilde" xOffset="335" yOffset="512"/>
-  </outline>
-</glyph>

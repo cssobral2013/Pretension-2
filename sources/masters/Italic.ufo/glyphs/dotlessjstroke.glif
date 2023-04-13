@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dotlessjstroke" format="2">
-  <advance width="668"/>
-  <unicode hex="025F"/>
-  <outline>
-    <component base="dotlessj" xOffset="-1"/>
-    <component base="uniE103" xOffset="-317" yOffset="-100"/>
-  </outline>
-</glyph>

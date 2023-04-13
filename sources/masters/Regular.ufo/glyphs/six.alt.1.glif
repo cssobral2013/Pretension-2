@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="six.alt.1" format="2">
-  <advance width="1824"/>
-  <unicode hex="E077"/>
-  <unicode hex="E07F"/>
-  <outline>
-    <component base="six" xOffset="105"/>
-  </outline>
-</glyph>

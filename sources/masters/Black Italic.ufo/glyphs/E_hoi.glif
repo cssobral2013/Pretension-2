@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ehoi" format="2">
-  <advance width="1752"/>
-  <unicode hex="1EBA"/>
-  <outline>
-    <component base="E" xOffset="-1"/>
-    <component base="hookabovecomb" xOffset="1975" yOffset="504"/>
-  </outline>
-</glyph>

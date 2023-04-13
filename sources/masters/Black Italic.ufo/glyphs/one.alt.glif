@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="one.alt" format="2">
-  <advance width="1984"/>
-  <outline>
-    <component base="one.1" xOffset="315"/>
-  </outline>
-</glyph>

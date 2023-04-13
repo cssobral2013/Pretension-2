@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="jcaron" format="2">
-  <advance width="624"/>
-  <unicode hex="01F0"/>
-  <outline>
-    <component base="dotlessj" xOffset="-1"/>
-    <component base="caron" xOffset="-279" yOffset="22"/>
-  </outline>
-</glyph>

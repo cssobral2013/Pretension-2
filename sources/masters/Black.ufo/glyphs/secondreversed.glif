@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="secondreversed" format="2">
-  <advance width="1536"/>
-  <unicode hex="2036"/>
-  <outline>
-    <component base="minutereversed" xOffset="-1"/>
-    <component base="minutereversed" xOffset="639"/>
-  </outline>
-</glyph>

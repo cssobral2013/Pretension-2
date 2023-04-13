@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="five_enclosingsquare" format="2">
-  <advance width="3912"/>
-  <unicode hex="E143"/>
-  <outline>
-    <component base="five" xOffset="1145"/>
-    <component base="enclosingsquarecomb" xOffset="1131"/>
-  </outline>
-</glyph>

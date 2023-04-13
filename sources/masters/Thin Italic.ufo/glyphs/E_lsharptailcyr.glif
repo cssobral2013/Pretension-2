@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Elsharptailcyr" format="2">
-  <advance width="1980"/>
-  <unicode hex="04C5"/>
-  <outline>
-    <component base="Elcyr" xOffset="-1"/>
-    <component base="cyrillictail.cn" xOffset="1321" yOffset="-100"/>
-  </outline>
-</glyph>

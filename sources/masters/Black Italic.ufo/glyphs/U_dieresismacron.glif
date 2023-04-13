@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Udieresismacron" format="2">
-  <advance width="2023"/>
-  <unicode hex="01D5"/>
-  <outline>
-    <component base="U" xOffset="17"/>
-    <component base="uniE118" xOffset="2019"/>
-  </outline>
-</glyph>

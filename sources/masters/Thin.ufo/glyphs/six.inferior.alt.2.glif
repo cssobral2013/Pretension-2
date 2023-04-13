@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="six.inferior.alt.2" format="2">
-  <advance width="1004"/>
-  <unicode hex="E0D3"/>
-  <outline>
-    <component base="six.inferior.frac" xOffset="-1" yOffset="1024"/>
-  </outline>
-</glyph>

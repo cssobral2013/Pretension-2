@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ringbelowcomb" format="2">
-  <advance width="3"/>
-  <unicode hex="0325"/>
-  <outline>
-    <component base="ring" xOffset="-1703" yOffset="-2396"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="iotalenis" format="2">
-  <advance width="1008"/>
-  <unicode hex="1F30"/>
-  <outline>
-    <component base="iota" xOffset="-1"/>
-    <component base="koronis" xOffset="227" yOffset="168"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="strokeshortcomb" format="2">
-  <advance width="44"/>
-  <unicode hex="0335"/>
-  <outline>
-    <component base="uniE103" xOffset="-1705" yOffset="-312"/>
-  </outline>
-</glyph>

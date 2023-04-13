@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="alphagrave" format="2">
-  <advance width="1856"/>
-  <unicode hex="1F70"/>
-  <outline>
-    <component base="alpha-grek" xOffset="-1"/>
-    <component base="grave-gr" xOffset="315" yOffset="168"/>
-  </outline>
-</glyph>

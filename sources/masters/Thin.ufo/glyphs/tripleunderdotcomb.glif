@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tripleunderdotcomb" format="2">
-  <unicode hex="20E8"/>
-  <outline>
-    <component base="period" xOffset="-1549" yOffset="-688"/>
-    <component base="period" xOffset="-1045" yOffset="-688"/>
-    <component base="period" xOffset="-509" yOffset="-688"/>
-  </outline>
-</glyph>

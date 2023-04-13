@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Semisoftcyr" format="2">
-  <advance width="1788"/>
-  <unicode hex="048C"/>
-  <outline>
-    <component base="Yatcyr" xOffset="-1"/>
-  </outline>
-</glyph>

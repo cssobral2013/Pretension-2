@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="macronlowmod" format="2">
-  <advance width="1432"/>
-  <unicode hex="02CD"/>
-  <outline>
-    <component base="macron" xOffset="-65" yOffset="-2256"/>
-  </outline>
-</glyph>

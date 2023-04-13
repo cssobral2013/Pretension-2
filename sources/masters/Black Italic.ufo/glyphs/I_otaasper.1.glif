@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Iotaasper.1" format="2">
-  <advance width="1221"/>
-  <outline>
-    <component base="I.1" xOffset="431"/>
-    <component base="uniE0FA" xOffset="-145"/>
-  </outline>
-</glyph>

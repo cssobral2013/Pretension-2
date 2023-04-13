@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="clickbilabial" format="2">
-  <advance width="2144"/>
-  <unicode hex="0298"/>
-  <outline>
-    <component base="O" xOffset="182"/>
-    <component base="period" xOffset="1010" yOffset="862"/>
-  </outline>
-</glyph>

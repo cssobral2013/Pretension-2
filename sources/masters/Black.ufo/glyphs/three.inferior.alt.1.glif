@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="three.inferior.alt.1" format="2">
-  <advance width="1140"/>
-  <unicode hex="E0DF"/>
-  <outline>
-    <component base="three.inferior.frac" xOffset="-1" yOffset="960"/>
-  </outline>
-</glyph>

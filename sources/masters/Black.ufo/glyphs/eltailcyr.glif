@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="eltailcyr" format="2">
-  <advance width="2196"/>
-  <unicode hex="052F"/>
-  <outline>
-    <component base="elcyr" xOffset="-1"/>
-    <component base="cyrillictic.cn" xOffset="1383" yOffset="-136"/>
-  </outline>
-</glyph>

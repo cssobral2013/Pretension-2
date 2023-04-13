@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="primedblmod" format="2">
-  <advance width="836"/>
-  <unicode hex="02BA"/>
-  <outline>
-    <component base="primemod" xOffset="-1"/>
-    <component base="primemod" xOffset="275"/>
-  </outline>
-</glyph>

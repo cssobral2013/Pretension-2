@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="glottalstopstrokereversed" format="2">
-  <advance width="1414"/>
-  <unicode hex="02A2"/>
-  <outline>
-    <component base="pharyngealvoicedfricative" xOffset="-1"/>
-    <component base="uniE103" xOffset="215" yOffset="-668"/>
-  </outline>
-</glyph>

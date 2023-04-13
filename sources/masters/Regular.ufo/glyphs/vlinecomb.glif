@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="vlinecomb" format="2">
-  <unicode hex="030D"/>
-  <outline>
-    <component base="verticallinemod" xOffset="-981"/>
-  </outline>
-</glyph>

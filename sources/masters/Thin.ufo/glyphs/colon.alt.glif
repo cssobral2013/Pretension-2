@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="colon.alt" format="2">
-  <advance width="710"/>
-  <unicode hex="E095"/>
-  <outline>
-    <component base="colon" xOffset="-13"/>
-  </outline>
-</glyph>

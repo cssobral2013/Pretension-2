@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Asquare" format="2">
-  <advance width="3912"/>
-  <unicode hex="1F130"/>
-  <outline>
-    <component base="A" xOffset="856"/>
-    <component base="enclosingsquarecomb" xOffset="904"/>
-  </outline>
-</glyph>

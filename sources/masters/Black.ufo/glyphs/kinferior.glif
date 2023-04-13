@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="kinferior" format="2">
-  <advance width="1152"/>
-  <unicode hex="2096"/>
-  <outline>
-    <component base="kmod" xOffset="-1" yOffset="-1376"/>
-  </outline>
-</glyph>

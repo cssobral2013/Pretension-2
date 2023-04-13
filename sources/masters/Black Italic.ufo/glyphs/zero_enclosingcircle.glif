@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zero_enclosingcircle" format="2">
-  <advance width="3912"/>
-  <unicode hex="E12B"/>
-  <outline>
-    <component base="zero.ss02" xOffset="957"/>
-    <component base="enclosingcirclecomb" xOffset="909"/>
-  </outline>
-</glyph>

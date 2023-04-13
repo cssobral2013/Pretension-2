@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ohornacute" format="2">
-  <advance width="1688"/>
-  <unicode hex="1EDB"/>
-  <outline>
-    <component base="ohorn" xOffset="135"/>
-    <component base="acute" xOffset="307"/>
-  </outline>
-</glyph>

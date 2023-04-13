@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="acaron.salt" format="2">
-  <advance width="1684"/>
-  <unicode hex="E034"/>
-  <outline>
-    <component base="acyr.salt" xOffset="-1"/>
-    <component base="caron" xOffset="207" yOffset="20"/>
-  </outline>
-</glyph>

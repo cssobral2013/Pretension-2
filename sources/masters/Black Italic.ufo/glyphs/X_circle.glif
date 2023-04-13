@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Xcircle" format="2">
-  <advance width="3912"/>
-  <unicode hex="24CD"/>
-  <outline>
-    <component base="X" xOffset="909"/>
-    <component base="enclosingcirclecomb" xOffset="909"/>
-  </outline>
-</glyph>

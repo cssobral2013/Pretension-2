@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="mu-grek" format="2">
-  <advance width="1752"/>
-  <unicode hex="03BC"/>
-  <outline>
-    <component base="mu" xOffset="-1"/>
-  </outline>
-</glyph>

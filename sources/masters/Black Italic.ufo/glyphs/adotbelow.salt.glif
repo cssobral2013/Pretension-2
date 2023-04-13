@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="adotbelow.salt" format="2">
-  <advance width="1810"/>
-  <unicode hex="E03F"/>
-  <outline>
-    <component base="acyr.salt" xOffset="18"/>
-    <component base="dotbelowcomb" xOffset="1664"/>
-  </outline>
-</glyph>

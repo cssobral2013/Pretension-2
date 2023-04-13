@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Rcircle" format="2">
-  <advance width="3912"/>
-  <unicode hex="24C7"/>
-  <outline>
-    <component base="R" xOffset="1093"/>
-    <component base="enclosingcirclecomb" xOffset="1131"/>
-  </outline>
-</glyph>

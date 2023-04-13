@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="abreveacute.salt" format="2">
-  <advance width="1684"/>
-  <unicode hex="E02F"/>
-  <outline>
-    <component base="acyr.salt" xOffset="-1"/>
-    <component base="uniE11A" xOffset="323" yOffset="-20"/>
-  </outline>
-</glyph>

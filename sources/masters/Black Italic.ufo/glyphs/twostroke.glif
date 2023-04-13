@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="twostroke" format="2">
-  <advance width="1820"/>
-  <unicode hex="01BB"/>
-  <outline>
-    <component base="two" xOffset="-1"/>
-    <component base="uniE103" xOffset="519" yOffset="16"/>
-  </outline>
-</glyph>

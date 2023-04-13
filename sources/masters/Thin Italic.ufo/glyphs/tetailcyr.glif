@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tetailcyr" format="2">
-  <advance width="1438"/>
-  <unicode hex="04AD"/>
-  <outline>
-    <component base="tecyr" xOffset="-1"/>
-    <component base="cyrillictic.cn" xOffset="687" yOffset="-16"/>
-  </outline>
-</glyph>

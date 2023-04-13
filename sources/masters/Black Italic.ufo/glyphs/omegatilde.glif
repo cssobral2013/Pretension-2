@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="omegatilde" format="2">
-  <advance width="2844"/>
-  <unicode hex="1FF6"/>
-  <outline>
-    <component base="omega" xOffset="23"/>
-    <component base="tilde-gr" xOffset="747"/>
-  </outline>
-</glyph>

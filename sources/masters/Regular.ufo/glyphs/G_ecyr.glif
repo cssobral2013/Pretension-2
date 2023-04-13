@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Gecyr" format="2">
-  <advance width="1620"/>
-  <unicode hex="0413"/>
-  <outline>
-    <component base="Gamma-grek" xOffset="-1"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="iotaaspergrave" format="2">
-  <advance width="1005"/>
-  <unicode hex="1F33"/>
-  <outline>
-    <component base="iota" xOffset="-3"/>
-    <component base="aspergrave" xOffset="-147" yOffset="172"/>
-  </outline>
-</glyph>

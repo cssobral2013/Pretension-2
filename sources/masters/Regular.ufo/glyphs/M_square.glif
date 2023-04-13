@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Msquare" format="2">
-  <advance width="3912"/>
-  <unicode hex="1F13C"/>
-  <outline>
-    <component base="M" xOffset="703"/>
-    <component base="enclosingsquarecomb" xOffset="1051"/>
-  </outline>
-</glyph>

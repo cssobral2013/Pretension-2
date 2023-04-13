@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="verticalbardbl" format="2">
-  <advance width="1696"/>
-  <unicode hex="2016"/>
-  <outline>
-    <component base="bar" xOffset="59"/>
-    <component base="bar" xOffset="507"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="leftwardsarrow_enclosingcircle" format="2">
-  <advance width="3912"/>
-  <unicode hex="E13A"/>
-  <outline>
-    <component base="arrowleft.case" xOffset="657"/>
-    <component base="enclosingcirclecomb" xOffset="909"/>
-  </outline>
-</glyph>

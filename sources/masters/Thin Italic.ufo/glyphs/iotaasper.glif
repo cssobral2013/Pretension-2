@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="iotaasper" format="2">
-  <advance width="644"/>
-  <unicode hex="1F31"/>
-  <outline>
-    <component base="iota" xOffset="48"/>
-    <component base="asper" xOffset="92" yOffset="176"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Utildebelow" format="2">
-  <advance width="2088"/>
-  <unicode hex="1E74"/>
-  <outline>
-    <component base="U" xOffset="126"/>
-    <component base="tildebelowcomb" xOffset="2022" yOffset="-28"/>
-  </outline>
-</glyph>
