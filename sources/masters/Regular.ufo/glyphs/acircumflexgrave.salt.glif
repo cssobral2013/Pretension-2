@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acircumflexgrave.salt" format="2">
+  <advance width="1748"/>
+  <unicode hex="E038"/>
+  <outline>
+    <component base="acyr.salt" xOffset="-1"/>
+    <component base="uniE116" xOffset="-93" yOffset="28"/>
+  </outline>
+</glyph>

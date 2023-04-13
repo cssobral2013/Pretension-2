@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="unaspiratedmod" format="2">
+  <advance width="1432"/>
+  <unicode hex="02ED"/>
+  <outline>
+    <contour>
+      <point x="1432" y="2200" type="line"/>
+      <point x="1388" y="1916" type="line"/>
+      <point x="428" y="1916" type="line"/>
+      <point x="472" y="2200" type="line"/>
+    </contour>
+    <contour>
+      <point x="1376" y="1848" type="line"/>
+      <point x="1328" y="1564" type="line"/>
+      <point x="368" y="1564" type="line"/>
+      <point x="416" y="1848" type="line"/>
+    </contour>
+  </outline>
+</glyph>

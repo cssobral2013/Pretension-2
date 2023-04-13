@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="righttackbelowcomb" format="2">
+  <unicode hex="0319"/>
+  <outline>
+    <contour>
+      <point x="-996" y="-486" type="line"/>
+      <point x="-996" y="-90" type="line"/>
+      <point x="-932" y="-90" type="line"/>
+      <point x="-932" y="-486" type="line"/>
+    </contour>
+    <contour>
+      <point x="-996" y="-320" type="line"/>
+      <point x="-996" y="-256" type="line"/>
+      <point x="-600" y="-256" type="line"/>
+      <point x="-600" y="-320" type="line"/>
+    </contour>
+  </outline>
+</glyph>

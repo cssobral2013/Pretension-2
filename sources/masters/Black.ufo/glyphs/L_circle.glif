@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcircle" format="2">
+  <advance width="3912"/>
+  <unicode hex="24C1"/>
+  <outline>
+    <component base="L" xOffset="1171"/>
+    <component base="enclosingcirclecomb" xOffset="883"/>
+  </outline>
+</glyph>

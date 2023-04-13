@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jstroke" format="2">
+  <advance width="1653"/>
+  <unicode hex="0248"/>
+  <outline>
+    <component base="J" xOffset="-3"/>
+    <component base="uniE103" xOffset="525" yOffset="108"/>
+  </outline>
+</glyph>

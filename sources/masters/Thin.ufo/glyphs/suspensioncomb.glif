@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="suspensioncomb" format="2">
+  <unicode hex="1DC3"/>
+  <outline>
+    <contour>
+      <point x="-220" y="2020" type="line"/>
+      <point x="-188" y="1964" type="line"/>
+      <point x="-640" y="1696" type="line"/>
+      <point x="-672" y="1752" type="line"/>
+    </contour>
+    <contour>
+      <point x="-976" y="1896" type="line"/>
+      <point x="-944" y="1954" type="line"/>
+      <point x="-616" y="1754" type="line"/>
+      <point x="-640" y="1696" type="line"/>
+    </contour>
+  </outline>
+</glyph>

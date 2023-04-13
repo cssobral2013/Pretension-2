@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zigzagabovecomb" format="2">
+  <unicode hex="035B"/>
+  <outline>
+    <contour>
+      <point x="-644" y="2284" type="line"/>
+      <point x="-476" y="2284" type="line"/>
+      <point x="-604" y="2036" type="line"/>
+      <point x="-312" y="2036" type="line"/>
+      <point x="-516" y="1624" type="line"/>
+      <point x="-684" y="1624" type="line"/>
+      <point x="-556" y="1872" type="line"/>
+      <point x="-848" y="1872" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abrevetilde.salt" format="2">
+  <advance width="1684"/>
+  <unicode hex="E033"/>
+  <outline>
+    <component base="acyr.salt" xOffset="-1"/>
+    <component base="uniE120" xOffset="257" yOffset="72"/>
+  </outline>
+</glyph>

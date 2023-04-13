@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="enhookcyr" format="2">
+  <advance width="1642"/>
+  <unicode hex="04C8"/>
+  <outline>
+    <contour>
+      <point x="1234" y="0" type="line"/>
+      <point x="1194" y="-232" type="line"/>
+      <point x="1165" y="-402"/>
+      <point x="1003" y="-572"/>
+      <point x="868" y="-572" type="qcurve"/>
+      <point x="845" y="-572"/>
+      <point x="804" y="-568"/>
+      <point x="790" y="-564" type="qcurve"/>
+      <point x="800" y="-500" type="line"/>
+      <point x="814" y="-504"/>
+      <point x="848" y="-508"/>
+      <point x="868" y="-508" type="qcurve"/>
+      <point x="978" y="-508"/>
+      <point x="1106" y="-371"/>
+      <point x="1130" y="-232" type="qcurve"/>
+      <point x="1170" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1332" y="800" type="line"/>
+      <point x="1322" y="736" type="line"/>
+      <point x="308" y="736" type="line"/>
+      <point x="318" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="462" y="1536" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="398" y="1536" type="line"/>
+    </contour>
+    <contour>
+      <point x="1488" y="1536" type="line"/>
+      <point x="1234" y="0" type="line"/>
+      <point x="1170" y="0" type="line"/>
+      <point x="1424" y="1536" type="line"/>
+    </contour>
+  </outline>
+</glyph>

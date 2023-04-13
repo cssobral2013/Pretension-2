@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rsupinvertedmod" format="2">
+  <advance width="1420"/>
+  <unicode hex="02B6"/>
+  <outline>
+    <contour>
+      <point x="932" y="1468" type="line"/>
+      <point x="552" y="1468" type="line"/>
+      <point x="868" y="2008" type="line"/>
+      <point x="1252" y="2008" type="line"/>
+    </contour>
+    <contour>
+      <point x="684" y="900" type="qcurve"/>
+      <point x="168" y="900" type="line"/>
+      <point x="168" y="2008" type="line"/>
+      <point x="508" y="2008" type="line"/>
+      <point x="508" y="1192" type="line"/>
+      <point x="732" y="1192" type="line"/>
+      <point x="800" y="1192"/>
+      <point x="879" y="1250"/>
+      <point x="880" y="1304" type="qcurve"/>
+      <point x="879" y="1352"/>
+      <point x="798" y="1416"/>
+      <point x="724" y="1416" type="qcurve"/>
+      <point x="376" y="1416" type="line"/>
+      <point x="376" y="1704" type="line"/>
+      <point x="680" y="1704" type="line"/>
+      <point x="844" y="1704"/>
+      <point x="1084" y="1584"/>
+      <point x="1216" y="1394"/>
+      <point x="1216" y="1288" type="qcurve"/>
+      <point x="1216" y="1176"/>
+      <point x="1084" y="1001"/>
+      <point x="846" y="900"/>
+    </contour>
+  </outline>
+</glyph>

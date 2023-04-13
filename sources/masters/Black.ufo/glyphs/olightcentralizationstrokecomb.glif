@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="olightcentralizationstrokecomb" format="2">
+  <unicode hex="1DED"/>
+  <outline>
+    <contour>
+      <point x="-1424" y="1472" type="line"/>
+      <point x="-1184" y="1840" type="line"/>
+      <point x="-980" y="1728" type="line"/>
+      <point x="-1220" y="1360" type="line"/>
+    </contour>
+    <contour>
+      <point x="-956" y="1632" type="qcurve"/>
+      <point x="-1143" y="1632"/>
+      <point x="-1337" y="1854"/>
+      <point x="-1336" y="2016" type="qcurve"/>
+      <point x="-1336" y="2032" type="line"/>
+      <point x="-1337" y="2194"/>
+      <point x="-1146" y="2420"/>
+      <point x="-956" y="2420" type="qcurve"/>
+      <point x="-765" y="2420"/>
+      <point x="-573" y="2191"/>
+      <point x="-572" y="2032" type="qcurve"/>
+      <point x="-572" y="2016" type="line"/>
+      <point x="-573" y="1854"/>
+      <point x="-768" y="1632"/>
+    </contour>
+    <contour>
+      <point x="-956" y="1828" type="qcurve"/>
+      <point x="-879" y="1828"/>
+      <point x="-821" y="1941"/>
+      <point x="-820" y="2016" type="qcurve"/>
+      <point x="-820" y="2032" type="line"/>
+      <point x="-821" y="2101"/>
+      <point x="-876" y="2224"/>
+      <point x="-956" y="2224" type="qcurve"/>
+      <point x="-1032" y="2224"/>
+      <point x="-1089" y="2104"/>
+      <point x="-1088" y="2032" type="qcurve"/>
+      <point x="-1088" y="2016" type="line"/>
+      <point x="-1089" y="1944"/>
+      <point x="-1035" y="1828"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aspergrave" format="2">
+  <advance width="966"/>
+  <unicode hex="1FDD"/>
+  <outline>
+    <contour>
+      <point x="716" y="1610" type="line"/>
+      <point x="716" y="1592" type="line"/>
+      <point x="668" y="1592" type="line"/>
+      <point x="384" y="2038" type="line"/>
+      <point x="384" y="2056" type="line"/>
+      <point x="452" y="2056" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="2004" type="qcurve"/>
+      <point x="250" y="2056" type="line"/>
+      <point x="314" y="2056" type="line"/>
+      <point x="314" y="2012" type="line"/>
+      <point x="314" y="1883"/>
+      <point x="379" y="1707"/>
+      <point x="476" y="1592" type="qcurve"/>
+      <point x="430" y="1570" type="line"/>
+      <point x="324" y="1678"/>
+      <point x="250" y="1868"/>
+    </contour>
+  </outline>
+</glyph>

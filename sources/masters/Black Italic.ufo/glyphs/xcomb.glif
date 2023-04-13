@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="xcomb" format="2">
+  <unicode hex="036F"/>
+  <outline>
+    <contour>
+      <point x="-820" y="2424" type="line"/>
+      <point x="-740" y="2224" type="line"/>
+      <point x="-588" y="2424" type="line"/>
+      <point x="-336" y="2424" type="line"/>
+      <point x="-608" y="2048" type="line"/>
+      <point x="-452" y="1652" type="line"/>
+      <point x="-708" y="1652" type="line"/>
+      <point x="-800" y="1872" type="line"/>
+      <point x="-960" y="1652" type="line"/>
+      <point x="-1216" y="1652" type="line"/>
+      <point x="-932" y="2048" type="line"/>
+      <point x="-1076" y="2424" type="line"/>
+    </contour>
+  </outline>
+</glyph>

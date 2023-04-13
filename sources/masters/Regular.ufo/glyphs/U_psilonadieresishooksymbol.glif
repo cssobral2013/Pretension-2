@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilonadieresishooksymbol" format="2">
+  <advance width="1864"/>
+  <unicode hex="03D4"/>
+  <outline>
+    <component base="Upsilonhooksymbol" xOffset="-1"/>
+    <component base="dieresis" xOffset="99" yOffset="512"/>
+  </outline>
+</glyph>

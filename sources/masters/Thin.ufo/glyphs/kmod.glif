@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kmod" format="2">
+  <advance width="932"/>
+  <unicode hex="1D4F"/>
+  <outline>
+    <contour>
+      <point x="228" y="1432" type="line"/>
+      <point x="228" y="1528" type="line"/>
+      <point x="244" y="1528" type="line"/>
+      <point x="772" y="2048" type="line"/>
+      <point x="856" y="2048" type="line"/>
+      <point x="388" y="1584" type="line"/>
+      <point x="380" y="1580" type="line"/>
+    </contour>
+    <contour>
+      <point x="176" y="1024" type="line"/>
+      <point x="176" y="2388" type="line"/>
+      <point x="236" y="2388" type="line"/>
+      <point x="236" y="1024" type="line"/>
+    </contour>
+    <contour>
+      <point x="796" y="1024" type="line"/>
+      <point x="356" y="1580" type="line"/>
+      <point x="400" y="1620" type="line"/>
+      <point x="876" y="1024" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="njecyr" format="2">
+  <advance width="2494"/>
+  <unicode hex="045A"/>
+  <outline>
+    <contour>
+      <point x="144" y="0" type="line"/>
+      <point x="398" y="1536" type="line"/>
+      <point x="462" y="1536" type="line"/>
+      <point x="352" y="868" type="line"/>
+      <point x="1332" y="868" type="line"/>
+      <point x="1322" y="804" type="line"/>
+      <point x="340" y="804" type="line"/>
+      <point x="208" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1350" y="868" type="line"/>
+      <point x="1818" y="868" type="line"/>
+      <point x="2051" y="868"/>
+      <point x="2297" y="655"/>
+      <point x="2258" y="424" type="qcurve"/>
+      <point x="2233" y="276"/>
+      <point x="2080" y="88"/>
+      <point x="1836" y="0"/>
+      <point x="1674" y="0" type="qcurve"/>
+      <point x="1170" y="0" type="line"/>
+      <point x="1426" y="1536" type="line"/>
+      <point x="1490" y="1536" type="line"/>
+      <point x="1246" y="64" type="line"/>
+      <point x="1686" y="64" type="line"/>
+      <point x="1892" y="64"/>
+      <point x="2163" y="237"/>
+      <point x="2196" y="440" type="qcurve"/>
+      <point x="2228" y="636"/>
+      <point x="2020" y="804"/>
+      <point x="1808" y="804" type="qcurve"/>
+      <point x="1340" y="804" type="line"/>
+    </contour>
+  </outline>
+</glyph>

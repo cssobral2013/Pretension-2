@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chevertcyr" format="2">
+  <advance width="1616"/>
+  <unicode hex="04B9"/>
+  <outline>
+    <contour>
+      <point x="916" y="1092" type="line"/>
+      <point x="916" y="316" type="line"/>
+      <point x="696" y="316" type="line"/>
+      <point x="696" y="1092" type="line"/>
+    </contour>
+    <contour>
+      <point x="1400" y="1536" type="line"/>
+      <point x="1400" y="0" type="line"/>
+      <point x="1164" y="0" type="line"/>
+      <point x="1164" y="1536" type="line"/>
+    </contour>
+    <contour>
+      <point x="1308" y="804" type="qcurve"/>
+      <point x="1308" y="584" type="line"/>
+      <point x="1228" y="554"/>
+      <point x="1070" y="509"/>
+      <point x="896" y="484"/>
+      <point x="792" y="484" type="qcurve"/>
+      <point x="531" y="484"/>
+      <point x="216" y="766"/>
+      <point x="216" y="1048" type="qcurve"/>
+      <point x="216" y="1540" type="line"/>
+      <point x="452" y="1540" type="line"/>
+      <point x="452" y="1048" type="line"/>
+      <point x="452" y="930"/>
+      <point x="542" y="778"/>
+      <point x="696" y="704"/>
+      <point x="792" y="704" type="qcurve"/>
+      <point x="942" y="704"/>
+      <point x="1185" y="759"/>
+    </contour>
+  </outline>
+</glyph>

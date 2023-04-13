@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegaasperiotasub" format="2">
+  <advance width="2859"/>
+  <unicode hex="1FA1"/>
+  <outline>
+    <component base="omega" xOffset="-7"/>
+    <component base="iotaadscript" xOffset="1059"/>
+    <component base="asper" xOffset="901" yOffset="176"/>
+  </outline>
+</glyph>

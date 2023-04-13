@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yangtonemod" format="2">
+  <advance width="1508"/>
+  <unicode hex="02EB"/>
+  <outline>
+    <contour>
+      <point x="1316" y="828" type="line"/>
+      <point x="1316" y="412" type="line"/>
+      <point x="524" y="412" type="line"/>
+      <point x="524" y="828" type="line"/>
+    </contour>
+    <contour>
+      <point x="720" y="1248" type="line"/>
+      <point x="720" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="200" y="1248" type="line"/>
+    </contour>
+  </outline>
+</glyph>

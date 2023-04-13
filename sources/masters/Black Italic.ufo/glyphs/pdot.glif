@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pdot" format="2">
+  <advance width="1830"/>
+  <unicode hex="1E57"/>
+  <outline>
+    <component base="p" xOffset="-1"/>
+    <component base="dotaccent" xOffset="543"/>
+  </outline>
+</glyph>

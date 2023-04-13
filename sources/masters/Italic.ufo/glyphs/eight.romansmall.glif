@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight.romansmall" format="2">
+  <advance width="3572"/>
+  <unicode hex="2177"/>
+  <outline>
+    <component base="v" xOffset="-1"/>
+    <component base="i" xOffset="1567"/>
+    <component base="i" xOffset="2235"/>
+    <component base="i" xOffset="2903"/>
+  </outline>
+</glyph>

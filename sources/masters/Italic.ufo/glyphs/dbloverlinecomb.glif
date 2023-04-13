@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dbloverlinecomb" format="2">
+  <unicode hex="033F"/>
+  <outline>
+    <contour>
+      <point x="76" y="2260" type="line"/>
+      <point x="40" y="2040" type="line"/>
+      <point x="-1232" y="2040" type="line"/>
+      <point x="-1196" y="2260" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="2612" type="line"/>
+      <point x="96" y="2392" type="line"/>
+      <point x="-1176" y="2392" type="line"/>
+      <point x="-1140" y="2612" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tironiansignet" format="2">
+  <advance width="950"/>
+  <unicode hex="204A"/>
+  <outline>
+    <contour>
+      <point x="204" y="1424" type="line"/>
+      <point x="214" y="1488" type="line"/>
+      <point x="978" y="1488" type="line"/>
+      <point x="638" y="-572" type="line"/>
+      <point x="574" y="-572" type="line"/>
+      <point x="904" y="1424" type="line"/>
+    </contour>
+  </outline>
+</glyph>

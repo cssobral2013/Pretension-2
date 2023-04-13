@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="projective" format="2">
+  <advance width="2240"/>
+  <unicode hex="2305"/>
+  <outline>
+    <contour>
+      <point x="480" y="1828" type="line"/>
+      <point x="516" y="2048" type="line"/>
+      <point x="2148" y="2048" type="line"/>
+      <point x="2112" y="1828" type="line"/>
+    </contour>
+    <contour>
+      <point x="442" y="584" type="line"/>
+      <point x="294" y="736" type="line"/>
+      <point x="1250" y="1556" type="line"/>
+      <point x="1934" y="736" type="line"/>
+      <point x="1776" y="584" type="line"/>
+      <point x="1218" y="1252" type="line"/>
+    </contour>
+  </outline>
+</glyph>

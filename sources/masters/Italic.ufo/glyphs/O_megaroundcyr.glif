@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegaroundcyr" format="2">
+  <advance width="2144"/>
+  <unicode hex="047A"/>
+  <outline>
+    <contour>
+      <point x="1132" y="440" type="line"/>
+      <point x="1020" y="-244" type="line"/>
+      <point x="788" y="-244" type="line"/>
+      <point x="900" y="440" type="line"/>
+    </contour>
+    <contour>
+      <point x="1440" y="2296" type="line"/>
+      <point x="1328" y="1612" type="line"/>
+      <point x="1096" y="1612" type="line"/>
+      <point x="1208" y="2296" type="line"/>
+    </contour>
+    <contour>
+      <point x="2020" y="1024" type="qcurve"/>
+      <point x="1966" y="700"/>
+      <point x="1653" y="228"/>
+      <point x="1202" y="-28"/>
+      <point x="940" y="-28" type="qcurve"/>
+      <point x="678" y="-28"/>
+      <point x="313" y="228"/>
+      <point x="158" y="700"/>
+      <point x="212" y="1024" type="qcurve"/>
+      <point x="264" y="1348"/>
+      <point x="575" y="1820"/>
+      <point x="1026" y="2076"/>
+      <point x="1288" y="2076" type="qcurve"/>
+      <point x="1550" y="2076"/>
+      <point x="1916" y="1820"/>
+      <point x="2072" y="1348"/>
+    </contour>
+    <contour>
+      <point x="1780" y="1024" type="qcurve"/>
+      <point x="1824" y="1290"/>
+      <point x="1708" y="1656"/>
+      <point x="1438" y="1844"/>
+      <point x="1252" y="1844" type="qcurve"/>
+      <point x="1066" y="1844"/>
+      <point x="734" y="1656"/>
+      <point x="496" y="1290"/>
+      <point x="452" y="1024" type="qcurve"/>
+      <point x="408" y="758"/>
+      <point x="524" y="392"/>
+      <point x="794" y="204"/>
+      <point x="980" y="204" type="qcurve"/>
+      <point x="1166" y="204"/>
+      <point x="1498" y="392"/>
+      <point x="1736" y="758"/>
+    </contour>
+  </outline>
+</glyph>

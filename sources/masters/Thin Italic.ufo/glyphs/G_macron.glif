@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gmacron" format="2">
+  <advance width="2086"/>
+  <unicode hex="1E20"/>
+  <unicode hex="E00B"/>
+  <outline>
+    <component base="G" xOffset="35"/>
+    <component base="macron" xOffset="745" yOffset="512"/>
+  </outline>
+</glyph>

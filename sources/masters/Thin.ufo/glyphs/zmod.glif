@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zmod" format="2">
+  <advance width="968"/>
+  <unicode hex="1DBB"/>
+  <outline>
+    <contour>
+      <point x="140" y="1024" type="line"/>
+      <point x="140" y="1080" type="line"/>
+      <point x="748" y="1980" type="line"/>
+      <point x="748" y="1988" type="line"/>
+      <point x="176" y="1988" type="line"/>
+      <point x="176" y="2048" type="line"/>
+      <point x="824" y="2048" type="line"/>
+      <point x="824" y="1992" type="line"/>
+      <point x="220" y="1092" type="line"/>
+      <point x="220" y="1084" type="line"/>
+      <point x="852" y="1084" type="line"/>
+      <point x="852" y="1024" type="line"/>
+    </contour>
+  </outline>
+</glyph>

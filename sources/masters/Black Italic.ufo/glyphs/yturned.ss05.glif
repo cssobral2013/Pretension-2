@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yturned.ss05" format="2">
+  <advance width="1704"/>
+  <outline>
+    <contour>
+      <point x="1612" y="2112" type="line"/>
+      <point x="1286" y="1604" type="line"/>
+      <point x="1560" y="0" type="line"/>
+      <point x="1004" y="0" type="line"/>
+      <point x="934" y="1064" type="line"/>
+      <point x="918" y="1064" type="line"/>
+      <point x="488" y="0" type="line"/>
+      <point x="-112" y="0" type="line"/>
+      <point x="949" y="2112" type="line"/>
+    </contour>
+  </outline>
+</glyph>

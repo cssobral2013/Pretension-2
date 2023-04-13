@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zstroke" format="2">
+  <advance width="1704"/>
+  <unicode hex="01B5"/>
+  <outline>
+    <component base="Z" xOffset="-1"/>
+    <component base="uniE103" xOffset="275" yOffset="32"/>
+  </outline>
+</glyph>

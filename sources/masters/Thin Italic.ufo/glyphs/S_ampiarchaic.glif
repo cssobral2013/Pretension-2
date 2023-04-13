@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sampiarchaic" format="2">
+  <advance width="1792"/>
+  <unicode hex="0372"/>
+  <outline>
+    <contour>
+      <point x="1794" y="2048" type="line"/>
+      <point x="1668" y="1240" type="line"/>
+      <point x="1604" y="1240" type="line"/>
+      <point x="1730" y="2048" type="line"/>
+    </contour>
+    <contour>
+      <point x="476" y="2048" type="line"/>
+      <point x="346" y="1240" type="line"/>
+      <point x="282" y="1240" type="line"/>
+      <point x="412" y="2048" type="line"/>
+    </contour>
+    <contour>
+      <point x="1128" y="2048" type="line"/>
+      <point x="788" y="0" type="line"/>
+      <point x="724" y="0" type="line"/>
+      <point x="1064" y="2048" type="line"/>
+    </contour>
+    <contour>
+      <point x="1794" y="2048" type="line"/>
+      <point x="1784" y="1984" type="line"/>
+      <point x="402" y="1984" type="line"/>
+      <point x="412" y="2048" type="line"/>
+    </contour>
+  </outline>
+</glyph>

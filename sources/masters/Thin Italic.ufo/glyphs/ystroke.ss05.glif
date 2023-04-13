@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ystroke.ss05" format="2">
+  <advance width="1470"/>
+  <outline>
+    <contour>
+      <point x="1364" y="1112" type="line"/>
+      <point x="1350" y="1048" type="line"/>
+      <point x="218" y="1048" type="line"/>
+      <point x="236" y="1112" type="line"/>
+    </contour>
+    <contour>
+      <point x="277" y="-576" type="line"/>
+      <point x="568" y="-24" type="line"/>
+      <point x="272" y="1536" type="line"/>
+      <point x="336" y="1536" type="line"/>
+      <point x="614" y="80" type="line"/>
+      <point x="622" y="80" type="line"/>
+      <point x="1384" y="1536" type="line"/>
+      <point x="1456" y="1536" type="line"/>
+      <point x="351" y="-576" type="line"/>
+    </contour>
+  </outline>
+</glyph>

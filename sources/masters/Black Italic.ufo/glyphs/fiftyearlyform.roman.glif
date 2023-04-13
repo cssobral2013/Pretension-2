@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fiftyearlyform.roman" format="2">
+  <advance width="2848"/>
+  <unicode hex="2186"/>
+  <outline>
+    <contour>
+      <point x="660" y="1292" type="line"/>
+      <point x="1296" y="568" type="line"/>
+      <point x="1408" y="0" type="line"/>
+      <point x="1032" y="0" type="line"/>
+      <point x="212" y="888" type="line"/>
+    </contour>
+    <contour>
+      <point x="1884" y="2004" type="line"/>
+      <point x="1600" y="288" type="line"/>
+      <point x="1088" y="288" type="line"/>
+      <point x="1372" y="2004" type="line"/>
+    </contour>
+    <contour>
+      <point x="2676" y="892" type="line"/>
+      <point x="1560" y="0" type="line"/>
+      <point x="1184" y="0" type="line"/>
+      <point x="1496" y="568" type="line"/>
+      <point x="2368" y="1292" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotadieresisgrave" format="2">
+  <advance width="1000"/>
+  <unicode hex="1FD2"/>
+  <outline>
+    <component base="iota"/>
+    <component base="dieresisgrave" xOffset="-232" yOffset="168"/>
+  </outline>
+</glyph>

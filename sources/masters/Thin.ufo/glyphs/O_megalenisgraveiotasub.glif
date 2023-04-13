@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegalenisgraveiotasub" format="2">
+  <advance width="2726"/>
+  <unicode hex="1FAA"/>
+  <outline>
+    <component base="Omegalenisgrave" xOffset="-1"/>
+    <component base="iotaadscript" xOffset="1383"/>
+  </outline>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udiaeresiscomb" format="2">
+  <unicode hex="1DF4"/>
+  <outline>
+    <contour>
+      <point x="-1084" y="2592" type="qcurve"/>
+      <point x="-1084" y="2634"/>
+      <point x="-1027" y="2692"/>
+      <point x="-978" y="2692" type="qcurve"/>
+      <point x="-928" y="2692"/>
+      <point x="-872" y="2634"/>
+      <point x="-872" y="2592" type="qcurve"/>
+      <point x="-872" y="2550"/>
+      <point x="-929" y="2496"/>
+      <point x="-980" y="2496" type="qcurve"/>
+      <point x="-1028" y="2496"/>
+      <point x="-1084" y="2550"/>
+    </contour>
+    <contour>
+      <point x="-752" y="2592" type="qcurve"/>
+      <point x="-752" y="2634"/>
+      <point x="-699" y="2692"/>
+      <point x="-648" y="2692" type="qcurve"/>
+      <point x="-597" y="2692"/>
+      <point x="-544" y="2634"/>
+      <point x="-544" y="2592" type="qcurve"/>
+      <point x="-544" y="2550"/>
+      <point x="-597" y="2496"/>
+      <point x="-648" y="2496" type="qcurve"/>
+      <point x="-699" y="2496"/>
+      <point x="-752" y="2550"/>
+    </contour>
+    <contour>
+      <point x="-668" y="1828" type="line"/>
+      <point x="-668" y="2412" type="line"/>
+      <point x="-488" y="2412" type="line"/>
+      <point x="-488" y="1652" type="line"/>
+      <point x="-624" y="1652" type="line"/>
+    </contour>
+    <contour>
+      <point x="-644" y="2004" type="qcurve"/>
+      <point x="-580" y="2008" type="line"/>
+      <point x="-580" y="1846"/>
+      <point x="-716" y="1640"/>
+      <point x="-872" y="1640" type="qcurve"/>
+      <point x="-992" y="1640"/>
+      <point x="-1132" y="1790"/>
+      <point x="-1132" y="1962" type="qcurve"/>
+      <point x="-1132" y="2412" type="line"/>
+      <point x="-952" y="2412" type="line"/>
+      <point x="-952" y="1960" type="line"/>
+      <point x="-952" y="1870"/>
+      <point x="-889" y="1784"/>
+      <point x="-820" y="1784" type="qcurve"/>
+      <point x="-727" y="1784"/>
+      <point x="-644" y="1899"/>
+    </contour>
+  </outline>
+</glyph>

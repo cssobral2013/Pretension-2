@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y_ogonekcomb" format="2">
+  <advance width="1704"/>
+  <unicode hex="EE05"/>
+  <outline>
+    <contour>
+      <point x="1026" y="-576" type="qcurve"/>
+      <point x="885" y="-576"/>
+      <point x="702" y="-499"/>
+      <point x="589" y="-369"/>
+      <point x="519" y="-210"/>
+      <point x="492" y="-128" type="qcurve"/>
+      <point x="482" y="-98" type="line"/>
+      <point x="1002" y="-38" type="line"/>
+      <point x="1016" y="-96" type="line"/>
+      <point x="1032" y="-160"/>
+      <point x="1184" y="-166"/>
+      <point x="1292" y="-130" type="qcurve"/>
+      <point x="1346" y="-522" type="line"/>
+      <point x="1277" y="-547"/>
+      <point x="1121" y="-576"/>
+    </contour>
+    <contour>
+      <point x="254" y="-576" type="qcurve"/>
+      <point x="158" y="-576"/>
+      <point x="-8" y="-547"/>
+      <point x="-70" y="-522" type="qcurve"/>
+      <point x="116" y="-130" type="line"/>
+      <point x="180" y="-154"/>
+      <point x="289" y="-168"/>
+      <point x="373" y="-138"/>
+      <point x="400" y="-96" type="qcurve"/>
+      <point x="418" y="-68" type="line"/>
+      <point x="144" y="1536" type="line"/>
+      <point x="700" y="1536" type="line"/>
+      <point x="770" y="472" type="line"/>
+      <point x="786" y="472" type="line"/>
+      <point x="1216" y="1536" type="line"/>
+      <point x="1816" y="1536" type="line"/>
+      <point x="980" y="-128" type="line"/>
+      <point x="916" y="-255"/>
+      <point x="725" y="-458"/>
+      <point x="447" y="-576"/>
+    </contour>
+  </outline>
+</glyph>

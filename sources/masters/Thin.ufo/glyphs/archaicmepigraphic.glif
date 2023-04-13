@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="archaicmepigraphic" format="2">
+  <advance width="3154"/>
+  <unicode hex="A7FF"/>
+  <outline>
+    <contour>
+      <point x="1476" y="94" type="line"/>
+      <point x="1456" y="0" type="line"/>
+      <point x="360" y="1920" type="line"/>
+      <point x="384" y="2004" type="line"/>
+    </contour>
+    <contour>
+      <point x="384" y="2004" type="line"/>
+      <point x="196" y="0" type="line"/>
+      <point x="132" y="0" type="line"/>
+      <point x="320" y="2004" type="line"/>
+    </contour>
+    <contour>
+      <point x="1708" y="2004" type="line"/>
+      <point x="1520" y="0" type="line"/>
+      <point x="1456" y="0" type="line"/>
+      <point x="1644" y="2004" type="line"/>
+    </contour>
+    <contour>
+      <point x="2800" y="80" type="line"/>
+      <point x="2772" y="0" type="line"/>
+      <point x="1676" y="1934" type="line"/>
+      <point x="1708" y="2004" type="line"/>
+    </contour>
+    <contour>
+      <point x="3020" y="2004" type="line"/>
+      <point x="2836" y="0" type="line"/>
+      <point x="2772" y="0" type="line"/>
+      <point x="2960" y="2004" type="line"/>
+    </contour>
+  </outline>
+</glyph>

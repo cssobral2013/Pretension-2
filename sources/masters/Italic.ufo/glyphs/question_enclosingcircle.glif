@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question_enclosingcircle" format="2">
+  <advance width="3912"/>
+  <unicode hex="E132"/>
+  <outline>
+    <component base="question" xOffset="1311"/>
+    <component base="enclosingcirclecomb" xOffset="1077"/>
+  </outline>
+</glyph>

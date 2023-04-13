@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Izhitsacyr" format="2">
+  <advance width="2264"/>
+  <unicode hex="0474"/>
+  <outline>
+    <contour>
+      <point x="1520" y="1524" type="line"/>
+      <point x="1656" y="1821"/>
+      <point x="2020" y="2076"/>
+      <point x="2280" y="2076" type="qcurve"/>
+      <point x="2416" y="2076" type="line"/>
+      <point x="2336" y="1592" type="line"/>
+      <point x="2276" y="1592" type="line"/>
+      <point x="2218" y="1592"/>
+      <point x="2133" y="1529"/>
+      <point x="2098" y="1460" type="qcurve"/>
+      <point x="1372" y="0" type="line"/>
+      <point x="612" y="0" type="line"/>
+      <point x="276" y="2048" type="line"/>
+      <point x="904" y="2048" type="line"/>
+      <point x="1084" y="604" type="line"/>
+      <point x="1100" y="604" type="line"/>
+    </contour>
+  </outline>
+</glyph>

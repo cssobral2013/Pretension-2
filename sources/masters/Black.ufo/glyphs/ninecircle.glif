@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ninecircle" format="2">
+  <advance width="3912"/>
+  <unicode hex="2468"/>
+  <unicode hex="2788"/>
+  <unicode hex="E130"/>
+  <outline>
+    <component base="nine" xOffset="1035"/>
+    <component base="enclosingcirclecomb" xOffset="883"/>
+  </outline>
+</glyph>

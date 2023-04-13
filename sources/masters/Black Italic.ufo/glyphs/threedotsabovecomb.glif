@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threedotsabovecomb" format="2">
+  <unicode hex="20DB"/>
+  <outline>
+    <component base="period" xOffset="-1848" yOffset="1788"/>
+    <component base="period" xOffset="-1144" yOffset="1788"/>
+    <component base="period" xOffset="-440" yOffset="1788"/>
+  </outline>
+</glyph>

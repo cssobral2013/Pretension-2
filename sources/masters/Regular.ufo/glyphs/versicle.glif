@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="versicle" format="2">
+  <advance width="1880"/>
+  <unicode hex="2123"/>
+  <outline>
+    <contour>
+      <point x="1372" y="2224" type="line"/>
+      <point x="336" y="-496" type="line"/>
+      <point x="104" y="-496" type="line"/>
+      <point x="1084" y="2104" type="line"/>
+      <point x="816" y="2240" type="line"/>
+      <point x="932" y="2464" type="line"/>
+    </contour>
+    <contour>
+      <point x="332" y="2048" type="line"/>
+      <point x="940" y="324" type="line"/>
+      <point x="964" y="324" type="line"/>
+      <point x="1572" y="2048" type="line"/>
+      <point x="1832" y="2048" type="line"/>
+      <point x="1080" y="0" type="line"/>
+      <point x="824" y="0" type="line"/>
+      <point x="72" y="2048" type="line"/>
+    </contour>
+  </outline>
+</glyph>

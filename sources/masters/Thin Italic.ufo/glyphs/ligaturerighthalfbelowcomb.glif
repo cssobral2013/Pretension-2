@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ligaturerighthalfbelowcomb" format="2">
+  <unicode hex="FE28"/>
+  <outline>
+    <contour>
+      <point x="364" y="-180" type="qcurve"/>
+      <point x="504" y="-180" type="line"/>
+      <point x="425" y="-250"/>
+      <point x="214" y="-368"/>
+      <point x="0" y="-453"/>
+      <point x="-172" y="-500"/>
+      <point x="-212" y="-500" type="qcurve"/>
+      <point x="-196" y="-396" type="line"/>
+      <point x="-182" y="-395"/>
+      <point x="-49" y="-360"/>
+      <point x="132" y="-300"/>
+      <point x="308" y="-223"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alphagraveiotasub" format="2">
+  <advance width="1775"/>
+  <unicode hex="1FB2"/>
+  <outline>
+    <component base="alpha-grek" xOffset="25"/>
+    <component base="iotaadscript" xOffset="603"/>
+    <component base="grave-gr" xOffset="429" yOffset="148"/>
+  </outline>
+</glyph>

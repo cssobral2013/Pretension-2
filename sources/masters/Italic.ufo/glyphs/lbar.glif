@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lbar" format="2">
+  <advance width="728"/>
+  <unicode hex="019A"/>
+  <unicode hex="E052"/>
+  <outline>
+    <component base="l" xOffset="-1"/>
+    <component base="uniE103" xOffset="-285" yOffset="64"/>
+  </outline>
+</glyph>

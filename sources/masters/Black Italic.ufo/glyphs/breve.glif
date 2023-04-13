@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve" format="2">
+  <advance width="1420"/>
+  <unicode hex="02D8"/>
+  <outline>
+    <contour>
+      <point x="1128" y="2088" type="qcurve"/>
+      <point x="1476" y="2088" type="line"/>
+      <point x="1443" y="1893"/>
+      <point x="1109" y="1660"/>
+      <point x="858" y="1660" type="qcurve"/>
+      <point x="605" y="1660"/>
+      <point x="347" y="1893"/>
+      <point x="380" y="2088" type="qcurve"/>
+      <point x="724" y="2088" type="line"/>
+      <point x="714" y="2025"/>
+      <point x="789" y="1920"/>
+      <point x="900" y="1920" type="qcurve"/>
+      <point x="1008" y="1920"/>
+      <point x="1116" y="2022"/>
+    </contour>
+  </outline>
+</glyph>

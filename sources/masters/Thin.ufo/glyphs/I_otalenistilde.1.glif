@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotalenistilde.1" format="2">
+  <advance width="1342"/>
+  <outline>
+    <component base="I.1" xOffset="635"/>
+    <component base="uniE0FF" xOffset="127" yOffset="48"/>
+  </outline>
+</glyph>

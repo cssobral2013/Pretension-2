@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chekhakascyr" format="2">
+  <advance width="1696"/>
+  <unicode hex="04CC"/>
+  <outline>
+    <component base="checyr" xOffset="-1"/>
+    <component base="cyrillictic.cn" xOffset="299"/>
+  </outline>
+</glyph>

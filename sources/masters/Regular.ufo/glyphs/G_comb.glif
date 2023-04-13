@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcomb" format="2">
+  <unicode hex="1DDB"/>
+  <outline>
+    <contour>
+      <point x="-804" y="1640" type="qcurve"/>
+      <point x="-966" y="1640"/>
+      <point x="-1180" y="1825"/>
+      <point x="-1180" y="1972" type="qcurve"/>
+      <point x="-1180" y="2144" type="line"/>
+      <point x="-1180" y="2291"/>
+      <point x="-967" y="2476"/>
+      <point x="-808" y="2476" type="qcurve"/>
+      <point x="-646" y="2476"/>
+      <point x="-477" y="2328"/>
+      <point x="-468" y="2220" type="qcurve"/>
+      <point x="-632" y="2220" type="line"/>
+      <point x="-647" y="2277"/>
+      <point x="-721" y="2328"/>
+      <point x="-808" y="2328" type="qcurve"/>
+      <point x="-907" y="2328"/>
+      <point x="-1000" y="2230"/>
+      <point x="-1000" y="2104" type="qcurve"/>
+      <point x="-1000" y="1996" type="line"/>
+      <point x="-1000" y="1894"/>
+      <point x="-918" y="1784"/>
+      <point x="-804" y="1784" type="qcurve"/>
+      <point x="-732" y="1784"/>
+      <point x="-642" y="1814"/>
+      <point x="-624" y="1832" type="qcurve"/>
+      <point x="-624" y="1944" type="line"/>
+      <point x="-796" y="1944" type="line"/>
+      <point x="-796" y="2092" type="line"/>
+      <point x="-444" y="2092" type="line"/>
+      <point x="-444" y="1760" type="line"/>
+      <point x="-468" y="1724"/>
+      <point x="-663" y="1640"/>
+    </contour>
+  </outline>
+</glyph>

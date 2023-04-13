@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Qsquare" format="2">
+  <advance width="3912"/>
+  <unicode hex="1F140"/>
+  <outline>
+    <component base="Q" xOffset="926"/>
+    <component base="enclosingsquarecomb" xOffset="1152"/>
+  </outline>
+</glyph>

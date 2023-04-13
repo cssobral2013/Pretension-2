@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lhookretroflex" format="2">
+  <advance width="1024"/>
+  <unicode hex="026D"/>
+  <outline>
+    <contour>
+      <point x="692" y="0" type="line"/>
+      <point x="692" y="-48" type="line"/>
+      <point x="692" y="-117"/>
+      <point x="829" y="-160"/>
+      <point x="900" y="-160" type="qcurve"/>
+      <point x="931" y="-160"/>
+      <point x="992" y="-155"/>
+      <point x="1024" y="-152" type="qcurve"/>
+      <point x="1024" y="-560" type="line"/>
+      <point x="977" y="-563"/>
+      <point x="852" y="-576"/>
+      <point x="752" y="-576" type="qcurve"/>
+      <point x="625" y="-576"/>
+      <point x="403" y="-537"/>
+      <point x="235" y="-426"/>
+      <point x="140" y="-217"/>
+      <point x="140" y="-48" type="qcurve"/>
+      <point x="140" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="692" y="2048" type="line"/>
+      <point x="692" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="140" y="2048" type="line"/>
+    </contour>
+  </outline>
+</glyph>

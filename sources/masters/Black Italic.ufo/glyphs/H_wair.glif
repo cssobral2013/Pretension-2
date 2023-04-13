@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hwair" format="2">
+  <advance width="3180"/>
+  <unicode hex="01F6"/>
+  <outline>
+    <contour>
+      <point x="2100" y="-28" type="qcurve"/>
+      <point x="1850" y="-28"/>
+      <point x="1518" y="152"/>
+      <point x="1378" y="486"/>
+      <point x="1416" y="716" type="qcurve"/>
+      <point x="1428" y="800" type="line"/>
+      <point x="692" y="800" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="4" y="0" type="line"/>
+      <point x="344" y="2048" type="line"/>
+      <point x="900" y="2048" type="line"/>
+      <point x="768" y="1248" type="line"/>
+      <point x="1504" y="1248" type="line"/>
+      <point x="1636" y="2048" type="line"/>
+      <point x="2192" y="2048" type="line"/>
+      <point x="1972" y="716" type="line"/>
+      <point x="1948" y="581"/>
+      <point x="2059" y="428"/>
+      <point x="2176" y="428" type="qcurve"/>
+      <point x="2293" y="428"/>
+      <point x="2452" y="581"/>
+      <point x="2476" y="716" type="qcurve"/>
+      <point x="2600" y="1468" type="line"/>
+      <point x="3156" y="1468" type="line"/>
+      <point x="3032" y="716" type="line"/>
+      <point x="2994" y="486"/>
+      <point x="2744" y="152"/>
+      <point x="2352" y="-28"/>
+    </contour>
+  </outline>
+</glyph>

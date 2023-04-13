@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jsupmod" format="2">
+  <advance width="420"/>
+  <unicode hex="02B2"/>
+  <outline>
+    <contour>
+      <point x="392" y="2048" type="line"/>
+      <point x="456" y="2048" type="line"/>
+      <point x="264" y="888" type="line"/>
+      <point x="246" y="774"/>
+      <point x="78" y="640"/>
+      <point x="-24" y="640" type="qcurve"/>
+      <point x="-30" y="640"/>
+      <point x="-42" y="641"/>
+      <point x="-48" y="644" type="qcurve"/>
+      <point x="-36" y="700" type="line"/>
+      <point x="-30" y="700"/>
+      <point x="-22" y="700"/>
+      <point x="-16" y="700" type="qcurve"/>
+      <point x="62" y="700"/>
+      <point x="185" y="801"/>
+      <point x="200" y="888" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="460" y="2236" type="qcurve"/>
+      <point x="436" y="2236"/>
+      <point x="405" y="2268"/>
+      <point x="408" y="2292" type="qcurve"/>
+      <point x="411" y="2313"/>
+      <point x="446" y="2340"/>
+      <point x="464" y="2340" type="qcurve"/>
+      <point x="491" y="2340"/>
+      <point x="519" y="2308"/>
+      <point x="516" y="2284" type="qcurve"/>
+      <point x="513" y="2257"/>
+      <point x="475" y="2236"/>
+    </contour>
+  </outline>
+</glyph>

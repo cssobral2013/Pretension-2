@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seagullbelowcomb" format="2">
+  <advance width="36"/>
+  <unicode hex="033C"/>
+  <outline>
+    <contour>
+      <point x="-936" y="-480" type="qcurve"/>
+      <point x="-1156" y="-480" type="line"/>
+      <point x="-1129" y="-318"/>
+      <point x="-871" y="-130"/>
+      <point x="-702" y="-130" type="qcurve"/>
+      <point x="-534" y="-130"/>
+      <point x="-337" y="-318"/>
+      <point x="-364" y="-480" type="qcurve"/>
+      <point x="-584" y="-480" type="line"/>
+      <point x="-570" y="-397"/>
+      <point x="-649" y="-310"/>
+      <point x="-732" y="-310" type="qcurve"/>
+      <point x="-908" y="-310"/>
+    </contour>
+    <contour>
+      <point x="-1508" y="-480" type="qcurve"/>
+      <point x="-1728" y="-480" type="line"/>
+      <point x="-1701" y="-318"/>
+      <point x="-1443" y="-130"/>
+      <point x="-1274" y="-130" type="qcurve"/>
+      <point x="-1106" y="-130"/>
+      <point x="-909" y="-318"/>
+      <point x="-936" y="-480" type="qcurve"/>
+      <point x="-1156" y="-480" type="line"/>
+      <point x="-1142" y="-397"/>
+      <point x="-1221" y="-310"/>
+      <point x="-1304" y="-310" type="qcurve"/>
+      <point x="-1480" y="-310"/>
+    </contour>
+  </outline>
+</glyph>

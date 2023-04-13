@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zigzagbelowcomb" format="2">
+  <unicode hex="1DCF"/>
+  <outline>
+    <contour>
+      <point x="-804" y="-156" type="line"/>
+      <point x="-916" y="-540" type="line"/>
+      <point x="-1116" y="-540" type="line"/>
+      <point x="-1004" y="-156" type="line"/>
+    </contour>
+    <contour>
+      <point x="-508" y="-380" type="line"/>
+      <point x="-620" y="-764" type="line"/>
+      <point x="-824" y="-764" type="line"/>
+      <point x="-712" y="-380" type="line"/>
+    </contour>
+    <contour>
+      <point x="-972" y="-540" type="line"/>
+      <point x="-972" y="-380" type="line"/>
+      <point x="-624" y="-380" type="line"/>
+      <point x="-624" y="-540" type="line"/>
+    </contour>
+  </outline>
+</glyph>

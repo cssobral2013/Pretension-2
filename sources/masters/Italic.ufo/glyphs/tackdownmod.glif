@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tackdownmod" format="2">
+  <advance width="1008"/>
+  <unicode hex="02D5"/>
+  <outline>
+    <contour>
+      <point x="188" y="548" type="line"/>
+      <point x="220" y="740" type="line"/>
+      <point x="780" y="740" type="line"/>
+      <point x="748" y="548" type="line"/>
+    </contour>
+    <contour>
+      <point x="312" y="236" type="line"/>
+      <point x="396" y="740" type="line"/>
+      <point x="604" y="740" type="line"/>
+      <point x="520" y="236" type="line"/>
+    </contour>
+  </outline>
+</glyph>

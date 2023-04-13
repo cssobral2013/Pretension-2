@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="xabovecomb" format="2">
+  <advance width="64"/>
+  <unicode hex="033D"/>
+  <outline>
+    <contour>
+      <point x="-988" y="1752" type="line"/>
+      <point x="-1120" y="1904" type="line"/>
+      <point x="-548" y="2372" type="line"/>
+      <point x="-416" y="2220" type="line"/>
+    </contour>
+    <contour>
+      <point x="-652" y="1748" type="line"/>
+      <point x="-1068" y="2224" type="line"/>
+      <point x="-880" y="2376" type="line"/>
+      <point x="-468" y="1900" type="line"/>
+    </contour>
+  </outline>
+</glyph>

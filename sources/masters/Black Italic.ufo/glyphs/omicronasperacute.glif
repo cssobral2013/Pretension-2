@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omicronasperacute" format="2">
+  <advance width="1757"/>
+  <unicode hex="1F45"/>
+  <outline>
+    <component base="o" xOffset="21"/>
+    <component base="asperacute" xOffset="297" yOffset="172"/>
+  </outline>
+</glyph>

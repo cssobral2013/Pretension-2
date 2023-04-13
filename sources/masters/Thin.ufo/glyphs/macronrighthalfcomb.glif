@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronrighthalfcomb" format="2">
+  <unicode hex="FE25"/>
+  <outline>
+    <contour>
+      <point x="-704" y="1944" type="line"/>
+      <point x="-704" y="1880" type="line"/>
+      <point x="-1480" y="1880" type="line"/>
+      <point x="-1480" y="1944" type="line"/>
+    </contour>
+  </outline>
+</glyph>

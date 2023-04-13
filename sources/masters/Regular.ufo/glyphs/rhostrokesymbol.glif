@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rhostrokesymbol" format="2">
+  <advance width="1608"/>
+  <unicode hex="03FC"/>
+  <outline>
+    <component base="rho" xOffset="-1"/>
+    <component base="uniE103" xOffset="-317" yOffset="-1248"/>
+  </outline>
+</glyph>

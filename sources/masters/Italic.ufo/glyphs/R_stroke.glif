@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rstroke" format="2">
+  <advance width="1788"/>
+  <unicode hex="024C"/>
+  <outline>
+    <contour>
+      <point x="420" y="800" type="line"/>
+      <point x="40" y="800" type="line"/>
+      <point x="76" y="1024" type="line"/>
+      <point x="456" y="1024" type="line"/>
+    </contour>
+    <contour>
+      <point x="144" y="0" type="line"/>
+      <point x="484" y="2048" type="line"/>
+      <point x="1176" y="2048" type="line"/>
+      <point x="1416" y="2048"/>
+      <point x="1697" y="1886"/>
+      <point x="1798" y="1602"/>
+      <point x="1768" y="1420" type="qcurve"/>
+      <point x="1738" y="1240"/>
+      <point x="1543" y="960"/>
+      <point x="1210" y="800"/>
+      <point x="972" y="800" type="qcurve"/>
+      <point x="412" y="800" type="line"/>
+      <point x="452" y="1024" type="line"/>
+      <point x="1004" y="1024" type="line"/>
+      <point x="1168" y="1024"/>
+      <point x="1384" y="1120"/>
+      <point x="1504" y="1298"/>
+      <point x="1524" y="1420" type="qcurve"/>
+      <point x="1554" y="1606"/>
+      <point x="1381" y="1828"/>
+      <point x="1132" y="1828" type="qcurve"/>
+      <point x="696" y="1828" type="line"/>
+      <point x="392" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1260" y="920" type="line"/>
+      <point x="1612" y="0" type="line"/>
+      <point x="1324" y="0" type="line"/>
+      <point x="980" y="920" type="line"/>
+    </contour>
+  </outline>
+</glyph>

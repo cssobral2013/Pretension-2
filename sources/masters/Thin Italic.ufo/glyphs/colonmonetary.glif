@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colonmonetary" format="2">
+  <advance width="2036"/>
+  <unicode hex="20A1"/>
+  <outline>
+    <contour>
+      <point x="1884" y="2304" type="line"/>
+      <point x="668" y="-256" type="line"/>
+      <point x="600" y="-256" type="line"/>
+      <point x="1816" y="2304" type="line"/>
+    </contour>
+    <contour>
+      <point x="1524" y="2304" type="line"/>
+      <point x="308" y="-256" type="line"/>
+      <point x="240" y="-256" type="line"/>
+      <point x="1456" y="2304" type="line"/>
+    </contour>
+    <contour>
+      <point x="1936" y="1408" type="qcurve"/>
+      <point x="1868" y="1408" type="line"/>
+      <point x="1867" y="1510"/>
+      <point x="1792" y="1722"/>
+      <point x="1641" y="1902"/>
+      <point x="1410" y="2012"/>
+      <point x="1252" y="2012" type="qcurve"/>
+      <point x="1043" y="2012"/>
+      <point x="649" y="1783"/>
+      <point x="360" y="1342"/>
+      <point x="308" y="1024" type="qcurve"/>
+      <point x="254" y="702"/>
+      <point x="398" y="262"/>
+      <point x="718" y="36"/>
+      <point x="928" y="36" type="qcurve"/>
+      <point x="1084" y="36"/>
+      <point x="1351" y="145"/>
+      <point x="1561" y="324"/>
+      <point x="1708" y="537"/>
+      <point x="1744" y="640" type="qcurve"/>
+      <point x="1812" y="640" type="line"/>
+      <point x="1775" y="532"/>
+      <point x="1621" y="299"/>
+      <point x="1394" y="97"/>
+      <point x="1097" y="-28"/>
+      <point x="916" y="-28" type="qcurve"/>
+      <point x="664" y="-28"/>
+      <point x="326" y="236"/>
+      <point x="191" y="710"/>
+      <point x="244" y="1024" type="qcurve"/>
+      <point x="295" y="1338"/>
+      <point x="587" y="1812"/>
+      <point x="1012" y="2076"/>
+      <point x="1264" y="2076" type="qcurve"/>
+      <point x="1445" y="2076"/>
+      <point x="1701" y="1952"/>
+      <point x="1861" y="1751"/>
+      <point x="1936" y="1518"/>
+    </contour>
+  </outline>
+</glyph>

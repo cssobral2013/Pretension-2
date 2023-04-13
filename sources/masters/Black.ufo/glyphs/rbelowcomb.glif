@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rbelowcomb" format="2">
+  <unicode hex="1DCA"/>
+  <outline>
+    <contour>
+      <point x="-844" y="-364" type="line"/>
+      <point x="-844" y="-756" type="line"/>
+      <point x="-1096" y="-756" type="line"/>
+      <point x="-1096" y="-176" type="line"/>
+      <point x="-868" y="-176" type="line"/>
+    </contour>
+    <contour>
+      <point x="-632" y="-176" type="qcurve"/>
+      <point x="-632" y="-428" type="line"/>
+      <point x="-647" y="-425"/>
+      <point x="-687" y="-416"/>
+      <point x="-720" y="-416" type="qcurve"/>
+      <point x="-789" y="-416"/>
+      <point x="-880" y="-467"/>
+      <point x="-880" y="-536" type="qcurve"/>
+      <point x="-952" y="-536" type="line"/>
+      <point x="-952" y="-377"/>
+      <point x="-802" y="-168"/>
+      <point x="-700" y="-168" type="qcurve"/>
+      <point x="-682" y="-168"/>
+      <point x="-647" y="-170"/>
+    </contour>
+  </outline>
+</glyph>

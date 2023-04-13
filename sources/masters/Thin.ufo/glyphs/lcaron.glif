@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="2">
+  <advance width="620"/>
+  <unicode hex="013E"/>
+  <unicode hex="E058"/>
+  <outline>
+    <component base="l" xOffset="-1"/>
+    <component base="commaaccentright.cn" xOffset="165"/>
+  </outline>
+</glyph>

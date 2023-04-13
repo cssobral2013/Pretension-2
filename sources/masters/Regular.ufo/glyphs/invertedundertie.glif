@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="invertedundertie" format="2">
+  <advance width="2288"/>
+  <unicode hex="2054"/>
+  <outline>
+    <contour>
+      <point x="1144" y="-160" type="qcurve"/>
+      <point x="1416" y="-160"/>
+      <point x="1823" y="-270"/>
+      <point x="2104" y="-450"/>
+      <point x="2188" y="-556" type="qcurve"/>
+      <point x="2060" y="-664" type="line"/>
+      <point x="1966" y="-604"/>
+      <point x="1707" y="-498"/>
+      <point x="1364" y="-432"/>
+      <point x="1144" y="-432" type="qcurve"/>
+      <point x="814" y="-432"/>
+      <point x="394" y="-564"/>
+      <point x="256" y="-660" type="qcurve"/>
+      <point x="104" y="-556" type="line"/>
+      <point x="208" y="-442"/>
+      <point x="484" y="-263"/>
+      <point x="872" y="-160"/>
+    </contour>
+  </outline>
+</glyph>

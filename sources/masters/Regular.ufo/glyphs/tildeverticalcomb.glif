@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildeverticalcomb" format="2">
+  <unicode hex="033E"/>
+  <outline>
+    <contour>
+      <point x="-952" y="1552" type="qcurve"/>
+      <point x="-952" y="1716" type="line"/>
+      <point x="-907" y="1716"/>
+      <point x="-856" y="1766"/>
+      <point x="-856" y="1796" type="qcurve"/>
+      <point x="-856" y="1832"/>
+      <point x="-904" y="1919"/>
+      <point x="-952" y="2018"/>
+      <point x="-952" y="2072" type="qcurve"/>
+      <point x="-952" y="2134"/>
+      <point x="-881" y="2222"/>
+      <point x="-752" y="2268"/>
+      <point x="-664" y="2268" type="qcurve"/>
+      <point x="-664" y="2104" type="line"/>
+      <point x="-697" y="2104"/>
+      <point x="-748" y="2073"/>
+      <point x="-748" y="2040" type="qcurve"/>
+      <point x="-748" y="2006"/>
+      <point x="-706" y="1917"/>
+      <point x="-664" y="1814"/>
+      <point x="-664" y="1759" type="qcurve"/>
+      <point x="-664" y="1664"/>
+      <point x="-814" y="1552"/>
+    </contour>
+  </outline>
+</glyph>

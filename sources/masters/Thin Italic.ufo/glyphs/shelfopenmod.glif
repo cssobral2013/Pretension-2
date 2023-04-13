@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shelfopenmod" format="2">
+  <advance width="1158"/>
+  <unicode hex="02FE"/>
+  <outline>
+    <contour>
+      <point x="834" y="-616" type="line"/>
+      <point x="824" y="-680" type="line"/>
+      <point x="-116" y="-680" type="line"/>
+      <point x="-106" y="-616" type="line"/>
+    </contour>
+    <contour>
+      <point x="4" y="-172" type="line"/>
+      <point x="-72" y="-680" type="line"/>
+      <point x="-136" y="-680" type="line"/>
+      <point x="-60" y="-172" type="line"/>
+    </contour>
+  </outline>
+</glyph>

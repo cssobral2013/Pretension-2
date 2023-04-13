@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilonlenisgrave" format="2">
+  <advance width="1667"/>
+  <unicode hex="1F52"/>
+  <outline>
+    <component base="upsilon-grek" xOffset="43"/>
+    <component base="lenisgrave" xOffset="363" yOffset="168"/>
+  </outline>
+</glyph>

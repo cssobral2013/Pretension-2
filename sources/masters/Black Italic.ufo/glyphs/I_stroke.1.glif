@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Istroke.1" format="2">
+  <advance width="820"/>
+  <outline>
+    <component base="I.1" xOffset="-1"/>
+    <component base="uniE103" xOffset="-313" yOffset="-24"/>
+  </outline>
+</glyph>

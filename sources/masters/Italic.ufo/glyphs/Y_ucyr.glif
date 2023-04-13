@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yucyr" format="2">
+  <advance width="2848"/>
+  <unicode hex="042E"/>
+  <outline>
+    <component base="I.1" xOffset="-1"/>
+    <component base="hyphenminus" xScale="0.700012" xOffset="175" yOffset="128"/>
+    <component base="O" xOffset="703"/>
+  </outline>
+</glyph>

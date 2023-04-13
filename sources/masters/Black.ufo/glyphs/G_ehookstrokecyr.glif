@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gehookstrokecyr" format="2">
+  <advance width="1648"/>
+  <unicode hex="04FA"/>
+  <outline>
+    <component base="Gamma-grek" xOffset="-1"/>
+    <component base="uniE103" xOffset="-309" yOffset="-24"/>
+    <component base="uniE114" xOffset="335"/>
+  </outline>
+</glyph>

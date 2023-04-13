@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcomb" format="2">
+  <unicode hex="1DDD"/>
+  <outline>
+    <contour>
+      <point x="-724" y="2736" type="line"/>
+      <point x="-472" y="2736" type="line"/>
+      <point x="-648" y="1652" type="line"/>
+      <point x="-900" y="1652" type="line"/>
+    </contour>
+  </outline>
+</glyph>

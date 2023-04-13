@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ghook.1" format="2">
+  <advance width="2176"/>
+  <outline>
+    <contour>
+      <point x="1900" y="1408" type="line"/>
+      <point x="1648" y="1408" type="line"/>
+      <point x="1660" y="1624" type="line"/>
+      <point x="1666" y="1723"/>
+      <point x="1722" y="1876"/>
+      <point x="1822" y="1982"/>
+      <point x="1968" y="2036"/>
+      <point x="2064" y="2036" type="qcurve"/>
+      <point x="2100" y="2036"/>
+      <point x="2173" y="2033"/>
+      <point x="2200" y="2024" type="qcurve"/>
+      <point x="2200" y="1824" type="line"/>
+      <point x="2185" y="1827"/>
+      <point x="2145" y="1832"/>
+      <point x="2124" y="1832" type="qcurve"/>
+      <point x="2060" y="1832"/>
+      <point x="1959" y="1795"/>
+      <point x="1900" y="1704"/>
+      <point x="1900" y="1624" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="1648" y="1408" type="line"/>
+      <point x="1615" y="1509"/>
+      <point x="1508" y="1670"/>
+      <point x="1361" y="1784"/>
+      <point x="1175" y="1844"/>
+      <point x="1064" y="1844" type="qcurve"/>
+      <point x="882" y="1844"/>
+      <point x="584" y="1656"/>
+      <point x="408" y="1290"/>
+      <point x="408" y="1024" type="qcurve"/>
+      <point x="408" y="758"/>
+      <point x="586" y="392"/>
+      <point x="890" y="204"/>
+      <point x="1080" y="204" type="qcurve"/>
+      <point x="1256" y="204"/>
+      <point x="1525" y="355"/>
+      <point x="1676" y="632"/>
+      <point x="1676" y="820" type="qcurve"/>
+      <point x="1752" y="804" type="line"/>
+      <point x="1136" y="804" type="line"/>
+      <point x="1136" y="1024" type="line"/>
+      <point x="1916" y="1024" type="line"/>
+      <point x="1916" y="804" type="line"/>
+      <point x="1916" y="551"/>
+      <point x="1701" y="177"/>
+      <point x="1324" y="-28"/>
+      <point x="1080" y="-28" type="qcurve"/>
+      <point x="808" y="-28"/>
+      <point x="397" y="228"/>
+      <point x="168" y="700"/>
+      <point x="168" y="1024" type="qcurve"/>
+      <point x="168" y="1348"/>
+      <point x="397" y="1820"/>
+      <point x="802" y="2076"/>
+      <point x="1064" y="2076" type="qcurve"/>
+      <point x="1226" y="2076"/>
+      <point x="1507" y="1979"/>
+      <point x="1728" y="1802"/>
+      <point x="1876" y="1557"/>
+      <point x="1904" y="1408" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

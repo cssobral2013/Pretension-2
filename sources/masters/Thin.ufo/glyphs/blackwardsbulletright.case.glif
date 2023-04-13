@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="blackwardsbulletright.case" format="2">
+  <advance width="1752"/>
+  <outline>
+    <component base="blackwardsbulletright" xOffset="-1" yOffset="208"/>
+  </outline>
+</glyph>

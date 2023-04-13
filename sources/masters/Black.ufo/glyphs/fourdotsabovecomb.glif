@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fourdotsabovecomb" format="2">
+  <advance width="-1"/>
+  <unicode hex="20DC"/>
+  <outline>
+    <component base="period" xOffset="-2835" yOffset="1788"/>
+    <component base="period" xOffset="-2131" yOffset="1788"/>
+    <component base="period" xOffset="-1427" yOffset="1788"/>
+    <component base="period" xOffset="-723" yOffset="1788"/>
+  </outline>
+</glyph>

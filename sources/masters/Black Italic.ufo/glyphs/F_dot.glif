@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Fdot" format="2">
+  <advance width="1644"/>
+  <unicode hex="1E1E"/>
+  <outline>
+    <component base="F" xOffset="-1"/>
+    <component base="dotaccent" xOffset="481" yOffset="512"/>
+  </outline>
+</glyph>

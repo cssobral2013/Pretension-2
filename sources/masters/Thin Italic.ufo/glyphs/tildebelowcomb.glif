@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildebelowcomb" format="2">
+  <unicode hex="0330"/>
+  <outline>
+    <contour>
+      <point x="-1496" y="-380" type="qcurve"/>
+      <point x="-1560" y="-372" type="line"/>
+      <point x="-1530" y="-279"/>
+      <point x="-1362" y="-160"/>
+      <point x="-1260" y="-160" type="qcurve"/>
+      <point x="-1191" y="-160"/>
+      <point x="-1100" y="-210"/>
+      <point x="-1029" y="-274"/>
+      <point x="-951" y="-324"/>
+      <point x="-896" y="-324" type="qcurve"/>
+      <point x="-827" y="-324"/>
+      <point x="-695" y="-237"/>
+      <point x="-668" y="-168" type="qcurve"/>
+      <point x="-608" y="-184" type="line"/>
+      <point x="-644" y="-274"/>
+      <point x="-814" y="-388"/>
+      <point x="-904" y="-388" type="qcurve"/>
+      <point x="-968" y="-388"/>
+      <point x="-1053" y="-338"/>
+      <point x="-1123" y="-274"/>
+      <point x="-1207" y="-224"/>
+      <point x="-1272" y="-224" type="qcurve"/>
+      <point x="-1350" y="-224"/>
+      <point x="-1475" y="-311"/>
+    </contour>
+  </outline>
+</glyph>

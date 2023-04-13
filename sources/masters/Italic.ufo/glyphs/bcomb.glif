@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bcomb" format="2">
+  <unicode hex="1DE8"/>
+  <outline>
+    <contour>
+      <point x="-1012" y="1652" type="line"/>
+      <point x="-832" y="2740" type="line"/>
+      <point x="-652" y="2740" type="line"/>
+      <point x="-812" y="1792" type="line"/>
+      <point x="-856" y="1652" type="line"/>
+    </contour>
+    <contour>
+      <point x="-628" y="1632" type="qcurve"/>
+      <point x="-724" y="1632"/>
+      <point x="-842" y="1707"/>
+      <point x="-890" y="1860"/>
+      <point x="-880" y="1976" type="qcurve"/>
+      <point x="-864" y="2076" type="line"/>
+      <point x="-834" y="2192"/>
+      <point x="-737" y="2345"/>
+      <point x="-596" y="2420"/>
+      <point x="-500" y="2420" type="qcurve"/>
+      <point x="-356" y="2420"/>
+      <point x="-222" y="2206"/>
+      <point x="-252" y="2032" type="qcurve"/>
+      <point x="-252" y="2016" type="line"/>
+      <point x="-279" y="1851"/>
+      <point x="-484" y="1632"/>
+    </contour>
+    <contour>
+      <point x="-640" y="1780" type="qcurve"/>
+      <point x="-556" y="1780"/>
+      <point x="-450" y="1908"/>
+      <point x="-432" y="2016" type="qcurve"/>
+      <point x="-432" y="2032" type="line"/>
+      <point x="-414" y="2143"/>
+      <point x="-476" y="2272"/>
+      <point x="-560" y="2272" type="qcurve"/>
+      <point x="-632" y="2272"/>
+      <point x="-747" y="2185"/>
+      <point x="-780" y="2104" type="qcurve"/>
+      <point x="-804" y="1944" type="line"/>
+      <point x="-795" y="1869"/>
+      <point x="-715" y="1780"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign_enclosingsquare" format="2">
+  <advance width="3912"/>
+  <unicode hex="E150"/>
+  <outline>
+    <component base="numbersign" xOffset="1067"/>
+    <component base="enclosingsquarecomb" xOffset="1051"/>
+  </outline>
+</glyph>

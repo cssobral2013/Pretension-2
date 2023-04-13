@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acircumflexhoi.salt" format="2">
+  <advance width="1748"/>
+  <unicode hex="E039"/>
+  <outline>
+    <component base="acyr.salt" xOffset="-1"/>
+    <component base="uniE11F" xOffset="207" yOffset="-24"/>
+  </outline>
+</glyph>

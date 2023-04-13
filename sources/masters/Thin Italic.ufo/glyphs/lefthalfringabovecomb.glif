@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lefthalfringabovecomb" format="2">
+  <unicode hex="0351"/>
+  <outline>
+    <contour>
+      <point x="-302" y="1568" type="line"/>
+      <point x="-390" y="1568"/>
+      <point x="-504" y="1673"/>
+      <point x="-504" y="1754" type="qcurve"/>
+      <point x="-504" y="1850"/>
+      <point x="-352" y="1983"/>
+      <point x="-234" y="1984" type="qcurve"/>
+      <point x="-244" y="1920" type="line"/>
+      <point x="-323" y="1919"/>
+      <point x="-438" y="1826"/>
+      <point x="-438" y="1760" type="qcurve"/>
+      <point x="-438" y="1708"/>
+      <point x="-359" y="1632"/>
+      <point x="-292" y="1632" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

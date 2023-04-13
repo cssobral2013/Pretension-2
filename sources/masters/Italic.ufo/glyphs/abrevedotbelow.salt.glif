@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abrevedotbelow.salt" format="2">
+  <advance width="1752"/>
+  <unicode hex="E030"/>
+  <outline>
+    <component base="acyr.salt" xOffset="131"/>
+    <component base="breve" xOffset="357"/>
+    <component base="dotbelowcomb" xOffset="1807"/>
+  </outline>
+</glyph>

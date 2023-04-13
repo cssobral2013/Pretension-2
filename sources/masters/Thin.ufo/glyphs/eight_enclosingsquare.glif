@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight_enclosingsquare" format="2">
+  <advance width="3912"/>
+  <unicode hex="E146"/>
+  <outline>
+    <component base="eight" xOffset="1107"/>
+    <component base="enclosingsquarecomb" xOffset="1131"/>
+  </outline>
+</glyph>

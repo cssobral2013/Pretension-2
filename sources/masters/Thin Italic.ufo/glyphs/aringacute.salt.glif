@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aringacute.salt" format="2">
+  <advance width="1693"/>
+  <unicode hex="E048"/>
+  <outline>
+    <component base="acyr.salt" xOffset="28"/>
+    <component base="uniE115" xOffset="476" yOffset="208"/>
+  </outline>
+</glyph>

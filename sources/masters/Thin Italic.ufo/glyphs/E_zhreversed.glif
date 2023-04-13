@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ezhreversed" format="2">
+  <advance width="1952"/>
+  <unicode hex="01B8"/>
+  <outline>
+    <contour>
+      <point x="1670" y="100" type="line"/>
+      <point x="1636" y="-108"/>
+      <point x="1373" y="-427"/>
+      <point x="989" y="-608"/>
+      <point x="772" y="-608" type="qcurve"/>
+      <point x="585" y="-608"/>
+      <point x="316" y="-474"/>
+      <point x="152" y="-246"/>
+      <point x="96" y="43"/>
+      <point x="122" y="198" type="qcurve"/>
+      <point x="162" y="437"/>
+      <point x="458" y="816"/>
+      <point x="914" y="1044"/>
+      <point x="1192" y="1056" type="qcurve"/>
+      <point x="1194" y="1064" type="line"/>
+      <point x="488" y="1996" type="line"/>
+      <point x="496" y="2048" type="line"/>
+      <point x="1884" y="2048" type="line"/>
+      <point x="1874" y="1984" type="line"/>
+      <point x="550" y="1984" type="line"/>
+      <point x="556" y="2022" type="line"/>
+      <point x="1288" y="1056" type="line"/>
+      <point x="1278" y="992" type="line"/>
+      <point x="1186" y="992" type="line"/>
+      <point x="928" y="981"/>
+      <point x="502" y="773"/>
+      <point x="223" y="423"/>
+      <point x="186" y="198" type="qcurve"/>
+      <point x="150" y="-17"/>
+      <point x="282" y="-353"/>
+      <point x="575" y="-544"/>
+      <point x="782" y="-544" type="qcurve"/>
+      <point x="985" y="-544"/>
+      <point x="1337" y="-378"/>
+      <point x="1575" y="-87"/>
+      <point x="1606" y="100" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

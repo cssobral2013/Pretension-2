@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb" format="2">
+  <advance width="52"/>
+  <unicode hex="0308"/>
+  <outline>
+    <contour>
+      <point x="-1112" y="1716" type="qcurve"/>
+      <point x="-1226" y="1716"/>
+      <point x="-1362" y="1872"/>
+      <point x="-1344" y="1980" type="qcurve"/>
+      <point x="-1329" y="2064"/>
+      <point x="-1186" y="2180"/>
+      <point x="-1096" y="2180" type="qcurve"/>
+      <point x="-985" y="2180"/>
+      <point x="-854" y="2024"/>
+      <point x="-872" y="1916" type="qcurve"/>
+      <point x="-884" y="1832"/>
+      <point x="-1025" y="1716"/>
+    </contour>
+    <contour>
+      <point x="-476" y="1716" type="qcurve"/>
+      <point x="-590" y="1716"/>
+      <point x="-726" y="1872"/>
+      <point x="-708" y="1980" type="qcurve"/>
+      <point x="-693" y="2064"/>
+      <point x="-550" y="2180"/>
+      <point x="-460" y="2180" type="qcurve"/>
+      <point x="-349" y="2180"/>
+      <point x="-218" y="2024"/>
+      <point x="-236" y="1916" type="qcurve"/>
+      <point x="-248" y="1832"/>
+      <point x="-389" y="1716"/>
+    </contour>
+  </outline>
+</glyph>

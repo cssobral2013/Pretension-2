@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gamma-grek" format="2">
+  <advance width="1504"/>
+  <unicode hex="03B3"/>
+  <outline>
+    <contour>
+      <point x="96" y="1536" type="line"/>
+      <point x="352" y="1536" type="line"/>
+      <point x="756" y="368" type="line"/>
+      <point x="1152" y="1536" type="line"/>
+      <point x="1408" y="1536" type="line"/>
+      <point x="872" y="32" type="line"/>
+      <point x="872" y="-576" type="line"/>
+      <point x="636" y="-576" type="line"/>
+      <point x="636" y="32" type="line"/>
+    </contour>
+  </outline>
+</glyph>

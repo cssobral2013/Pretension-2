@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fermatacomb" format="2">
+  <unicode hex="0352"/>
+  <outline>
+    <contour>
+      <point x="-200" y="1948" type="qcurve"/>
+      <point x="-420" y="1948" type="line"/>
+      <point x="-408" y="2029"/>
+      <point x="-478" y="2148"/>
+      <point x="-580" y="2148" type="qcurve"/>
+      <point x="-685" y="2148"/>
+      <point x="-796" y="2029"/>
+      <point x="-808" y="1948" type="qcurve"/>
+      <point x="-1028" y="1948" type="line"/>
+      <point x="-1010" y="2056"/>
+      <point x="-882" y="2224"/>
+      <point x="-680" y="2320"/>
+      <point x="-552" y="2320" type="qcurve"/>
+      <point x="-360" y="2320"/>
+      <point x="-173" y="2110"/>
+    </contour>
+    <contour>
+      <point x="-804" y="1760" type="qcurve"/>
+      <point x="-792" y="1823"/>
+      <point x="-699" y="1912"/>
+      <point x="-624" y="1912" type="qcurve"/>
+      <point x="-546" y="1912"/>
+      <point x="-476" y="1823"/>
+      <point x="-488" y="1760" type="qcurve"/>
+      <point x="-497" y="1700"/>
+      <point x="-591" y="1608"/>
+      <point x="-672" y="1608" type="qcurve"/>
+      <point x="-747" y="1608"/>
+      <point x="-813" y="1697"/>
+    </contour>
+  </outline>
+</glyph>

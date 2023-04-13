@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="percussivebidental" format="2">
+  <advance width="1635"/>
+  <unicode hex="02AD"/>
+  <outline>
+    <contour>
+      <point x="1316" y="800" type="line"/>
+      <point x="1316" y="736" type="line"/>
+      <point x="320" y="736" type="line"/>
+      <point x="320" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="352" y="800" type="line"/>
+      <point x="352" y="0" type="line"/>
+      <point x="288" y="0" type="line"/>
+      <point x="288" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="1360" y="800" type="line"/>
+      <point x="1360" y="0" type="line"/>
+      <point x="1296" y="0" type="line"/>
+      <point x="1296" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="1316" y="2000" type="line"/>
+      <point x="1316" y="1936" type="line"/>
+      <point x="320" y="1936" type="line"/>
+      <point x="320" y="2000" type="line"/>
+    </contour>
+    <contour>
+      <point x="352" y="2000" type="line"/>
+      <point x="352" y="1208" type="line"/>
+      <point x="288" y="1208" type="line"/>
+      <point x="288" y="2000" type="line"/>
+    </contour>
+    <contour>
+      <point x="1360" y="2000" type="line"/>
+      <point x="1360" y="1208" type="line"/>
+      <point x="1296" y="1208" type="line"/>
+      <point x="1296" y="2000" type="line"/>
+    </contour>
+  </outline>
+</glyph>

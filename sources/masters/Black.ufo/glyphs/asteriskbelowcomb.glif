@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asteriskbelowcomb" format="2">
+  <unicode hex="0359"/>
+  <outline>
+    <contour>
+      <point x="-1204" y="-676" type="line"/>
+      <point x="-1040" y="-476" type="line"/>
+      <point x="-1276" y="-412" type="line"/>
+      <point x="-1228" y="-264" type="line"/>
+      <point x="-996" y="-364" type="line"/>
+      <point x="-1020" y="-108" type="line"/>
+      <point x="-860" y="-108" type="line"/>
+      <point x="-880" y="-372" type="line"/>
+      <point x="-660" y="-272" type="line"/>
+      <point x="-612" y="-420" type="line"/>
+      <point x="-848" y="-484" type="line"/>
+      <point x="-692" y="-680" type="line"/>
+      <point x="-816" y="-768" type="line"/>
+      <point x="-948" y="-552" type="line"/>
+      <point x="-1080" y="-760" type="line"/>
+    </contour>
+  </outline>
+</glyph>

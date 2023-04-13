@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twodotpunctuation" format="2">
+  <advance width="643"/>
+  <unicode hex="205A"/>
+  <outline>
+    <component base="dotbelowcomb" xOffset="1141" yOffset="464"/>
+    <component base="dotbelowcomb" xOffset="1141" yOffset="2008"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegaaspergrave" format="2">
+  <advance width="2284"/>
+  <unicode hex="1F63"/>
+  <outline>
+    <component base="omega" xOffset="-1"/>
+    <component base="aspergrave" xOffset="455" yOffset="176"/>
+  </outline>
+</glyph>

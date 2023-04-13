@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etatildeiotasub" format="2">
+  <advance width="1648"/>
+  <unicode hex="1FC7"/>
+  <outline>
+    <component base="eta" xOffset="15"/>
+    <component base="iotaadscript" xOffset="39"/>
+    <component base="tilde-gr" xOffset="215"/>
+  </outline>
+</glyph>

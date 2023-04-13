@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dbllowlinecomb" format="2">
+  <unicode hex="0333"/>
+  <outline>
+    <contour>
+      <point x="-260" y="-174" type="line"/>
+      <point x="-270" y="-238" type="line"/>
+      <point x="-1486" y="-238" type="line"/>
+      <point x="-1476" y="-174" type="line"/>
+    </contour>
+    <contour>
+      <point x="-314" y="-502" type="line"/>
+      <point x="-324" y="-566" type="line"/>
+      <point x="-1540" y="-566" type="line"/>
+      <point x="-1530" y="-502" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lenisacute" format="2">
+  <advance width="928"/>
+  <unicode hex="1FCE"/>
+  <outline>
+    <contour>
+      <point x="552" y="1592" type="line"/>
+      <point x="556" y="1610" type="line"/>
+      <point x="894" y="2056" type="line"/>
+      <point x="962" y="2056" type="line"/>
+      <point x="958" y="2038" type="line"/>
+      <point x="600" y="1592" type="line"/>
+    </contour>
+    <contour>
+      <point x="606" y="2056" type="line"/>
+      <point x="596" y="2004" type="line"/>
+      <point x="577" y="1907"/>
+      <point x="524" y="1766"/>
+      <point x="432" y="1646"/>
+      <point x="354" y="1578" type="qcurve"/>
+      <point x="320" y="1610" type="line"/>
+      <point x="421" y="1709"/>
+      <point x="509" y="1881"/>
+      <point x="534" y="2012" type="qcurve"/>
+      <point x="542" y="2056" type="line"/>
+    </contour>
+  </outline>
+</glyph>

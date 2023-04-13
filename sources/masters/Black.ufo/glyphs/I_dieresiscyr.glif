@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresiscyr" format="2">
+  <advance width="2036"/>
+  <unicode hex="04E4"/>
+  <outline>
+    <component base="Icyr" xOffset="-1"/>
+    <component base="casedieresis.cn" xOffset="319" yOffset="44"/>
+  </outline>
+</glyph>

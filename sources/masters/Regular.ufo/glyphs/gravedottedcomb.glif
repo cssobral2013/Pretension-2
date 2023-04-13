@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravedottedcomb" format="2">
+  <unicode hex="1DC0"/>
+  <outline>
+    <contour>
+      <point x="-884" y="2112" type="line"/>
+      <point x="-616" y="1704" type="line"/>
+      <point x="-852" y="1704" type="line"/>
+      <point x="-1216" y="2112" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1404" y="1772" type="qcurve"/>
+      <point x="-1404" y="1838"/>
+      <point x="-1322" y="1924"/>
+      <point x="-1244" y="1924" type="qcurve"/>
+      <point x="-1166" y="1924"/>
+      <point x="-1088" y="1835"/>
+      <point x="-1088" y="1772" type="qcurve"/>
+      <point x="-1088" y="1709"/>
+      <point x="-1169" y="1624"/>
+      <point x="-1244" y="1624" type="qcurve"/>
+      <point x="-1322" y="1624"/>
+      <point x="-1404" y="1709"/>
+    </contour>
+    <contour>
+      <point x="-616" y="1908" type="qcurve"/>
+      <point x="-616" y="1974"/>
+      <point x="-535" y="2060"/>
+      <point x="-460" y="2060" type="qcurve"/>
+      <point x="-379" y="2060"/>
+      <point x="-300" y="1971"/>
+      <point x="-300" y="1908" type="qcurve"/>
+      <point x="-300" y="1845"/>
+      <point x="-382" y="1760"/>
+      <point x="-460" y="1760" type="qcurve"/>
+      <point x="-535" y="1760"/>
+      <point x="-616" y="1845"/>
+    </contour>
+  </outline>
+</glyph>

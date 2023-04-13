@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotatilde" format="2">
+  <advance width="1003"/>
+  <unicode hex="1FD6"/>
+  <outline>
+    <component base="iota" xOffset="-7"/>
+    <component base="tilde-gr" xOffset="-259"/>
+  </outline>
+</glyph>

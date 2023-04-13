@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="casetilde.cn" format="2">
+  <advance width="1416"/>
+  <outline>
+    <contour>
+      <point x="682" y="2248" type="qcurve"/>
+      <point x="410" y="2248" type="line"/>
+      <point x="446" y="2464"/>
+      <point x="677" y="2676"/>
+      <point x="818" y="2676" type="qcurve"/>
+      <point x="896" y="2676"/>
+      <point x="998" y="2626"/>
+      <point x="1070" y="2562"/>
+      <point x="1130" y="2512"/>
+      <point x="1166" y="2512" type="qcurve"/>
+      <point x="1223" y="2512"/>
+      <point x="1286" y="2596"/>
+      <point x="1298" y="2668" type="qcurve"/>
+      <point x="1566" y="2668" type="line"/>
+      <point x="1527" y="2455"/>
+      <point x="1295" y="2239"/>
+      <point x="1154" y="2236" type="qcurve"/>
+      <point x="1076" y="2236"/>
+      <point x="977" y="2286"/>
+      <point x="909" y="2350"/>
+      <point x="849" y="2400"/>
+      <point x="810" y="2400" type="qcurve"/>
+      <point x="762" y="2400"/>
+      <point x="694" y="2323"/>
+    </contour>
+  </outline>
+</glyph>

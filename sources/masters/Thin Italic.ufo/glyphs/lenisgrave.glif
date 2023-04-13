@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lenisgrave" format="2">
+  <advance width="1108"/>
+  <unicode hex="1FCD"/>
+  <outline>
+    <contour>
+      <point x="996" y="1610" type="line"/>
+      <point x="992" y="1592" type="line"/>
+      <point x="944" y="1592" type="line"/>
+      <point x="734" y="2038" type="line"/>
+      <point x="738" y="2056" type="line"/>
+      <point x="800" y="2056" type="line"/>
+    </contour>
+    <contour>
+      <point x="674" y="2056" type="line"/>
+      <point x="664" y="2004" type="line"/>
+      <point x="646" y="1907"/>
+      <point x="593" y="1766"/>
+      <point x="501" y="1646"/>
+      <point x="422" y="1578" type="qcurve"/>
+      <point x="388" y="1610" type="line"/>
+      <point x="489" y="1709"/>
+      <point x="578" y="1881"/>
+      <point x="602" y="2012" type="qcurve"/>
+      <point x="610" y="2056" type="line"/>
+    </contour>
+  </outline>
+</glyph>

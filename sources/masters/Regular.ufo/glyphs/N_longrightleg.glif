@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nlongrightleg" format="2">
+  <advance width="1776"/>
+  <unicode hex="0220"/>
+  <outline>
+    <contour>
+      <point x="1616" y="-572" type="line"/>
+      <point x="1340" y="-572" type="line"/>
+      <point x="1340" y="1400" type="line"/>
+      <point x="1340" y="1556"/>
+      <point x="1229" y="1754"/>
+      <point x="1016" y="1848"/>
+      <point x="864" y="1848" type="qcurve"/>
+      <point x="717" y="1848"/>
+      <point x="464" y="1770"/>
+      <point x="368" y="1704" type="qcurve"/>
+      <point x="368" y="1924" type="line"/>
+      <point x="461" y="1987"/>
+      <point x="729" y="2076"/>
+      <point x="888" y="2076" type="qcurve"/>
+      <point x="1078" y="2076"/>
+      <point x="1410" y="1926"/>
+      <point x="1616" y="1626"/>
+      <point x="1616" y="1400" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="436" y="2048" type="line"/>
+      <point x="436" y="0" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="164" y="2048" type="line"/>
+    </contour>
+  </outline>
+</glyph>

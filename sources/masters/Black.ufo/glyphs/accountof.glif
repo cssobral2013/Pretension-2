@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="accountof" format="2">
+  <advance width="2916"/>
+  <unicode hex="2100"/>
+  <outline>
+    <component base="amod" xOffset="-1"/>
+    <component base="fraction" xOffset="1129"/>
+    <component base="c.subs" xOffset="1799" yOffset="352"/>
+  </outline>
+</glyph>

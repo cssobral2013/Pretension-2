@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bridgecomb" format="2">
+  <unicode hex="0346"/>
+  <outline>
+    <contour>
+      <point x="-980" y="1692" type="line"/>
+      <point x="-892" y="2220" type="line"/>
+      <point x="-828" y="2220" type="line"/>
+      <point x="-916" y="1692" type="line"/>
+    </contour>
+    <contour>
+      <point x="-866" y="2156" type="line"/>
+      <point x="-856" y="2220" type="line"/>
+      <point x="-288" y="2220" type="line"/>
+      <point x="-298" y="2156" type="line"/>
+    </contour>
+    <contour>
+      <point x="-396" y="1692" type="line"/>
+      <point x="-308" y="2220" type="line"/>
+      <point x="-244" y="2220" type="line"/>
+      <point x="-332" y="1692" type="line"/>
+    </contour>
+  </outline>
+</glyph>

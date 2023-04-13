@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fourdotpunctuation" format="2">
+  <advance width="1808"/>
+  <unicode hex="2058"/>
+  <outline>
+    <component base="dotbelowcomb" xOffset="1167" yOffset="1012"/>
+    <component base="dotbelowcomb" xOffset="1735" yOffset="460"/>
+    <component base="dotbelowcomb" xOffset="2307" yOffset="1012"/>
+    <component base="dotbelowcomb" xOffset="1735" yOffset="1560"/>
+  </outline>
+</glyph>

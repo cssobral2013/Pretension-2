@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonelowbeginmod" format="2">
+  <advance width="752"/>
+  <unicode hex="02FB"/>
+  <outline>
+    <contour>
+      <point x="-132" y="-656" type="line"/>
+      <point x="-44" y="-124" type="line"/>
+      <point x="160" y="-124" type="line"/>
+      <point x="72" y="-656" type="line"/>
+    </contour>
+    <contour>
+      <point x="-132" y="-656" type="line"/>
+      <point x="-100" y="-464" type="line"/>
+      <point x="448" y="-464" type="line"/>
+      <point x="416" y="-656" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macrongravecomb" format="2">
+  <unicode hex="1DC6"/>
+  <outline>
+    <contour>
+      <point x="-982" y="2048" type="line"/>
+      <point x="-982" y="2112" type="line"/>
+      <point x="-464" y="2112" type="line"/>
+      <point x="-308" y="1724" type="line"/>
+      <point x="-376" y="1724" type="line"/>
+      <point x="-496" y="2048" type="line"/>
+    </contour>
+  </outline>
+</glyph>

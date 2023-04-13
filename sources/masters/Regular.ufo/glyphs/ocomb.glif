@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocomb" format="2">
+  <unicode hex="0366"/>
+  <outline>
+    <contour>
+      <point x="-772" y="1632" type="qcurve"/>
+      <point x="-931" y="1632"/>
+      <point x="-1132" y="1842"/>
+      <point x="-1132" y="2016" type="qcurve"/>
+      <point x="-1132" y="2032" type="line"/>
+      <point x="-1132" y="2209"/>
+      <point x="-931" y="2420"/>
+      <point x="-772" y="2420" type="qcurve"/>
+      <point x="-610" y="2420"/>
+      <point x="-412" y="2206"/>
+      <point x="-412" y="2032" type="qcurve"/>
+      <point x="-412" y="2016" type="line"/>
+      <point x="-412" y="1845"/>
+      <point x="-610" y="1632"/>
+    </contour>
+    <contour>
+      <point x="-772" y="1780" type="qcurve"/>
+      <point x="-679" y="1780"/>
+      <point x="-592" y="1908"/>
+      <point x="-592" y="2016" type="qcurve"/>
+      <point x="-592" y="2032" type="line"/>
+      <point x="-592" y="2143"/>
+      <point x="-679" y="2272"/>
+      <point x="-772" y="2272" type="qcurve"/>
+      <point x="-865" y="2272"/>
+      <point x="-952" y="2143"/>
+      <point x="-952" y="2032" type="qcurve"/>
+      <point x="-952" y="2017" type="line"/>
+      <point x="-952" y="1908"/>
+      <point x="-865" y="1780"/>
+    </contour>
+  </outline>
+</glyph>

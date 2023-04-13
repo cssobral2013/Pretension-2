@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="digammapamphylian" format="2">
+  <advance width="1624"/>
+  <unicode hex="0377"/>
+  <outline>
+    <contour>
+      <point x="1238" y="1466" type="line"/>
+      <point x="264" y="0" type="line"/>
+      <point x="240" y="78" type="line"/>
+      <point x="1208" y="1536" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="0" type="line"/>
+      <point x="200" y="1536" type="line"/>
+      <point x="264" y="1536" type="line"/>
+      <point x="264" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1362" y="-28" type="qcurve"/>
+      <point x="1289" y="-28"/>
+      <point x="1208" y="68"/>
+      <point x="1208" y="168" type="qcurve"/>
+      <point x="1208" y="1536" type="line"/>
+      <point x="1272" y="1536" type="line"/>
+      <point x="1272" y="188" type="line"/>
+      <point x="1272" y="101"/>
+      <point x="1310" y="36"/>
+      <point x="1368" y="36" type="qcurve"/>
+      <point x="1402" y="36"/>
+      <point x="1418" y="44" type="qcurve"/>
+      <point x="1432" y="-12" type="line"/>
+      <point x="1414" y="-21"/>
+      <point x="1380" y="-28"/>
+    </contour>
+  </outline>
+</glyph>

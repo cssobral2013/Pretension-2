@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etalenisacute" format="2">
+  <advance width="1648"/>
+  <unicode hex="1F24"/>
+  <outline>
+    <component base="eta" xOffset="-1"/>
+    <component base="lenisacute" xOffset="323" yOffset="176"/>
+  </outline>
+</glyph>

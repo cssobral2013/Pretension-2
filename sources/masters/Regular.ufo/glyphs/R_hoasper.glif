@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rhoasper" format="2">
+  <advance width="2136"/>
+  <unicode hex="1FEC"/>
+  <outline>
+    <component base="P" xOffset="351"/>
+    <component base="uniE0FA" xOffset="-65"/>
+  </outline>
+</glyph>

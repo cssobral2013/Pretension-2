@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hcircle" format="2">
+  <advance width="3912"/>
+  <unicode hex="24BD"/>
+  <outline>
+    <component base="H" xOffset="925"/>
+    <component base="enclosingcirclecomb" xOffset="909"/>
+  </outline>
+</glyph>

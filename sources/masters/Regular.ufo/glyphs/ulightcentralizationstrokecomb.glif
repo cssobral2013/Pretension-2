@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ulightcentralizationstrokecomb" format="2">
+  <unicode hex="1DF0"/>
+  <outline>
+    <contour>
+      <point x="-1252" y="1472" type="line"/>
+      <point x="-1024" y="1840" type="line"/>
+      <point x="-884" y="1756" type="line"/>
+      <point x="-1112" y="1392" type="line"/>
+    </contour>
+    <contour>
+      <point x="-672" y="1828" type="line"/>
+      <point x="-672" y="2412" type="line"/>
+      <point x="-488" y="2412" type="line"/>
+      <point x="-488" y="1652" type="line"/>
+      <point x="-624" y="1652" type="line"/>
+    </contour>
+    <contour>
+      <point x="-644" y="2004" type="qcurve"/>
+      <point x="-580" y="2008" type="line"/>
+      <point x="-580" y="1846"/>
+      <point x="-716" y="1640"/>
+      <point x="-872" y="1640" type="qcurve"/>
+      <point x="-992" y="1640"/>
+      <point x="-1132" y="1790"/>
+      <point x="-1132" y="1962" type="qcurve"/>
+      <point x="-1132" y="2412" type="line"/>
+      <point x="-952" y="2412" type="line"/>
+      <point x="-952" y="1960" type="line"/>
+      <point x="-952" y="1879"/>
+      <point x="-895" y="1784"/>
+      <point x="-820" y="1784" type="qcurve"/>
+      <point x="-727" y="1784"/>
+      <point x="-644" y="1902"/>
+    </contour>
+  </outline>
+</glyph>

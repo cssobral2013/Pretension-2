@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="digamma" format="2">
+  <advance width="1520"/>
+  <unicode hex="03DD"/>
+  <outline>
+    <contour>
+      <point x="600" y="1536" type="line"/>
+      <point x="252" y="-572" type="line"/>
+      <point x="-20" y="-572" type="line"/>
+      <point x="328" y="1536" type="line"/>
+    </contour>
+    <contour>
+      <point x="1208" y="788" type="line"/>
+      <point x="1172" y="572" type="line"/>
+      <point x="380" y="572" type="line"/>
+      <point x="416" y="788" type="line"/>
+    </contour>
+    <contour>
+      <point x="1452" y="1536" type="line"/>
+      <point x="1416" y="1320" type="line"/>
+      <point x="504" y="1320" type="line"/>
+      <point x="540" y="1536" type="line"/>
+    </contour>
+    <contour>
+      <point x="1132" y="328" type="line"/>
+      <point x="912" y="328" type="line"/>
+      <point x="988" y="788" type="line"/>
+      <point x="1208" y="788" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nhookleft" format="2">
+  <advance width="2112"/>
+  <unicode hex="019D"/>
+  <outline>
+    <contour>
+      <point x="256" y="0" type="line"/>
+      <point x="320" y="0" type="line"/>
+      <point x="320" y="-232" type="line"/>
+      <point x="320" y="-314"/>
+      <point x="285" y="-441"/>
+      <point x="215" y="-528"/>
+      <point x="114" y="-572"/>
+      <point x="48" y="-572" type="qcurve"/>
+      <point x="26" y="-572"/>
+      <point x="-16" y="-568"/>
+      <point x="-30" y="-564" type="qcurve"/>
+      <point x="-30" y="-500" type="line"/>
+      <point x="-16" y="-504"/>
+      <point x="20" y="-508"/>
+      <point x="42" y="-508" type="qcurve"/>
+      <point x="150" y="-508"/>
+      <point x="256" y="-371"/>
+      <point x="256" y="-232" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="1792" y="2048" type="line"/>
+      <point x="1792" y="0" type="line"/>
+      <point x="1728" y="0" type="line"/>
+      <point x="328" y="1928" type="line"/>
+      <point x="320" y="1928" type="line"/>
+      <point x="320" y="0" type="line"/>
+      <point x="256" y="0" type="line"/>
+      <point x="256" y="2048" type="line"/>
+      <point x="320" y="2048" type="line"/>
+      <point x="1720" y="120" type="line"/>
+      <point x="1728" y="120" type="line"/>
+      <point x="1728" y="2048" type="line"/>
+    </contour>
+  </outline>
+</glyph>

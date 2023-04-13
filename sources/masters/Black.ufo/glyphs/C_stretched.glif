@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cstretched" format="2">
+  <advance width="1684"/>
+  <unicode hex="0297"/>
+  <outline>
+    <contour>
+      <point x="868" y="-196" type="qcurve"/>
+      <point x="962" y="-196"/>
+      <point x="1061" y="-111"/>
+      <point x="1060" y="-24" type="qcurve"/>
+      <point x="1544" y="-24" type="line"/>
+      <point x="1547" y="-206"/>
+      <point x="1371" y="-468"/>
+      <point x="1069" y="-608"/>
+      <point x="880" y="-608" type="qcurve"/>
+      <point x="637" y="-608"/>
+      <point x="307" y="-413"/>
+      <point x="140" y="-70"/>
+      <point x="140" y="152" type="qcurve"/>
+      <point x="140" y="796" type="line"/>
+      <point x="140" y="1016"/>
+      <point x="307" y="1359"/>
+      <point x="635" y="1556"/>
+      <point x="876" y="1556" type="qcurve"/>
+      <point x="1073" y="1556"/>
+      <point x="1376" y="1416"/>
+      <point x="1547" y="1140"/>
+      <point x="1544" y="936" type="qcurve"/>
+      <point x="1060" y="936" type="line"/>
+      <point x="1061" y="1023"/>
+      <point x="970" y="1144"/>
+      <point x="864" y="1144" type="qcurve"/>
+      <point x="763" y="1144"/>
+      <point x="677" y="1032"/>
+      <point x="660" y="870"/>
+      <point x="660" y="796" type="qcurve"/>
+      <point x="660" y="152" type="line"/>
+      <point x="660" y="78"/>
+      <point x="678" y="-84"/>
+      <point x="765" y="-196"/>
+    </contour>
+  </outline>
+</glyph>

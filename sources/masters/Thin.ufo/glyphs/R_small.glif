@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rsmall" format="2">
+  <advance width="1656"/>
+  <unicode hex="0280"/>
+  <outline>
+    <contour>
+      <point x="902" y="680" type="line"/>
+      <point x="980" y="680" type="line"/>
+      <point x="1424" y="0" type="line"/>
+      <point x="1348" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="232" y="1488" type="line"/>
+      <point x="816" y="1488" type="line"/>
+      <point x="968" y="1488"/>
+      <point x="1186" y="1389"/>
+      <point x="1304" y="1207"/>
+      <point x="1304" y="1080" type="qcurve"/>
+      <point x="1304" y="949"/>
+      <point x="1197" y="754"/>
+      <point x="1001" y="648"/>
+      <point x="868" y="648" type="qcurve"/>
+      <point x="256" y="648" type="line"/>
+      <point x="256" y="712" type="line"/>
+      <point x="868" y="712" type="line"/>
+      <point x="1042" y="712"/>
+      <point x="1243" y="916"/>
+      <point x="1242" y="1092" type="qcurve"/>
+      <point x="1241" y="1246"/>
+      <point x="1013" y="1424"/>
+      <point x="816" y="1424" type="qcurve"/>
+      <point x="296" y="1424" type="line"/>
+      <point x="296" y="0" type="line"/>
+      <point x="232" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

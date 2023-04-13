@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutemacroncomb" format="2">
+  <unicode hex="1DC7"/>
+  <outline>
+    <contour>
+      <point x="-1224" y="1704" type="line"/>
+      <point x="-956" y="2112" type="line"/>
+      <point x="-292" y="2112" type="line"/>
+      <point x="-292" y="1908" type="line"/>
+      <point x="-812" y="1908" type="line"/>
+      <point x="-992" y="1704" type="line"/>
+    </contour>
+  </outline>
+</glyph>

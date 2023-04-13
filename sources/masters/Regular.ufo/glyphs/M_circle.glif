@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Mcircle" format="2">
+  <advance width="3912"/>
+  <unicode hex="24C2"/>
+  <outline>
+    <component base="M" xOffset="703"/>
+    <component base="enclosingcirclecomb" xOffset="1051"/>
+  </outline>
+</glyph>

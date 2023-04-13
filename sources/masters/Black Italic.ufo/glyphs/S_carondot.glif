@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scarondot" format="2">
+  <advance width="1834"/>
+  <unicode hex="1E66"/>
+  <outline>
+    <component base="S" xOffset="-15"/>
+    <component base="uniE119" xOffset="2005" yOffset="644"/>
+  </outline>
+</glyph>

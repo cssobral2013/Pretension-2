@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minferior" format="2">
+  <advance width="1668"/>
+  <unicode hex="2098"/>
+  <outline>
+    <component base="mmod" xOffset="-1" yOffset="-1376"/>
+  </outline>
+</glyph>

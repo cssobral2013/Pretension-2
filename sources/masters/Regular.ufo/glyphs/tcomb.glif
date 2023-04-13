@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcomb" format="2">
+  <unicode hex="036D"/>
+  <outline>
+    <contour>
+      <point x="-584" y="2420" type="line"/>
+      <point x="-584" y="2272" type="line"/>
+      <point x="-1040" y="2272" type="line"/>
+      <point x="-1040" y="2420" type="line"/>
+    </contour>
+    <contour>
+      <point x="-904" y="2604" type="line"/>
+      <point x="-720" y="2604" type="line"/>
+      <point x="-720" y="1908" type="line"/>
+      <point x="-720" y="1854"/>
+      <point x="-689" y="1796"/>
+      <point x="-656" y="1796" type="qcurve"/>
+      <point x="-641" y="1796"/>
+      <point x="-602" y="1801"/>
+      <point x="-596" y="1804" type="qcurve"/>
+      <point x="-596" y="1660" type="line"/>
+      <point x="-605" y="1657"/>
+      <point x="-658" y="1648"/>
+      <point x="-700" y="1648" type="qcurve"/>
+      <point x="-814" y="1648"/>
+      <point x="-904" y="1783"/>
+      <point x="-904" y="1900" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

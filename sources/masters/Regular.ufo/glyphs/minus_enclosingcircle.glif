@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minus_enclosingcircle" format="2">
+  <advance width="3912"/>
+  <unicode hex="E160"/>
+  <outline>
+    <component base="minus.case" xOffset="1027"/>
+    <component base="enclosingcirclecomb" xOffset="1051"/>
+  </outline>
+</glyph>

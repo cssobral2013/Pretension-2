@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etaaspergrave" format="2">
+  <advance width="2972"/>
+  <unicode hex="1F2B"/>
+  <outline>
+    <component base="H" xOffset="887"/>
+    <component base="uniE0FC" xOffset="-41"/>
+  </outline>
+</glyph>

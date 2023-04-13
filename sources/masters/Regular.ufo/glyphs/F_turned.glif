@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Fturned" format="2">
+  <advance width="1652"/>
+  <unicode hex="2132"/>
+  <outline>
+    <contour>
+      <point x="1404" y="2048" type="line"/>
+      <point x="1404" y="0" type="line"/>
+      <point x="176" y="0" type="line"/>
+      <point x="176" y="220" type="line"/>
+      <point x="1156" y="220" type="line"/>
+      <point x="1156" y="912" type="line"/>
+      <point x="268" y="912" type="line"/>
+      <point x="268" y="1132" type="line"/>
+      <point x="1156" y="1132" type="line"/>
+      <point x="1156" y="2048" type="line"/>
+    </contour>
+  </outline>
+</glyph>

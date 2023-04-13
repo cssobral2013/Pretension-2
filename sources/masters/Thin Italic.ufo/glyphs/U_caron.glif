@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ucaron" format="2">
+  <advance width="2115"/>
+  <unicode hex="01D3"/>
+  <outline>
+    <component base="U" xOffset="25"/>
+    <component base="caron" xOffset="579" yOffset="534"/>
+  </outline>
+</glyph>

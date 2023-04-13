@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiply_enclosingsquare" format="2">
+  <advance width="3912"/>
+  <unicode hex="E157"/>
+  <outline>
+    <component base="multiply.case" xOffset="1084"/>
+    <component base="enclosingsquarecomb" xOffset="1152"/>
+  </outline>
+</glyph>

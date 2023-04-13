@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tmod" format="2">
+  <advance width="708"/>
+  <unicode hex="1D57"/>
+  <outline>
+    <contour>
+      <point x="824" y="2048" type="line"/>
+      <point x="796" y="1884" type="line"/>
+      <point x="240" y="1884" type="line"/>
+      <point x="268" y="2048" type="line"/>
+    </contour>
+    <contour>
+      <point x="452" y="2292" type="line"/>
+      <point x="664" y="2292" type="line"/>
+      <point x="500" y="1312" type="line"/>
+      <point x="488" y="1243"/>
+      <point x="556" y="1188"/>
+      <point x="604" y="1188" type="qcurve"/>
+      <point x="622" y="1188"/>
+      <point x="661" y="1193"/>
+      <point x="676" y="1196" type="qcurve"/>
+      <point x="688" y="1032" type="line"/>
+      <point x="655" y="1023"/>
+      <point x="605" y="1015"/>
+      <point x="548" y="1012" type="qcurve"/>
+      <point x="419" y="1009"/>
+      <point x="260" y="1137"/>
+      <point x="284" y="1284" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhebrevecyr" format="2">
+  <advance width="2672"/>
+  <unicode hex="04C1"/>
+  <outline>
+    <component base="Zhecyr" xOffset="-1"/>
+    <component base="breve" xOffset="703" yOffset="512"/>
+  </outline>
+</glyph>

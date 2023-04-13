@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adieresis.salt" format="2">
+  <advance width="1752"/>
+  <unicode hex="E03C"/>
+  <outline>
+    <component base="acyr.salt" xOffset="131"/>
+    <component base="dieresis" xOffset="159"/>
+  </outline>
+</glyph>

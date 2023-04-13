@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcircumflexbelow" format="2">
+  <advance width="620"/>
+  <unicode hex="1E3D"/>
+  <unicode hex="E05C"/>
+  <outline>
+    <component base="l" xOffset="-1"/>
+    <component base="circumflexbelowcomb" xOffset="1107"/>
+  </outline>
+</glyph>

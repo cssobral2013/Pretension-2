@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydot.ss05" format="2">
+  <advance width="1704"/>
+  <outline>
+    <component base="y.1" xOffset="-1"/>
+    <component base="dotaccent" xOffset="387"/>
+  </outline>
+</glyph>

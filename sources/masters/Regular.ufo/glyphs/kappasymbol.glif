@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kappasymbol" format="2">
+  <advance width="2032"/>
+  <unicode hex="03F0"/>
+  <outline>
+    <contour>
+      <point x="332" y="0" type="line"/>
+      <point x="1440" y="1536" type="line"/>
+      <point x="1736" y="1536" type="line"/>
+      <point x="628" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="488" y="60" type="line"/>
+      <point x="488" y="1076" type="line"/>
+      <point x="488" y="1217"/>
+      <point x="359" y="1328"/>
+      <point x="248" y="1328" type="qcurve"/>
+      <point x="230" y="1328"/>
+      <point x="181" y="1322"/>
+      <point x="160" y="1316" type="qcurve"/>
+      <point x="160" y="1532" type="line"/>
+      <point x="193" y="1541"/>
+      <point x="284" y="1556"/>
+      <point x="320" y="1556" type="qcurve"/>
+      <point x="418" y="1556"/>
+      <point x="580" y="1493"/>
+      <point x="699" y="1370"/>
+      <point x="764" y="1192"/>
+      <point x="764" y="1076" type="qcurve"/>
+      <point x="764" y="312" type="line"/>
+    </contour>
+    <contour>
+      <point x="1712" y="-28" type="qcurve"/>
+      <point x="1615" y="-28"/>
+      <point x="1452" y="35"/>
+      <point x="1333" y="158"/>
+      <point x="1268" y="337"/>
+      <point x="1268" y="452" type="qcurve"/>
+      <point x="1268" y="1224" type="line"/>
+      <point x="1544" y="1476" type="line"/>
+      <point x="1544" y="452" type="line"/>
+      <point x="1544" y="311"/>
+      <point x="1673" y="200"/>
+      <point x="1784" y="200" type="qcurve"/>
+      <point x="1802" y="200"/>
+      <point x="1851" y="206"/>
+      <point x="1872" y="212" type="qcurve"/>
+      <point x="1872" y="-4" type="line"/>
+      <point x="1842" y="-16"/>
+      <point x="1748" y="-28"/>
+    </contour>
+  </outline>
+</glyph>

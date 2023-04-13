@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hfishhookturned" format="2">
+  <advance width="1868"/>
+  <unicode hex="02AE"/>
+  <outline>
+    <contour>
+      <point x="216" y="1344" type="qcurve"/>
+      <point x="248" y="1544" type="line"/>
+      <point x="274" y="1553"/>
+      <point x="347" y="1556"/>
+      <point x="384" y="1556" type="qcurve"/>
+      <point x="468" y="1556"/>
+      <point x="604" y="1502"/>
+      <point x="696" y="1396"/>
+      <point x="732" y="1243"/>
+      <point x="716" y="1144" type="qcurve"/>
+      <point x="624" y="576" type="line"/>
+      <point x="593" y="393"/>
+      <point x="747" y="192"/>
+      <point x="916" y="192" type="qcurve"/>
+      <point x="1032" y="192"/>
+      <point x="1229" y="290"/>
+      <point x="1366" y="478"/>
+      <point x="1388" y="612" type="qcurve"/>
+      <point x="1544" y="1536" type="line"/>
+      <point x="1780" y="1536" type="line"/>
+      <point x="1428" y="-576" type="line"/>
+      <point x="1192" y="-576" type="line"/>
+      <point x="1328" y="240" type="line"/>
+      <point x="1308" y="240" type="line"/>
+      <point x="1232" y="120"/>
+      <point x="991" y="-20"/>
+      <point x="812" y="-20" type="qcurve"/>
+      <point x="654" y="-20"/>
+      <point x="439" y="105"/>
+      <point x="352" y="362"/>
+      <point x="384" y="560" type="qcurve"/>
+      <point x="480" y="1144" type="line"/>
+      <point x="500" y="1264"/>
+      <point x="387" y="1352"/>
+      <point x="292" y="1352" type="qcurve"/>
+      <point x="270" y="1352"/>
+      <point x="230" y="1347"/>
+    </contour>
+  </outline>
+</glyph>

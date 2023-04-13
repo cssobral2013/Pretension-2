@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tsquare" format="2">
+  <advance width="3912"/>
+  <unicode hex="1F143"/>
+  <outline>
+    <component base="T" xOffset="1091"/>
+    <component base="enclosingsquarecomb" xOffset="1131"/>
+  </outline>
+</glyph>

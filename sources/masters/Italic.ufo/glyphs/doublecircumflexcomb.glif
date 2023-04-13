@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doublecircumflexcomb" format="2">
+  <unicode hex="1DCD"/>
+  <outline>
+    <contour>
+      <point x="304" y="2088" type="line"/>
+      <point x="1416" y="1756" type="line"/>
+      <point x="1412" y="1724" type="line"/>
+      <point x="1088" y="1640" type="line"/>
+      <point x="192" y="1924" type="line"/>
+      <point x="-800" y="1640" type="line"/>
+      <point x="-1088" y="1724" type="line"/>
+      <point x="-1084" y="1760" type="line"/>
+      <point x="136" y="2088" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="getailcyr" format="2">
+  <advance width="1292"/>
+  <unicode hex="04F7"/>
+  <outline>
+    <component base="gecyr" xOffset="-1"/>
+    <component base="cyrillictic.cn" xOffset="315" yOffset="-8"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilonasper" format="2">
+  <advance width="2216"/>
+  <unicode hex="1F19"/>
+  <outline>
+    <component base="E" xOffset="463"/>
+    <component base="uniE0FA" xOffset="-161"/>
+  </outline>
+</glyph>

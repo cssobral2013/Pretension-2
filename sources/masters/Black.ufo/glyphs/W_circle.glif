@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wcircle" format="2">
+  <advance width="3912"/>
+  <unicode hex="24CC"/>
+  <outline>
+    <component base="W" xOffset="415"/>
+    <component base="enclosingcirclecomb" xOffset="883"/>
+  </outline>
+</glyph>

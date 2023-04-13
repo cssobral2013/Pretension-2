@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hhooksupmod" format="2">
+  <advance width="1264"/>
+  <unicode hex="02B1"/>
+  <outline>
+    <contour>
+      <point x="672" y="2144" type="qcurve"/>
+      <point x="464" y="896" type="line"/>
+      <point x="212" y="896" type="line"/>
+      <point x="424" y="2160" type="line"/>
+      <point x="440" y="2256"/>
+      <point x="498" y="2402"/>
+      <point x="602" y="2484"/>
+      <point x="688" y="2484" type="qcurve"/>
+      <point x="724" y="2484"/>
+      <point x="792" y="2477"/>
+      <point x="858" y="2464"/>
+      <point x="892" y="2456" type="qcurve"/>
+      <point x="852" y="2224" type="line"/>
+      <point x="837" y="2227"/>
+      <point x="783" y="2236"/>
+      <point x="756" y="2236" type="qcurve"/>
+      <point x="732" y="2236"/>
+      <point x="681" y="2201"/>
+    </contour>
+    <contour>
+      <point x="532" y="1484" type="qcurve"/>
+      <point x="464" y="1480" type="line"/>
+      <point x="490" y="1636"/>
+      <point x="621" y="1878"/>
+      <point x="812" y="2016"/>
+      <point x="928" y="2016" type="qcurve"/>
+      <point x="1090" y="2016"/>
+      <point x="1247" y="1818"/>
+      <point x="1208" y="1596" type="qcurve"/>
+      <point x="1092" y="896" type="line"/>
+      <point x="840" y="896" type="line"/>
+      <point x="948" y="1548" type="line"/>
+      <point x="972" y="1692"/>
+      <point x="892" y="1808"/>
+      <point x="808" y="1808" type="qcurve"/>
+      <point x="730" y="1808"/>
+      <point x="617" y="1721"/>
+      <point x="546" y="1574"/>
+    </contour>
+  </outline>
+</glyph>

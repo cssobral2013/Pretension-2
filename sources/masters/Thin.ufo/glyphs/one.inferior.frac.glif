@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.inferior.frac" format="2">
+  <advance width="696"/>
+  <unicode hex="E0B5"/>
+  <outline>
+    <contour>
+      <point x="380" y="0" type="line"/>
+      <point x="380" y="1020" type="line"/>
+      <point x="368" y="1020" type="line"/>
+      <point x="82" y="830" type="line"/>
+      <point x="82" y="906" type="line"/>
+      <point x="356" y="1088" type="line"/>
+      <point x="444" y="1088" type="line"/>
+      <point x="444" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

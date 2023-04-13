@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncomb" format="2">
+  <unicode hex="1DE1"/>
+  <outline>
+    <contour>
+      <point x="-330" y="1712" type="line"/>
+      <point x="-370" y="1652" type="line"/>
+      <point x="-776" y="2408" type="line"/>
+      <point x="-738" y="2472" type="line"/>
+    </contour>
+    <contour>
+      <point x="-738" y="2472" type="line"/>
+      <point x="-874" y="1652" type="line"/>
+      <point x="-938" y="1652" type="line"/>
+      <point x="-802" y="2472" type="line"/>
+    </contour>
+    <contour>
+      <point x="-170" y="2472" type="line"/>
+      <point x="-306" y="1652" type="line"/>
+      <point x="-370" y="1652" type="line"/>
+      <point x="-234" y="2472" type="line"/>
+    </contour>
+  </outline>
+</glyph>

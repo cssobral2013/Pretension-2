@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dtopbar" format="2">
+  <advance width="1776"/>
+  <unicode hex="018B"/>
+  <outline>
+    <contour>
+      <point x="1484" y="0" type="line"/>
+      <point x="720" y="0" type="line"/>
+      <point x="500" y="0"/>
+      <point x="220" y="154"/>
+      <point x="106" y="426"/>
+      <point x="136" y="604" type="qcurve"/>
+      <point x="166" y="782"/>
+      <point x="370" y="1048"/>
+      <point x="700" y="1196"/>
+      <point x="920" y="1196" type="qcurve"/>
+      <point x="1400" y="1196" type="line"/>
+      <point x="1496" y="1772" type="line"/>
+      <point x="548" y="1772" type="line"/>
+      <point x="584" y="2004" type="line"/>
+      <point x="1816" y="2004" type="line"/>
+    </contour>
+    <contour>
+      <point x="1240" y="228" type="line"/>
+      <point x="1360" y="964" type="line"/>
+      <point x="880" y="964" type="line"/>
+      <point x="667" y="964"/>
+      <point x="448" y="755"/>
+      <point x="424" y="608" type="qcurve"/>
+      <point x="408" y="508"/>
+      <point x="460" y="335"/>
+      <point x="618" y="228"/>
+      <point x="760" y="228" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

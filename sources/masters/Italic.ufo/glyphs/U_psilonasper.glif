@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilonasper" format="2">
+  <advance width="2316"/>
+  <unicode hex="1F59"/>
+  <outline>
+    <component base="Y" xOffset="457"/>
+    <component base="uniE0FA" xOffset="-103"/>
+  </outline>
+</glyph>

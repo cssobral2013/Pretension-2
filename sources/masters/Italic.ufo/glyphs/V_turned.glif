@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Vturned" format="2">
+  <advance width="2032"/>
+  <unicode hex="0245"/>
+  <outline>
+    <contour>
+      <point x="1444" y="0" type="line"/>
+      <point x="1152" y="1732" type="line"/>
+      <point x="1132" y="2048" type="line"/>
+      <point x="1352" y="2048" type="line"/>
+      <point x="1756" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1196" y="1732" type="line"/>
+      <point x="336" y="0" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="1104" y="2048" type="line"/>
+      <point x="1324" y="2048" type="line"/>
+    </contour>
+  </outline>
+</glyph>

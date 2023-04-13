@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.romansmall" format="2">
+  <advance width="2032"/>
+  <unicode hex="2175"/>
+  <outline>
+    <component base="v" xOffset="-17"/>
+    <component base="i" xOffset="1351"/>
+  </outline>
+</glyph>

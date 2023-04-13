@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis name="weight" tag="wght" maximum="900" default="100" minimum="100">
+   <labelname xml:lang="en">Weight</labelname>
+  </axis>
+ </axes>
+ <sources>
+  <source name="Black" filename="masters/Black.ufo" stylename="Regular" familyname="Pretension Two">
+   <location>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </source>
+  <source name="Regular" filename="masters/Regular.ufo" stylename="Regular" familyname="Pretension Two">
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </source>
+  <source name="Thin" filename="masters/Thin.ufo" stylename="Regular" familyname="Pretension Two">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </source>
+ </sources>
+ <instances>
+  <instance name="Thin" filename="instances/PretensionTwo-Thin.ufo" stylename="Thin" familyname="Pretension Two">
+   <location>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </instance>
+  <instance name="ExtraLight" filename="instances/PretensionTwo-ExtraLight.ufo" stylename="ExtraLight" familyname="Pretension Two">
+   <location>
+    <dimension name="weight" xvalue="200"/>
+   </location>
+  </instance>
+  <instance name="Light" filename="instances/PretensionTwo-Light.ufo" stylename="Light" familyname="Pretension Two">
+   <location>
+    <dimension name="weight" xvalue="300"/>
+   </location>
+  </instance>
+  <instance name="Regular" filename="instances/PretensionTwo-Regular.ufo" stylename="Regular" familyname="Pretension Two">
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance name="Medium" filename="instances/PretensionTwo-Medium.ufo" stylename="Medium" familyname="Pretension Two">
+   <location>
+    <dimension name="weight" xvalue="500"/>
+   </location>
+  </instance>
+  <instance name="SemiBold" filename="instances/PretensionTwo-SemiBold.ufo" stylename="SemiBold" familyname="Pretension Two">
+   <location>
+    <dimension name="weight" xvalue="600"/>
+   </location>
+  </instance>
+  <instance name="Bold" filename="instances/PretensionTwo-Bold.ufo" stylename="Bold" familyname="Pretension Two">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </instance>
+  <instance name="ExtraBold" filename="instances/PretensionTwo-ExtraBold.ufo" stylename="ExtraBold" familyname="Pretension Two">
+   <location>
+    <dimension name="weight" xvalue="800"/>
+   </location>
+  </instance>
+  <instance name="Black" filename="instances/PretensionTwo-Black.ufo" stylename="Black" familyname="Pretension Two">
+   <location>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>

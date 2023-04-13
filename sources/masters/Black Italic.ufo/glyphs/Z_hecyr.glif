@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhecyr" format="2">
+  <advance width="3312"/>
+  <unicode hex="0416"/>
+  <outline>
+    <contour>
+      <point x="2136" y="2048" type="line"/>
+      <point x="1796" y="0" type="line"/>
+      <point x="1260" y="0" type="line"/>
+      <point x="1600" y="2048" type="line"/>
+    </contour>
+    <contour>
+      <point x="-44" y="0" type="line"/>
+      <point x="764" y="1088" type="line"/>
+      <point x="304" y="2048" type="line"/>
+      <point x="992" y="2048" type="line"/>
+      <point x="1272" y="1248" type="line"/>
+      <point x="2216" y="1248" type="line"/>
+      <point x="2740" y="2048" type="line"/>
+      <point x="3424" y="2048" type="line"/>
+      <point x="2676" y="1096" type="line"/>
+      <point x="3100" y="0" type="line"/>
+      <point x="2428" y="0" type="line"/>
+      <point x="2200" y="736" type="line"/>
+      <point x="1116" y="736" type="line"/>
+      <point x="624" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

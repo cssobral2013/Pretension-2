@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde-gr" format="2">
+  <advance width="1420"/>
+  <unicode hex="1FC0"/>
+  <outline>
+    <contour>
+      <point x="438" y="1896" type="qcurve"/>
+      <point x="166" y="1896" type="line"/>
+      <point x="166" y="2112"/>
+      <point x="364" y="2323"/>
+      <point x="506" y="2324" type="qcurve"/>
+      <point x="584" y="2324"/>
+      <point x="693" y="2275"/>
+      <point x="775" y="2209"/>
+      <point x="842" y="2160"/>
+      <point x="878" y="2160" type="qcurve"/>
+      <point x="936" y="2161"/>
+      <point x="985" y="2243"/>
+      <point x="986" y="2316" type="qcurve"/>
+      <point x="1254" y="2316" type="line"/>
+      <point x="1251" y="2104"/>
+      <point x="1054" y="1886"/>
+      <point x="914" y="1884" type="qcurve"/>
+      <point x="836" y="1883"/>
+      <point x="727" y="1933"/>
+      <point x="648" y="1998"/>
+      <point x="580" y="2048"/>
+      <point x="542" y="2048" type="qcurve"/>
+      <point x="494" y="2048"/>
+      <point x="438" y="1971"/>
+    </contour>
+  </outline>
+</glyph>

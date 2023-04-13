@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fourcircle.1" format="2">
+  <advance width="3912"/>
+  <outline>
+    <component base="four.1" xOffset="931"/>
+    <component base="enclosingcirclecomb" xOffset="1051"/>
+  </outline>
+</glyph>

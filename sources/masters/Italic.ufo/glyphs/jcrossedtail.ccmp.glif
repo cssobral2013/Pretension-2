@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcrossedtail.ccmp" format="2">
+  <advance width="976"/>
+  <unicode hex="E04F"/>
+  <outline>
+    <contour>
+      <point x="144" y="-576" type="qcurve"/>
+      <point x="19" y="-576"/>
+      <point x="-143" y="-479"/>
+      <point x="-212" y="-314"/>
+      <point x="-196" y="-212" type="qcurve"/>
+      <point x="-178" y="-98"/>
+      <point x="-38" y="69"/>
+      <point x="164" y="160"/>
+      <point x="276" y="160" type="qcurve"/>
+      <point x="956" y="160" type="line"/>
+      <point x="920" y="-64" type="line"/>
+      <point x="240" y="-64" type="line"/>
+      <point x="167" y="-64"/>
+      <point x="61" y="-152"/>
+      <point x="52" y="-216" type="qcurve"/>
+      <point x="44" y="-276"/>
+      <point x="112" y="-360"/>
+      <point x="176" y="-360" type="qcurve"/>
+      <point x="262" y="-360"/>
+      <point x="362" y="-224"/>
+      <point x="372" y="-160" type="qcurve"/>
+      <point x="396" y="0" type="line"/>
+      <point x="632" y="0" type="line"/>
+      <point x="612" y="-136" type="line"/>
+      <point x="600" y="-221"/>
+      <point x="521" y="-379"/>
+      <point x="398" y="-503"/>
+      <point x="238" y="-576"/>
+    </contour>
+    <contour>
+      <point x="396" y="0" type="line"/>
+      <point x="652" y="1536" type="line"/>
+      <point x="888" y="1536" type="line"/>
+      <point x="632" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

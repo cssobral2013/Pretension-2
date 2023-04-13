@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caronbelowcomb" format="2">
+  <unicode hex="032C"/>
+  <outline>
+    <contour>
+      <point x="-892" y="-572" type="line"/>
+      <point x="-1232" y="-192" type="line"/>
+      <point x="-1232" y="-176" type="line"/>
+      <point x="-1008" y="-176" type="line"/>
+      <point x="-812" y="-408" type="line"/>
+      <point x="-608" y="-176" type="line"/>
+      <point x="-384" y="-176" type="line"/>
+      <point x="-384" y="-192" type="line"/>
+      <point x="-728" y="-572" type="line"/>
+    </contour>
+  </outline>
+</glyph>

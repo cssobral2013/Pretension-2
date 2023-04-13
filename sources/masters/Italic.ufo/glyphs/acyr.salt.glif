@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acyr.salt" format="2">
+  <advance width="1752"/>
+  <unicode hex="E02C"/>
+  <outline>
+    <contour>
+      <point x="668" y="-32" type="qcurve"/>
+      <point x="476" y="-32"/>
+      <point x="214" y="163"/>
+      <point x="106" y="520"/>
+      <point x="146" y="764" type="qcurve"/>
+      <point x="187" y="1006"/>
+      <point x="412" y="1362"/>
+      <point x="740" y="1556"/>
+      <point x="934" y="1556" type="qcurve"/>
+      <point x="1084" y="1556"/>
+      <point x="1243" y="1457"/>
+      <point x="1315" y="1332"/>
+      <point x="1334" y="1292" type="qcurve"/>
+      <point x="1354" y="1292" type="line"/>
+      <point x="1394" y="1536" type="line"/>
+      <point x="1632" y="1536" type="line"/>
+      <point x="1376" y="0" type="line"/>
+      <point x="1148" y="0" type="line"/>
+      <point x="1188" y="236" type="line"/>
+      <point x="1160" y="236" type="line"/>
+      <point x="1127" y="194"/>
+      <point x="1010" y="67"/>
+      <point x="816" y="-32"/>
+    </contour>
+    <contour>
+      <point x="726" y="180" type="qcurve"/>
+      <point x="868" y="180"/>
+      <point x="1093" y="329"/>
+      <point x="1243" y="594"/>
+      <point x="1272" y="768" type="qcurve"/>
+      <point x="1301" y="940"/>
+      <point x="1240" y="1199"/>
+      <point x="1063" y="1344"/>
+      <point x="918" y="1344" type="qcurve"/>
+      <point x="769" y="1344"/>
+      <point x="549" y="1191"/>
+      <point x="411" y="930"/>
+      <point x="384" y="768" type="qcurve"/>
+      <point x="357" y="604"/>
+      <point x="409" y="337"/>
+      <point x="578" y="180"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="2">
+  <advance width="1432"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="216" y="1436" type="qcurve"/>
+      <point x="216" y="1540" type="line"/>
+      <point x="216" y="1756"/>
+      <point x="488" y="2032"/>
+      <point x="716" y="2032" type="qcurve"/>
+      <point x="947" y="2032"/>
+      <point x="1216" y="1756"/>
+      <point x="1216" y="1540" type="qcurve"/>
+      <point x="1216" y="1436" type="line"/>
+      <point x="1216" y="1223"/>
+      <point x="951" y="948"/>
+      <point x="720" y="948" type="qcurve"/>
+      <point x="486" y="948"/>
+      <point x="216" y="1223"/>
+    </contour>
+    <contour>
+      <point x="468" y="1540" type="qcurve"/>
+      <point x="468" y="1436" type="line"/>
+      <point x="468" y="1313"/>
+      <point x="594" y="1152"/>
+      <point x="720" y="1152" type="qcurve"/>
+      <point x="843" y="1152"/>
+      <point x="964" y="1313"/>
+      <point x="964" y="1436" type="qcurve"/>
+      <point x="964" y="1540" type="line"/>
+      <point x="964" y="1660"/>
+      <point x="842" y="1828"/>
+      <point x="716" y="1828" type="qcurve"/>
+      <point x="593" y="1828"/>
+      <point x="468" y="1660"/>
+    </contour>
+  </outline>
+</glyph>

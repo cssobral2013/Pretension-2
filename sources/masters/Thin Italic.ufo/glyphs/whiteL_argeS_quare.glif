@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="whiteLargeSquare" format="2">
+  <advance width="3912"/>
+  <unicode hex="2B1C"/>
+  <outline>
+    <component base="enclosingsquarecomb" xOffset="1152"/>
+  </outline>
+</glyph>

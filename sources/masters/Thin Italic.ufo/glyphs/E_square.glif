@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Esquare" format="2">
+  <advance width="3912"/>
+  <unicode hex="1F134"/>
+  <outline>
+    <component base="E" xOffset="1110"/>
+    <component base="enclosingsquarecomb" xOffset="1152"/>
+  </outline>
+</glyph>

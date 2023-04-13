@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alphaiotasub" format="2">
+  <advance width="1800"/>
+  <unicode hex="1FB3"/>
+  <outline>
+    <component base="alpha-grek" xOffset="134"/>
+    <component base="iotaadscript" xOffset="638"/>
+  </outline>
+</glyph>

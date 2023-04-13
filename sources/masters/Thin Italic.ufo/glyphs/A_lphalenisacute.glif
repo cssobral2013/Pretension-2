@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphalenisacute" format="2">
+  <advance width="1736"/>
+  <unicode hex="1F0C"/>
+  <outline>
+    <contour>
+      <point x="32" y="0" type="line"/>
+      <point x="-36" y="0" type="line"/>
+      <point x="1036" y="2048" type="line"/>
+      <point x="1124" y="2048" type="line"/>
+      <point x="1516" y="0" type="line"/>
+      <point x="1448" y="0" type="line"/>
+      <point x="1072" y="1968" type="line"/>
+      <point x="1064" y="1968" type="line"/>
+    </contour>
+    <contour>
+      <point x="392" y="756" type="line"/>
+      <point x="1344" y="756" type="line"/>
+      <point x="1332" y="692" type="line"/>
+      <point x="380" y="692" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="1592" type="line"/>
+      <point x="256" y="1610" type="line"/>
+      <point x="594" y="2056" type="line"/>
+      <point x="662" y="2056" type="line"/>
+      <point x="658" y="2038" type="line"/>
+      <point x="300" y="1592" type="line"/>
+    </contour>
+    <contour>
+      <point x="306" y="2056" type="line"/>
+      <point x="296" y="2004" type="line"/>
+      <point x="277" y="1907"/>
+      <point x="224" y="1766"/>
+      <point x="132" y="1646"/>
+      <point x="54" y="1578" type="qcurve"/>
+      <point x="20" y="1610" type="line"/>
+      <point x="121" y="1709"/>
+      <point x="209" y="1881"/>
+      <point x="234" y="2012" type="qcurve"/>
+      <point x="242" y="2056" type="line"/>
+    </contour>
+  </outline>
+</glyph>

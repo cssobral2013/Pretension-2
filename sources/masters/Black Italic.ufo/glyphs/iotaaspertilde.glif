@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotaaspertilde" format="2">
+  <advance width="997"/>
+  <unicode hex="1F37"/>
+  <outline>
+    <component base="iota" xOffset="14"/>
+    <component base="aspertilde" xOffset="-102" yOffset="168"/>
+  </outline>
+</glyph>

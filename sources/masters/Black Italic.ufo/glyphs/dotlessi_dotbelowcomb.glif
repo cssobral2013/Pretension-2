@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi_dotbelowcomb" format="2">
+  <advance width="787"/>
+  <unicode hex="E04D"/>
+  <outline>
+    <component base="dotlessi" xOffset="-31"/>
+    <component base="dotbelowcomb" xOffset="1127"/>
+  </outline>
+</glyph>

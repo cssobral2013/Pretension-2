@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowdblleft.case" format="2">
+  <advance width="2688"/>
+  <outline>
+    <component base="arrowdblleft" xOffset="19" yOffset="128"/>
+  </outline>
+</glyph>

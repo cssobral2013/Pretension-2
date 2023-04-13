@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="isbelowcomb" format="2">
+  <unicode hex="1DD0"/>
+  <outline>
+    <contour>
+      <point x="-870" y="-104" type="line"/>
+      <point x="-802" y="-104" type="line"/>
+      <point x="-1028" y="-508" type="line"/>
+      <point x="-988" y="-490"/>
+      <point x="-920" y="-474"/>
+      <point x="-888" y="-474" type="qcurve"/>
+      <point x="-821" y="-474"/>
+      <point x="-713" y="-527"/>
+      <point x="-621" y="-580"/>
+      <point x="-578" y="-580" type="qcurve"/>
+      <point x="-535" y="-580"/>
+      <point x="-448" y="-513"/>
+      <point x="-420" y="-460" type="qcurve"/>
+      <point x="-362" y="-476" type="line"/>
+      <point x="-385" y="-522"/>
+      <point x="-456" y="-598"/>
+      <point x="-541" y="-644"/>
+      <point x="-586" y="-644" type="qcurve"/>
+      <point x="-640" y="-644"/>
+      <point x="-736" y="-591"/>
+      <point x="-836" y="-538"/>
+      <point x="-896" y="-538" type="qcurve"/>
+      <point x="-942" y="-538"/>
+      <point x="-1049" y="-579"/>
+      <point x="-1122" y="-620" type="qcurve"/>
+      <point x="-1152" y="-602" type="line"/>
+    </contour>
+  </outline>
+</glyph>

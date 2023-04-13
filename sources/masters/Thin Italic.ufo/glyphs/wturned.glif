@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wturned" format="2">
+  <advance width="2224"/>
+  <unicode hex="028D"/>
+  <outline>
+    <contour>
+      <point x="1752" y="1536" type="line"/>
+      <point x="1952" y="0" type="line"/>
+      <point x="1888" y="0" type="line"/>
+      <point x="1700" y="1448" type="line"/>
+      <point x="1692" y="1448" type="line"/>
+      <point x="1020" y="0" type="line"/>
+      <point x="956" y="0" type="line"/>
+      <point x="764" y="1448" type="line"/>
+      <point x="756" y="1448" type="line"/>
+      <point x="88" y="0" type="line"/>
+      <point x="16" y="0" type="line"/>
+      <point x="728" y="1536" type="line"/>
+      <point x="816" y="1536" type="line"/>
+      <point x="1004" y="124" type="line"/>
+      <point x="1012" y="124" type="line"/>
+      <point x="1664" y="1536" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="xbelowcomb" format="2">
+  <unicode hex="0353"/>
+  <outline>
+    <contour>
+      <point x="-1040" y="-728" type="line"/>
+      <point x="-1080" y="-682" type="line"/>
+      <point x="-422" y="-94" type="line"/>
+      <point x="-386" y="-142" type="line"/>
+    </contour>
+    <contour>
+      <point x="-520" y="-724" type="line"/>
+      <point x="-988" y="-140" type="line"/>
+      <point x="-928" y="-92" type="line"/>
+      <point x="-468" y="-676" type="line"/>
+    </contour>
+  </outline>
+</glyph>

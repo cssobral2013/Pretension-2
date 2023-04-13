@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hastrokecyr" format="2">
+  <advance width="1648"/>
+  <unicode hex="04FE"/>
+  <outline>
+    <component base="X" xOffset="-1"/>
+    <component base="uniE103" xOffset="247" yOffset="32"/>
+  </outline>
+</glyph>

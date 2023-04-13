@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutegraveacutecomb" format="2">
+  <unicode hex="1DC9"/>
+  <outline>
+    <contour>
+      <point x="-664" y="1724" type="line"/>
+      <point x="-364" y="2112" type="line"/>
+      <point x="-346" y="2112" type="line"/>
+      <point x="-172" y="1826" type="line"/>
+      <point x="50" y="2112" type="line"/>
+      <point x="130" y="2112" type="line"/>
+      <point x="-172" y="1724" type="line"/>
+      <point x="-182" y="1724" type="line"/>
+      <point x="-362" y="2014" type="line"/>
+      <point x="-584" y="1724" type="line"/>
+    </contour>
+  </outline>
+</glyph>

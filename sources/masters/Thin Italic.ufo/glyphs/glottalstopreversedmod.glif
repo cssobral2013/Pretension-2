@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="glottalstopreversedmod" format="2">
+  <advance width="1020"/>
+  <unicode hex="02C1"/>
+  <outline>
+    <contour>
+      <point x="1104" y="2116" type="qcurve"/>
+      <point x="1040" y="2116" type="line"/>
+      <point x="1042" y="2256"/>
+      <point x="893" y="2420"/>
+      <point x="762" y="2420" type="qcurve"/>
+      <point x="627" y="2420"/>
+      <point x="449" y="2246"/>
+      <point x="422" y="2088" type="qcurve"/>
+      <point x="368" y="1752" type="line"/>
+      <point x="351" y="1636"/>
+      <point x="386" y="1489"/>
+      <point x="495" y="1419"/>
+      <point x="588" y="1420" type="qcurve"/>
+      <point x="596" y="1420" type="line"/>
+      <point x="586" y="1356" type="line"/>
+      <point x="580" y="1356" type="line"/>
+      <point x="410" y="1357"/>
+      <point x="272" y="1560"/>
+      <point x="306" y="1760" type="qcurve"/>
+      <point x="358" y="2078" type="line"/>
+      <point x="379" y="2209"/>
+      <point x="486" y="2389"/>
+      <point x="650" y="2483"/>
+      <point x="756" y="2484" type="qcurve"/>
+      <point x="920" y="2486"/>
+      <point x="1107" y="2279"/>
+    </contour>
+    <contour>
+      <point x="552" y="1420" type="line"/>
+      <point x="616" y="1420" type="line"/>
+      <point x="530" y="896" type="line"/>
+      <point x="466" y="896" type="line"/>
+    </contour>
+  </outline>
+</glyph>

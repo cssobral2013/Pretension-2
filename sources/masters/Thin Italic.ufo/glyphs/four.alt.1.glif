@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.alt.1" format="2">
+  <advance width="1660"/>
+  <unicode hex="E075"/>
+  <unicode hex="E07E"/>
+  <outline>
+    <component base="four" xOffset="-9"/>
+  </outline>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Stigma" format="2">
+  <advance width="1910"/>
+  <unicode hex="03DA"/>
+  <outline>
+    <contour>
+      <point x="1180" y="-532" type="qcurve"/>
+      <point x="1190" y="-468" type="line"/>
+      <point x="1261" y="-454"/>
+      <point x="1375" y="-340"/>
+      <point x="1382" y="-274" type="qcurve"/>
+      <point x="1387" y="-218"/>
+      <point x="1281" y="-121"/>
+      <point x="1108" y="-56" type="qcurve"/>
+      <point x="724" y="88" type="line"/>
+      <point x="443" y="193"/>
+      <point x="223" y="603"/>
+      <point x="272" y="910" type="qcurve"/>
+      <point x="302" y="1096" type="line"/>
+      <point x="352" y="1404"/>
+      <point x="607" y="1842"/>
+      <point x="987" y="2076"/>
+      <point x="1224" y="2076" type="qcurve"/>
+      <point x="1411" y="2076"/>
+      <point x="1663" y="1927"/>
+      <point x="1785" y="1641"/>
+      <point x="1774" y="1436" type="qcurve"/>
+      <point x="1712" y="1436" type="line"/>
+      <point x="1720" y="1718"/>
+      <point x="1466" y="2011"/>
+      <point x="1214" y="2012" type="qcurve"/>
+      <point x="1001" y="2014"/>
+      <point x="649" y="1791"/>
+      <point x="411" y="1379"/>
+      <point x="366" y="1096" type="qcurve"/>
+      <point x="338" y="918" type="line"/>
+      <point x="291" y="617"/>
+      <point x="482" y="253"/>
+      <point x="744" y="154" type="qcurve"/>
+      <point x="1178" y="-10" type="line"/>
+      <point x="1331" y="-68"/>
+      <point x="1456" y="-204"/>
+      <point x="1442" y="-290" type="qcurve"/>
+      <point x="1432" y="-350"/>
+      <point x="1364" y="-448"/>
+      <point x="1254" y="-515"/>
+    </contour>
+  </outline>
+</glyph>

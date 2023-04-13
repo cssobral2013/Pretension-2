@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="2">
+  <advance width="1000"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="612" y="1564" type="qcurve"/>
+      <point x="729" y="1564"/>
+      <point x="876" y="1401"/>
+      <point x="864" y="1284" type="qcurve"/>
+      <point x="852" y="1170"/>
+      <point x="669" y="1008"/>
+      <point x="552" y="1008" type="qcurve"/>
+      <point x="441" y="1008"/>
+      <point x="292" y="1170"/>
+      <point x="304" y="1284" type="qcurve"/>
+      <point x="312" y="1362"/>
+      <point x="405" y="1489"/>
+      <point x="540" y="1564"/>
+    </contour>
+    <contour>
+      <point x="12" y="-516" type="line"/>
+      <point x="296" y="892" type="line"/>
+      <point x="748" y="892" type="line"/>
+      <point x="568" y="-516" type="line"/>
+    </contour>
+  </outline>
+</glyph>

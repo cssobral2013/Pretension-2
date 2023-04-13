@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icircle" format="2">
+  <advance width="3912"/>
+  <unicode hex="24BE"/>
+  <outline>
+    <component base="I.1" xOffset="1629"/>
+    <component base="enclosingcirclecomb" xOffset="1157"/>
+  </outline>
+</glyph>

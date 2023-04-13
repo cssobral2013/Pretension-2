@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ksquare" format="2">
+  <advance width="3912"/>
+  <unicode hex="1F13A"/>
+  <outline>
+    <component base="K" xOffset="940"/>
+    <component base="enclosingsquarecomb" xOffset="904"/>
+  </outline>
+</glyph>

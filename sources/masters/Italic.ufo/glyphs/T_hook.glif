@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thook" format="2">
+  <advance width="1920"/>
+  <unicode hex="01AC"/>
+  <outline>
+    <contour>
+      <point x="1996" y="2048" type="line"/>
+      <point x="1960" y="1828" type="line"/>
+      <point x="1316" y="1828" type="line"/>
+      <point x="1012" y="0" type="line"/>
+      <point x="764" y="0" type="line"/>
+      <point x="1068" y="1828" type="line"/>
+      <point x="720" y="1828" type="line"/>
+      <point x="650" y="1828"/>
+      <point x="557" y="1762"/>
+      <point x="506" y="1658"/>
+      <point x="496" y="1600" type="qcurve"/>
+      <point x="484" y="1524" type="line"/>
+      <point x="260" y="1524" type="line"/>
+      <point x="280" y="1644" type="line"/>
+      <point x="309" y="1824"/>
+      <point x="566" y="2048"/>
+      <point x="756" y="2048" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

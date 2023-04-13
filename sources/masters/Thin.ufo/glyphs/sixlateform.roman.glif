@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sixlateform.roman" format="2">
+  <advance width="1898"/>
+  <unicode hex="2185"/>
+  <outline>
+    <contour>
+      <point x="1568" y="336" type="qcurve"/>
+      <point x="1614" y="288" type="line"/>
+      <point x="1536" y="181"/>
+      <point x="1349" y="40"/>
+      <point x="1126" y="-28"/>
+      <point x="992" y="-28" type="qcurve"/>
+      <point x="754" y="-28"/>
+      <point x="423" y="201"/>
+      <point x="252" y="643"/>
+      <point x="252" y="960" type="qcurve"/>
+      <point x="252" y="1090" type="line"/>
+      <point x="252" y="1407"/>
+      <point x="426" y="1847"/>
+      <point x="760" y="2076"/>
+      <point x="1000" y="2076" type="qcurve"/>
+      <point x="1191" y="2076"/>
+      <point x="1475" y="1924"/>
+      <point x="1642" y="1639"/>
+      <point x="1656" y="1440" type="qcurve"/>
+      <point x="1588" y="1440" type="line"/>
+      <point x="1569" y="1712"/>
+      <point x="1260" y="2012"/>
+      <point x="1000" y="2012" type="qcurve"/>
+      <point x="779" y="2012"/>
+      <point x="473" y="1800"/>
+      <point x="316" y="1388"/>
+      <point x="316" y="1088" type="qcurve"/>
+      <point x="316" y="960" type="line"/>
+      <point x="316" y="660"/>
+      <point x="471" y="248"/>
+      <point x="773" y="36"/>
+      <point x="992" y="36" type="qcurve"/>
+      <point x="1120" y="36"/>
+      <point x="1327" y="99"/>
+      <point x="1497" y="232"/>
+    </contour>
+    <contour>
+      <point x="1616" y="524" type="line"/>
+      <point x="1616" y="-494" type="line"/>
+      <point x="1552" y="-494" type="line"/>
+      <point x="1552" y="524" type="line"/>
+    </contour>
+  </outline>
+</glyph>

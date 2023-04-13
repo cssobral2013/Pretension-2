@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblvlinecomb" format="2">
+  <unicode hex="030E"/>
+  <outline>
+    <component base="verticallinemod" xOffset="-1157"/>
+    <component base="verticallinemod" xOffset="-814"/>
+  </outline>
+</glyph>

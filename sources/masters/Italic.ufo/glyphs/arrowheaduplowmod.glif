@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowheaduplowmod" format="2">
+  <advance width="1008"/>
+  <unicode hex="02F0"/>
+  <outline>
+    <contour>
+      <point x="304" y="-344" type="line"/>
+      <point x="68" y="-748" type="line"/>
+      <point x="-100" y="-748" type="line"/>
+      <point x="296" y="-100" type="line"/>
+      <point x="412" y="-100" type="line"/>
+    </contour>
+    <contour>
+      <point x="436" y="-748" type="line"/>
+      <point x="340" y="-344" type="line"/>
+      <point x="312" y="-100" type="line"/>
+      <point x="428" y="-100" type="line"/>
+      <point x="604" y="-748" type="line"/>
+    </contour>
+  </outline>
+</glyph>

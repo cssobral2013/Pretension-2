@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftSansSerifArrow.case" format="2">
+  <advance width="7552"/>
+  <outline>
+    <component base="leftSansSerifArrow" xOffset="19" yOffset="128"/>
+  </outline>
+</glyph>

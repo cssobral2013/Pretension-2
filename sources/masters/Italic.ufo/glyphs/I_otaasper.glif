@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotaasper" format="2">
+  <advance width="1672"/>
+  <unicode hex="1F39"/>
+  <unicode hex="E01F"/>
+  <outline>
+    <component base="I" xOffset="441"/>
+    <component base="uniE0FA" xOffset="-43"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticalfourdots" format="2">
+  <advance width="411"/>
+  <unicode hex="205E"/>
+  <outline>
+    <component base="dotbelowcomb" xOffset="1031" yOffset="2120"/>
+    <component base="dotbelowcomb" xOffset="1031" yOffset="1552"/>
+    <component base="dotbelowcomb" xOffset="1031" yOffset="1012"/>
+    <component base="dotbelowcomb" xOffset="1031" yOffset="460"/>
+  </outline>
+</glyph>

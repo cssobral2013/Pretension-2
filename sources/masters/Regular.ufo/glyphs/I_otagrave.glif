@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotagrave" format="2">
+  <advance width="1812"/>
+  <unicode hex="1FDA"/>
+  <unicode hex="E028"/>
+  <outline>
+    <component base="I" xOffset="563"/>
+    <component base="uniE101" xOffset="-21"/>
+  </outline>
+</glyph>

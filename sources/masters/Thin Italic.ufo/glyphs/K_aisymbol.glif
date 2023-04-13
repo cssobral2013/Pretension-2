@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kaisymbol" format="2">
+  <advance width="1520"/>
+  <unicode hex="03CF"/>
+  <outline>
+    <contour>
+      <point x="378" y="2048" type="line"/>
+      <point x="36" y="0" type="line"/>
+      <point x="-28" y="0" type="line"/>
+      <point x="314" y="2048" type="line"/>
+    </contour>
+    <contour>
+      <point x="1634" y="2048" type="line"/>
+      <point x="540" y="1032" type="line"/>
+      <point x="128" y="648" type="line"/>
+      <point x="126" y="734" type="line"/>
+      <point x="502" y="1084" type="line"/>
+      <point x="1540" y="2048" type="line"/>
+    </contour>
+    <contour>
+      <point x="1196" y="12" type="line"/>
+      <point x="506" y="1032" type="line"/>
+      <point x="550" y="1080" type="line"/>
+      <point x="1282" y="0" type="line"/>
+      <point x="714" y="-458" type="line"/>
+      <point x="678" y="-406" type="line"/>
+    </contour>
+  </outline>
+</glyph>

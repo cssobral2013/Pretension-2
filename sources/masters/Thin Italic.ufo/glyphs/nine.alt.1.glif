@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.alt.1" format="2">
+  <advance width="1660"/>
+  <unicode hex="E07A"/>
+  <unicode hex="E080"/>
+  <outline>
+    <component base="nine" xOffset="69"/>
+  </outline>
+</glyph>

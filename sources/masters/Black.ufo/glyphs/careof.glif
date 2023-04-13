@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="careof" format="2">
+  <advance width="3056"/>
+  <unicode hex="2105"/>
+  <outline>
+    <component base="cmod" xOffset="-1"/>
+    <component base="fraction" xOffset="1115"/>
+    <component base="oinferior" xOffset="1883" yOffset="352"/>
+  </outline>
+</glyph>

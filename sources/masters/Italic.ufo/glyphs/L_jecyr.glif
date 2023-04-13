@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ljecyr" format="2">
+  <advance width="3044"/>
+  <unicode hex="0409"/>
+  <outline>
+    <contour>
+      <point x="-72" y="0" type="line"/>
+      <point x="-32" y="228" type="line"/>
+      <point x="24" y="228" type="line"/>
+      <point x="107" y="228"/>
+      <point x="241" y="298"/>
+      <point x="355" y="477"/>
+      <point x="457" y="804"/>
+      <point x="508" y="1060" type="qcurve"/>
+      <point x="708" y="2048" type="line"/>
+      <point x="1704" y="2048" type="line"/>
+      <point x="1664" y="1828" type="line"/>
+      <point x="912" y="1828" type="line"/>
+      <point x="744" y="1012" type="line"/>
+      <point x="690" y="751"/>
+      <point x="571" y="369"/>
+      <point x="408" y="121"/>
+      <point x="174" y="0"/>
+      <point x="4" y="0" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="1708" y="1188" type="line"/>
+      <point x="2292" y="1188" type="line"/>
+      <point x="2512" y="1188"/>
+      <point x="2792" y="1044"/>
+      <point x="2906" y="782"/>
+      <point x="2876" y="604" type="qcurve"/>
+      <point x="2846" y="426"/>
+      <point x="2644" y="154"/>
+      <point x="2316" y="0"/>
+      <point x="2096" y="0" type="qcurve"/>
+      <point x="1328" y="0" type="line"/>
+      <point x="1668" y="2048" type="line"/>
+      <point x="1916" y="2048" type="line"/>
+      <point x="1612" y="216" type="line"/>
+      <point x="2132" y="216" type="line"/>
+      <point x="2272" y="216"/>
+      <point x="2485" y="329"/>
+      <point x="2616" y="508"/>
+      <point x="2632" y="608" type="qcurve"/>
+      <point x="2656" y="755"/>
+      <point x="2466" y="968"/>
+      <point x="2256" y="968" type="qcurve"/>
+      <point x="1672" y="968" type="line"/>
+    </contour>
+  </outline>
+</glyph>

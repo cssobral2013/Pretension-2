@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lsquare" format="2">
+  <advance width="3912"/>
+  <unicode hex="1F13B"/>
+  <outline>
+    <component base="L" xOffset="1156"/>
+    <component base="enclosingsquarecomb" xOffset="1152"/>
+  </outline>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uptackabovecomb" format="2">
+  <unicode hex="1DF5"/>
+  <outline>
+    <component base="tackupmod" xOffset="-1057" yOffset="1292"/>
+  </outline>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cwi-kayahli" format="2">
+  <advance width="1520"/>
+  <unicode hex="A92E"/>
+  <outline>
+    <contour>
+      <point x="1472" y="688" type="qcurve"/>
+      <point x="1252" y="688" type="line"/>
+      <point x="1227" y="732"/>
+      <point x="1151" y="824"/>
+      <point x="1043" y="903"/>
+      <point x="893" y="952"/>
+      <point x="792" y="952" type="qcurve"/>
+      <point x="683" y="952"/>
+      <point x="512" y="903"/>
+      <point x="381" y="824"/>
+      <point x="284" y="732"/>
+      <point x="248" y="688" type="qcurve"/>
+      <point x="24" y="688" type="line"/>
+      <point x="81" y="777"/>
+      <point x="246" y="939"/>
+      <point x="451" y="1066"/>
+      <point x="690" y="1140"/>
+      <point x="820" y="1140" type="qcurve"/>
+      <point x="952" y="1140"/>
+      <point x="1167" y="1066"/>
+      <point x="1332" y="939"/>
+      <point x="1444" y="777"/>
+    </contour>
+  </outline>
+</glyph>

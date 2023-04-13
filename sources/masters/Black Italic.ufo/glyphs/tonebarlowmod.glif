@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonebarlowmod" format="2">
+  <advance width="1140"/>
+  <unicode hex="02E8"/>
+  <outline>
+    <contour>
+      <point x="1248" y="2004" type="line"/>
+      <point x="916" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="732" y="2004" type="line"/>
+    </contour>
+    <contour>
+      <point x="992" y="708" type="line"/>
+      <point x="920" y="296" type="line"/>
+      <point x="24" y="296" type="line"/>
+      <point x="96" y="708" type="line"/>
+    </contour>
+  </outline>
+</glyph>

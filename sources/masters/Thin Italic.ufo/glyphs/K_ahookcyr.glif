@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kahookcyr" format="2">
+  <advance width="1840"/>
+  <unicode hex="04C3"/>
+  <outline>
+    <contour>
+      <point x="490" y="1068" type="line"/>
+      <point x="500" y="1132" type="line"/>
+      <point x="868" y="1132" type="line"/>
+      <point x="1264" y="1132"/>
+      <point x="1605" y="740"/>
+      <point x="1540" y="356" type="qcurve"/>
+      <point x="1504" y="142"/>
+      <point x="1326" y="-164"/>
+      <point x="1059" y="-327"/>
+      <point x="888" y="-328" type="qcurve"/>
+      <point x="900" y="-264" type="line"/>
+      <point x="1125" y="-264"/>
+      <point x="1429" y="78"/>
+      <point x="1478" y="378" type="qcurve"/>
+      <point x="1535" y="728"/>
+      <point x="1228" y="1068"/>
+      <point x="858" y="1068" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="192" y="0" type="line"/>
+      <point x="532" y="2048" type="line"/>
+      <point x="596" y="2048" type="line"/>
+      <point x="444" y="1132" type="line"/>
+      <point x="790" y="1132" type="line"/>
+      <point x="1744" y="2048" type="line"/>
+      <point x="1836" y="2048" type="line"/>
+      <point x="816" y="1068" type="line"/>
+      <point x="434" y="1068" type="line"/>
+      <point x="256" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

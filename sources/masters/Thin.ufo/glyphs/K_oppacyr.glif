@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Koppacyr" format="2">
+  <advance width="1666"/>
+  <unicode hex="0480"/>
+  <outline>
+    <contour>
+      <point x="844" y="36" type="qcurve"/>
+      <point x="844" y="-28" type="line"/>
+      <point x="626" y="-28"/>
+      <point x="292" y="162"/>
+      <point x="104" y="534"/>
+      <point x="104" y="808" type="qcurve"/>
+      <point x="104" y="1244" type="line"/>
+      <point x="104" y="1515"/>
+      <point x="293" y="1886"/>
+      <point x="632" y="2076"/>
+      <point x="856" y="2076" type="qcurve"/>
+      <point x="1077" y="2076"/>
+      <point x="1392" y="1905"/>
+      <point x="1560" y="1613"/>
+      <point x="1560" y="1432" type="qcurve"/>
+      <point x="1496" y="1432" type="line"/>
+      <point x="1496" y="1593"/>
+      <point x="1350" y="1857"/>
+      <point x="1067" y="2013"/>
+      <point x="858" y="2012" type="qcurve"/>
+      <point x="647" y="2011"/>
+      <point x="337" y="1835"/>
+      <point x="168" y="1494"/>
+      <point x="168" y="1244" type="qcurve"/>
+      <point x="168" y="808" type="line"/>
+      <point x="168" y="556"/>
+      <point x="335" y="212"/>
+      <point x="639" y="36"/>
+    </contour>
+    <contour>
+      <point x="864" y="36" type="line"/>
+      <point x="864" y="-564" type="line"/>
+      <point x="800" y="-564" type="line"/>
+      <point x="800" y="36" type="line"/>
+    </contour>
+  </outline>
+</glyph>

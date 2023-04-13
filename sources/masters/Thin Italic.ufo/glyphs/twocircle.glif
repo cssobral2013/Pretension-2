@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twocircle" format="2">
+  <advance width="3912"/>
+  <unicode hex="2461"/>
+  <unicode hex="2781"/>
+  <outline>
+    <component base="two" xOffset="1121"/>
+    <component base="enclosingcirclecomb" xOffset="1157"/>
+  </outline>
+</glyph>

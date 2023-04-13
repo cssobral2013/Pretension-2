@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="izhitsacyr" format="2">
+  <advance width="1772"/>
+  <unicode hex="0475"/>
+  <outline>
+    <contour>
+      <point x="16" y="1536" type="line"/>
+      <point x="596" y="1536" type="line"/>
+      <point x="844" y="520" type="line"/>
+      <point x="860" y="520" type="line"/>
+      <point x="1004" y="1108" type="line"/>
+      <point x="1046" y="1279"/>
+      <point x="1227" y="1475"/>
+      <point x="1469" y="1556"/>
+      <point x="1604" y="1556" type="qcurve"/>
+      <point x="1654" y="1556"/>
+      <point x="1729" y="1550"/>
+      <point x="1756" y="1544" type="qcurve"/>
+      <point x="1740" y="1128" type="line"/>
+      <point x="1728" y="1131"/>
+      <point x="1698" y="1136"/>
+      <point x="1672" y="1136" type="qcurve"/>
+      <point x="1581" y="1136"/>
+      <point x="1513" y="1015"/>
+      <point x="1468" y="880" type="qcurve"/>
+      <point x="1172" y="0" type="line"/>
+      <point x="532" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

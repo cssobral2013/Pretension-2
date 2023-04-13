@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adieresismacron" format="2">
+  <advance width="1664"/>
+  <unicode hex="01DF"/>
+  <outline>
+    <component base="a" xOffset="16"/>
+    <component base="uniE10D" xOffset="1842" yOffset="-44"/>
+  </outline>
+</glyph>

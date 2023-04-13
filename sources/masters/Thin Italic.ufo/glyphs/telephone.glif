@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="telephone" format="2">
+  <advance width="1816"/>
+  <unicode hex="2121"/>
+  <outline>
+    <contour>
+      <point x="882" y="1312" type="line"/>
+      <point x="1004" y="2048" type="line"/>
+      <point x="1388" y="2048" type="line"/>
+      <point x="1376" y="1984" type="line"/>
+      <point x="1056" y="1984" type="line"/>
+      <point x="956" y="1376" type="line"/>
+      <point x="1276" y="1376" type="line"/>
+      <point x="1266" y="1312" type="line"/>
+    </contour>
+    <contour>
+      <point x="426" y="1312" type="line"/>
+      <point x="542" y="2016" type="line"/>
+      <point x="606" y="2016" type="line"/>
+      <point x="490" y="1312" type="line"/>
+    </contour>
+    <contour>
+      <point x="312" y="1984" type="line"/>
+      <point x="324" y="2048" type="line"/>
+      <point x="836" y="2048" type="line"/>
+      <point x="824" y="1984" type="line"/>
+    </contour>
+    <contour>
+      <point x="972" y="1664" type="line"/>
+      <point x="982" y="1728" type="line"/>
+      <point x="1270" y="1728" type="line"/>
+      <point x="1260" y="1664" type="line"/>
+    </contour>
+    <contour>
+      <point x="1434" y="1312" type="line"/>
+      <point x="1556" y="2048" type="line"/>
+      <point x="1620" y="2048" type="line"/>
+      <point x="1508" y="1376" type="line"/>
+      <point x="1804" y="1376" type="line"/>
+      <point x="1794" y="1312" type="line"/>
+    </contour>
+  </outline>
+</glyph>

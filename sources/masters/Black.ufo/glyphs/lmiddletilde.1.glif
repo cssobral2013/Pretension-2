@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lmiddletilde.1" format="2">
+  <advance width="988"/>
+  <outline>
+    <component base="l.1" xOffset="87"/>
+    <component base="glyph2010" xOffset="-177"/>
+  </outline>
+</glyph>

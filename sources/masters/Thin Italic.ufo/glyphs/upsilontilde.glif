@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilontilde" format="2">
+  <advance width="1667"/>
+  <unicode hex="1FE6"/>
+  <outline>
+    <component base="upsilon-grek" xOffset="43"/>
+    <component base="tilde-gr" xOffset="251"/>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="llwelsh" format="2">
+  <advance width="996"/>
+  <unicode hex="1EFB"/>
+  <outline>
+    <contour>
+      <point x="1106" y="1688" type="line"/>
+      <point x="1096" y="1624" type="line"/>
+      <point x="188" y="1624" type="line"/>
+      <point x="198" y="1688" type="line"/>
+    </contour>
+    <contour>
+      <point x="578" y="2048" type="line"/>
+      <point x="238" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="514" y="2048" type="line"/>
+    </contour>
+    <contour>
+      <point x="886" y="2048" type="line"/>
+      <point x="546" y="0" type="line"/>
+      <point x="482" y="0" type="line"/>
+      <point x="822" y="2048" type="line"/>
+    </contour>
+  </outline>
+</glyph>

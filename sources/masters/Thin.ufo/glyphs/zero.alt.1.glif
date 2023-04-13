@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.alt.1" format="2">
+  <advance width="1660"/>
+  <unicode hex="E07B"/>
+  <outline>
+    <component base="zero.ss02" xOffset="-1"/>
+  </outline>
+</glyph>

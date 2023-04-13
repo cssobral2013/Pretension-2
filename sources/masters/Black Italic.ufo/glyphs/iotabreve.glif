@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotabreve" format="2">
+  <advance width="994"/>
+  <unicode hex="1FD0"/>
+  <outline>
+    <component base="iota" xOffset="8"/>
+    <component base="breve" xOffset="-244"/>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minus.alt" format="2">
+  <advance width="1124"/>
+  <unicode hex="E0C9"/>
+  <outline>
+    <component base="minus.numr" xOffset="-227" yOffset="-1368"/>
+  </outline>
+</glyph>

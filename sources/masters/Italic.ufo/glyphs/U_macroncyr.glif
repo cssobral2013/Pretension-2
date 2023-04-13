@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Umacroncyr" format="2">
+  <advance width="1764"/>
+  <unicode hex="04EE"/>
+  <outline>
+    <component base="Ucyr" xOffset="-1"/>
+    <component base="macron" xOffset="331" yOffset="512"/>
+  </outline>
+</glyph>

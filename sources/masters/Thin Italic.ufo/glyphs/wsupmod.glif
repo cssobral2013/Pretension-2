@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wsupmod" format="2">
+  <advance width="1492"/>
+  <unicode hex="02B7"/>
+  <outline>
+    <contour>
+      <point x="440" y="1024" type="line"/>
+      <point x="304" y="2048" type="line"/>
+      <point x="368" y="2048" type="line"/>
+      <point x="488" y="1112" type="line"/>
+      <point x="492" y="1112" type="line"/>
+      <point x="924" y="2048" type="line"/>
+      <point x="988" y="2048" type="line"/>
+      <point x="1108" y="1112" type="line"/>
+      <point x="1116" y="1112" type="line"/>
+      <point x="1544" y="2048" type="line"/>
+      <point x="1612" y="2048" type="line"/>
+      <point x="1136" y="1024" type="line"/>
+      <point x="1060" y="1024" type="line"/>
+      <point x="940" y="1940" type="line"/>
+      <point x="936" y="1940" type="line"/>
+      <point x="512" y="1024" type="line"/>
+    </contour>
+  </outline>
+</glyph>

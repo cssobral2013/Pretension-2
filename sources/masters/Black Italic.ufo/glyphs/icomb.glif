@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icomb" format="2">
+  <unicode hex="0365"/>
+  <outline>
+    <contour>
+      <point x="-536" y="2412" type="line"/>
+      <point x="-660" y="1652" type="line"/>
+      <point x="-908" y="1652" type="line"/>
+      <point x="-784" y="2412" type="line"/>
+    </contour>
+    <contour>
+      <point x="-768" y="2612" type="qcurve"/>
+      <point x="-760" y="2666"/>
+      <point x="-670" y="2732"/>
+      <point x="-612" y="2732" type="qcurve"/>
+      <point x="-550" y="2732"/>
+      <point x="-484" y="2663"/>
+      <point x="-492" y="2612" type="qcurve"/>
+      <point x="-502" y="2558"/>
+      <point x="-590" y="2488"/>
+      <point x="-652" y="2488" type="qcurve"/>
+      <point x="-710" y="2488"/>
+      <point x="-778" y="2558"/>
+    </contour>
+  </outline>
+</glyph>

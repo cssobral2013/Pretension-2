@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotabreve.1" format="2">
+  <advance width="704"/>
+  <outline>
+    <component base="I.1" xOffset="-1"/>
+    <component base="breve" xOffset="-149" yOffset="512"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alpha_rhotichookmod" format="2">
+  <advance width="1775"/>
+  <unicode hex="E10A"/>
+  <outline>
+    <component base="alpha" xOffset="25"/>
+    <component base="rhotichookmod" xOffset="1413" yOffset="-104"/>
+  </outline>
+</glyph>

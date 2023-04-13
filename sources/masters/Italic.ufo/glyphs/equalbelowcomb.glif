@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equalbelowcomb" format="2">
+  <unicode hex="0347"/>
+  <outline>
+    <component base="equal.inferior" xOffset="-1561" yOffset="-720"/>
+  </outline>
+</glyph>

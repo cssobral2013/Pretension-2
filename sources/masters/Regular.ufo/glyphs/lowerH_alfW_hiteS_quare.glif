@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lowerHalfWhiteSquare" format="2">
+  <advance width="2576"/>
+  <unicode hex="2B12"/>
+  <outline>
+    <contour>
+      <point x="364" y="1440" type="line"/>
+      <point x="2202" y="1440" type="line"/>
+      <point x="2202" y="1240" type="line"/>
+      <point x="364" y="1240" type="line"/>
+    </contour>
+    <contour>
+      <point x="584" y="0" type="line"/>
+      <point x="428" y="0"/>
+      <point x="264" y="164"/>
+      <point x="264" y="320" type="qcurve"/>
+      <point x="264" y="1728" type="line"/>
+      <point x="264" y="1884"/>
+      <point x="428" y="2048"/>
+      <point x="584" y="2048" type="qcurve"/>
+      <point x="1992" y="2048" type="line"/>
+      <point x="2148" y="2048"/>
+      <point x="2312" y="1884"/>
+      <point x="2312" y="1728" type="qcurve"/>
+      <point x="2312" y="320" type="line"/>
+      <point x="2312" y="164"/>
+      <point x="2148" y="0"/>
+      <point x="1992" y="0" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="584" y="220" type="qcurve"/>
+      <point x="1992" y="220" type="line"/>
+      <point x="2056" y="220"/>
+      <point x="2092" y="256"/>
+      <point x="2092" y="320" type="qcurve"/>
+      <point x="2092" y="1728" type="line"/>
+      <point x="2092" y="1792"/>
+      <point x="2056" y="1828"/>
+      <point x="1992" y="1828" type="qcurve"/>
+      <point x="584" y="1828" type="line"/>
+      <point x="520" y="1828"/>
+      <point x="484" y="1792"/>
+      <point x="484" y="1728" type="qcurve"/>
+      <point x="484" y="320" type="line"/>
+      <point x="484" y="256"/>
+      <point x="520" y="220"/>
+    </contour>
+  </outline>
+</glyph>

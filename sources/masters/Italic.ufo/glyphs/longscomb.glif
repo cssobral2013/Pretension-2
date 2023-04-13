@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longscomb" format="2">
+  <unicode hex="1DE5"/>
+  <outline>
+    <contour>
+      <point x="-580" y="1652" type="line"/>
+      <point x="-760" y="1652" type="line"/>
+      <point x="-624" y="2488" type="line"/>
+      <point x="-600" y="2623"/>
+      <point x="-419" y="2760"/>
+      <point x="-308" y="2760" type="qcurve"/>
+      <point x="-284" y="2760"/>
+      <point x="-240" y="2754"/>
+      <point x="-204" y="2748" type="qcurve"/>
+      <point x="-248" y="2608" type="line"/>
+      <point x="-263" y="2611"/>
+      <point x="-294" y="2616"/>
+      <point x="-312" y="2616" type="qcurve"/>
+      <point x="-354" y="2616"/>
+      <point x="-432" y="2554"/>
+      <point x="-444" y="2488" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

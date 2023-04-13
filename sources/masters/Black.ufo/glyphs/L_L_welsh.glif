@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LLwelsh" format="2">
+  <advance width="2940"/>
+  <unicode hex="1EFA"/>
+  <outline>
+    <component base="L" xOffset="131"/>
+    <component base="L" xOffset="871"/>
+  </outline>
+</glyph>

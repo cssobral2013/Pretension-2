@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tretroflexhook" format="2">
+  <advance width="1728"/>
+  <unicode hex="01AE"/>
+  <outline>
+    <contour>
+      <point x="768" y="0" type="line"/>
+      <point x="728" y="-232" type="line"/>
+      <point x="704" y="-373"/>
+      <point x="791" y="-508"/>
+      <point x="898" y="-508" type="qcurve"/>
+      <point x="972" y="-508" type="line"/>
+      <point x="960" y="-572" type="line"/>
+      <point x="880" y="-572" type="line"/>
+      <point x="815" y="-572"/>
+      <point x="721" y="-528"/>
+      <point x="665" y="-442"/>
+      <point x="650" y="-315"/>
+      <point x="664" y="-232" type="qcurve"/>
+      <point x="704" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="372" y="1984" type="line"/>
+      <point x="384" y="2048" type="line"/>
+      <point x="1768" y="2048" type="line"/>
+      <point x="1756" y="1984" type="line"/>
+      <point x="1096" y="1984" type="line"/>
+      <point x="768" y="0" type="line"/>
+      <point x="704" y="0" type="line"/>
+      <point x="1032" y="1984" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rmacrondot.1" format="2">
+  <advance width="1175"/>
+  <outline>
+    <component base="r.1" xOffset="-31"/>
+    <component base="dotbelowcomb" xOffset="1127"/>
+    <component base="macron" xOffset="-271"/>
+  </outline>
+</glyph>
