@@ -8,6 +8,8 @@ Copyright (c) 2016-2020 The Inter Project Authors
 (https://github.com/rsms/inter)
 Copyright (c) 2022 The Inter-Derp Project Authors
 (https://github.com/Derpitron/inter-derp/)
+Copyright (c) 2023 The Pretendard Project Authors
+(https://github.com/orioncactus/Pretendard)
  
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
