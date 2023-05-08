@@ -3,7 +3,7 @@ Copyright (c) 2022-2023 The Pretension Two Project Authors
 
 Portions are:
 
-Copyright (c) 2016-2020 The Inter Project Authors
+Copyright (c) 2016-2023 The Inter Project Authors
 "Inter" is trademark of Rasmus Andersson
 (https://github.com/rsms/inter)
 Copyright (c) 2022 The Inter-Derp Project Authors
