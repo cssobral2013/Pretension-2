@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni040F" format="2">
+  <advance width="1462"/>
+  <unicode hex="040F"/>
+  <anchor x="809" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <component base="uni041F.turn"/>
+    <component base="_part.cyrtic_center" xOffset="646"/>
+  </outline>
+</glyph>

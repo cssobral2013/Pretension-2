@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="carondot.lc" format="2">
+  <advance width="828"/>
+  <outline>
+    <contour>
+      <point x="270" y="1535" type="line"/>
+      <point x="414" y="1359" type="line"/>
+      <point x="556" y="1535" type="line"/>
+      <point x="728" y="1535" type="line"/>
+      <point x="728" y="1526" type="line"/>
+      <point x="496" y="1261" type="line"/>
+      <point x="330" y="1261" type="line"/>
+      <point x="100" y="1526" type="line"/>
+      <point x="100" y="1535" type="line"/>
+    </contour>
+    <contour>
+      <point x="414" y="1601" type="qcurve" smooth="yes"/>
+      <point x="364" y="1601"/>
+      <point x="292" y="1669"/>
+      <point x="292" y="1717" type="qcurve" smooth="yes"/>
+      <point x="292" y="1765"/>
+      <point x="364" y="1833"/>
+      <point x="414" y="1833" type="qcurve" smooth="yes"/>
+      <point x="464" y="1833"/>
+      <point x="536" y="1765"/>
+      <point x="536" y="1717" type="qcurve" smooth="yes"/>
+      <point x="536" y="1669"/>
+      <point x="464" y="1601"/>
+    </contour>
+  </outline>
+</glyph>

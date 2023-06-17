@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexacutecomb.cn" format="2">
+  <advance width="833"/>
+  <anchor x="758" y="2084" name="m.uni030F_1"/>
+  <outline>
+    <contour>
+      <point x="387" y="1255" type="line"/>
+      <point x="217" y="1255" type="line"/>
+      <point x="219" y="1264" type="line"/>
+      <point x="493" y="1529" type="line"/>
+      <point x="659" y="1529" type="line"/>
+      <point x="847" y="1264" type="line"/>
+      <point x="845" y="1255" type="line"/>
+      <point x="673" y="1255" type="line"/>
+      <point x="561" y="1431" type="line"/>
+    </contour>
+    <contour>
+      <point x="733" y="1616" type="line"/>
+      <point x="919" y="1890" type="line"/>
+      <point x="1113" y="1890" type="line"/>
+      <point x="875" y="1616" type="line"/>
+    </contour>
+  </outline>
+</glyph>

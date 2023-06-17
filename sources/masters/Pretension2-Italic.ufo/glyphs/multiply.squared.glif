@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiply.squared" format="2">
+  <advance width="2828"/>
+  <unicode hex="E157"/>
+  <outline>
+    <component base="uni2B1C"/>
+    <component base="multiply" xOffset="767" yOffset="168"/>
+  </outline>
+</glyph>

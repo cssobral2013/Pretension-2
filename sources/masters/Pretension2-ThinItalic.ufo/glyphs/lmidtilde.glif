@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lmidtilde" format="2">
+  <advance width="442"/>
+  <unicode hex="026B"/>
+  <anchor x="264" y="0" name="m.uni0326"/>
+  <anchor x="508" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <component base="l"/>
+    <component base="_tildecross.cn" xOffset="-114"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="addresssubject" format="2">
+  <advance width="1637"/>
+  <unicode hex="2101"/>
+  <outline>
+    <component base="a.sups"/>
+    <component base="fraction" xOffset="744"/>
+    <component base="s.sups" xOffset="959" yOffset="-744"/>
+  </outline>
+</glyph>

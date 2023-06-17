@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.dnom" format="2">
+  <advance width="760"/>
+  <unicode hex="E0B6"/>
+  <outline>
+    <contour>
+      <point x="108" y="0" type="line"/>
+      <point x="108" y="34" type="line"/>
+      <point x="396" y="332" type="line" smooth="yes"/>
+      <point x="492" y="430"/>
+      <point x="564" y="537"/>
+      <point x="564" y="594" type="qcurve" smooth="yes"/>
+      <point x="564" y="665"/>
+      <point x="452" y="760"/>
+      <point x="366" y="760" type="qcurve" smooth="yes"/>
+      <point x="277" y="760"/>
+      <point x="166" y="660"/>
+      <point x="166" y="588" type="qcurve"/>
+      <point x="120" y="588" type="line"/>
+      <point x="119" y="680"/>
+      <point x="260" y="802"/>
+      <point x="366" y="802" type="qcurve" smooth="yes"/>
+      <point x="469" y="802"/>
+      <point x="608" y="683"/>
+      <point x="608" y="594" type="qcurve" smooth="yes"/>
+      <point x="608" y="550"/>
+      <point x="574" y="470"/>
+      <point x="494" y="371"/>
+      <point x="424" y="300" type="qcurve" smooth="yes"/>
+      <point x="174" y="46" type="line"/>
+      <point x="174" y="44" type="line"/>
+      <point x="652" y="44" type="line"/>
+      <point x="652" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

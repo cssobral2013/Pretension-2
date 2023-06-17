@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pipedblbar" format="2">
+  <advance width="444"/>
+  <unicode hex="01C2"/>
+  <outline>
+    <component base="pipe" xOffset="32"/>
+    <component base="crossbar" xOffset="-152" yOffset="296"/>
+    <component base="crossbar" xOffset="-240" yOffset="-230"/>
+  </outline>
+</glyph>

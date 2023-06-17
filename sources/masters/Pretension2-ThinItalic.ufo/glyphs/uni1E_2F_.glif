@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E2F" format="2">
+  <advance width="443"/>
+  <unicode hex="1E2F"/>
+  <anchor x="267" y="0" name="m.uni0326"/>
+  <anchor x="468" y="1242" name="m.uni030F_1"/>
+  <anchor x="456" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="dieresisacutecomb.lc" xOffset="-361"/>
+  </outline>
+</glyph>

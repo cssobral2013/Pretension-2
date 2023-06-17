@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="romanfour" format="2">
+  <advance width="1942"/>
+  <unicode hex="2163"/>
+  <anchor x="487" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="I"/>
+    <component base="V" xOffset="540"/>
+  </outline>
+</glyph>

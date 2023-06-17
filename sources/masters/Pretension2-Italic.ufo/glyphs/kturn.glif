@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kturn" format="2">
+  <advance width="1114"/>
+  <unicode hex="029E"/>
+  <anchor x="730" y="1180" name="m.uni0326"/>
+  <anchor x="718" y="1180" name="m.uni030F_1"/>
+  <outline>
+    <contour>
+      <point x="821" y="710" type="line"/>
+      <point x="786" y="498" type="line"/>
+      <point x="754" y="498" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="-28" y="0" type="line"/>
+      <point x="579" y="528" type="line"/>
+      <point x="595" y="528" type="line"/>
+    </contour>
+    <contour>
+      <point x="1049" y="1118" type="line"/>
+      <point x="802" y="-372" type="line"/>
+      <point x="632" y="-372" type="line"/>
+      <point x="879" y="1118" type="line"/>
+    </contour>
+    <contour>
+      <point x="341" y="1118" type="line"/>
+      <point x="686" y="566" type="line"/>
+      <point x="544" y="446" type="line"/>
+      <point x="121" y="1118" type="line"/>
+    </contour>
+  </outline>
+</glyph>

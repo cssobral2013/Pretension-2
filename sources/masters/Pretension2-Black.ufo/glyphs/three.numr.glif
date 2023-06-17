@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.numr" format="2">
+  <advance width="890"/>
+  <unicode hex="E0DF"/>
+  <outline>
+    <component base="three.dnom" yOffset="698"/>
+  </outline>
+</glyph>

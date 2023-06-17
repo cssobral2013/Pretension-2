@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="triagrt" format="2">
+  <advance width="1874"/>
+  <unicode hex="25B6"/>
+  <unicode hex="25BA"/>
+  <outline>
+    <contour>
+      <point x="192" y="-186" type="line"/>
+      <point x="192" y="1676" type="line"/>
+      <point x="1774" y="744" type="line"/>
+    </contour>
+  </outline>
+</glyph>

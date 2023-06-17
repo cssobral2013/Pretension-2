@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kacyr" format="2">
+  <advance width="1555"/>
+  <unicode hex="041A"/>
+  <anchor x="710" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <contour>
+      <point x="96" y="0" type="line"/>
+      <point x="96" y="1490" type="line"/>
+      <point x="500" y="1490" type="line"/>
+      <point x="500" y="922" type="line"/>
+      <point x="640" y="922" type="line"/>
+      <point x="1009" y="1490" type="line"/>
+      <point x="1483" y="1490" type="line"/>
+      <point x="975" y="762" type="line"/>
+      <point x="1509" y="0" type="line"/>
+      <point x="1035" y="0" type="line"/>
+      <point x="632" y="602" type="line"/>
+      <point x="500" y="602" type="line"/>
+      <point x="500" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

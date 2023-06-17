@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot" format="2">
+  <advance width="654"/>
+  <unicode hex="0140"/>
+  <anchor x="268" y="0" name="m.uni0326"/>
+  <anchor x="981" y="994" name="m.uni030F_1"/>
+  <outline>
+    <component base="l"/>
+    <component base="uni0307" xOffset="212" yOffset="-588"/>
+  </outline>
+</glyph>

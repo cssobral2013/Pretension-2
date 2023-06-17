@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01BB" format="2">
+  <advance width="1325"/>
+  <unicode hex="01BB"/>
+  <anchor x="900" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <component base="two"/>
+    <component base="crossbar.uc" xOffset="261" yOffset="-72"/>
+  </outline>
+</glyph>

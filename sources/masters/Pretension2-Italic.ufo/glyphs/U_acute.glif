@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uacute" format="2">
+  <advance width="1518"/>
+  <unicode hex="00DA"/>
+  <anchor x="637" y="0" name="m.uni0326"/>
+  <anchor x="958" y="1926" name="m.uni030F_1"/>
+  <anchor x="1390" y="548" name="m.uni0328_4"/>
+  <outline>
+    <component base="U"/>
+    <component base="acutecomb" xOffset="697" yOffset="372"/>
+  </outline>
+</glyph>

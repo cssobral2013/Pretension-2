@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aringogonek" format="2">
+  <advance width="1322"/>
+  <unicode hex="EE04"/>
+  <anchor x="637" y="0" name="m.uni0326"/>
+  <anchor x="812" y="1118" name="m.uni030F_1"/>
+  <anchor x="1235" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="a"/>
+    <component base="uni030A" xOffset="235"/>
+    <component base="uni0328" xOffset="690"/>
+  </outline>
+</glyph>

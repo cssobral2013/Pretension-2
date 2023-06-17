@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gbar" format="2">
+  <advance width="1512"/>
+  <unicode hex="01E4"/>
+  <anchor x="646" y="0" name="m.uni0326"/>
+  <anchor x="907" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <component base="G"/>
+    <component base="_part.crossbar_compact_rext" xOffset="575" yOffset="-368"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uring.1" format="2">
+  <advance width="1197"/>
+  <anchor x="685" y="0" name="m.uni0326"/>
+  <anchor x="891" y="1242" name="m.uni030F_1"/>
+  <anchor x="1378" y="458" name="m.uni0328_4"/>
+  <outline>
+    <component base="u.1"/>
+    <component base="uni030A" xOffset="358"/>
+  </outline>
+</glyph>

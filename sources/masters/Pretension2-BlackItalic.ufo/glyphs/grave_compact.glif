@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave_compact" format="2">
+  <advance width="822"/>
+  <anchor x="829" y="1574" name="m.uni030F_1"/>
+  <outline>
+    <contour>
+      <point x="503" y="1256" type="line"/>
+      <point x="339" y="1582" type="line"/>
+      <point x="683" y="1582" type="line"/>
+      <point x="767" y="1256" type="line"/>
+    </contour>
+  </outline>
+</glyph>

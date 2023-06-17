@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe.sc" format="2">
+  <advance width="1684"/>
+  <outline>
+    <contour>
+      <point x="592" y="0" type="line" smooth="yes"/>
+      <point x="444" y="0"/>
+      <point x="225" y="149"/>
+      <point x="104" y="399"/>
+      <point x="104" y="551" type="qcurve" smooth="yes"/>
+      <point x="104" y="567" type="line" smooth="yes"/>
+      <point x="104" y="719"/>
+      <point x="224" y="969"/>
+      <point x="441" y="1118"/>
+      <point x="588" y="1118" type="qcurve" smooth="yes"/>
+      <point x="922" y="1118" type="line"/>
+      <point x="922" y="964" type="line"/>
+      <point x="580" y="964" type="line" smooth="yes"/>
+      <point x="486" y="964"/>
+      <point x="350" y="854"/>
+      <point x="276" y="674"/>
+      <point x="276" y="567" type="qcurve" smooth="yes"/>
+      <point x="276" y="551" type="line" smooth="yes"/>
+      <point x="276" y="445"/>
+      <point x="351" y="264"/>
+      <point x="489" y="154"/>
+      <point x="584" y="154" type="qcurve" smooth="yes"/>
+      <point x="922" y="154" type="line"/>
+      <point x="922" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="940" y="0" type="line"/>
+      <point x="940" y="154" type="line"/>
+      <point x="1574" y="154" type="line"/>
+      <point x="1574" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="816" y="0" type="line"/>
+      <point x="816" y="1118" type="line"/>
+      <point x="986" y="1118" type="line"/>
+      <point x="986" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="940" y="493" type="line"/>
+      <point x="940" y="645" type="line"/>
+      <point x="1488" y="645" type="line"/>
+      <point x="1488" y="493" type="line"/>
+    </contour>
+    <contour>
+      <point x="940" y="964" type="line"/>
+      <point x="940" y="1118" type="line"/>
+      <point x="1574" y="1118" type="line"/>
+      <point x="1574" y="964" type="line"/>
+    </contour>
+  </outline>
+</glyph>

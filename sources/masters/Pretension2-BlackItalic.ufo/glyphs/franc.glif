@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="franc" format="2">
+  <advance width="1276"/>
+  <unicode hex="20A3"/>
+  <anchor x="200" y="0" name="m.uni0326"/>
+  <anchor x="771" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <component base="F" xOffset="80"/>
+    <component base="_part.crossbar_compact" xOffset="-136" yOffset="-495"/>
+  </outline>
+</glyph>

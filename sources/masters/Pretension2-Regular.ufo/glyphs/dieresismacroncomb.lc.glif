@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresismacroncomb.lc" format="2">
+  <advance width="1200"/>
+  <unicode hex="E10D"/>
+  <outline>
+    <contour>
+      <point x="809" y="1276" type="qcurve" smooth="yes"/>
+      <point x="761" y="1276"/>
+      <point x="693" y="1344"/>
+      <point x="693" y="1392" type="qcurve" smooth="yes"/>
+      <point x="693" y="1440"/>
+      <point x="761" y="1508"/>
+      <point x="809" y="1508" type="qcurve" smooth="yes"/>
+      <point x="857" y="1508"/>
+      <point x="925" y="1440"/>
+      <point x="925" y="1392" type="qcurve" smooth="yes"/>
+      <point x="925" y="1344"/>
+      <point x="857" y="1276"/>
+    </contour>
+    <contour>
+      <point x="391" y="1276" type="qcurve" smooth="yes"/>
+      <point x="343" y="1276"/>
+      <point x="275" y="1344"/>
+      <point x="275" y="1392" type="qcurve" smooth="yes"/>
+      <point x="275" y="1440"/>
+      <point x="343" y="1508"/>
+      <point x="391" y="1508" type="qcurve" smooth="yes"/>
+      <point x="439" y="1508"/>
+      <point x="507" y="1440"/>
+      <point x="507" y="1392" type="qcurve" smooth="yes"/>
+      <point x="507" y="1344"/>
+      <point x="439" y="1276"/>
+    </contour>
+    <contour>
+      <point x="876" y="1779" type="line"/>
+      <point x="876" y="1655" type="line"/>
+      <point x="324" y="1655" type="line"/>
+      <point x="324" y="1779" type="line"/>
+    </contour>
+  </outline>
+</glyph>

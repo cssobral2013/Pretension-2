@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mcapturn" format="2">
+  <advance width="1850"/>
+  <unicode hex="019C"/>
+  <outline>
+    <contour>
+      <point x="1486" y="212" type="line"/>
+      <point x="1486" y="1490" type="line"/>
+      <point x="1684" y="1490" type="line"/>
+      <point x="1684" y="0" type="line"/>
+      <point x="1496" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1502" y="504" type="qcurve"/>
+      <point x="1594" y="506" type="line"/>
+      <point x="1594" y="355"/>
+      <point x="1511" y="117"/>
+      <point x="1330" y="-20"/>
+      <point x="1182" y="-20" type="qcurve" smooth="yes"/>
+      <point x="1076" y="-20"/>
+      <point x="915" y="66"/>
+      <point x="826" y="268"/>
+      <point x="826" y="442" type="qcurve" smooth="yes"/>
+      <point x="826" y="1490" type="line"/>
+      <point x="1024" y="1490" type="line"/>
+      <point x="1024" y="442" type="line" smooth="yes"/>
+      <point x="1024" y="323"/>
+      <point x="1080" y="195"/>
+      <point x="1167" y="146"/>
+      <point x="1214" y="146" type="qcurve" smooth="yes"/>
+      <point x="1321" y="146"/>
+      <point x="1447" y="241"/>
+      <point x="1502" y="404"/>
+    </contour>
+    <contour>
+      <point x="844" y="504" type="qcurve"/>
+      <point x="936" y="506" type="line"/>
+      <point x="937" y="355"/>
+      <point x="852" y="117"/>
+      <point x="669" y="-20"/>
+      <point x="520" y="-20" type="qcurve" smooth="yes"/>
+      <point x="413" y="-20"/>
+      <point x="253" y="67"/>
+      <point x="166" y="269"/>
+      <point x="166" y="442" type="qcurve" smooth="yes"/>
+      <point x="166" y="1490" type="line"/>
+      <point x="366" y="1490" type="line"/>
+      <point x="366" y="442" type="line"/>
+      <point x="367" y="323"/>
+      <point x="421" y="195"/>
+      <point x="506" y="146"/>
+      <point x="552" y="146" type="qcurve" smooth="yes"/>
+      <point x="660" y="146"/>
+      <point x="788" y="241"/>
+      <point x="844" y="404"/>
+    </contour>
+  </outline>
+</glyph>

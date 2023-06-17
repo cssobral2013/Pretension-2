@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowupdn" format="2">
+  <advance width="1954"/>
+  <unicode hex="2195"/>
+  <outline>
+    <contour>
+      <point x="978" y="-446" type="line"/>
+      <point x="326" y="206" type="line"/>
+      <point x="360" y="240" type="line"/>
+      <point x="954" y="-356" type="line"/>
+      <point x="954" y="1634" type="line"/>
+      <point x="360" y="1038" type="line"/>
+      <point x="326" y="1070" type="line"/>
+      <point x="978" y="1722" type="line"/>
+      <point x="1630" y="1070" type="line"/>
+      <point x="1598" y="1038" type="line"/>
+      <point x="1000" y="1634" type="line"/>
+      <point x="1000" y="-356" type="line"/>
+      <point x="1598" y="240" type="line"/>
+      <point x="1630" y="206" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dong" format="2">
+  <advance width="1246"/>
+  <unicode hex="20AB"/>
+  <anchor x="516" y="1388" name="m.uni030F_1"/>
+  <outline>
+    <component base="d"/>
+    <component base="crossbar" xOffset="458" yOffset="559"/>
+    <component base="underscore" xOffset="158" yOffset="-222"/>
+  </outline>
+</glyph>
