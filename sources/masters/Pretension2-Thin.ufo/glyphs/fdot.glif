@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fdot" format="2">
+  <advance width="602"/>
+  <unicode hex="1E1F"/>
+  <anchor x="447" y="0" name="m.uni0326"/>
+  <anchor x="498" y="2017" name="m.uni030F_1"/>
+  <outline>
+    <component base="f"/>
+    <component base="dotaccentcomb" xOffset="162" yOffset="434"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gehookstrokecyr" format="2">
+  <advance width="896"/>
+  <unicode hex="04FB"/>
+  <anchor x="554" y="1180" name="m.uni030F_1"/>
+  <outline>
+    <component base="gecyr"/>
+    <component base="crossbar" xOffset="-132" yOffset="-187"/>
+    <component base="_part.cyrtic_hook" xOffset="26"/>
+  </outline>
+</glyph>

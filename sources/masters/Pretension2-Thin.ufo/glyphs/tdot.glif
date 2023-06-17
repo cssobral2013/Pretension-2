@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tdot" format="2">
+  <advance width="492"/>
+  <unicode hex="1E6B"/>
+  <anchor x="382" y="0" name="m.uni0326"/>
+  <anchor x="265" y="1805" name="m.uni030F_1"/>
+  <anchor x="469" y="0" name="m.uni0327_3"/>
+  <outline>
+    <component base="t"/>
+    <component base="dotaccentcomb" xOffset="11" yOffset="266"/>
+  </outline>
+</glyph>

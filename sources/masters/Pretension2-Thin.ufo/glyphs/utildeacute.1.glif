@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="utildeacute.1" format="2">
+  <advance width="1196"/>
+  <anchor x="789" y="0" name="m.uni0326"/>
+  <anchor x="789" y="1242" name="m.uni030F_1"/>
+  <anchor x="1404" y="458" name="m.uni0328_4"/>
+  <outline>
+    <component base="u.1"/>
+    <component base="tildeacute.lc" xOffset="94"/>
+  </outline>
+</glyph>

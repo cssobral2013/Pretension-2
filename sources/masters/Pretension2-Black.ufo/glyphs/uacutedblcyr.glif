@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uacutedblcyr" format="2">
+  <advance width="1302"/>
+  <unicode hex="04F3"/>
+  <anchor x="1084" y="0" name="m.uni0326"/>
+  <anchor x="678" y="1118" name="m.uni030F_1"/>
+  <anchor x="996" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="y"/>
+    <component base="hungarumlaut" xOffset="169"/>
+  </outline>
+</glyph>

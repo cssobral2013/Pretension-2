@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.romansmall" format="2">
+  <advance width="1478"/>
+  <unicode hex="2175"/>
+  <anchor x="1968" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="v" xOffset="-12"/>
+    <component base="dotlessi" xOffset="984"/>
+    <component base="dotaccentcomb" xOffset="984"/>
+  </outline>
+</glyph>

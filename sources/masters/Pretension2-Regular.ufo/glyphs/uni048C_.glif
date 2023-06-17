@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni048C" format="2">
-  <advance width="1402"/>
-  <unicode hex="048C"/>
-  <outline>
-    <component base="uni042C" xOffset="80"/>
-    <component base="crossbar.uc" xOffset="-31" yOffset="431"/>
-  </outline>
-</glyph>

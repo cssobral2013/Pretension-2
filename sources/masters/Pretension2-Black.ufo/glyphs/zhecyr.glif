@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhecyr" format="2">
+  <advance width="1864"/>
+  <unicode hex="0436"/>
+  <anchor x="972" y="1118" name="m.uni030F_1"/>
+  <outline>
+    <contour>
+      <point x="23" y="0" type="line"/>
+      <point x="373" y="590" type="line"/>
+      <point x="23" y="1118" type="line"/>
+      <point x="477" y="1118" type="line"/>
+      <point x="713" y="706" type="line"/>
+      <point x="731" y="706" type="line"/>
+      <point x="731" y="1118" type="line"/>
+      <point x="1133" y="1118" type="line"/>
+      <point x="1133" y="706" type="line"/>
+      <point x="1151" y="706" type="line"/>
+      <point x="1387" y="1118" type="line"/>
+      <point x="1841" y="1118" type="line"/>
+      <point x="1491" y="590" type="line"/>
+      <point x="1841" y="0" type="line"/>
+      <point x="1375" y="0" type="line"/>
+      <point x="1149" y="408" type="line"/>
+      <point x="1133" y="408" type="line"/>
+      <point x="1133" y="0" type="line"/>
+      <point x="731" y="0" type="line"/>
+      <point x="731" y="408" type="line"/>
+      <point x="715" y="408" type="line"/>
+      <point x="489" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

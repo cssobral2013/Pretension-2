@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ihoi.1" format="2">
+  <advance width="894"/>
+  <unicode hex="E01C"/>
+  <anchor x="602" y="0" name="m.uni0326"/>
+  <anchor x="602" y="1490" name="m.uni030F_1"/>
+  <anchor x="1174" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="I.1"/>
+    <component base="hookabovecomb" xOffset="182" yOffset="372"/>
+  </outline>
+</glyph>

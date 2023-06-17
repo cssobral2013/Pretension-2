@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kturned" format="2">
+  <advance width="1114"/>
+  <unicode hex="029E"/>
+  <anchor x="916" y="-372" name="m.uni0326"/>
+  <anchor x="602" y="1180" name="m.uni030F_1"/>
+  <outline>
+    <contour>
+      <point x="796" y="710" type="line"/>
+      <point x="796" y="498" type="line"/>
+      <point x="764" y="498" type="line"/>
+      <point x="276" y="0" type="line"/>
+      <point x="64" y="0" type="line"/>
+      <point x="584" y="528" type="line"/>
+      <point x="600" y="528" type="line"/>
+    </contour>
+    <contour>
+      <point x="956" y="1118" type="line"/>
+      <point x="956" y="-372" type="line"/>
+      <point x="786" y="-372" type="line"/>
+      <point x="786" y="1118" type="line"/>
+    </contour>
+    <contour>
+      <point x="248" y="1118" type="line"/>
+      <point x="684" y="566" type="line"/>
+      <point x="562" y="446" type="line"/>
+      <point x="28" y="1118" type="line"/>
+    </contour>
+  </outline>
+</glyph>

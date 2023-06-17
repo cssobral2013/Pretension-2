@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E5B" format="2">
-  <advance width="889"/>
+  <advance width="916"/>
   <unicode hex="1E5B"/>
-  <anchor x="238" y="0" name="m.uni0326"/>
+  <anchor x="238" y="-0" name="m.uni0326"/>
   <anchor x="671" y="1118" name="m.uni030F_1"/>
   <outline>
     <component base="r"/>
     <component base="uni0307" xOffset="-311" yOffset="-1714"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>r</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>r</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sdotbelowdotabove" format="2">
+  <advance width="1070"/>
+  <unicode hex="1E69"/>
+  <anchor x="725" y="0" name="m.uni0326"/>
+  <anchor x="720" y="1610" name="m.uni030F_1"/>
+  <anchor x="697" y="0" name="m.uni0327_3"/>
+  <outline>
+    <component base="s"/>
+    <component base="dotaccentcomb" xOffset="304" yOffset="-1722"/>
+    <component base="dotaccentcomb" xOffset="304"/>
+  </outline>
+</glyph>

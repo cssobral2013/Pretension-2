@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onefifth" format="2">
+  <advance width="1570"/>
+  <unicode hex="2155"/>
+  <outline>
+    <component base="one.dnom" yOffset="698"/>
+    <component base="fraction" xOffset="582"/>
+    <component base="five.dnom" xOffset="858"/>
+  </outline>
+</glyph>

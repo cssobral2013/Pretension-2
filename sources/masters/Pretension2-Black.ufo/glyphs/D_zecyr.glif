@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dzecyr" format="2">
+  <advance width="1364"/>
+  <unicode hex="0405"/>
+  <anchor x="692" y="0" name="m.uni0326"/>
+  <anchor x="701" y="1490" name="m.uni030F_1"/>
+  <anchor x="685" y="0" name="m.uni0327_3"/>
+  <outline>
+    <component base="S"/>
+  </outline>
+</glyph>

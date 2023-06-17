@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ylongdieresiscyr" format="2">
+  <advance width="1278"/>
+  <unicode hex="04F9"/>
+  <anchor x="1327" y="0" name="m.uni0326"/>
+  <anchor x="841" y="1587" name="m.uni030F_1"/>
+  <anchor x="1516" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="softcyr"/>
+    <component base="dotlessi" xOffset="836"/>
+    <component base="dieresiscomb" xOffset="57"/>
+  </outline>
+</glyph>

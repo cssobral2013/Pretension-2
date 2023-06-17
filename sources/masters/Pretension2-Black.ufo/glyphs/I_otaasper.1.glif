@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotaasper.1" format="2">
+  <advance width="1324"/>
+  <unicode hex="E01F"/>
+  <anchor x="704" y="0" name="m.uni0326"/>
+  <anchor x="704" y="1490" name="m.uni030F_1"/>
+  <anchor x="1228" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="I.1" xOffset="286"/>
+    <component base="asper" xOffset="-146"/>
+  </outline>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Efcyr" format="2">
+  <advance width="1690"/>
+  <unicode hex="0424"/>
+  <outline>
+    <contour>
+      <point x="780" y="108" type="line" smooth="yes"/>
+      <point x="578" y="108"/>
+      <point x="283" y="264"/>
+      <point x="122" y="550"/>
+      <point x="122" y="745" type="qcurve" smooth="yes"/>
+      <point x="122" y="941"/>
+      <point x="283" y="1226"/>
+      <point x="578" y="1382"/>
+      <point x="780" y="1382" type="qcurve" smooth="yes"/>
+      <point x="910" y="1382" type="line" smooth="yes"/>
+      <point x="1112" y="1382"/>
+      <point x="1407" y="1226"/>
+      <point x="1568" y="941"/>
+      <point x="1568" y="745" type="qcurve" smooth="yes"/>
+      <point x="1568" y="550"/>
+      <point x="1407" y="264"/>
+      <point x="1112" y="108"/>
+      <point x="910" y="108" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="788" y="276" type="qcurve" smooth="yes"/>
+      <point x="902" y="276" type="line" smooth="yes"/>
+      <point x="1060" y="276"/>
+      <point x="1280" y="385"/>
+      <point x="1395" y="595"/>
+      <point x="1395" y="745" type="qcurve" smooth="yes"/>
+      <point x="1395" y="896"/>
+      <point x="1280" y="1105"/>
+      <point x="1060" y="1214"/>
+      <point x="902" y="1214" type="qcurve" smooth="yes"/>
+      <point x="788" y="1214" type="line" smooth="yes"/>
+      <point x="630" y="1214"/>
+      <point x="410" y="1105"/>
+      <point x="295" y="896"/>
+      <point x="295" y="745" type="qcurve" smooth="yes"/>
+      <point x="295" y="595"/>
+      <point x="410" y="385"/>
+      <point x="630" y="276"/>
+    </contour>
+    <contour>
+      <point x="755" y="-88" type="line"/>
+      <point x="755" y="1578" type="line"/>
+      <point x="935" y="1578" type="line"/>
+      <point x="935" y="-88" type="line"/>
+    </contour>
+  </outline>
+</glyph>

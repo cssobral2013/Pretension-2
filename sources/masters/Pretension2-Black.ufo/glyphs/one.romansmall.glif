@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.romansmall" format="2">
+  <advance width="606"/>
+  <unicode hex="2170"/>
+  <anchor x="331" y="0" name="m.uni0326"/>
+  <anchor x="326" y="1568" name="m.uni030F_1"/>
+  <anchor x="582" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="dotaccentcomb" xOffset="-32"/>
+  </outline>
+</glyph>

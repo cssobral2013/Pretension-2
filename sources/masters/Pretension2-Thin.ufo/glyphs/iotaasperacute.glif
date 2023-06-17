@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotaasperacute" format="2">
+  <advance width="472"/>
+  <unicode hex="1F35"/>
+  <anchor x="370" y="1242" name="m.uni030F_1"/>
+  <outline>
+    <component base="iota"/>
+    <component base="asperacute" xOffset="-95"/>
+  </outline>
+</glyph>

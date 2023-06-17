@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="titlocombcyr" format="2">
+  <unicode hex="0483"/>
+  <outline>
+    <contour>
+      <point x="-216" y="1312" type="line"/>
+      <point x="-760" y="1312" type="line"/>
+      <point x="-760" y="1186" type="line"/>
+      <point x="-936" y="1186" type="line"/>
+      <point x="-936" y="1426" type="line"/>
+      <point x="-390" y="1426" type="line"/>
+      <point x="-390" y="1534" type="line"/>
+      <point x="-216" y="1534" type="line"/>
+    </contour>
+  </outline>
+</glyph>

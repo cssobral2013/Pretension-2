@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="whitearrowupfrombar" format="2">
+  <advance width="2094"/>
+  <unicode hex="21EA"/>
+  <outline>
+    <contour>
+      <point x="628" y="306" type="line"/>
+      <point x="628" y="744" type="line"/>
+      <point x="186" y="744" type="line"/>
+      <point x="1048" y="1606" type="line"/>
+      <point x="1908" y="744" type="line"/>
+      <point x="1466" y="744" type="line"/>
+      <point x="1466" y="306" type="line"/>
+    </contour>
+    <contour>
+      <point x="628" y="-312" type="line"/>
+      <point x="628" y="130" type="line"/>
+      <point x="1466" y="130" type="line"/>
+      <point x="1466" y="-312" type="line"/>
+    </contour>
+    <contour>
+      <point x="774" y="-180" type="line"/>
+      <point x="1320" y="-180" type="line"/>
+      <point x="1320" y="0" type="line"/>
+      <point x="774" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="774" y="436" type="line"/>
+      <point x="1320" y="436" type="line"/>
+      <point x="1320" y="876" type="line"/>
+      <point x="1582" y="876" type="line"/>
+      <point x="1048" y="1410" type="line"/>
+      <point x="512" y="876" type="line"/>
+      <point x="774" y="876" type="line"/>
+    </contour>
+  </outline>
+</glyph>

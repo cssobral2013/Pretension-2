@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFE22" format="2">
-  <unicode hex="FE22"/>
-  <outline>
-    <component base="uniFE29" xOffset="-136" yOffset="1600"/>
-  </outline>
-</glyph>

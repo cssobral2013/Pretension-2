@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tshecyr" format="2">
+  <advance width="1196"/>
+  <unicode hex="045B"/>
+  <anchor x="789" y="0" name="m.uni0326"/>
+  <anchor x="358" y="1490" name="m.uni030F_1"/>
+  <anchor x="364" y="0" name="m.uni0327_3"/>
+  <outline>
+    <component base="h"/>
+    <component base="crossbar" xOffset="-180" yOffset="559"/>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcommaaccent.ss03" format="2">
+  <advance width="916"/>
+  <anchor x="330" y="-0" name="m.uni0326"/>
+  <anchor x="578" y="1118" name="m.uni030F_1"/>
+  <outline>
+    <component base="r"/>
+    <component base="commaaccentcomb.ss03" xOffset="26"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>r</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>r</string>
+  </dict>
+  </lib>
+</glyph>

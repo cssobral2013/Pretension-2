@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Istroke" format="2">
+  <advance width="510"/>
+  <unicode hex="0197"/>
+  <anchor x="301" y="0" name="m.uni0326"/>
+  <anchor x="305" y="1490" name="m.uni030F_1"/>
+  <anchor x="489" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="I"/>
+    <component base="_part.crossbar_compact" xOffset="-14" yOffset="23"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rdot" format="2">
+  <advance width="1260"/>
+  <unicode hex="1E58"/>
+  <anchor x="696" y="0" name="m.uni0326"/>
+  <anchor x="653" y="1831" name="m.uni030F_1"/>
+  <outline>
+    <component base="R"/>
+    <component base="dotaccentcomb" xOffset="440" yOffset="372"/>
+  </outline>
+</glyph>

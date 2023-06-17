@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="getailcyr" format="2">
+  <advance width="896"/>
+  <unicode hex="04F7"/>
+  <anchor x="554" y="1180" name="m.uni030F_1"/>
+  <outline>
+    <component base="gecyr"/>
+    <component base="_part.cyrtic" xOffset="180"/>
+  </outline>
+</glyph>

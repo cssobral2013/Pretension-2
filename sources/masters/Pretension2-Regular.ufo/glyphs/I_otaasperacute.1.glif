@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotaasperacute.1" format="2">
+  <advance width="1560"/>
+  <unicode hex="E023"/>
+  <anchor x="1074" y="0" name="m.uni0326"/>
+  <anchor x="1074" y="1490" name="m.uni030F_1"/>
+  <anchor x="1646" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="I.1" xOffset="666"/>
+    <component base="asperacute" xOffset="-56"/>
+  </outline>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rturnedsupmod" format="2">
+  <advance width="446"/>
+  <unicode hex="02B4"/>
+  <outline>
+    <contour>
+      <point x="66" y="642" type="qcurve"/>
+      <point x="66" y="690" type="line"/>
+      <point x="83" y="687"/>
+      <point x="113" y="684"/>
+      <point x="126" y="684" type="qcurve" smooth="yes"/>
+      <point x="230" y="684"/>
+      <point x="338" y="854"/>
+      <point x="338" y="1018" type="qcurve"/>
+      <point x="368" y="1018" type="line"/>
+      <point x="368" y="892"/>
+      <point x="314" y="723"/>
+      <point x="208" y="638"/>
+      <point x="128" y="638" type="qcurve" smooth="yes"/>
+      <point x="111" y="638"/>
+      <point x="82" y="640"/>
+    </contour>
+    <contour>
+      <point x="338" y="888" type="line"/>
+      <point x="338" y="1446" type="line"/>
+      <point x="384" y="1446" type="line"/>
+      <point x="384" y="652" type="line"/>
+      <point x="344" y="652" type="line"/>
+    </contour>
+  </outline>
+</glyph>

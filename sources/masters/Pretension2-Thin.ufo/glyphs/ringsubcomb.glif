@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ringsubcomb" format="2">
   <outline>
-    <component base="uni030A" xOffset="-813" yOffset="-1665"/>
+    <component base="ringcomb" xOffset="-813" yOffset="-1665"/>
   </outline>
 </glyph>

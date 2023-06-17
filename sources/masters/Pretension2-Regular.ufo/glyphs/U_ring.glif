@@ -7,6 +7,6 @@
   <anchor x="1396" y="564" name="m.uni0328_4"/>
   <outline>
     <component base="U"/>
-    <component base="uni030A.uc" xOffset="456"/>
+    <component base="ringcomb.uc" xOffset="456"/>
   </outline>
 </glyph>

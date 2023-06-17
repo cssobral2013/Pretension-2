@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="livretournois" format="2">
+  <advance width="1478"/>
+  <unicode hex="20B6"/>
+  <outline>
+    <contour>
+      <point x="1364" y="1082" type="line"/>
+      <point x="1364" y="814" type="line"/>
+      <point x="94" y="814" type="line"/>
+      <point x="94" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="806" y="1358" type="line"/>
+      <point x="1184" y="1358" type="line"/>
+      <point x="1184" y="372" type="line" smooth="yes"/>
+      <point x="1184" y="322"/>
+      <point x="1231" y="282"/>
+      <point x="1294" y="282" type="qcurve" smooth="yes"/>
+      <point x="1325" y="282"/>
+      <point x="1365" y="283"/>
+      <point x="1382" y="286" type="qcurve"/>
+      <point x="1382" y="12" type="line"/>
+      <point x="1330" y="-8"/>
+      <point x="1228" y="-20"/>
+      <point x="1178" y="-20" type="qcurve" smooth="yes"/>
+      <point x="1046" y="-20"/>
+      <point x="882" y="59"/>
+      <point x="806" y="229"/>
+      <point x="806" y="364" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="684" y="1490" type="line"/>
+      <point x="684" y="0" type="line"/>
+      <point x="282" y="0" type="line"/>
+      <point x="282" y="1490" type="line"/>
+    </contour>
+  </outline>
+</glyph>

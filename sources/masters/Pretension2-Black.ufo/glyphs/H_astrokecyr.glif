@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hastrokecyr" format="2">
+  <advance width="1610"/>
+  <unicode hex="04FE"/>
+  <anchor x="834" y="-6" name="m.uni0326"/>
+  <anchor x="834" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <contour>
+      <point x="158" y="673" type="line"/>
+      <point x="158" y="861" type="line"/>
+      <point x="1452" y="861" type="line"/>
+      <point x="1452" y="673" type="line"/>
+    </contour>
+    <contour>
+      <point x="46" y="0" type="line"/>
+      <point x="688" y="911" type="line"/>
+      <point x="688" y="602" type="line"/>
+      <point x="106" y="1490" type="line"/>
+      <point x="575" y="1490" type="line"/>
+      <point x="694" y="1296" type="line" smooth="yes"/>
+      <point x="738" y="1225"/>
+      <point x="795" y="1096"/>
+      <point x="842" y="981"/>
+      <point x="870" y="931" type="qcurve"/>
+      <point x="748" y="931" type="line"/>
+      <point x="778" y="981"/>
+      <point x="826" y="1096"/>
+      <point x="884" y="1225"/>
+      <point x="928" y="1296" type="qcurve" smooth="yes"/>
+      <point x="1049" y="1490" type="line"/>
+      <point x="1506" y="1490" type="line"/>
+      <point x="942" y="626" type="line"/>
+      <point x="942" y="915" type="line"/>
+      <point x="1564" y="0" type="line"/>
+      <point x="1081" y="0" type="line"/>
+      <point x="919" y="256" type="line" smooth="yes"/>
+      <point x="879" y="320"/>
+      <point x="834" y="407"/>
+      <point x="801" y="477"/>
+      <point x="777" y="515" type="qcurve"/>
+      <point x="831" y="515" type="line"/>
+      <point x="808" y="477"/>
+      <point x="774" y="406"/>
+      <point x="729" y="319"/>
+      <point x="687" y="256" type="qcurve" smooth="yes"/>
+      <point x="516" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
