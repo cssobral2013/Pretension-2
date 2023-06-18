@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi.double" format="2">
   <advance width="884"/>
-  <anchor x="716" y="1242" name="m.uni030F_1"/>
   <outline>
     <component base="dotlessi"/>
     <component base="dotlessi" xOffset="442"/>

@@ -2,11 +2,8 @@
 <glyph name="icircumflex" format="2">
   <advance width="442"/>
   <unicode hex="00EE"/>
-  <anchor x="369" y="0" name="m.uni0326"/>
-  <anchor x="365" y="1764" name="m.uni030F_1"/>
-  <anchor x="558" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="circumflexcomb" xOffset="-212"/>
+    <component base="uni0302" xOffset="-212"/>
   </outline>
 </glyph>

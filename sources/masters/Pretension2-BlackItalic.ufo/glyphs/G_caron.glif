@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcaron" format="2">
   <advance width="1583"/>
-  <unicode hex="01E6"/>
-  <anchor x="648" y="0" name="m.uni0326"/>
-  <anchor x="987" y="1996" name="m.uni030F_1"/>
   <outline>
     <component base="G"/>
     <component base="uni030C" xOffset="357" yOffset="372"/>

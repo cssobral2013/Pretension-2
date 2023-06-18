@@ -2,7 +2,6 @@
 <glyph name="uni1FE5" format="2">
   <advance width="1158"/>
   <unicode hex="1FE5"/>
-  <anchor x="751" y="1180" name="m.uni030F_1"/>
   <outline>
     <component base="rho"/>
     <component base="uni1FFE" xOffset="391" yOffset="-62"/>

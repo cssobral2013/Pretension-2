@@ -2,9 +2,6 @@
 <glyph name="igrave" format="2">
   <advance width="443"/>
   <unicode hex="00EC"/>
-  <anchor x="267" y="0" name="m.uni0326"/>
-  <anchor x="546" y="1733" name="m.uni030F_1"/>
-  <anchor x="456" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="dotlessi"/>
     <component base="gravecomb" xOffset="-144"/>

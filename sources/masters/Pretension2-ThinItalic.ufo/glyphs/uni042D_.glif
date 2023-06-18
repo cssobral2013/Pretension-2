@@ -2,8 +2,6 @@
 <glyph name="uni042D" format="2">
   <advance width="1479"/>
   <unicode hex="042D"/>
-  <anchor x="682" y="0" name="m.uni0326"/>
-  <anchor x="929" y="1490" name="m.uni030F_1"/>
   <outline>
     <contour>
       <point x="619" y="-20" type="qcurve" smooth="yes"/>

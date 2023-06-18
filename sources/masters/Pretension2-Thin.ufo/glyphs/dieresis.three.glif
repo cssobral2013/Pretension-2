@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresis.three" format="2">
   <advance width="854"/>
-  <anchor x="521" y="1584" name="m.uni030F_1"/>
   <outline>
     <contour>
       <point x="707" y="1373" type="qcurve" smooth="yes"/>

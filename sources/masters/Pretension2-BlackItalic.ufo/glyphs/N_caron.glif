@@ -2,8 +2,6 @@
 <glyph name="Ncaron" format="2">
   <advance width="1576"/>
   <unicode hex="0147"/>
-  <anchor x="725" y="0" name="m.uni0326"/>
-  <anchor x="1056" y="1996" name="m.uni030F_1"/>
   <outline>
     <component base="N"/>
     <component base="uni030C" xOffset="338" yOffset="372"/>

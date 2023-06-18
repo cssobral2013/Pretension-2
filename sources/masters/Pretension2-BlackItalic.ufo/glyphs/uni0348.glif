@@ -2,7 +2,7 @@
 <glyph name="uni0348" format="2">
   <unicode hex="0348"/>
   <outline>
-    <component base="linevert" xOffset="-1058" yOffset="-1656"/>
-    <component base="linevert" xOffset="-652" yOffset="-1650"/>
+    <component base="uni02C8" xOffset="-1058" yOffset="-1656"/>
+    <component base="uni02C8" xOffset="-652" yOffset="-1650"/>
   </outline>
 </glyph>

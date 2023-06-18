@@ -2,9 +2,6 @@
 <glyph name="uni1E66" format="2">
   <advance width="1306"/>
   <unicode hex="1E66"/>
-  <anchor x="613" y="0" name="m.uni0326"/>
-  <anchor x="875" y="1490" name="m.uni030F_1"/>
-  <anchor x="607" y="0" name="m.uni0327_3"/>
   <outline>
     <component base="S"/>
     <component base="carondot.lc" xOffset="300" yOffset="372"/>

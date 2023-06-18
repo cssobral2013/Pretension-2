@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaturnsupcomb" format="2">
   <advance width="46"/>
-  <anchor x="-538" y="1684" name="t.uni0367_2"/>
   <outline>
     <contour>
       <point x="-750" y="1012" type="line"/>

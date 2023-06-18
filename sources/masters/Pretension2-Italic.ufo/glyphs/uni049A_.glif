@@ -2,9 +2,8 @@
 <glyph name="uni049A" format="2">
   <advance width="1403"/>
   <unicode hex="049A"/>
-  <anchor x="890" y="1490" name="m.uni030F_1"/>
   <outline>
-    <component base="Kacyr"/>
+    <component base="uni041A"/>
     <component base="_part.cyrtic" xOffset="1093"/>
   </outline>
 </glyph>

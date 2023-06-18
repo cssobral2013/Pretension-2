@@ -2,8 +2,6 @@
 <glyph name="omega" format="2">
   <advance width="1578"/>
   <unicode hex="03C9"/>
-  <anchor x="863" y="0" name="m.uni0326"/>
-  <anchor x="1068" y="1242" name="m.uni030F_1"/>
   <outline>
     <contour>
       <point x="362" y="1118" type="qcurve"/>

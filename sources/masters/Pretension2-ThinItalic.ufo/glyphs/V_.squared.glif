@@ -2,8 +2,6 @@
 <glyph name="V.squared" format="2">
   <advance width="2828"/>
   <unicode hex="1F145"/>
-  <anchor x="1384" y="0" name="m.uni0326"/>
-  <anchor x="1631" y="1490" name="m.uni030F_1"/>
   <outline>
     <component base="uni2B1C"/>
     <component base="V" xOffset="783"/>

@@ -2,7 +2,6 @@
 <glyph name="epsilontonos" format="2">
   <advance width="1037"/>
   <unicode hex="03AD"/>
-  <anchor x="765" y="1242" name="m.uni030F_1"/>
   <outline>
     <component base="epsilon"/>
     <component base="tonostop" xOffset="390"/>

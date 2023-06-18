@@ -2,10 +2,8 @@
 <glyph name="Rcaron" format="2">
   <advance width="1310"/>
   <unicode hex="0158"/>
-  <anchor x="701" y="0" name="m.uni0326"/>
-  <anchor x="670" y="2001" name="m.uni030F_1"/>
   <outline>
     <component base="R"/>
-    <component base="caroncomb" xOffset="230" yOffset="372"/>
+    <component base="uni030C" xOffset="230" yOffset="372"/>
   </outline>
 </glyph>

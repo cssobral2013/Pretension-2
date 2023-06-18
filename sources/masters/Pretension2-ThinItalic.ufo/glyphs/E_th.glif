@@ -2,8 +2,6 @@
 <glyph name="Eth" format="2">
   <advance width="1460"/>
   <unicode hex="00D0"/>
-  <anchor x="625" y="0" name="m.uni0326"/>
-  <anchor x="814" y="1490" name="m.uni030F_1"/>
   <outline>
     <component base="D"/>
     <component base="crossbar.uc" xOffset="-150" yOffset="11"/>

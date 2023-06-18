@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nine.tf.ss01" format="2">
-  <advance width="1320"/>
+  <advance width="1322"/>
+  <unicode hex="E07A"/>
   <unicode hex="E080"/>
   <outline>
-    <component base="nine.ss01" xOffset="78"/>
+    <component base="nine.ss01" xOffset="79"/>
   </outline>
 </glyph>

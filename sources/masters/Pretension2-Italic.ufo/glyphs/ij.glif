@@ -2,9 +2,6 @@
 <glyph name="ij" format="2">
   <advance width="973"/>
   <unicode hex="0133"/>
-  <anchor x="263" y="0" name="m.uni0326"/>
-  <anchor x="526" y="1610" name="m.uni030F_1"/>
-  <anchor x="513" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="dotlessi"/>
     <component base="uni0307"/>

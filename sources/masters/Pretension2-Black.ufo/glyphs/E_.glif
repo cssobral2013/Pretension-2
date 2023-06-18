@@ -2,10 +2,6 @@
 <glyph name="E" format="2">
   <advance width="1274"/>
   <unicode hex="0045"/>
-  <anchor x="645" y="0" name="m.uni0326"/>
-  <anchor x="645" y="1490" name="m.uni030F_1"/>
-  <anchor x="620" y="0" name="m.uni0327_3"/>
-  <anchor x="1236" y="0" name="m.uni0328_4"/>
   <outline>
     <contour>
       <point x="96" y="0" type="line"/>

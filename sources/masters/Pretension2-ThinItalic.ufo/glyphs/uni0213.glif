@@ -2,18 +2,8 @@
 <glyph name="uni0213" format="2">
   <advance width="742"/>
   <unicode hex="0213"/>
-  <anchor x="272" y="0" name="m.uni0326"/>
-  <anchor x="880" y="1732" name="m.uni030F_1"/>
   <outline>
     <component base="r"/>
     <component base="breveinvcomb" xOffset="66"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>r</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>r</string>
-  </dict>
-  </lib>
 </glyph>

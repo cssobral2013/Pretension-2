@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02BA" format="2">
-  <advance width="1060"/>
-  <unicode hex="02BA"/>
+  <advance width="1304"/>
+  <unicode hex="2033"/>
   <outline>
-    <component base="primemod"/>
-    <component base="primemod" xOffset="530"/>
+    <component base="minute"/>
+    <component base="minute" xOffset="652"/>
   </outline>
 </glyph>

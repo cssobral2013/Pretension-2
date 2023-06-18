@@ -2,8 +2,6 @@
 <glyph name="Lslash" format="2">
   <advance width="1258"/>
   <unicode hex="0141"/>
-  <anchor x="694" y="0" name="m.uni0326"/>
-  <anchor x="408" y="1490" name="m.uni030F_1"/>
   <outline>
     <component base="L" xOffset="100"/>
     <component base="slashshort.uc" yOffset="-43"/>

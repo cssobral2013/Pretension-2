@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="feng.1" format="2">
-  <advance width="1935"/>
-  <outline>
-    <component base="f.1"/>
-    <component base="eng" xOffset="605"/>
-  </outline>
-</glyph>

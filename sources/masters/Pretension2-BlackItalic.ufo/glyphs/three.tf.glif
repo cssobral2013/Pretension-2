@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="three.tf" format="2">
-  <advance width="1320"/>
-  <unicode hex="E074"/>
-  <anchor x="813" y="1490" name="m.uni030F_1"/>
+  <advance width="1310"/>
   <outline>
-    <component base="three" xOffset="-28"/>
+    <component base="three" xOffset="-33"/>
   </outline>
 </glyph>

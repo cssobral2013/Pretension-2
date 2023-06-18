@@ -2,11 +2,8 @@
 <glyph name="abreve" format="2">
   <advance width="1076"/>
   <unicode hex="0103"/>
-  <anchor x="669" y="0" name="m.uni0326"/>
-  <anchor x="677" y="1710" name="m.uni030F_1"/>
-  <anchor x="1192" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="a"/>
-    <component base="brevecomb" xOffset="174"/>
+    <component base="uni0306" xOffset="174"/>
   </outline>
 </glyph>

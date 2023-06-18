@@ -3,9 +3,9 @@
   <advance width="1800"/>
   <unicode hex="2057"/>
   <outline>
-    <component base="prime"/>
-    <component base="prime" xOffset="450"/>
-    <component base="prime" xOffset="900"/>
-    <component base="prime" xOffset="1350"/>
+    <component base="minute"/>
+    <component base="minute" xOffset="450"/>
+    <component base="minute" xOffset="900"/>
+    <component base="minute" xOffset="1350"/>
   </outline>
 </glyph>

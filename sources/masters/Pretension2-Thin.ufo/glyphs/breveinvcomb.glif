@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="breveinvcomb" format="2">
   <advance width="724"/>
-  <anchor x="474" y="1732" name="m.uni030F_1"/>
   <outline>
     <contour>
       <point x="362" y="1523" type="qcurve" smooth="yes"/>

@@ -2,9 +2,6 @@
 <glyph name="uni04EB" format="2">
   <advance width="1223"/>
   <unicode hex="04EB"/>
-  <anchor x="617" y="0" name="m.uni0326"/>
-  <anchor x="885" y="1610" name="m.uni030F_1"/>
-  <anchor x="1369" y="586" name="m.uni0328_4"/>
   <outline>
     <component base="o"/>
     <component base="_part.fitacy_bar" xOffset="-2"/>

@@ -2,11 +2,7 @@
 <glyph name="uni04D9" format="2">
   <advance width="1173"/>
   <unicode hex="04D9"/>
-  <anchor x="570" y="14" name="m.uni0326"/>
-  <anchor x="759" y="1180" name="m.uni030F_1"/>
-  <anchor x="791" y="1180" name="m.uni0327_3"/>
-  <anchor x="108" y="869" name="m.uni0328_4"/>
   <outline>
-    <component base="eturn"/>
+    <component base="uni01DD"/>
   </outline>
 </glyph>

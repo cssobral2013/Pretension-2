@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="openbullet.case" format="2">
-  <advance width="1154"/>
+  <advance width="1160"/>
   <unicode hex="E08D"/>
   <outline>
-    <component base="openbullet" xOffset="25" yOffset="151"/>
+    <component base="openbullet" xOffset="28" yOffset="151"/>
   </outline>
 </glyph>

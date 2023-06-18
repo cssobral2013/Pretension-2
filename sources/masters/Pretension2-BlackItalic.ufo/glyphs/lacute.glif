@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lacute" format="2">
   <advance width="606"/>
-  <unicode hex="013A"/>
-  <anchor x="232" y="0" name="m.uni0326"/>
-  <anchor x="554" y="1946" name="m.uni030F_1"/>
   <outline>
     <component base="l"/>
     <component base="acutecomb" xOffset="191" yOffset="372"/>

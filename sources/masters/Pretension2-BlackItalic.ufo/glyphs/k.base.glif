@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k.base" format="2">
   <advance width="1243"/>
-  <anchor x="534" y="0" name="m.uni0326"/>
-  <anchor x="417" y="1118" name="m.uni030F_1"/>
   <outline>
     <contour>
       <point x="414" y="264" type="line"/>

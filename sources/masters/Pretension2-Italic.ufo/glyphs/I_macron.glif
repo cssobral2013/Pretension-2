@@ -2,9 +2,6 @@
 <glyph name="Imacron" format="2">
   <advance width="540"/>
   <unicode hex="012A"/>
-  <anchor x="232" y="0" name="m.uni0326"/>
-  <anchor x="553" y="1920" name="m.uni030F_1"/>
-  <anchor x="487" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="I"/>
     <component base="uni0304" xOffset="-156" yOffset="372"/>

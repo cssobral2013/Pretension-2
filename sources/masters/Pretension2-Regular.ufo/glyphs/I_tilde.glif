@@ -2,9 +2,6 @@
 <glyph name="Itilde" format="2">
   <advance width="540"/>
   <unicode hex="0128"/>
-  <anchor x="331" y="0" name="m.uni0326"/>
-  <anchor x="339" y="1962" name="m.uni030F_1"/>
-  <anchor x="586" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="I"/>
     <component base="tildecomb" xOffset="-242" yOffset="372"/>

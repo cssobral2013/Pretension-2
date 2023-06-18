@@ -2,9 +2,6 @@
 <glyph name="Upsilontonos" format="2">
   <advance width="2190"/>
   <unicode hex="038E"/>
-  <anchor x="1292" y="0" name="m.uni0326"/>
-  <anchor x="1538" y="1490" name="m.uni030F_1"/>
-  <anchor x="1552" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="Y" xOffset="482"/>
     <component base="tonostop" xOffset="-242"/>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2058" format="2">
-  <advance width="2680"/>
+  <advance width="2674"/>
   <unicode hex="2058"/>
   <outline>
-    <component base="uni0307" xOffset="-284" yOffset="-1714"/>
-    <component base="uni0307" xOffset="386" yOffset="-1714"/>
-    <component base="uni0307" xOffset="1056" yOffset="-1714"/>
-    <component base="uni0307" xOffset="1726" yOffset="-1714"/>
+    <component base="uni0307" xOffset="-287" yOffset="-1714"/>
+    <component base="uni0307" xOffset="383" yOffset="-1714"/>
+    <component base="uni0307" xOffset="1053" yOffset="-1714"/>
+    <component base="uni0307" xOffset="1723" yOffset="-1714"/>
   </outline>
 </glyph>

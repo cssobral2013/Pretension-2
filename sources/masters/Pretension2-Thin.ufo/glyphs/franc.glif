@@ -2,8 +2,6 @@
 <glyph name="franc" format="2">
   <advance width="1196"/>
   <unicode hex="20A3"/>
-  <anchor x="231" y="0" name="m.uni0326"/>
-  <anchor x="531" y="1490" name="m.uni030F_1"/>
   <outline>
     <component base="F"/>
     <component base="_part.crossbar_compact" xOffset="-14" yOffset="-335"/>

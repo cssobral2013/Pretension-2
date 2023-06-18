@@ -2,13 +2,10 @@
 <glyph name="ij" format="2">
   <advance width="972"/>
   <unicode hex="0133"/>
-  <anchor x="360" y="0" name="m.uni0326"/>
-  <anchor x="355" y="1610" name="m.uni030F_1"/>
-  <anchor x="610" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="dotaccentcomb"/>
-    <component base="dotlessj" xOffset="486"/>
-    <component base="dotaccentcomb" xOffset="485"/>
+    <component base="uni0307"/>
+    <component base="uni0237" xOffset="486"/>
+    <component base="uni0307" xOffset="485"/>
   </outline>
 </glyph>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FDD.tonos" format="2">
-  <advance width="1006"/>
+  <advance width="1002"/>
   <unicode hex="E0FC"/>
   <outline>
-    <component base="uni1FDD" xOffset="-6"/>
+    <component base="uni1FDD" xOffset="-8"/>
   </outline>
 </glyph>

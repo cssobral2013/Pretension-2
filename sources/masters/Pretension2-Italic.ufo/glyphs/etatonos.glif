@@ -2,8 +2,6 @@
 <glyph name="etatonos" format="2">
   <advance width="1201"/>
   <unicode hex="03AE"/>
-  <anchor x="259" y="0" name="m.uni0326"/>
-  <anchor x="858" y="1180" name="m.uni030F_1"/>
   <outline>
     <component base="eta"/>
     <component base="tonostop" xOffset="393"/>

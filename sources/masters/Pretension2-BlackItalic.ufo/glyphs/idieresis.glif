@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idieresis" format="2">
-  <advance width="607"/>
+  <advance width="621"/>
   <unicode hex="00EF"/>
-  <anchor x="235" y="0" name="m.uni0326"/>
-  <anchor x="489" y="1564" name="m.uni030F_1"/>
-  <anchor x="486" y="0" name="m.uni0328_4"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="uni0308" xOffset="-363"/>
+    <component base="dotlessi" xOffset="7"/>
+    <component base="uni0308" xOffset="-356"/>
   </outline>
 </glyph>

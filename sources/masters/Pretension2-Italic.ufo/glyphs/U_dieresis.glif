@@ -2,9 +2,6 @@
 <glyph name="Udieresis" format="2">
   <advance width="1518"/>
   <unicode hex="00DC"/>
-  <anchor x="637" y="0" name="m.uni0326"/>
-  <anchor x="955" y="1920" name="m.uni030F_1"/>
-  <anchor x="1390" y="548" name="m.uni0328_4"/>
   <outline>
     <component base="U"/>
     <component base="uni0308" xOffset="220" yOffset="372"/>

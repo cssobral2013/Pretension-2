@@ -2,7 +2,6 @@
 <glyph name="epsilon" format="2">
   <advance width="1176"/>
   <unicode hex="03B5"/>
-  <anchor x="757" y="1118" name="m.uni030F_1"/>
   <outline>
     <contour>
       <point x="506" y="-20" type="qcurve" smooth="yes"/>

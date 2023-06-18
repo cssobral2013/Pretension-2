@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.ss01.circled" format="2">
   <advance width="2847"/>
+  <unicode hex="2460"/>
+  <unicode hex="2780"/>
   <unicode hex="E12C"/>
   <outline>
     <component base="uni25EF"/>

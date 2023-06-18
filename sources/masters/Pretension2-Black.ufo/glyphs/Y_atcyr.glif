@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Yatcyr" format="2">
-  <advance width="1494"/>
-  <unicode hex="0462"/>
-  <outline>
-    <component base="Softcyr" xOffset="114"/>
-    <component base="crossbar.uc" xOffset="-30" yOffset="492"/>
-  </outline>
-</glyph>

@@ -2,9 +2,6 @@
 <glyph name="Theta" format="2">
   <advance width="1628"/>
   <unicode hex="0398"/>
-  <anchor x="746" y="0" name="m.uni0326"/>
-  <anchor x="746" y="1490" name="m.uni030F_1"/>
-  <anchor x="1456" y="744" name="m.uni0328_4"/>
   <outline>
     <contour>
       <point x="1032" y="862" type="line"/>
@@ -31,7 +28,7 @@
       <point x="1017" y="-20"/>
     </contour>
     <contour>
-      <point x="814" y="332" type="qcurve" smooth="yes"/>
+      <point x="815" y="332" type="qcurve" smooth="yes"/>
       <point x="915" y="332"/>
       <point x="1052" y="427"/>
       <point x="1122" y="611"/>
@@ -39,7 +36,7 @@
       <point x="1122" y="878"/>
       <point x="1052" y="1063"/>
       <point x="915" y="1158"/>
-      <point x="814" y="1158" type="qcurve" smooth="yes"/>
+      <point x="815" y="1158" type="qcurve" smooth="yes"/>
       <point x="714" y="1158"/>
       <point x="577" y="1063"/>
       <point x="506" y="878"/>

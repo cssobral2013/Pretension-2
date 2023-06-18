@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblleft.ss03" format="2">
-  <advance width="1370"/>
+  <advance width="1362"/>
   <outline>
-    <component base="quoteleft.ss03" xOffset="-6"/>
-    <component base="quoteleft.ss03" xOffset="587"/>
+    <component base="quoteleft.ss03" xOffset="-10"/>
+    <component base="quoteleft.ss03" xOffset="583"/>
   </outline>
 </glyph>

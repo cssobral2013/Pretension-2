@@ -2,8 +2,6 @@
 <glyph name="eta" format="2">
   <advance width="1200"/>
   <unicode hex="03B7"/>
-  <anchor x="356" y="0" name="m.uni0326"/>
-  <anchor x="736" y="1180" name="m.uni030F_1"/>
   <outline>
     <contour>
       <point x="328" y="672" type="qcurve" smooth="yes"/>

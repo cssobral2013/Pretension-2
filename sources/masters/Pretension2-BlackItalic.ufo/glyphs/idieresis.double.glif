@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idieresis.double" format="2">
   <advance width="1214"/>
-  <anchor x="824" y="1569" name="m.uni030F_1"/>
   <outline>
     <component base="dotlessi"/>
     <component base="dotlessi" xOffset="607"/>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="s.subs" format="2">
-  <advance width="794"/>
+  <advance width="786"/>
   <unicode hex="209B"/>
   <outline>
-    <component base="s.sups" xOffset="-166" yOffset="-1000"/>
+    <component base="s.sups" xOffset="-170" yOffset="-1000"/>
   </outline>
 </glyph>

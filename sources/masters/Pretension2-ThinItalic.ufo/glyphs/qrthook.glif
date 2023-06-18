@@ -2,9 +2,6 @@
 <glyph name="qrthook" format="2">
   <advance width="1191"/>
   <unicode hex="024B"/>
-  <anchor x="725" y="0" name="m.uni0326"/>
-  <anchor x="896" y="1242" name="m.uni030F_1"/>
-  <anchor x="1245" y="0" name="m.uni0328_4"/>
   <outline>
     <contour>
       <point x="969" y="-418" type="qcurve" smooth="yes"/>

@@ -2,12 +2,9 @@
 <glyph name="iogonek" format="2">
   <advance width="606"/>
   <unicode hex="012F"/>
-  <anchor x="342" y="-452" name="m.uni0326"/>
-  <anchor x="322" y="1568" name="m.uni030F_1"/>
-  <anchor x="578" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="ogonekcomb" xOffset="-26"/>
-    <component base="dotaccentcomb" xOffset="-32"/>
+    <component base="uni0328" xOffset="-26"/>
+    <component base="uni0307" xOffset="-32"/>
   </outline>
 </glyph>

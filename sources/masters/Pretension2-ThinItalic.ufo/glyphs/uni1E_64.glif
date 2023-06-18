@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E64" format="2">
-  <advance width="1254"/>
+  <advance width="1256"/>
   <unicode hex="1E64"/>
-  <anchor x="598" y="0" name="m.uni0326"/>
-  <anchor x="873" y="1490" name="m.uni030F_1"/>
-  <anchor x="596" y="0" name="m.uni0327_3"/>
   <outline>
-    <component base="S"/>
-    <component base="acutedotcomb.cn" xOffset="518"/>
+    <component base="S" xOffset="1"/>
+    <component base="acutedotcomb.cn" xOffset="519"/>
   </outline>
 </glyph>

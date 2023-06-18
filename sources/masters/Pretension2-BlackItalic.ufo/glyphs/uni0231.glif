@@ -2,9 +2,6 @@
 <glyph name="uni0231" format="2">
   <advance width="1280"/>
   <unicode hex="0231"/>
-  <anchor x="575" y="0" name="m.uni0326"/>
-  <anchor x="761" y="1118" name="m.uni030F_1"/>
-  <anchor x="1304" y="560" name="m.uni0328_4"/>
   <outline>
     <component base="o"/>
     <component base="dotmacron.lc" xOffset="350"/>

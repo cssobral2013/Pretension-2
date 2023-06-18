@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="three.1.circled" format="2">
   <advance width="2847"/>
+  <unicode hex="2462"/>
+  <unicode hex="2782"/>
   <unicode hex="E12D"/>
-  <anchor x="1601" y="1490" name="m.uni030F_1"/>
   <outline>
     <component base="uni25EF"/>
     <component base="three.1" xOffset="717"/>

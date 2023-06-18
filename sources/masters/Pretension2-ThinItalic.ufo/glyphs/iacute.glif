@@ -2,9 +2,6 @@
 <glyph name="iacute" format="2">
   <advance width="443"/>
   <unicode hex="00ED"/>
-  <anchor x="267" y="0" name="m.uni0326"/>
-  <anchor x="542" y="1658" name="m.uni030F_1"/>
-  <anchor x="456" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="dotlessi"/>
     <component base="acutecomb" xOffset="148"/>

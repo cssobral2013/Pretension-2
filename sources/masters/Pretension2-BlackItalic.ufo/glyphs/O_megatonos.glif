@@ -2,8 +2,6 @@
 <glyph name="Omegatonos" format="2">
   <advance width="1760"/>
   <unicode hex="038F"/>
-  <anchor x="918" y="0" name="m.uni0326"/>
-  <anchor x="1167" y="1490" name="m.uni030F_1"/>
   <outline>
     <component base="uni03A9" xOffset="148"/>
     <component base="tonostop" xOffset="-288"/>

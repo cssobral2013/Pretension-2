@@ -2,7 +2,6 @@
 <glyph name="zero.slash" format="2">
   <advance width="1280"/>
   <unicode hex="E06B"/>
-  <anchor x="743" y="1490" name="m.uni030F_1"/>
   <outline>
     <contour>
       <point x="424" y="162" type="line"/>

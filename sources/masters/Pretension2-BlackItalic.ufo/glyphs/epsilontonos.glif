@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="epsilontonos" format="2">
-  <advance width="1176"/>
+  <advance width="1172"/>
   <unicode hex="03AD"/>
-  <anchor x="757" y="1118" name="m.uni030F_1"/>
   <outline>
-    <component base="epsilon"/>
-    <component base="tonostop" xOffset="233"/>
+    <component base="epsilon" xOffset="-2"/>
+    <component base="tonostop" xOffset="231"/>
   </outline>
 </glyph>

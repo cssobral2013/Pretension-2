@@ -2,7 +2,6 @@
 <glyph name="two.squared" format="2">
   <advance width="2828"/>
   <unicode hex="E140"/>
-  <anchor x="1606" y="1490" name="m.uni030F_1"/>
   <outline>
     <component base="uni2B1C"/>
     <component base="two" xOffset="794"/>

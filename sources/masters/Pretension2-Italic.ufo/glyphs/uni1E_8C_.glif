@@ -2,8 +2,6 @@
 <glyph name="uni1E8C" format="2">
   <advance width="1386"/>
   <unicode hex="1E8C"/>
-  <anchor x="766" y="-6" name="m.uni0326"/>
-  <anchor x="1084" y="1920" name="m.uni030F_1"/>
   <outline>
     <component base="X"/>
     <component base="uni0308" xOffset="153" yOffset="372"/>

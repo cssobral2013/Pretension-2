@@ -2,9 +2,6 @@
 <glyph name="Idotaccent" format="2">
   <advance width="510"/>
   <unicode hex="0130"/>
-  <anchor x="243" y="0" name="m.uni0326"/>
-  <anchor x="552" y="1831" name="m.uni030F_1"/>
-  <anchor x="431" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="I"/>
     <component base="uni0307" xOffset="130" yOffset="372"/>

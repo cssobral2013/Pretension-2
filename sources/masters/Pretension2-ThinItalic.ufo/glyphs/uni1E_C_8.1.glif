@@ -2,9 +2,6 @@
 <glyph name="uni1EC8.1" format="2">
   <advance width="716"/>
   <unicode hex="E01C"/>
-  <anchor x="496" y="0" name="m.uni0326"/>
-  <anchor x="743" y="1490" name="m.uni030F_1"/>
-  <anchor x="1025" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="I.1"/>
     <component base="hookabovecomb" xOffset="226" yOffset="372"/>

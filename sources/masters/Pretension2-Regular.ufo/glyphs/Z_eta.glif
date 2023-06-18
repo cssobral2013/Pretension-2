@@ -2,8 +2,6 @@
 <glyph name="Zeta" format="2">
   <advance width="1280"/>
   <unicode hex="0396"/>
-  <anchor x="774" y="0" name="m.uni0326"/>
-  <anchor x="788" y="1490" name="m.uni030F_1"/>
   <outline>
     <component base="Z"/>
   </outline>

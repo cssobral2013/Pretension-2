@@ -2,10 +2,6 @@
 <glyph name="edotaccent" format="2">
   <advance width="1129"/>
   <unicode hex="0117"/>
-  <anchor x="637" y="0" name="m.uni0326"/>
-  <anchor x="957" y="1583" name="m.uni030F_1"/>
-  <anchor x="592" y="0" name="m.uni0327_3"/>
-  <anchor x="1229" y="194" name="m.uni0328_4"/>
   <outline>
     <component base="e"/>
     <component base="uni0307" xOffset="419"/>

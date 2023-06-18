@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F62" format="2">
-  <advance width="1776"/>
+  <advance width="1768"/>
   <unicode hex="1F62"/>
-  <anchor x="832" y="0" name="m.uni0326"/>
-  <anchor x="1017" y="1118" name="m.uni030F_1"/>
   <outline>
-    <component base="omega"/>
-    <component base="uni1FCD" xOffset="351"/>
+    <component base="omega" xOffset="-4"/>
+    <component base="uni1FCD" xOffset="347"/>
   </outline>
 </glyph>

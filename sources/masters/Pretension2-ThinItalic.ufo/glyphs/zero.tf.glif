@@ -2,7 +2,6 @@
 <glyph name="zero.tf" format="2">
   <advance width="1320"/>
   <unicode hex="E071"/>
-  <anchor x="806" y="1490" name="m.uni030F_1"/>
   <outline>
     <contour>
       <point x="569" y="-20" type="qcurve" smooth="yes"/>

@@ -2,9 +2,6 @@
 <glyph name="uni1E2E.1" format="2">
   <advance width="769"/>
   <unicode hex="E00E"/>
-  <anchor x="496" y="0" name="m.uni0326"/>
-  <anchor x="743" y="1490" name="m.uni030F_1"/>
-  <anchor x="1025" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="I.1"/>
     <component base="dieresisacutecomb.lc" xOffset="-135" yOffset="372"/>

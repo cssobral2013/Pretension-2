@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron.ss02" format="2">
-  <advance width="924"/>
+  <advance width="910"/>
+  <unicode hex="013E"/>
   <unicode hex="E058"/>
-  <anchor x="285" y="0" name="m.uni0326"/>
-  <anchor x="478" y="1490" name="m.uni030F_1"/>
   <outline>
-    <component base="l.ss02"/>
-    <component base="commaaccentright.cn" xOffset="494"/>
+    <component base="l.ss02" xOffset="-7"/>
+    <component base="commaaccentright.cn" xOffset="487"/>
   </outline>
 </glyph>

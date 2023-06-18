@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="aspergrave.tonos" format="2">
-  <advance width="774"/>
-  <outline>
-    <component base="aspergrave" xOffset="8"/>
-  </outline>
-</glyph>

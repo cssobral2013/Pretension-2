@@ -2,9 +2,6 @@
 <glyph name="uni1EA8" format="2">
   <advance width="1628"/>
   <unicode hex="1EA8"/>
-  <anchor x="765" y="0" name="m.uni0326"/>
-  <anchor x="1012" y="1490" name="m.uni030F_1"/>
-  <anchor x="1616" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="A"/>
     <component base="circumflexhookcomb.cn" xOffset="359" yOffset="372"/>

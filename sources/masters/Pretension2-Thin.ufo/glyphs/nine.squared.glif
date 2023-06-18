@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nine.squared" format="2">
-  <advance width="2828"/>
-  <unicode hex="E147"/>
+  <advance width="2826"/>
   <outline>
-    <component base="whiteLargeSquare"/>
-    <component base="nine" xOffset="836"/>
+    <component base="uni2B1C" xOffset="-1"/>
+    <component base="nine" xOffset="835"/>
   </outline>
 </glyph>

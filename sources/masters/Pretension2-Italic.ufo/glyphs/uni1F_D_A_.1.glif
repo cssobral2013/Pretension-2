@@ -2,9 +2,6 @@
 <glyph name="uni1FDA.1" format="2">
   <advance width="1305"/>
   <unicode hex="E028"/>
-  <anchor x="613" y="0" name="m.uni0326"/>
-  <anchor x="860" y="1490" name="m.uni030F_1"/>
-  <anchor x="1185" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="I.1" xOffset="410"/>
     <component base="uni1FEF" xOffset="-22"/>

@@ -2,8 +2,6 @@
 <glyph name="gbreve" format="2">
   <advance width="1248"/>
   <unicode hex="011F"/>
-  <anchor x="583" y="-416" name="m.uni0326"/>
-  <anchor x="922" y="1668" name="m.uni030F_1"/>
   <outline>
     <component base="g"/>
     <component base="uni0306" xOffset="218"/>

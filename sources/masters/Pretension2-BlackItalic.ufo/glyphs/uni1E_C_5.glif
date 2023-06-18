@@ -2,10 +2,6 @@
 <glyph name="uni1EC5" format="2">
   <advance width="1232"/>
   <unicode hex="1EC5"/>
-  <anchor x="579" y="0" name="m.uni0326"/>
-  <anchor x="787" y="1118" name="m.uni030F_1"/>
-  <anchor x="554" y="0" name="m.uni0327_3"/>
-  <anchor x="1215" y="368" name="m.uni0328_4"/>
   <outline>
     <component base="e"/>
     <component base="circumflextildecomb.cn" xOffset="132"/>

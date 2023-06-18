@@ -2,7 +2,6 @@
 <glyph name="two.tf" format="2">
   <advance width="1320"/>
   <unicode hex="E073"/>
-  <anchor x="856" y="1490" name="m.uni030F_1"/>
   <outline>
     <component base="two" xOffset="36"/>
   </outline>

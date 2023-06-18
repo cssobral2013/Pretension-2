@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="diaeresistonoscomb" format="2">
-  <advance width="20"/>
+  <advance width="16"/>
   <outline>
-    <component base="dieresistonos" xOffset="-1324"/>
+    <component base="dieresistonos" xOffset="-1326"/>
   </outline>
 </glyph>

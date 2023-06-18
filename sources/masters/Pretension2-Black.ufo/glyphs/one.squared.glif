@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.squared" format="2">
   <advance width="2828"/>
-  <unicode hex="E13F"/>
   <outline>
-    <component base="whiteLargeSquare"/>
+    <component base="uni2B1C"/>
     <component base="one" xOffset="895"/>
   </outline>
 </glyph>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="three.1.squared" format="2">
-  <advance width="2828"/>
+  <advance width="2826"/>
+  <unicode hex="E141"/>
   <unicode hex="E14A"/>
-  <anchor x="1364" y="1490" name="m.uni030F_1"/>
   <outline>
-    <component base="whiteLargeSquare"/>
-    <component base="three.1" xOffset="770"/>
+    <component base="uni2B1C" xOffset="-1"/>
+    <component base="three.1" xOffset="769"/>
   </outline>
 </glyph>

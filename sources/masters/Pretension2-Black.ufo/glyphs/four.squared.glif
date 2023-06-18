@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four.squared" format="2">
   <advance width="2828"/>
-  <unicode hex="E142"/>
   <outline>
-    <component base="whiteLargeSquare"/>
+    <component base="uni2B1C"/>
     <component base="four" xOffset="663"/>
   </outline>
 </glyph>

@@ -2,8 +2,6 @@
 <glyph name="Iota" format="2">
   <advance width="472"/>
   <unicode hex="0196"/>
-  <anchor x="426" y="0" name="m.uni0326"/>
-  <anchor x="366" y="1490" name="m.uni030F_1"/>
   <outline>
     <component base="l.ss02"/>
   </outline>

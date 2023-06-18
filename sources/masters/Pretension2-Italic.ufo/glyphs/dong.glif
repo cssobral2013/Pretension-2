@@ -2,8 +2,6 @@
 <glyph name="dong" format="2">
   <advance width="1247"/>
   <unicode hex="20AB"/>
-  <anchor x="757" y="0" name="m.uni0326"/>
-  <anchor x="650" y="1388" name="m.uni030F_1"/>
   <outline>
     <component base="d"/>
     <component base="crossbar" xOffset="551" yOffset="559"/>

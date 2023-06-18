@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slongstroke" format="2">
   <advance width="737"/>
-  <anchor x="815" y="1597" name="m.uni030F_1"/>
   <outline>
     <component base="longs"/>
     <component base="uni0337.lc" xOffset="61"/>

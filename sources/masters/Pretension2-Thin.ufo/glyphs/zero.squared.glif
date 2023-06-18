@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero.squared" format="2">
-  <advance width="2828"/>
+  <advance width="2826"/>
   <unicode hex="E13E"/>
   <outline>
-    <component base="whiteLargeSquare"/>
-    <component base="zero" xOffset="809"/>
+    <component base="uni2B1C" xOffset="-1"/>
+    <component base="zero" xOffset="808"/>
   </outline>
 </glyph>
