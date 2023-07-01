@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotalenis.1" format="2">
+  <advance width="1025"/>
+  <unicode hex="E01E"/>
+  <outline>
+    <component base="I.1" xOffset="257"/>
+    <component base="koronis" xOffset="-90"/>
+  </outline>
+</glyph>

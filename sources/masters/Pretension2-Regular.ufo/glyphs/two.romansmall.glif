@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.romansmall" format="2">
+  <advance width="972"/>
+  <unicode hex="2171"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="dotaccentcomb"/>
+    <component base="dotlessi" xOffset="486"/>
+    <component base="dotaccentcomb" xOffset="486"/>
+  </outline>
+</glyph>

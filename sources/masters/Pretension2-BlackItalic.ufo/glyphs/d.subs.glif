@@ -3,6 +3,6 @@
   <advance width="888"/>
   <unicode hex="E0AB"/>
   <outline>
-    <component base="d.sups" xOffset="-167" yOffset="-1000"/>
+    <component base="dmod" xOffset="-167" yOffset="-1000"/>
   </outline>
 </glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni1E2F" format="2">
-  <advance width="621"/>
-  <unicode hex="1E2F"/>
-  <outline>
-    <component base="dotlessi" xOffset="7"/>
-    <component base="dieresisacutecomb.lc" xOffset="-355"/>
-  </outline>
-</glyph>

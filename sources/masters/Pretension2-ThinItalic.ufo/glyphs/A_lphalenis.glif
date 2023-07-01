@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphalenis" format="2">
+  <advance width="1310"/>
+  <unicode hex="1F08"/>
+  <outline>
+    <component base="A"/>
+    <component base="koronis" xOffset="22" yOffset="-6"/>
+  </outline>
+</glyph>

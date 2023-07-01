@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rlongleg" format="2">
+  <advance width="785"/>
+  <unicode hex="027C"/>
+  <unicode hex="E05E"/>
+  <outline>
+    <contour>
+      <point x="-6" y="-419" type="line"/>
+      <point x="64" y="0" type="line"/>
+      <point x="236" y="0" type="line"/>
+      <point x="166" y="-419" type="line"/>
+    </contour>
+    <contour>
+      <point x="64" y="0" type="line"/>
+      <point x="250" y="1117" type="line"/>
+      <point x="416" y="1117" type="line"/>
+      <point x="387" y="948" type="line"/>
+      <point x="399" y="948" type="line"/>
+      <point x="442" y="1031"/>
+      <point x="619" y="1135"/>
+      <point x="721" y="1135" type="qcurve" smooth="yes"/>
+      <point x="767" y="1135"/>
+      <point x="833" y="1113"/>
+      <point x="855" y="1094" type="qcurve"/>
+      <point x="774" y="951" type="line"/>
+      <point x="759" y="960"/>
+      <point x="711" y="969"/>
+      <point x="678" y="969" type="qcurve" smooth="yes"/>
+      <point x="596" y="969"/>
+      <point x="457" y="900"/>
+      <point x="364" y="783"/>
+      <point x="352" y="707" type="qcurve" smooth="yes"/>
+      <point x="236" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

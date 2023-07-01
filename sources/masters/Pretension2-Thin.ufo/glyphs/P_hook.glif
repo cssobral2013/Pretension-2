@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Phook" format="2">
+  <advance width="1402"/>
+  <unicode hex="01A4"/>
+  <outline>
+    <contour>
+      <point x="86" y="1118" type="line"/>
+      <point x="86" y="1280" type="line" smooth="yes"/>
+      <point x="86" y="1382"/>
+      <point x="187" y="1490"/>
+      <point x="282" y="1490" type="qcurve" smooth="yes"/>
+      <point x="392" y="1490" type="line"/>
+      <point x="392" y="1444" type="line"/>
+      <point x="286" y="1444" type="line" smooth="yes"/>
+      <point x="207" y="1444"/>
+      <point x="132" y="1364"/>
+      <point x="132" y="1280" type="qcurve" smooth="yes"/>
+      <point x="132" y="1118" type="line"/>
+    </contour>
+    <contour>
+      <point x="392" y="0" type="line"/>
+      <point x="392" y="1490" type="line"/>
+      <point x="830" y="1490" type="line" smooth="yes"/>
+      <point x="955" y="1490"/>
+      <point x="1147" y="1378"/>
+      <point x="1256" y="1181"/>
+      <point x="1256" y="1054" type="qcurve" smooth="yes"/>
+      <point x="1256" y="927"/>
+      <point x="1147" y="731"/>
+      <point x="955" y="620"/>
+      <point x="830" y="620" type="qcurve" smooth="yes"/>
+      <point x="416" y="620" type="line"/>
+      <point x="416" y="666" type="line"/>
+      <point x="830" y="666" type="line" smooth="yes"/>
+      <point x="941" y="666"/>
+      <point x="1113" y="765"/>
+      <point x="1210" y="940"/>
+      <point x="1210" y="1054" type="qcurve" smooth="yes"/>
+      <point x="1210" y="1168"/>
+      <point x="1113" y="1344"/>
+      <point x="941" y="1444"/>
+      <point x="830" y="1444" type="qcurve" smooth="yes"/>
+      <point x="438" y="1444" type="line"/>
+      <point x="438" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

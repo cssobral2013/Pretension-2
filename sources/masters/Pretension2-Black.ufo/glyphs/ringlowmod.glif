@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringlowmod" format="2">
+  <advance width="821"/>
+  <unicode hex="02F3"/>
+  <outline>
+    <contour>
+      <point x="410" y="-534" type="qcurve" smooth="yes"/>
+      <point x="336" y="-534"/>
+      <point x="213" y="-470"/>
+      <point x="140" y="-363"/>
+      <point x="140" y="-298" type="qcurve" smooth="yes"/>
+      <point x="140" y="-233"/>
+      <point x="213" y="-126"/>
+      <point x="336" y="-62"/>
+      <point x="411" y="-62" type="qcurve" smooth="yes"/>
+      <point x="485" y="-62"/>
+      <point x="608" y="-126"/>
+      <point x="681" y="-233"/>
+      <point x="681" y="-298" type="qcurve" smooth="yes"/>
+      <point x="681" y="-363"/>
+      <point x="608" y="-470"/>
+      <point x="485" y="-534"/>
+    </contour>
+    <contour>
+      <point x="410" y="-402" type="qcurve" smooth="yes"/>
+      <point x="456" y="-402"/>
+      <point x="520" y="-341"/>
+      <point x="520" y="-299" type="qcurve" smooth="yes"/>
+      <point x="520" y="-255"/>
+      <point x="456" y="-195"/>
+      <point x="410" y="-195" type="qcurve" smooth="yes"/>
+      <point x="365" y="-195"/>
+      <point x="301" y="-255"/>
+      <point x="301" y="-299" type="qcurve" smooth="yes"/>
+      <point x="301" y="-341"/>
+      <point x="365" y="-402"/>
+    </contour>
+  </outline>
+</glyph>

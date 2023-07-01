@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Koppacyr" format="2">
+  <advance width="1448"/>
+  <unicode hex="0480"/>
+  <outline>
+    <contour>
+      <point x="647" y="137" type="qcurve" smooth="yes"/>
+      <point x="526" y="137"/>
+      <point x="326" y="232"/>
+      <point x="190" y="411"/>
+      <point x="138" y="665"/>
+      <point x="165" y="825" type="qcurve" smooth="yes"/>
+      <point x="200" y="1038"/>
+      <point x="414" y="1347"/>
+      <point x="725" y="1514"/>
+      <point x="906" y="1514" type="qcurve" smooth="yes"/>
+      <point x="1013" y="1514"/>
+      <point x="1193" y="1454"/>
+      <point x="1327" y="1340"/>
+      <point x="1403" y="1175"/>
+      <point x="1404" y="1069" type="qcurve"/>
+      <point x="1224" y="1069" type="line"/>
+      <point x="1219" y="1160"/>
+      <point x="1124" y="1284"/>
+      <point x="972" y="1348"/>
+      <point x="879" y="1348" type="qcurve" smooth="yes"/>
+      <point x="752" y="1348"/>
+      <point x="527" y="1227"/>
+      <point x="368" y="994"/>
+      <point x="340" y="825" type="qcurve" smooth="yes"/>
+      <point x="312" y="656"/>
+      <point x="393" y="423"/>
+      <point x="579" y="303"/>
+      <point x="706" y="303" type="qcurve" smooth="yes"/>
+      <point x="798" y="303"/>
+      <point x="972" y="367"/>
+      <point x="1108" y="490"/>
+      <point x="1143" y="580" type="qcurve"/>
+      <point x="1219" y="580" type="line"/>
+      <point x="1204" y="488"/>
+      <point x="1101" y="328"/>
+      <point x="945" y="206"/>
+      <point x="752" y="137"/>
+    </contour>
+    <contour>
+      <point x="1047" y="0" type="line"/>
+      <point x="1151" y="580" type="line"/>
+      <point x="1323" y="580" type="line"/>
+      <point x="1227" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

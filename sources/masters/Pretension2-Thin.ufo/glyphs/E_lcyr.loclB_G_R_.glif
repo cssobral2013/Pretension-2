@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Elcyr.loclBGR" format="2">
+  <advance width="1310"/>
+  <outline>
+    <component base="Vturned" xOffset="-54"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>V</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>V</string>
+  </dict>
+  </lib>
+</glyph>

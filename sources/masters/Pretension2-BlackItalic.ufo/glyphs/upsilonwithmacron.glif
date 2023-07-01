@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilonwithmacron" format="2">
+  <advance width="1322"/>
+  <unicode hex="1FE1"/>
+  <outline>
+    <component base="u.1" xOffset="-3"/>
+    <component base="macroncomb" xOffset="245"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphalenisiotasub" format="2">
+  <advance width="1310"/>
+  <unicode hex="1F88"/>
+  <outline>
+    <component base="A"/>
+    <component base="iotaadscript" xOffset="446"/>
+    <component base="koronis" xOffset="22" yOffset="-6"/>
+  </outline>
+</glyph>

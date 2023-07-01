@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gecyr.loclBGR" format="2">
+  <advance width="1070"/>
+  <outline>
+    <component base="tonetwo" xOffset="6"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>s</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>s</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilonbreve" format="2">
+  <advance width="1380"/>
+  <unicode hex="1FE8"/>
+  <outline>
+    <component base="Y"/>
+    <component base="brevecomb" xOffset="368" yOffset="372"/>
+  </outline>
+</glyph>

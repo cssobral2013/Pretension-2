@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tsecyr.loclBGR" format="2">
+  <advance width="1531"/>
+  <outline>
+    <component base="icyr.loclBGR"/>
+    <component base="_part.cyrtic" xOffset="920"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>u</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>u+200</string>
+  </dict>
+  </lib>
+</glyph>

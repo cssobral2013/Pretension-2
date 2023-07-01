@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegalenisacute" format="2">
+  <advance width="1912"/>
+  <unicode hex="1F6C"/>
+  <outline>
+    <component base="Omega" xOffset="382"/>
+    <component base="lenisacute" xOffset="-190"/>
+  </outline>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ertickcyr" format="2">
+  <advance width="1298"/>
+  <unicode hex="048E"/>
+  <outline>
+    <contour>
+      <point x="870" y="958" type="line"/>
+      <point x="1132" y="494" type="line"/>
+      <point x="992" y="408" type="line"/>
+      <point x="730" y="872" type="line"/>
+    </contour>
+    <contour>
+      <point x="87" y="0" type="line"/>
+      <point x="334" y="1490" type="line"/>
+      <point x="838" y="1490" type="line" smooth="yes"/>
+      <point x="1013" y="1490"/>
+      <point x="1215" y="1364"/>
+      <point x="1288" y="1150"/>
+      <point x="1266" y="1018" type="qcurve" smooth="yes"/>
+      <point x="1244" y="887"/>
+      <point x="1101" y="671"/>
+      <point x="857" y="544"/>
+      <point x="683" y="544" type="qcurve" smooth="yes"/>
+      <point x="323" y="544" type="line"/>
+      <point x="350" y="704" type="line"/>
+      <point x="704" y="704" type="line" smooth="yes"/>
+      <point x="824" y="704"/>
+      <point x="984" y="786"/>
+      <point x="1073" y="929"/>
+      <point x="1088" y="1018" type="qcurve" smooth="yes"/>
+      <point x="1103" y="1108"/>
+      <point x="1059" y="1249"/>
+      <point x="926" y="1330"/>
+      <point x="805" y="1330" type="qcurve" smooth="yes"/>
+      <point x="487" y="1330" type="line"/>
+      <point x="267" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

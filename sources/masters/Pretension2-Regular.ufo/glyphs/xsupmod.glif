@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="xsupmod" format="2">
+  <advance width="754"/>
+  <unicode hex="02E3"/>
+  <outline>
+    <contour>
+      <point x="218" y="1490" type="line"/>
+      <point x="378" y="1208" type="line"/>
+      <point x="536" y="1490" type="line"/>
+      <point x="698" y="1490" type="line"/>
+      <point x="478" y="1120" type="line"/>
+      <point x="706" y="744" type="line"/>
+      <point x="546" y="744" type="line"/>
+      <point x="378" y="1030" type="line"/>
+      <point x="210" y="744" type="line"/>
+      <point x="46" y="744" type="line"/>
+      <point x="276" y="1120" type="line"/>
+      <point x="58" y="1490" type="line"/>
+    </contour>
+  </outline>
+</glyph>

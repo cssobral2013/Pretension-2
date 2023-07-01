@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twostroke" format="2">
+  <advance width="1240"/>
+  <unicode hex="01BB"/>
+  <outline>
+    <component base="two"/>
+    <component base="crossbar.uc" xOffset="236" yOffset="-113"/>
+  </outline>
+</glyph>

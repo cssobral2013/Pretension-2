@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sigmalunatedottedreversedsymbol" format="2">
+  <advance width="1150"/>
+  <unicode hex="037D"/>
+  <outline>
+    <contour>
+      <point x="540" y="-24" type="qcurve" smooth="yes"/>
+      <point x="416" y="-24"/>
+      <point x="229" y="69"/>
+      <point x="115" y="227"/>
+      <point x="100" y="326" type="qcurve"/>
+      <point x="272" y="326" type="line"/>
+      <point x="295" y="235"/>
+      <point x="439" y="130"/>
+      <point x="540" y="130" type="qcurve" smooth="yes"/>
+      <point x="642" y="130"/>
+      <point x="792" y="236"/>
+      <point x="874" y="429"/>
+      <point x="874" y="558" type="qcurve" smooth="yes"/>
+      <point x="874" y="685"/>
+      <point x="790" y="874"/>
+      <point x="640" y="978"/>
+      <point x="540" y="978" type="qcurve" smooth="yes"/>
+      <point x="464" y="978"/>
+      <point x="354" y="923"/>
+      <point x="285" y="833"/>
+      <point x="272" y="782" type="qcurve"/>
+      <point x="100" y="782" type="line"/>
+      <point x="115" y="887"/>
+      <point x="235" y="1045"/>
+      <point x="424" y="1132"/>
+      <point x="542" y="1132" type="qcurve" smooth="yes"/>
+      <point x="694" y="1132"/>
+      <point x="920" y="984"/>
+      <point x="1046" y="723"/>
+      <point x="1046" y="552" type="qcurve" smooth="yes"/>
+      <point x="1046" y="385"/>
+      <point x="923" y="125"/>
+      <point x="697" y="-24"/>
+    </contour>
+    <contour>
+      <point x="540" y="428" type="qcurve" smooth="yes"/>
+      <point x="486" y="428"/>
+      <point x="409" y="505"/>
+      <point x="409" y="559" type="qcurve" smooth="yes"/>
+      <point x="409" y="613"/>
+      <point x="486" y="690"/>
+      <point x="540" y="690" type="qcurve" smooth="yes"/>
+      <point x="594" y="690"/>
+      <point x="671" y="613"/>
+      <point x="671" y="559" type="qcurve" smooth="yes"/>
+      <point x="671" y="505"/>
+      <point x="594" y="428"/>
+    </contour>
+  </outline>
+</glyph>

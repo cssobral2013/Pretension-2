@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Vcircle" format="2">
+  <advance width="2847"/>
+  <unicode hex="24CB"/>
+  <outline>
+    <component base="largecircle"/>
+    <component base="V" xOffset="608"/>
+  </outline>
+</glyph>

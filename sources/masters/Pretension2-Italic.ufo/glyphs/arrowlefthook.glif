@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowlefthook" format="2">
+  <advance width="2340"/>
+  <unicode hex="21A9"/>
+  <outline>
+    <contour>
+      <point x="372" y="572" type="line"/>
+      <point x="400" y="732" type="line"/>
+      <point x="1690" y="732" type="line" smooth="yes"/>
+      <point x="1779" y="732"/>
+      <point x="1939" y="819"/>
+      <point x="2050" y="965"/>
+      <point x="2065" y="1054" type="qcurve" smooth="yes"/>
+      <point x="2079" y="1143"/>
+      <point x="2016" y="1289"/>
+      <point x="1885" y="1376"/>
+      <point x="1796" y="1376" type="qcurve" smooth="yes"/>
+      <point x="1722" y="1376" type="line"/>
+      <point x="1748" y="1536" type="line"/>
+      <point x="1822" y="1536" type="line" smooth="yes"/>
+      <point x="1955" y="1536"/>
+      <point x="2152" y="1406"/>
+      <point x="2246" y="1187"/>
+      <point x="2224" y="1054" type="qcurve" smooth="yes"/>
+      <point x="2208" y="954"/>
+      <point x="2104" y="780"/>
+      <point x="1949" y="647"/>
+      <point x="1762" y="572"/>
+      <point x="1662" y="572" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="760" y="0" type="line"/>
+      <point x="216" y="652" type="line"/>
+      <point x="976" y="1304" type="line"/>
+      <point x="1070" y="1192" type="line"/>
+      <point x="438" y="652" type="line"/>
+      <point x="890" y="112" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thook.base" format="2">
+  <advance width="1314"/>
+  <outline>
+    <contour>
+      <point x="456" y="1330" type="line"/>
+      <point x="456" y="1490" type="line"/>
+      <point x="1216" y="1490" type="line"/>
+      <point x="1216" y="1330" type="line"/>
+      <point x="748" y="1330" type="line"/>
+      <point x="748" y="0" type="line"/>
+      <point x="568" y="0" type="line"/>
+      <point x="568" y="1330" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tsecyr" format="2">
+  <advance width="1574"/>
+  <unicode hex="0426"/>
+  <outline>
+    <component base="Pecyr.turn"/>
+    <component base="_part.cyrtic" xOffset="998"/>
+  </outline>
+</glyph>

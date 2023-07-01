@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Usquare" format="2">
+  <advance width="2828"/>
+  <unicode hex="1F144"/>
+  <outline>
+    <component base="whiteLargeSquare"/>
+    <component base="U" xOffset="656"/>
+  </outline>
+</glyph>

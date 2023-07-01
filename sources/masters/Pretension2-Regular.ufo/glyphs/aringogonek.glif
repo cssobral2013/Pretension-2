@@ -4,7 +4,7 @@
   <unicode hex="EE04"/>
   <outline>
     <component base="a"/>
-    <component base="uni030A" xOffset="249"/>
+    <component base="ringcomb" xOffset="249"/>
     <component base="ogonek.a" xOffset="548"/>
   </outline>
 </glyph>

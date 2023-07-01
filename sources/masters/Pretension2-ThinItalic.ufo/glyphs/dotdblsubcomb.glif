@@ -2,6 +2,6 @@
 <glyph name="dotdblsubcomb" format="2">
   <advance width="8"/>
   <outline>
-    <component base="uni0308" xOffset="-1438" yOffset="-1686"/>
+    <component base="dieresiscomb" xOffset="-1438" yOffset="-1686"/>
   </outline>
 </glyph>

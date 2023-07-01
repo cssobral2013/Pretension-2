@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhook" format="2">
+  <advance width="1126"/>
+  <unicode hex="0225"/>
+  <outline>
+    <contour>
+      <point x="876" y="-232" type="line"/>
+      <point x="876" y="-178" type="line" smooth="yes"/>
+      <point x="876" y="-107"/>
+      <point x="822" y="0"/>
+      <point x="734" y="0" type="qcurve" smooth="yes"/>
+      <point x="126" y="0" type="line"/>
+      <point x="126" y="130" type="line"/>
+      <point x="760" y="946" type="line"/>
+      <point x="760" y="958" type="line"/>
+      <point x="146" y="958" type="line"/>
+      <point x="146" y="1118" type="line"/>
+      <point x="980" y="1118" type="line"/>
+      <point x="980" y="980" type="line"/>
+      <point x="364" y="172" type="line"/>
+      <point x="364" y="160" type="line"/>
+      <point x="734" y="160" type="line" smooth="yes"/>
+      <point x="876" y="160"/>
+      <point x="1032" y="-9"/>
+      <point x="1032" y="-134" type="qcurve" smooth="yes"/>
+      <point x="1032" y="-232" type="line"/>
+    </contour>
+  </outline>
+</glyph>

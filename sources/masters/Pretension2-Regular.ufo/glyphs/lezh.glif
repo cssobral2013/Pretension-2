@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lezh" format="2">
+  <advance width="1294"/>
+  <unicode hex="026E"/>
+  <outline>
+    <contour>
+      <point x="180" y="1490" type="line"/>
+      <point x="352" y="1490" type="line"/>
+      <point x="352" y="0" type="line"/>
+      <point x="180" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="424" y="-188" type="line"/>
+      <point x="469" y="-233"/>
+      <point x="599" y="-284"/>
+      <point x="678" y="-284" type="qcurve" smooth="yes"/>
+      <point x="773" y="-284"/>
+      <point x="918" y="-205"/>
+      <point x="1000" y="-59"/>
+      <point x="1000" y="40" type="qcurve" smooth="yes"/>
+      <point x="1000" y="138"/>
+      <point x="918" y="278"/>
+      <point x="773" y="352"/>
+      <point x="678" y="352" type="qcurve" smooth="yes"/>
+      <point x="538" y="352" type="line"/>
+      <point x="538" y="498" type="line"/>
+      <point x="910" y="946" type="line"/>
+      <point x="910" y="958" type="line"/>
+      <point x="274" y="958" type="line"/>
+      <point x="274" y="1118" type="line"/>
+      <point x="1150" y="1118" type="line"/>
+      <point x="1150" y="986" type="line"/>
+      <point x="748" y="504" type="line"/>
+      <point x="748" y="492" type="line"/>
+      <point x="876" y="479"/>
+      <point x="1070" y="365"/>
+      <point x="1178" y="173"/>
+      <point x="1178" y="40" type="qcurve" smooth="yes"/>
+      <point x="1178" y="-106"/>
+      <point x="1049" y="-324"/>
+      <point x="822" y="-444"/>
+      <point x="674" y="-444" type="qcurve" smooth="yes"/>
+      <point x="559" y="-444"/>
+      <point x="368" y="-373"/>
+      <point x="300" y="-312" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

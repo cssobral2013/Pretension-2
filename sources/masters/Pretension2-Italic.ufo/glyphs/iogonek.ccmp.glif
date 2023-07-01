@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek.ccmp" format="2">
+  <advance width="487"/>
+  <unicode hex="E04C"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="ogonekcomb" xOffset="-107"/>
+  </outline>
+</glyph>

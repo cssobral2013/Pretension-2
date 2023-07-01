@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="clickalveolar" format="2">
+  <advance width="606"/>
+  <unicode hex="01C2"/>
+  <outline>
+    <component base="clickdental" xOffset="-29"/>
+    <component base="crossbar" xOffset="-191" yOffset="167"/>
+    <component base="crossbar" xOffset="-267" yOffset="-295"/>
+  </outline>
+</glyph>

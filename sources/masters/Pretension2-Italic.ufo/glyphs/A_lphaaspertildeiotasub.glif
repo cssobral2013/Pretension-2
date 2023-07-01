@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphaaspertildeiotasub" format="2">
+  <advance width="1402"/>
+  <unicode hex="1F8F"/>
+  <outline>
+    <component base="A"/>
+    <component base="iotaadscript" xOffset="474"/>
+    <component base="aspertilde" xOffset="-126" yOffset="36"/>
+  </outline>
+</glyph>

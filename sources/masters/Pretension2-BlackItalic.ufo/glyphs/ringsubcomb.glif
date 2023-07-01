@@ -2,6 +2,6 @@
 <glyph name="ringsubcomb" format="2">
   <advance width="6"/>
   <outline>
-    <component base="uni030A" xOffset="-1013" yOffset="-1550"/>
+    <component base="ringcomb" xOffset="-1013" yOffset="-1550"/>
   </outline>
 </glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Isquare" format="2">
+  <advance width="2828"/>
+  <unicode hex="1F138"/>
+  <outline>
+    <component base="whiteLargeSquare"/>
+    <component base="I" xOffset="1115"/>
+  </outline>
+</glyph>

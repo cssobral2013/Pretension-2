@@ -3,6 +3,6 @@
   <advance width="737"/>
   <outline>
     <component base="longs"/>
-    <component base="uni0337.lc" xOffset="61"/>
+    <component base="slashshortcomb.lc" xOffset="61"/>
   </outline>
 </glyph>

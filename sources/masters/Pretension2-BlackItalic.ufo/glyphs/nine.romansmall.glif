@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.romansmall" format="2">
+  <advance width="1855"/>
+  <unicode hex="2178"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="dotaccentcomb" xOffset="-32"/>
+    <component base="x" xOffset="607"/>
+  </outline>
+</glyph>

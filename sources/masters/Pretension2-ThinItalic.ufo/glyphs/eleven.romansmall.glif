@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eleven.romansmall" format="2">
+  <advance width="1467"/>
+  <unicode hex="217A"/>
+  <outline>
+    <component base="x"/>
+    <component base="dotlessi" xOffset="1024"/>
+    <component base="dotaccentcomb" xOffset="1058"/>
+  </outline>
+</glyph>

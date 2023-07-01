@@ -4,8 +4,8 @@
   <unicode hex="0133"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="uni0307"/>
-    <component base="uni0237" xOffset="487"/>
-    <component base="uni0307" xOffset="486"/>
+    <component base="dotaccentcomb"/>
+    <component base="dotlessj" xOffset="487"/>
+    <component base="dotaccentcomb" xOffset="486"/>
   </outline>
 </glyph>

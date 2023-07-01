@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alphalenisgrave" format="2">
+  <advance width="1325"/>
+  <unicode hex="1F02"/>
+  <outline>
+    <component base="alpha" xOffset="-2"/>
+    <component base="lenisgrave" xOffset="90"/>
+  </outline>
+</glyph>

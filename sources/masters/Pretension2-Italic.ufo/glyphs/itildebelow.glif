@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="itildebelow" format="2">
+  <advance width="487"/>
+  <unicode hex="1E2D"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="dotaccentcomb"/>
+    <component base="tildecomb" xOffset="-553" yOffset="-1722"/>
+  </outline>
+</glyph>

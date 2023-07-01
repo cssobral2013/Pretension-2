@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etalenisgraveiotasub" format="2">
+  <advance width="1514"/>
+  <unicode hex="1F9A"/>
+  <outline>
+    <component base="H"/>
+    <component base="iotaadscript" xOffset="529"/>
+    <component base="lenisgrave" xOffset="-720"/>
+  </outline>
+</glyph>

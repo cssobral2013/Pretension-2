@@ -4,7 +4,7 @@
   <unicode hex="E142"/>
   <unicode hex="E14B"/>
   <outline>
-    <component base="uni2B1C"/>
+    <component base="whiteLargeSquare"/>
     <component base="four.ss01" xOffset="804"/>
   </outline>
 </glyph>

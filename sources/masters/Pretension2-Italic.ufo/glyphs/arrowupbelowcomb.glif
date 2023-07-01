@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowupbelowcomb" format="2">
+  <unicode hex="034E"/>
+  <outline>
+    <contour>
+      <point x="-722" y="-550" type="line"/>
+      <point x="-820" y="-550" type="line"/>
+      <point x="-760" y="-184" type="line"/>
+      <point x="-660" y="-184" type="line"/>
+    </contour>
+    <contour>
+      <point x="-992" y="-428" type="line"/>
+      <point x="-972" y="-306" type="line"/>
+      <point x="-696" y="-96" type="line"/>
+      <point x="-646" y="-162" type="line"/>
+    </contour>
+    <contour>
+      <point x="-488" y="-306" type="line"/>
+      <point x="-510" y="-428" type="line"/>
+      <point x="-766" y="-166" type="line"/>
+      <point x="-696" y="-96" type="line"/>
+    </contour>
+  </outline>
+</glyph>

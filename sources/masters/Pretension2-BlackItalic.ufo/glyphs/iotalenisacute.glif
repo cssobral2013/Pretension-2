@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotalenisacute" format="2">
+  <advance width="678"/>
+  <unicode hex="1F34"/>
+  <outline>
+    <component base="iota" xOffset="-7"/>
+    <component base="lenisacute" xOffset="-170"/>
+  </outline>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Njecyr" format="2">
+  <advance width="2295"/>
+  <unicode hex="040A"/>
+  <outline>
+    <contour>
+      <point x="87" y="0" type="line"/>
+      <point x="334" y="1490" type="line"/>
+      <point x="514" y="1490" type="line"/>
+      <point x="415" y="896" type="line"/>
+      <point x="1297" y="896" type="line"/>
+      <point x="1271" y="736" type="line"/>
+      <point x="389" y="736" type="line"/>
+      <point x="267" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1343" y="896" type="line"/>
+      <point x="1751" y="896" type="line" smooth="yes"/>
+      <point x="1904" y="896"/>
+      <point x="2108" y="789"/>
+      <point x="2197" y="591"/>
+      <point x="2174" y="456" type="qcurve" smooth="yes"/>
+      <point x="2151" y="316"/>
+      <point x="2000" y="111"/>
+      <point x="1764" y="0"/>
+      <point x="1611" y="0" type="qcurve" smooth="yes"/>
+      <point x="1061" y="0" type="line"/>
+      <point x="1308" y="1490" type="line"/>
+      <point x="1488" y="1490" type="line"/>
+      <point x="1267" y="158" type="line"/>
+      <point x="1629" y="158" type="line" smooth="yes"/>
+      <point x="1727" y="158"/>
+      <point x="1881" y="231"/>
+      <point x="1982" y="366"/>
+      <point x="1997" y="458" type="qcurve" smooth="yes"/>
+      <point x="2011" y="544"/>
+      <point x="1958" y="668"/>
+      <point x="1831" y="736"/>
+      <point x="1733" y="736" type="qcurve" smooth="yes"/>
+      <point x="1317" y="736" type="line"/>
+    </contour>
+  </outline>
+</glyph>

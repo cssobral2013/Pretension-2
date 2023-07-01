@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zstroke" format="2">
+  <advance width="1240"/>
+  <unicode hex="01B5"/>
+  <outline>
+    <component base="Z"/>
+    <component base="crossbar.uc" xOffset="213" yOffset="-1"/>
+  </outline>
+</glyph>

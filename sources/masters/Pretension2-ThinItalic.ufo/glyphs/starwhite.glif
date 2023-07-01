@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="starwhite" format="2">
+  <advance width="2142"/>
+  <unicode hex="2606"/>
+  <outline>
+    <contour>
+      <point x="1042" y="382" type="line"/>
+      <point x="426" y="-14" type="line"/>
+      <point x="750" y="632" type="line"/>
+      <point x="264" y="1030" type="line"/>
+      <point x="940" y="1030" type="line"/>
+      <point x="1256" y="1676" type="line"/>
+      <point x="1358" y="1030" type="line"/>
+      <point x="2034" y="1030" type="line"/>
+      <point x="1416" y="632" type="line"/>
+      <point x="1526" y="-14" type="line"/>
+    </contour>
+    <contour>
+      <point x="1044" y="440" type="line"/>
+      <point x="1458" y="100" type="line"/>
+      <point x="1364" y="654" type="line"/>
+      <point x="1876" y="984" type="line"/>
+      <point x="1320" y="984" type="line"/>
+      <point x="1234" y="1522" type="line"/>
+      <point x="968" y="984" type="line"/>
+      <point x="396" y="984" type="line"/>
+      <point x="808" y="644" type="line"/>
+      <point x="544" y="118" type="line"/>
+    </contour>
+  </outline>
+</glyph>

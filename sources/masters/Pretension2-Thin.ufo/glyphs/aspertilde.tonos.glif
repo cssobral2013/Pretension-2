@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aspertilde.tonos" format="2">
+  <advance width="672"/>
+  <outline>
+    <component base="aspertilde" xOffset="-6"/>
+  </outline>
+</glyph>

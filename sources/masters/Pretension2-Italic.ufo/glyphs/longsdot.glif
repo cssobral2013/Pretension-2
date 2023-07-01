@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longsdot" format="2">
+  <advance width="737"/>
+  <unicode hex="1E9B"/>
+  <outline>
+    <component base="longs"/>
+    <component base="dotaccentcomb" xOffset="279" yOffset="431"/>
+  </outline>
+</glyph>

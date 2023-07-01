@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Getailcyr" format="2">
+  <advance width="1472"/>
+  <unicode hex="04F6"/>
+  <outline>
+    <component base="Gamma"/>
+    <component base="_part.cyrtic" xOffset="1172"/>
+  </outline>
+</glyph>

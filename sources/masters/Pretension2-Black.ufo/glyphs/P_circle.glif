@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pcircle" format="2">
+  <advance width="2846"/>
+  <unicode hex="24C5"/>
+  <outline>
+    <component base="largecircle"/>
+    <component base="P" xOffset="749"/>
+  </outline>
+</glyph>

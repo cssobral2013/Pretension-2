@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rlonglegturned" format="2">
+  <advance width="734"/>
+  <unicode hex="027A"/>
+  <outline>
+    <contour>
+      <point x="366" y="168" type="line"/>
+      <point x="594" y="1536" type="line"/>
+      <point x="794" y="1536" type="line"/>
+      <point x="538" y="0" type="line"/>
+      <point x="344" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="8" y="-6" type="qcurve"/>
+      <point x="38" y="178" type="line"/>
+      <point x="64" y="174"/>
+      <point x="105" y="169"/>
+      <point x="130" y="168" type="qcurve"/>
+      <point x="214" y="169"/>
+      <point x="336" y="233"/>
+      <point x="418" y="348"/>
+      <point x="440" y="422" type="qcurve"/>
+      <point x="498" y="454" type="line"/>
+      <point x="476" y="326"/>
+      <point x="372" y="110"/>
+      <point x="205" y="-20"/>
+      <point x="90" y="-20" type="qcurve" smooth="yes"/>
+      <point x="71" y="-20"/>
+      <point x="19" y="-10"/>
+    </contour>
+  </outline>
+</glyph>

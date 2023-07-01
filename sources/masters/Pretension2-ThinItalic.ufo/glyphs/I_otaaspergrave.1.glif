@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotaaspergrave.1" format="2">
+  <advance width="1433"/>
+  <unicode hex="E021"/>
+  <outline>
+    <component base="I.1" xOffset="666"/>
+    <component base="aspergrave" xOffset="-64"/>
+  </outline>
+</glyph>

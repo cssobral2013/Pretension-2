@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dsquare" format="2">
+  <advance width="2828"/>
+  <unicode hex="1F133"/>
+  <outline>
+    <component base="whiteLargeSquare"/>
+    <component base="D" xOffset="665"/>
+  </outline>
+</glyph>

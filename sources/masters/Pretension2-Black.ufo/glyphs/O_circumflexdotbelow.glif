@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflexdotbelow" format="2">
+  <advance width="1628"/>
+  <unicode hex="1ED8"/>
+  <outline>
+    <component base="O"/>
+    <component base="circumflexcomb" xOffset="302" yOffset="372"/>
+    <component base="dotaccentcomb" xOffset="480" yOffset="-1714"/>
+  </outline>
+</glyph>

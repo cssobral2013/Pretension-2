@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Osquare" format="2">
+  <advance width="2826"/>
+  <unicode hex="1F13E"/>
+  <outline>
+    <component base="whiteLargeSquare" xOffset="-1"/>
+    <component base="O" xOffset="648"/>
+  </outline>
+</glyph>

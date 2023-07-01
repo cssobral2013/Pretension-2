@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedillacomb" format="2">
+  <unicode hex="0327"/>
+  <outline>
+    <contour>
+      <point x="305" y="-418" type="line"/>
+      <point x="305" y="-287" type="line"/>
+      <point x="440" y="-287" type="line" smooth="yes"/>
+      <point x="482" y="-287"/>
+      <point x="520" y="-259"/>
+      <point x="520" y="-229" type="qcurve" smooth="yes"/>
+      <point x="520" y="-199"/>
+      <point x="482" y="-172"/>
+      <point x="440" y="-172" type="qcurve" smooth="yes"/>
+      <point x="340" y="-172" type="line"/>
+      <point x="382" y="40" type="line"/>
+      <point x="515" y="40" type="line"/>
+      <point x="515" y="0" type="line"/>
+      <point x="504" y="-90" type="line"/>
+      <point x="596" y="-78"/>
+      <point x="709" y="-164"/>
+      <point x="709" y="-242" type="qcurve" smooth="yes"/>
+      <point x="709" y="-338"/>
+      <point x="593" y="-418"/>
+      <point x="463" y="-418" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

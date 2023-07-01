@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gstroke" format="2">
+  <advance width="1522"/>
+  <outline>
+    <component base="G"/>
+    <component base="_part.crossbar_compact_rext" xOffset="631" yOffset="-331"/>
+  </outline>
+</glyph>

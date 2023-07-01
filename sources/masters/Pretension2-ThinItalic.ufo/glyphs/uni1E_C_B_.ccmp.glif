@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni1ECB.ccmp" format="2">
-  <advance width="451"/>
-  <unicode hex="E04D"/>
-  <outline>
-    <component base="dotlessi" xOffset="4"/>
-    <component base="uni0307" xOffset="-240" yOffset="-1686"/>
-  </outline>
-</glyph>

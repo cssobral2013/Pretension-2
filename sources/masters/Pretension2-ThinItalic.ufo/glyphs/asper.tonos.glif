@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asper.tonos" format="2">
+  <advance width="474"/>
+  <unicode hex="E0FA"/>
+  <outline>
+    <component base="asper" xOffset="-14"/>
+  </outline>
+</glyph>

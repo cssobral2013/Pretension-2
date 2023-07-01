@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sigmalunatesymboldotted" format="2">
+  <advance width="2034"/>
+  <unicode hex="03FE"/>
+  <outline>
+    <component base="C"/>
+    <component base="period" xOffset="1480"/>
+  </outline>
+</glyph>

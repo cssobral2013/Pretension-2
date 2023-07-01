@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zretroflexhook" format="2">
+  <advance width="1072"/>
+  <unicode hex="0290"/>
+  <outline>
+    <contour>
+      <point x="1052" y="-418" type="qcurve" smooth="yes"/>
+      <point x="960" y="-418"/>
+      <point x="868" y="-322"/>
+      <point x="868" y="-220" type="qcurve" smooth="yes"/>
+      <point x="868" y="0" type="line"/>
+      <point x="914" y="0" type="line"/>
+      <point x="914" y="-220" type="line" smooth="yes"/>
+      <point x="914" y="-302"/>
+      <point x="980" y="-372"/>
+      <point x="1052" y="-372" type="qcurve" smooth="yes"/>
+      <point x="1065" y="-372"/>
+      <point x="1105" y="-372"/>
+      <point x="1124" y="-372" type="qcurve"/>
+      <point x="1124" y="-418" type="line"/>
+      <point x="1107" y="-418"/>
+      <point x="1066" y="-418"/>
+    </contour>
+    <contour>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="46" type="line"/>
+      <point x="827" y="1066" type="line"/>
+      <point x="827" y="1072" type="line"/>
+      <point x="200" y="1072" type="line"/>
+      <point x="200" y="1118" type="line"/>
+      <point x="884" y="1118" type="line"/>
+      <point x="884" y="1070" type="line"/>
+      <point x="216" y="52" type="line"/>
+      <point x="216" y="46" type="line"/>
+      <point x="914" y="46" type="line"/>
+      <point x="914" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

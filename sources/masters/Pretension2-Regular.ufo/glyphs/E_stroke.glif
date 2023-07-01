@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Estroke" format="2">
+  <advance width="1224"/>
+  <unicode hex="0246"/>
+  <outline>
+    <contour>
+      <point x="322" y="-190" type="line"/>
+      <point x="862" y="1678" type="line"/>
+      <point x="1026" y="1678" type="line"/>
+      <point x="488" y="-190" type="line"/>
+    </contour>
+    <contour>
+      <point x="180" y="0" type="line"/>
+      <point x="180" y="1490" type="line"/>
+      <point x="1080" y="1490" type="line"/>
+      <point x="1080" y="1330" type="line"/>
+      <point x="360" y="1330" type="line"/>
+      <point x="360" y="832" type="line"/>
+      <point x="1032" y="832" type="line"/>
+      <point x="1032" y="672" type="line"/>
+      <point x="360" y="672" type="line"/>
+      <point x="360" y="160" type="line"/>
+      <point x="1090" y="160" type="line"/>
+      <point x="1090" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

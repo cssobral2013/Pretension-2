@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shchacyr.loclBGR" format="2">
+  <advance width="1882"/>
+  <outline>
+    <component base="shacyr.loclBGR"/>
+    <component base="_part.cyrtic" xOffset="1481"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>m</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>m+100</string>
+  </dict>
+  </lib>
+</glyph>

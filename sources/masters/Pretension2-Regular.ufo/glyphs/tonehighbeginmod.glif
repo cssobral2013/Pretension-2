@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonehighbeginmod" format="2">
+  <advance width="546"/>
+  <unicode hex="02F9"/>
+  <outline>
+    <contour>
+      <point x="76" y="1150" type="line"/>
+      <point x="76" y="1536" type="line"/>
+      <point x="224" y="1536" type="line"/>
+      <point x="224" y="1150" type="line"/>
+    </contour>
+    <contour>
+      <point x="76" y="1396" type="line"/>
+      <point x="76" y="1536" type="line"/>
+      <point x="474" y="1536" type="line"/>
+      <point x="474" y="1396" type="line"/>
+    </contour>
+  </outline>
+</glyph>

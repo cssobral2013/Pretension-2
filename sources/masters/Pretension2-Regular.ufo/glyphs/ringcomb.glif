@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb" format="2">
+  <unicode hex="030A"/>
+  <outline>
+    <contour>
+      <point x="305" y="1189" type="qcurve" smooth="yes"/>
+      <point x="232" y="1189"/>
+      <point x="113" y="1257"/>
+      <point x="42" y="1371"/>
+      <point x="42" y="1440" type="qcurve" smooth="yes"/>
+      <point x="42" y="1510"/>
+      <point x="113" y="1623"/>
+      <point x="232" y="1691"/>
+      <point x="305" y="1691" type="qcurve" smooth="yes"/>
+      <point x="377" y="1691"/>
+      <point x="495" y="1623"/>
+      <point x="566" y="1510"/>
+      <point x="566" y="1441" type="qcurve" smooth="yes"/>
+      <point x="566" y="1371"/>
+      <point x="495" y="1257"/>
+      <point x="377" y="1189"/>
+    </contour>
+    <contour>
+      <point x="304" y="1314" type="qcurve" smooth="yes"/>
+      <point x="357" y="1314"/>
+      <point x="430" y="1388"/>
+      <point x="430" y="1440" type="qcurve" smooth="yes"/>
+      <point x="430" y="1493"/>
+      <point x="357" y="1566"/>
+      <point x="304" y="1566" type="qcurve" smooth="yes"/>
+      <point x="252" y="1566"/>
+      <point x="178" y="1493"/>
+      <point x="178" y="1440" type="qcurve" smooth="yes"/>
+      <point x="178" y="1388"/>
+      <point x="252" y="1314"/>
+    </contour>
+  </outline>
+</glyph>

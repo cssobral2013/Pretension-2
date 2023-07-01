@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iinferior" format="2">
+  <advance width="350"/>
+  <unicode hex="1D62"/>
+  <outline>
+    <component base="i.superior" xOffset="-166" yOffset="-1000"/>
+  </outline>
+</glyph>

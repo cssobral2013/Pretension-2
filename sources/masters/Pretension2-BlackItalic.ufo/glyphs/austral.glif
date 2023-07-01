@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="austral" format="2">
+  <advance width="1630"/>
+  <unicode hex="20B3"/>
+  <outline>
+    <contour>
+      <point x="57" y="614" type="line"/>
+      <point x="79" y="760" type="line"/>
+      <point x="1615" y="760" type="line"/>
+      <point x="1593" y="614" type="line"/>
+    </contour>
+    <contour>
+      <point x="9" y="322" type="line"/>
+      <point x="33" y="468" type="line"/>
+      <point x="1569" y="468" type="line"/>
+      <point x="1545" y="322" type="line"/>
+    </contour>
+    <contour>
+      <point x="390" y="0" type="line"/>
+      <point x="-46" y="0" type="line"/>
+      <point x="692" y="1490" type="line"/>
+      <point x="1246" y="1490" type="line"/>
+      <point x="1490" y="0" type="line"/>
+      <point x="1054" y="0" type="line"/>
+      <point x="908" y="1080" type="line"/>
+      <point x="896" y="1080" type="line"/>
+    </contour>
+  </outline>
+</glyph>

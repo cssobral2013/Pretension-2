@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ishortsharptailcyr" format="2">
+  <advance width="1580"/>
+  <unicode hex="048A"/>
+  <outline>
+    <component base="Icyr"/>
+    <component base="brevecomb" xOffset="500" yOffset="372"/>
+    <component base="_part.cyrtail" xOffset="1252"/>
+  </outline>
+</glyph>

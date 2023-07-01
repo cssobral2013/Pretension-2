@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilonasperacute" format="2">
+  <advance width="1696"/>
+  <unicode hex="1F1D"/>
+  <outline>
+    <component base="E" xOffset="500"/>
+    <component base="asperacute" xOffset="20"/>
+  </outline>
+</glyph>

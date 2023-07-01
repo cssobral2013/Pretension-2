@@ -5,6 +5,6 @@
   <unicode hex="E051"/>
   <outline>
     <component base="l.ss02" xOffset="32"/>
-    <component base="uni0337.lc" xOffset="20"/>
+    <component base="slashshortcomb.lc" xOffset="20"/>
   </outline>
 </glyph>

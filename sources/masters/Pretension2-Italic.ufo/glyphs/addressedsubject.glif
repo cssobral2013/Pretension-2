@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="addressedsubject" format="2">
+  <advance width="1705"/>
+  <unicode hex="2101"/>
+  <outline>
+    <component base="amod"/>
+    <component base="fraction" xOffset="776"/>
+    <component base="ssupmod" xOffset="839" yOffset="-744"/>
+  </outline>
+</glyph>

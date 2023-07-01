@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="insulardcomb" format="2">
+  <unicode hex="1DD8"/>
+  <outline>
+    <contour>
+      <point x="-486" y="1894" type="qcurve"/>
+      <point x="-424" y="1996" type="line"/>
+      <point x="-341" y="1973"/>
+      <point x="-206" y="1840"/>
+      <point x="-139" y="1646"/>
+      <point x="-160" y="1528" type="qcurve"/>
+      <point x="-168" y="1478" type="line" smooth="yes"/>
+      <point x="-181" y="1394"/>
+      <point x="-275" y="1265"/>
+      <point x="-407" y="1193"/>
+      <point x="-480" y="1192" type="qcurve"/>
+      <point x="-591" y="1193"/>
+      <point x="-721" y="1338"/>
+      <point x="-704" y="1442" type="qcurve" smooth="yes"/>
+      <point x="-691" y="1521"/>
+      <point x="-600" y="1639"/>
+      <point x="-471" y="1705"/>
+      <point x="-402" y="1704" type="qcurve"/>
+      <point x="-343" y="1705"/>
+      <point x="-248" y="1648"/>
+      <point x="-196" y="1562"/>
+      <point x="-204" y="1518" type="qcurve"/>
+      <point x="-276" y="1510" type="line"/>
+      <point x="-270" y="1542"/>
+      <point x="-333" y="1597"/>
+      <point x="-418" y="1598" type="qcurve"/>
+      <point x="-484" y="1597"/>
+      <point x="-563" y="1508"/>
+      <point x="-574" y="1442" type="qcurve"/>
+      <point x="-582" y="1381"/>
+      <point x="-530" y="1300"/>
+      <point x="-462" y="1300" type="qcurve" smooth="yes"/>
+      <point x="-401" y="1300"/>
+      <point x="-313" y="1390"/>
+      <point x="-300" y="1478" type="qcurve"/>
+      <point x="-290" y="1528" type="line"/>
+      <point x="-273" y="1634"/>
+      <point x="-325" y="1782"/>
+      <point x="-427" y="1874"/>
+    </contour>
+  </outline>
+</glyph>

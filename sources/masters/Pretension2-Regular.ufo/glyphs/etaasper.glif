@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etaasper" format="2">
+  <advance width="1200"/>
+  <unicode hex="1F21"/>
+  <outline>
+    <component base="eta"/>
+    <component base="asper" xOffset="341"/>
+  </outline>
+</glyph>

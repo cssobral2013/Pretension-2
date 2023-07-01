@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute-gr.tonos" format="2">
+  <advance width="486"/>
+  <unicode hex="E102"/>
+  <outline>
+    <component base="acute-gr"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fivedotpunctuation" format="2">
+  <advance width="2440"/>
+  <unicode hex="2059"/>
+  <outline>
+    <component base="dotaccentcomb" yOffset="-1722"/>
+    <component base="dotaccentcomb" xOffset="488" yOffset="-1722"/>
+    <component base="dotaccentcomb" xOffset="976" yOffset="-1722"/>
+    <component base="dotaccentcomb" xOffset="1464" yOffset="-1722"/>
+    <component base="dotaccentcomb" xOffset="1952" yOffset="-1722"/>
+  </outline>
+</glyph>

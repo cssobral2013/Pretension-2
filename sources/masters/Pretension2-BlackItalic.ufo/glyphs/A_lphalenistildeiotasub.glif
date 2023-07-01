@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphalenistildeiotasub" format="2">
+  <advance width="1628"/>
+  <unicode hex="1F8E"/>
+  <outline>
+    <component base="A"/>
+    <component base="lenistilde" xOffset="-152" yOffset="36"/>
+    <component base="iotaadscript" xOffset="543"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Itildebelow.1" format="2">
+  <advance width="768"/>
+  <unicode hex="E010"/>
+  <outline>
+    <component base="I.1"/>
+    <component base="tildecomb" xOffset="-120" yOffset="-1686"/>
+  </outline>
+</glyph>

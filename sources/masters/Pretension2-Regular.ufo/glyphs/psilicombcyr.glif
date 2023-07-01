@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psilicombcyr" format="2">
+  <unicode hex="0486"/>
+  <outline>
+    <contour>
+      <point x="-358" y="1502" type="line"/>
+      <point x="-524" y="1300" type="line"/>
+      <point x="-606" y="1368" type="line"/>
+      <point x="-546" y="1484" type="line"/>
+      <point x="-550" y="1624" type="line"/>
+      <point x="-358" y="1624" type="line"/>
+    </contour>
+  </outline>
+</glyph>

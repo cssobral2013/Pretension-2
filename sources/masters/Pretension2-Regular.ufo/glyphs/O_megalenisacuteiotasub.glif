@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegalenisacuteiotasub" format="2">
+  <advance width="1560"/>
+  <unicode hex="1FAC"/>
+  <outline>
+    <component base="Omega"/>
+    <component base="iotaadscript" xOffset="553"/>
+    <component base="lenisacute" xOffset="-588"/>
+  </outline>
+</glyph>

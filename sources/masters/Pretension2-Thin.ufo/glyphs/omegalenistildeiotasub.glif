@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegalenistildeiotasub" format="2">
+  <advance width="1578"/>
+  <unicode hex="1FA6"/>
+  <outline>
+    <component base="omega"/>
+    <component base="iotaadscript" xOffset="580"/>
+    <component base="lenistilde" xOffset="461"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Entailcyr" format="2">
+  <advance width="1516"/>
+  <unicode hex="04A2"/>
+  <outline>
+    <component base="H"/>
+    <component base="_part.cyrtic" xOffset="1178"/>
+  </outline>
+</glyph>

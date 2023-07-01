@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="check.circled" format="2">
+  <advance width="2846"/>
+  <unicode hex="E13C"/>
+  <outline>
+    <component base="largecircle"/>
+    <component base="check" xOffset="521" yOffset="37"/>
+  </outline>
+</glyph>

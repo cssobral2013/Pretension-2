@@ -2,6 +2,6 @@
 <glyph name="commasuprevcomb" format="2">
   <advance width="-8"/>
   <outline>
-    <component base="uni02BD" xOffset="-994"/>
+    <component base="commareversedmod" xOffset="-994"/>
   </outline>
 </glyph>

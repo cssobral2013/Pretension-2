@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rsupinvertedmod" format="2">
+  <advance width="920"/>
+  <unicode hex="02B6"/>
+  <outline>
+    <contour>
+      <point x="698" y="1108" type="line"/>
+      <point x="488" y="1108" type="line"/>
+      <point x="760" y="1452" type="line"/>
+      <point x="968" y="1452" type="line"/>
+    </contour>
+    <contour>
+      <point x="472" y="652" type="qcurve" smooth="yes"/>
+      <point x="114" y="652" type="line"/>
+      <point x="248" y="1452" type="line"/>
+      <point x="430" y="1452" type="line"/>
+      <point x="322" y="806" type="line"/>
+      <point x="462" y="806" type="line" smooth="yes"/>
+      <point x="548" y="806"/>
+      <point x="634" y="871"/>
+      <point x="642" y="920" type="qcurve" smooth="yes"/>
+      <point x="650" y="965"/>
+      <point x="595" y="1030"/>
+      <point x="518" y="1030" type="qcurve" smooth="yes"/>
+      <point x="322" y="1030" type="line"/>
+      <point x="346" y="1182" type="line"/>
+      <point x="574" y="1182" type="line" smooth="yes"/>
+      <point x="667" y="1182"/>
+      <point x="786" y="1108"/>
+      <point x="836" y="988"/>
+      <point x="824" y="916" type="qcurve" smooth="yes"/>
+      <point x="812" y="847"/>
+      <point x="719" y="726"/>
+      <point x="569" y="652"/>
+    </contour>
+  </outline>
+</glyph>

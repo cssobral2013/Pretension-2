@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilonlunatesymbol" format="2">
+  <advance width="818"/>
+  <unicode hex="03F5"/>
+  <outline>
+    <contour>
+      <point x="530" y="48" type="qcurve" smooth="yes"/>
+      <point x="730" y="48" type="line"/>
+      <point x="730" y="2" type="line"/>
+      <point x="530" y="2" type="line" smooth="yes"/>
+      <point x="371" y="2"/>
+      <point x="155" y="114"/>
+      <point x="46" y="349"/>
+      <point x="46" y="530" type="qcurve" smooth="yes"/>
+      <point x="46" y="586" type="line"/>
+      <point x="47" y="766"/>
+      <point x="157" y="1002"/>
+      <point x="373" y="1118"/>
+      <point x="530" y="1118" type="qcurve" smooth="yes"/>
+      <point x="730" y="1118" type="line"/>
+      <point x="730" y="1070" type="line"/>
+      <point x="530" y="1070" type="line"/>
+      <point x="386" y="1071"/>
+      <point x="192" y="967"/>
+      <point x="94" y="752"/>
+      <point x="94" y="586" type="qcurve" smooth="yes"/>
+      <point x="94" y="530" type="line" smooth="yes"/>
+      <point x="94" y="362"/>
+      <point x="190" y="149"/>
+      <point x="385" y="48"/>
+    </contour>
+    <contour>
+      <point x="556" y="582" type="line"/>
+      <point x="556" y="536" type="line"/>
+      <point x="76" y="536" type="line"/>
+      <point x="76" y="582" type="line"/>
+    </contour>
+  </outline>
+</glyph>

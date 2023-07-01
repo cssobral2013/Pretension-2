@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etalenistildeiotasub" format="2">
+  <advance width="1330"/>
+  <unicode hex="1F96"/>
+  <outline>
+    <component base="eta"/>
+    <component base="iotaadscript" xOffset="35"/>
+    <component base="lenistilde" xOffset="302"/>
+  </outline>
+</glyph>

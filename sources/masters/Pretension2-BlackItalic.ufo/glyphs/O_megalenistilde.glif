@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegalenistilde" format="2">
+  <advance width="1976"/>
+  <unicode hex="1F6E"/>
+  <outline>
+    <component base="Omega" xOffset="364"/>
+    <component base="lenistilde" xOffset="-127" yOffset="36"/>
+  </outline>
+</glyph>

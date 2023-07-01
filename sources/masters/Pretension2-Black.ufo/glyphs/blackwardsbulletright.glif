@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="blackwardsbulletright" format="2">
+  <advance width="1276"/>
+  <unicode hex="204D"/>
+  <outline>
+    <contour>
+      <point x="718" y="168" type="qcurve" smooth="yes"/>
+      <point x="396" y="168" type="line"/>
+      <point x="396" y="332" type="line"/>
+      <point x="640" y="332" type="line"/>
+      <point x="640" y="856" type="line"/>
+      <point x="396" y="856" type="line"/>
+      <point x="396" y="1018" type="line"/>
+      <point x="718" y="1018" type="line" smooth="yes"/>
+      <point x="842" y="1018"/>
+      <point x="1027" y="912"/>
+      <point x="1130" y="721"/>
+      <point x="1130" y="594" type="qcurve" smooth="yes"/>
+      <point x="1130" y="467"/>
+      <point x="1027" y="275"/>
+      <point x="842" y="168"/>
+    </contour>
+    <contour>
+      <point x="460" y="168" type="line"/>
+      <point x="170" y="168" type="line"/>
+      <point x="170" y="1018" type="line"/>
+      <point x="460" y="1018" type="line"/>
+    </contour>
+  </outline>
+</glyph>

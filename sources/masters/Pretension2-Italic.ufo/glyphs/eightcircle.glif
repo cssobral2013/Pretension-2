@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eightcircle" format="2">
+  <advance width="2846"/>
+  <unicode hex="2467"/>
+  <unicode hex="2787"/>
+  <outline>
+    <component base="largecircle"/>
+    <component base="eight" xOffset="794"/>
+  </outline>
+</glyph>

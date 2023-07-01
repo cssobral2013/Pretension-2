@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotaadscript" format="2">
+  <advance width="546"/>
+  <unicode hex="1FBE"/>
+  <outline>
+    <contour>
+      <point x="146" y="-494" type="qcurve"/>
+      <point x="72" y="-495"/>
+      <point x="-9" y="-406"/>
+      <point x="8" y="-308" type="qcurve"/>
+      <point x="44" y="-88" type="line"/>
+      <point x="194" y="-88" type="line"/>
+      <point x="160" y="-306" type="line" smooth="yes"/>
+      <point x="153" y="-349"/>
+      <point x="174" y="-384"/>
+      <point x="196" y="-384" type="qcurve" smooth="yes"/>
+      <point x="207" y="-384"/>
+      <point x="233" y="-381"/>
+      <point x="240" y="-382" type="qcurve"/>
+      <point x="222" y="-482" type="line"/>
+      <point x="212" y="-487"/>
+      <point x="174" y="-495"/>
+    </contour>
+  </outline>
+</glyph>

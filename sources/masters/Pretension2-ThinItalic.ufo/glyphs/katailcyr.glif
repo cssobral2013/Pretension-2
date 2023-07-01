@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="katailcyr" format="2">
+  <advance width="1003"/>
+  <unicode hex="049B"/>
+  <outline>
+    <component base="kacyr"/>
+    <component base="_part.cyrtic" xOffset="775"/>
+  </outline>
+</glyph>

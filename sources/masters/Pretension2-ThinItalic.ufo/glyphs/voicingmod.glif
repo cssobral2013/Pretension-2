@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="voicingmod" format="2">
+  <advance width="694"/>
+  <unicode hex="02EC"/>
+  <outline>
+    <contour>
+      <point x="62" y="-130" type="line"/>
+      <point x="186" y="-360" type="line"/>
+      <point x="398" y="-130" type="line"/>
+      <point x="456" y="-130" type="line"/>
+      <point x="454" y="-140" type="line"/>
+      <point x="206" y="-408" type="line"/>
+      <point x="158" y="-408" type="line"/>
+      <point x="14" y="-140" type="line"/>
+      <point x="16" y="-130" type="line"/>
+    </contour>
+  </outline>
+</glyph>

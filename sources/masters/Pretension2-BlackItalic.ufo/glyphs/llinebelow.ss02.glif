@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="llinebelow.ss02" format="2">
+  <advance width="691"/>
+  <unicode hex="1E3B"/>
+  <unicode hex="E05B"/>
+  <outline>
+    <component base="l.ss02"/>
+    <component base="macroncomb" xOffset="-343" yOffset="-1714"/>
+  </outline>
+</glyph>

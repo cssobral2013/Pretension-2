@@ -2,6 +2,6 @@
 <glyph name="ringrighthalfsubcomb" format="2">
   <advance width="336"/>
   <outline>
-    <component base="uni0357" xOffset="-292" yOffset="-1761"/>
+    <component base="righthalfringabovecomb" xOffset="-292" yOffset="-1761"/>
   </outline>
 </glyph>

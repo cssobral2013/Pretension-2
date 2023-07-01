@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilonlenis" format="2">
+  <advance width="1404"/>
+  <unicode hex="1F18"/>
+  <outline>
+    <component base="E" xOffset="180"/>
+    <component base="koronis" xOffset="-148" yOffset="-6"/>
+  </outline>
+</glyph>

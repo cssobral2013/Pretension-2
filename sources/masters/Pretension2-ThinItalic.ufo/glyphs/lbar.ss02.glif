@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lbar.ss02" format="2">
+  <advance width="574"/>
+  <unicode hex="019A"/>
+  <unicode hex="E052"/>
+  <outline>
+    <component base="l.ss02" xOffset="64"/>
+    <component base="crossbar" xOffset="-135" yOffset="23"/>
+  </outline>
+</glyph>

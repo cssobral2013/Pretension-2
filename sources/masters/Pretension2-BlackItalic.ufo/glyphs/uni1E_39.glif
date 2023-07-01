@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni1E39" format="2">
-  <advance width="600"/>
-  <outline>
-    <component base="l" xOffset="-3"/>
-    <component base="uni0307" xOffset="-319" yOffset="-1714"/>
-    <component base="uni0304" xOffset="-55" yOffset="372"/>
-  </outline>
-</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dafrican" format="2">
+  <advance width="1462"/>
+  <unicode hex="0189"/>
+  <outline>
+    <component base="D"/>
+    <component base="crossbar.uc" xOffset="-23"/>
+  </outline>
+</glyph>

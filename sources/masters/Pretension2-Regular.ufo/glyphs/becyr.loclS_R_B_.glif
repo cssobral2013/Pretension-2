@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="becyr.loclSRB" format="2">
+  <advance width="1176"/>
+  <outline>
+    <component base="delta"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>delta</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>delta</string>
+  </dict>
+  </lib>
+</glyph>

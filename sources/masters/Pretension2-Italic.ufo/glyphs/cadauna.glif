@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cadauna" format="2">
+  <advance width="1892"/>
+  <unicode hex="2106"/>
+  <outline>
+    <component base="cmod"/>
+    <component base="fraction" xOffset="789"/>
+    <component base="umod" xOffset="942" yOffset="-744"/>
+  </outline>
+</glyph>

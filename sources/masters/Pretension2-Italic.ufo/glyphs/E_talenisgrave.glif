@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etalenisgrave" format="2">
+  <advance width="2220"/>
+  <unicode hex="1F2A"/>
+  <outline>
+    <component base="H" xOffset="706"/>
+    <component base="lenisgrave" xOffset="6"/>
+  </outline>
+</glyph>

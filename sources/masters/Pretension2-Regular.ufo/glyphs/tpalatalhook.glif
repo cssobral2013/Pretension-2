@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tpalatalhook" format="2">
+  <advance width="670"/>
+  <unicode hex="01AB"/>
+  <outline>
+    <contour>
+      <point x="236" y="-418" type="qcurve"/>
+      <point x="236" y="-274" type="line"/>
+      <point x="250" y="-276"/>
+      <point x="280" y="-278"/>
+      <point x="292" y="-278" type="qcurve" smooth="yes"/>
+      <point x="407" y="-278"/>
+      <point x="497" y="-190"/>
+      <point x="476" y="-95" type="qcurve" smooth="yes"/>
+      <point x="454" y="6" type="line"/>
+      <point x="620" y="6" type="line"/>
+      <point x="643" y="-95" type="line" smooth="yes"/>
+      <point x="675" y="-234"/>
+      <point x="517" y="-426"/>
+      <point x="336" y="-426" type="qcurve" smooth="yes"/>
+      <point x="302" y="-426"/>
+      <point x="249" y="-421"/>
+    </contour>
+    <contour>
+      <point x="188" y="1384" type="line"/>
+      <point x="358" y="1384" type="line"/>
+      <point x="358" y="287" type="line" smooth="yes"/>
+      <point x="358" y="210"/>
+      <point x="420" y="139"/>
+      <point x="492" y="139" type="qcurve" smooth="yes"/>
+      <point x="509" y="139"/>
+      <point x="562" y="147"/>
+      <point x="584" y="151" type="qcurve"/>
+      <point x="620" y="6" type="line"/>
+      <point x="596" y="-3"/>
+      <point x="527" y="-14"/>
+      <point x="492" y="-14" type="qcurve" smooth="yes"/>
+      <point x="349" y="-14"/>
+      <point x="188" y="138"/>
+      <point x="188" y="274" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="598" y="1118" type="line"/>
+      <point x="598" y="972" type="line"/>
+      <point x="20" y="972" type="line"/>
+      <point x="20" y="1118" type="line"/>
+    </contour>
+  </outline>
+</glyph>
