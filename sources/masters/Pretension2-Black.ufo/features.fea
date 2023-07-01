@@ -945,6 +945,7 @@ feature locl {
     sub L' lookup locl_latnCAT_3 periodcentered' L;
     sub l' lookup locl_latnCAT_2 periodcentered' l;
 
+  script cyrl;
     language BGR ;
     sub @loclRUS by @loclBGR;
 
