@@ -4,7 +4,13 @@
   <axis minimum="100" name="weight" default="400" tag="wght" maximum="900">
    <labelname xml:lang="en">Weight</labelname>
    <map input="100" output="100"/>
+   <map input="200" output="200"/>
+   <map input="300" output="300"/>
    <map input="400" output="400"/>
+   <map input="500" output="500"/>
+   <map input="600" output="600"/>
+   <map input="700" output="700"/>
+   <map input="800" output="800"/>
    <map input="900" output="900"/>
   </axis>
  </axes>

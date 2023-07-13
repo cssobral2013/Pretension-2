@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gecyr.loclBGR" format="2">
-  <advance width="1011"/>
+  <advance width="1012"/>
   <outline>
-    <component base="tonetwo" xOffset="2"/>
+    <component base="tonetwo" xOffset="4"/>
   </outline>
   <lib>
   <dict>

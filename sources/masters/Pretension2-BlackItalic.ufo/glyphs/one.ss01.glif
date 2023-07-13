@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.ss01" format="2">
-  <advance width="891"/>
+  <advance width="926"/>
   <unicode hex="0031"/>
   <unicode hex="E06C"/>
   <outline>
@@ -11,8 +11,8 @@
       <point x="430" y="947"/>
       <point x="323" y="947"/>
       <point x="217" y="947"/>
-      <point x="163" y="947" type="qcurve"/>
-      <point x="212" y="1243" type="line"/>
+      <point x="103" y="947" type="qcurve"/>
+      <point x="152" y="1243" type="line"/>
       <point x="294" y="1243" type="line" smooth="yes"/>
       <point x="369" y="1243"/>
       <point x="492" y="1294"/>
