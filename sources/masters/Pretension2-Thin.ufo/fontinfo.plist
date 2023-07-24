@@ -278,7 +278,7 @@
   </dict>
   </array>
   <key>openTypeNameVersion</key>
-  <string>Version 3.033</string>
+  <string>Version 3.035</string>
   <key>openTypeOS2Panose</key>
   <array>
     <integer>2</integer>
@@ -373,7 +373,7 @@
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>33</integer>
+  <integer>35</integer>
   <key>xHeight</key>
   <integer>1118</integer>
 </dict>
