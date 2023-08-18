@@ -1,3 +1,10 @@
+#> classes
+#/> otclasses
+@Idieresis = [Idieresis Yukrcyr];
+@idieresis = [idieresis yukrcyr];
+#/< otclasses
+#< classes
+
 #/> classes
 #/> otclasses
 @aalt = [space A G Ghook H I L M N O OE R Scedilla T Y b c d e f ghook j k l.ss02 oe p q s scedilla tcedilla u v w x z zero.slash one.ss01 four.ss01 six.ss01 nine.ss01 zero.tf.slash one.tf.ss01 four.tf.ss01 six.tf.ss01 nine.tf.ss01 comma.tf period.tf colon.case.tf semicolon.tf braceleft.case.tf braceright.case.tf less.case.tf greater.case.tf lessequal.case.tf greaterequal.case.tf notequal.case.tf multiply.case.tf divide.case.tf plusminus.case.tf approxequal.case.tf asciitilde.case.tf asterisk.case.tf space.tf nbspace.tf punctuationspace.tf at braceleft.case braceright.case slash endash figuredash emdash bullet openbullet hyphenbullet triangularbullet blackwardsbulletleft blackwardsbulletright squaresmallblack comma period colon.case semicolon less.case greater.case lessequal.case greaterequal.case notequal.case multiply.case divide.case plusminus.case approxequal.case asciitilde.case asterisk.case zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr nbspace punctuationspace arrowleft leftLongArrow leftSansSerifArrow arrowdblleft leftLongDoubleArrow arrowright rightlongArrow rightSansSerifArrow arrowdblright rightLongDoubleArrow arrowboth leftRightLongArrow arrowdblboth leftRightLongDoubleArrow];
@@ -1752,6 +1759,8 @@ feature liga {
     sub f' lookup liga_2 @liga;
   } liga_1;
 
+    sub @Idieresis @Idieresis by Idieresis.double;
+    sub @idieresis @idieresis by idieresis.double;
 
 } liga;
 

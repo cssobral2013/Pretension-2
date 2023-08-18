@@ -2,6 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>Idieresis</key>
+  <array>
+    <string>Idieresis</string>
+    <string>Yukrcyr</string>
+  </array>
   <key>aalt</key>
   <array>
     <string>space</string>
@@ -6932,6 +6937,11 @@
     <string>eight.numr</string>
     <string>nine.numr</string>
     <string>fraction</string>
+  </array>
+  <key>idieresis</key>
+  <array>
+    <string>idieresis</string>
+    <string>yukrcyr</string>
   </array>
   <key>liga</key>
   <array>

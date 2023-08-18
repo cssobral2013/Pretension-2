@@ -67,6 +67,8 @@
 @tnum2 = [space.tf zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf one.tf.ss01 three.1.tf four.tf.ss01 six.tf.ss01 nine.tf.ss01 parenleft.tf parenright.tf bracketleft.tf bracketright.tf braceleft.tf braceright.tf parenleft.case.tf parenright.case.tf bracketleft.case.tf bracketright.case.tf braceleft.case.tf braceright.case.tf hyphen.tf hyphen.case.tf comma.tf period.tf colon.tf colon.case.tf semicolon.tf less.tf greater.tf lessequal.tf greaterequal.tf equal.tf notequal.tf plus.tf minus.tf multiply.tf divide.tf plusminus.tf approxequal.tf asciitilde.tf less.case.tf greater.case.tf lessequal.case.tf greaterequal.case.tf equal.case.tf notequal.case.tf plus.case.tf minus.case.tf multiply.case.tf divide.case.tf plusminus.case.tf approxequal.case.tf asciitilde.case.tf asterisk.tf asterisk.case.tf nbspace.tf punctuationspace.tf];
 @loclBGR = [decyr.loclBGR Elcyr.loclBGR elcyr.loclBGR Kacyr.loclBGR kacyr.loclBGR icyr.loclBGR shacyr.loclBGR tecyr.loclBGR shchacyr.loclBGR vecyr.loclBGR pecyr.loclBGR gecyr.loclBGR zhecyr.loclBGR ishortcyr.loclBGR tsecyr.loclBGR];
 @loclRUS = [decyr Elcyr elcyr Kacyr kacyr icyr shacyr tecyr shchacyr vecyr pecyr gecyr zhecyr ishortcyr tsecyr];
+@Idieresis = [Idieresis Yukrcyr];
+@idieresis = [idieresis yukrcyr];
 #/< otclasses
 #< classes
 
@@ -1727,6 +1729,8 @@ feature liga {
     sub f' lookup liga_2 @liga;
   } liga_1;
 
+    sub @Idieresis @Idieresis by Idieresis.double;
+    sub @idieresis @idieresis by idieresis.double;
 
 } liga;
 
