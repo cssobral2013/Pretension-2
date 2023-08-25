@@ -1,4 +1,4 @@
-#> classes
+#/> classes
 #/> otclasses
 @aalt = [space A G Ghook H I L M N O OE R Scedilla T Y b c d e f ghook j k l.ss02 oe p q s scedilla tcedilla u v w x z zero.slash one.ss01 four.ss01 six.ss01 nine.ss01 zero.tf.slash one.tf.ss01 four.tf.ss01 six.tf.ss01 nine.tf.ss01 comma.tf period.tf colon.case.tf semicolon.tf braceleft.case.tf braceright.case.tf less.case.tf greater.case.tf lessequal.case.tf greaterequal.case.tf notequal.case.tf multiply.case.tf divide.case.tf plusminus.case.tf approxequal.case.tf asciitilde.case.tf asterisk.case.tf space.tf nbspace.tf punctuationspace.tf at braceleft.case braceright.case slash endash figuredash emdash bullet openbullet hyphenbullet triangularbullet blackwardsbulletleft blackwardsbulletright squaresmallblack comma period colon.case semicolon less.case greater.case lessequal.case greaterequal.case notequal.case multiply.case divide.case plusminus.case approxequal.case asciitilde.case asterisk.case zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr nbspace punctuationspace arrowleft leftLongArrow leftSansSerifArrow arrowdblleft leftLongDoubleArrow arrowright rightlongArrow rightSansSerifArrow arrowdblright rightLongDoubleArrow arrowboth leftRightLongArrow arrowdblboth leftRightLongDoubleArrow];
 @aalt2 = [space.tf ordfeminine Gsmall ghook.sc Hsmall i.sc l.sc m.sc n.sc ordmasculine oe.sc r.sc Scommaaccent t.sc y.sc b.subs c.subs d.subs einferior f.subs ghook.sc jinferior kinferior linferior oe.sc pinferior q.subs sinferior scommaaccent tcommaaccent uinferior vinferior w.subs xinferior z.subs zero.inferior one.inferior four.inferior six.inferior nine.inferior zero.inferior one.inferior four.inferior six.inferior nine.inferior comma period colon.case semicolon braceleft.case braceright.case less.case greater.case lessequal.case greaterequal.case notequal.case multiply.case divide.case plusminus.case approxequal.case asciitilde.case asterisk.case space nbspace punctuationspace at.case braceleft.case.tf braceright.case.tf fraction endash.case figuredash.case emdash.case bullet.case openbullet.case hyphenbullet.case triangularbullet.case blackwardsbulletleft.case blackwardsbulletright.case squaresmallblack.case comma.tf period.tf colon.case.tf semicolon.tf less.case.tf greater.case.tf lessequal.case.tf greaterequal.case.tf notequal.case.tf multiply.case.tf divide.case.tf plusminus.case.tf approxequal.case.tf asciitilde.case.tf asterisk.case.tf zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom nbspace.tf punctuationspace.tf arrowleft.case leftLongArrow.case leftSansSerifArrow.case arrowdblleft.case leftLongDoubleArrow.case arrowright.case rightlongArrow.case rightSansSerifArrow.case arrowdblright.case rightLongDoubleArrow.case arrowboth.case leftRightLongArrow.case arrowdblboth.case leftRightLongDoubleArrow.case];
@@ -70,7 +70,7 @@
 @Idieresis = [Idieresis Yukrcyr];
 @idieresis = [idieresis yukrcyr];
 #/< otclasses
-#< classes
+#/< classes
 
 ###
 # OpenType Layout feature definitions
@@ -1722,12 +1722,6 @@ feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
 
-
-  lookup liga_1 {
-  # GSUB lookup 38, type 16 (Chaining Context)
-    lookupflag IgnoreMarks;
-    sub f' lookup liga_2 @liga;
-  } liga_1;
 
     sub @Idieresis @Idieresis by Idieresis.double;
     sub @idieresis @idieresis by idieresis.double;

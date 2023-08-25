@@ -11280,8 +11280,6 @@
     <integer>69</integer>
     <key>f.1</key>
     <integer>69</integer>
-    <key>f.i.1</key>
-    <integer>69</integer>
     <key>fdot.1</key>
     <integer>69</integer>
     <key>feng.1</key>
@@ -41858,8 +41856,6 @@
     <integer>-81</integer>
     <key>f.1</key>
     <integer>69</integer>
-    <key>f.i.1</key>
-    <integer>69</integer>
     <key>f.subs</key>
     <integer>-81</integer>
     <key>fdot.1</key>
@@ -42697,8 +42693,6 @@
     <integer>81</integer>
     <key>f.1</key>
     <integer>69</integer>
-    <key>f.i.1</key>
-    <integer>69</integer>
     <key>fdot.1</key>
     <integer>69</integer>
     <key>feng.1</key>
@@ -43482,8 +43476,6 @@
     <key>esh</key>
     <integer>69</integer>
     <key>f.1</key>
-    <integer>81</integer>
-    <key>f.i.1</key>
     <integer>81</integer>
     <key>fdot.1</key>
     <integer>81</integer>
@@ -45866,73 +45858,6 @@
     <key>yacyr</key>
     <integer>-46</integer>
   </dict>
-  <key>f.i</key>
-  <dict>
-    <key>Alphaasperacuteiotasub</key>
-    <integer>-69</integer>
-    <key>Alphaaspergraveiotasub</key>
-    <integer>-69</integer>
-    <key>Alphaaspertildeiotasub</key>
-    <integer>-69</integer>
-    <key>Alphalenisgrave</key>
-    <integer>-69</integer>
-    <key>Alphalenisgraveiotasub</key>
-    <integer>-69</integer>
-    <key>Alphalenistildeiotasub</key>
-    <integer>-69</integer>
-    <key>Decyr</key>
-    <integer>-180</integer>
-    <key>Jstroke</key>
-    <integer>-128</integer>
-    <key>Ustraightstrokecyr</key>
-    <integer>20</integer>
-    <key>Yhook</key>
-    <integer>20</integer>
-    <key>adieresis</key>
-    <integer>-32</integer>
-    <key>amacron</key>
-    <integer>-32</integer>
-    <key>asciitilde</key>
-    <integer>-58</integer>
-    <key>atilde</key>
-    <integer>-32</integer>
-    <key>ellipsis</key>
-    <integer>-116</integer>
-    <key>four</key>
-    <integer>-128</integer>
-    <key>four.ss01</key>
-    <integer>-128</integer>
-    <key>hyphen</key>
-    <integer>-58</integer>
-    <key>ibreve</key>
-    <integer>209</integer>
-    <key>idblgrave</key>
-    <integer>93</integer>
-    <key>iinvertedbreve</key>
-    <integer>69</integer>
-    <key>itilde</key>
-    <integer>209</integer>
-    <key>logicalnot</key>
-    <integer>-58</integer>
-    <key>multiply</key>
-    <integer>-46</integer>
-    <key>otilde</key>
-    <integer>-10</integer>
-    <key>period</key>
-    <integer>-116</integer>
-    <key>periodcentered</key>
-    <integer>-58</integer>
-    <key>slash</key>
-    <integer>-58</integer>
-    <key>underscore</key>
-    <integer>-29</integer>
-    <key>vturned</key>
-    <integer>-69</integer>
-    <key>wdieresis</key>
-    <integer>60</integer>
-    <key>yacyr</key>
-    <integer>-46</integer>
-  </dict>
   <key>f.subs</key>
   <dict>
     <key>Checyr</key>
@@ -47473,8 +47398,6 @@
     <key>eukrcyr</key>
     <integer>-10</integer>
     <key>f</key>
-    <integer>-20</integer>
-    <key>f.i</key>
     <integer>-20</integer>
     <key>f.subs</key>
     <integer>-81</integer>
@@ -49559,10 +49482,6 @@
     <integer>81</integer>
     <key>f.1</key>
     <integer>81</integer>
-    <key>f.i</key>
-    <integer>81</integer>
-    <key>f.i.1</key>
-    <integer>81</integer>
     <key>fdot</key>
     <integer>81</integer>
     <key>fdot.1</key>
@@ -50712,10 +50631,6 @@
     <key>f</key>
     <integer>81</integer>
     <key>f.1</key>
-    <integer>81</integer>
-    <key>f.i</key>
-    <integer>81</integer>
-    <key>f.i.1</key>
     <integer>81</integer>
     <key>fdot</key>
     <integer>81</integer>
@@ -52198,10 +52113,6 @@
     <key>f</key>
     <integer>81</integer>
     <key>f.1</key>
-    <integer>81</integer>
-    <key>f.i</key>
-    <integer>81</integer>
-    <key>f.i.1</key>
     <integer>81</integer>
     <key>fdot</key>
     <integer>81</integer>
@@ -63806,8 +63717,6 @@
     <key>eukrcyr</key>
     <integer>-10</integer>
     <key>f</key>
-    <integer>-20</integer>
-    <key>f.i</key>
     <integer>-20</integer>
     <key>f.subs</key>
     <integer>-81</integer>

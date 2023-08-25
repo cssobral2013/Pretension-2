@@ -2854,8 +2854,6 @@
     <string>dzcaron</string>
     <string>estroke</string>
     <string>f.1</string>
-    <string>f.i</string>
-    <string>f.i.1</string>
     <string>fdot.1</string>
     <string>slongstroke</string>
     <string>ghook</string>
@@ -4565,8 +4563,6 @@
     <string>dzcaron</string>
     <string>estroke</string>
     <string>f.1</string>
-    <string>f.i</string>
-    <string>f.i.1</string>
     <string>fdot.1</string>
     <string>ghook</string>
     <string>Gsmall</string>
@@ -6695,7 +6691,6 @@
   <key>dlig</key>
   <array>
     <string>f</string>
-    <string>f.i</string>
     <string>t</string>
     <string>tpalatalhook</string>
     <string>tcedilla</string>
@@ -6709,8 +6704,6 @@
   </array>
   <key>dlig2</key>
   <array>
-    <string>f.i.1</string>
-    <string>f.i.1</string>
     <string>t.1</string>
     <string>tpalatalhook.1</string>
     <string>tcedilla.1</string>
