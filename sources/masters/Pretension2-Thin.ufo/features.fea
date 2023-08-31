@@ -45,6 +45,7 @@
 @frac3 = [zero one two three four five six seven eight nine slash];
 @frac4 = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr fraction];
 @idieresis = [idieresis yukrcyr];
+@liga = [A];
 @loclBGR = [decyr.loclBGR Elcyr.loclBGR elcyr.loclBGR Kacyr.loclBGR kacyr.loclBGR icyr.loclBGR shacyr.loclBGR tecyr.loclBGR shchacyr.loclBGR vecyr.loclBGR pecyr.loclBGR gecyr.loclBGR zhecyr.loclBGR ishortcyr.loclBGR tsecyr.loclBGR];
 @loclRUS = [decyr Elcyr elcyr Kacyr kacyr icyr shacyr tecyr shchacyr vecyr pecyr gecyr zhecyr ishortcyr tsecyr];
 @numr = [i n zero one two three four five six seven eight nine parenleft parenright equal plus minus];
@@ -2065,6 +2066,30 @@ feature liga {
   sub idieresis yukrcyr by idieresis.double;
   sub yukrcyr idieresis by idieresis.double;
   sub yukrcyr yukrcyr by idieresis.double;
+
+
+  sub Iocyr acutecomb by uniEE10;
+  sub Acyr acutecomb by uniEE11;
+  sub Iecyr acutecomb by uniEE12;
+  sub Icyr acutecomb by uniEE13;
+  sub Ocyr acutecomb by uniEE14;
+  sub Ucyr acutecomb by uniEE15;
+  sub Ylongcyr acutecomb by uniEE16;
+  sub Ereversedcyr acutecomb by uniEE17;
+  sub Yucyr acutecomb by uniEE18;
+  sub Yacyr acutecomb by uniEE19;
+  sub iocyr acutecomb by uniEE23;
+  sub Ocyr gravecomb by uniEE24;
+  sub ocyr gravecomb by uniEE25;
+  sub yacyr acutecomb by uniEE23;
+  sub yucyr acutecomb by uniEE22;
+  sub ereversedcyr acutecomb by uniEE21;
+  sub ylongcyr acutecomb by uniEE20;
+  sub ucyr acutecomb by uniEE1F;
+  sub ocyr acutecomb by uniEE1E;
+  sub icyr acutecomb by uniEE1C;
+  sub iecyr acutecomb by uniEE1B;
+  sub acyr acutecomb by uniEE1A;
 
 } liga;
 

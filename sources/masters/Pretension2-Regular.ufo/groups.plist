@@ -10866,6 +10866,10 @@
     <string>idieresis</string>
     <string>yukrcyr</string>
   </array>
+  <key>liga</key>
+  <array>
+    <string>A</string>
+  </array>
   <key>loclBGR</key>
   <array>
     <string>decyr.loclBGR</string>

@@ -2089,6 +2089,30 @@ feature liga {
   sub yukrcyr idieresis by idieresis.double;
   sub yukrcyr yukrcyr by idieresis.double;
 
+  sub Iocyr acutecomb by uniEE10;
+  sub Acyr acutecomb by uniEE11;
+  sub Iecyr acutecomb by uniEE12;
+  sub Icyr acutecomb by uniEE13;
+  sub Ocyr acutecomb by uniEE14;
+  sub Ucyr acutecomb by uniEE15;
+  sub Ylongcyr acutecomb by uniEE16;
+  sub Ereversedcyr acutecomb by uniEE17;
+  sub Yucyr acutecomb by uniEE18;
+  sub Yacyr acutecomb by uniEE19;
+  sub iocyr acutecomb by uniEE23;
+  sub Ocyr gravecomb by uniEE24;
+  sub ocyr gravecomb by uniEE25;
+  sub yacyr acutecomb by uniEE23;
+  sub yucyr acutecomb by uniEE22;
+  sub ereversedcyr acutecomb by uniEE21;
+  sub ylongcyr acutecomb by uniEE20;
+  sub ucyr acutecomb by uniEE1F;
+  sub ocyr acutecomb by uniEE1E;
+  sub icyr acutecomb by uniEE1C;
+  sub iecyr acutecomb by uniEE1B;
+  sub acyr acutecomb by uniEE1A;
+
+
 } liga;
 
 feature pnum {
