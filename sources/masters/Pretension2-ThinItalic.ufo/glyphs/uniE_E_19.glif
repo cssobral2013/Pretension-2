@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEE19" format="2">
+  <advance width="1260"/>
+  <unicode hex="EE19"/>
+  <outline>
+    <component base="acutecomb" xOffset="581" yOffset="350"/>
+    <contour>
+      <point x="889" y="0" type="line"/>
+      <point x="1128" y="1444" type="line"/>
+      <point x="736" y="1444" type="line" smooth="yes"/>
+      <point x="625" y="1444"/>
+      <point x="438" y="1345"/>
+      <point x="312" y="1171"/>
+      <point x="293" y="1056" type="qcurve" smooth="yes"/>
+      <point x="265" y="887"/>
+      <point x="445" y="688"/>
+      <point x="611" y="688" type="qcurve" smooth="yes"/>
+      <point x="1025" y="688" type="line"/>
+      <point x="1017" y="642" type="line"/>
+      <point x="603" y="642" type="line" smooth="yes"/>
+      <point x="479" y="642"/>
+      <point x="304" y="748"/>
+      <point x="226" y="938"/>
+      <point x="247" y="1064" type="qcurve" smooth="yes"/>
+      <point x="269" y="1192"/>
+      <point x="410" y="1384"/>
+      <point x="620" y="1490"/>
+      <point x="744" y="1490" type="qcurve" smooth="yes"/>
+      <point x="1182" y="1490" type="line"/>
+      <point x="935" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1" y="0" type="line"/>
+      <point x="479" y="678" type="line"/>
+      <point x="534" y="678" type="line"/>
+      <point x="56" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
