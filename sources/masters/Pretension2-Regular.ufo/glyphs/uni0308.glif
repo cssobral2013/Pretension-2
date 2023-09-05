@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0308" format="2">
+  <unicode hex="0308"/>
+  <anchor x="781" y="1180" name="_m.uni030F_1"/>
+  <anchor x="781" y="1180" name="_t.uni030F"/>
+  <anchor x="781" y="1677" name="t.uni030F"/>
+  <outline>
+    <contour>
+      <point x="814" y="1301" type="qcurve" smooth="yes"/>
+      <point x="765" y="1301"/>
+      <point x="695" y="1371"/>
+      <point x="695" y="1420" type="qcurve" smooth="yes"/>
+      <point x="695" y="1469"/>
+      <point x="765" y="1538"/>
+      <point x="814" y="1538" type="qcurve" smooth="yes"/>
+      <point x="863" y="1538"/>
+      <point x="932" y="1469"/>
+      <point x="932" y="1420" type="qcurve" smooth="yes"/>
+      <point x="932" y="1371"/>
+      <point x="863" y="1301"/>
+    </contour>
+    <contour>
+      <point x="394" y="1301" type="qcurve" smooth="yes"/>
+      <point x="345" y="1301"/>
+      <point x="275" y="1371"/>
+      <point x="275" y="1420" type="qcurve" smooth="yes"/>
+      <point x="275" y="1469"/>
+      <point x="345" y="1538"/>
+      <point x="394" y="1538" type="qcurve" smooth="yes"/>
+      <point x="443" y="1538"/>
+      <point x="512" y="1469"/>
+      <point x="512" y="1420" type="qcurve" smooth="yes"/>
+      <point x="512" y="1371"/>
+      <point x="443" y="1301"/>
+    </contour>
+  </outline>
+</glyph>

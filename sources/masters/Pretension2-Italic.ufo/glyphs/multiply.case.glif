@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="multiply.case" format="2">
-  <advance width="1350"/>
+  <advance width="1356"/>
   <unicode hex="E09F"/>
   <outline>
     <component base="multiply" xOffset="28" yOffset="168"/>

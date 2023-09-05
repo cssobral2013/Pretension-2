@@ -2,6 +2,6 @@
 <glyph name="bracketleft.case.tf" format="2">
   <advance width="800"/>
   <outline>
-    <component base="bracketleft" xOffset="62" yOffset="94"/>
+    <component base="bracketleft" xOffset="64" yOffset="94"/>
   </outline>
 </glyph>

@@ -2,6 +2,9 @@
 <glyph name="atilde.1" format="2">
   <advance width="1190"/>
   <unicode hex="E04A"/>
+  <anchor x="815" y="0" name="m.uni0326"/>
+  <anchor x="791" y="1677" name="m.uni030F_1"/>
+  <anchor x="1344" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="a.1"/>
     <component base="tildecomb" xOffset="78"/>

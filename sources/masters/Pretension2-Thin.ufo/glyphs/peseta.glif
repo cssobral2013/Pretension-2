@@ -2,6 +2,8 @@
 <glyph name="peseta" format="2">
   <advance width="1654"/>
   <unicode hex="20A7"/>
+  <anchor x="1934" y="0" name="m.uni0326"/>
+  <anchor x="2020" y="0" name="m.uni0327_3"/>
   <outline>
     <component base="P"/>
     <component base="t" xOffset="1162"/>

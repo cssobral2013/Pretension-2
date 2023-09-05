@@ -2,6 +2,8 @@
 <glyph name="m" format="2">
   <advance width="1932"/>
   <unicode hex="006D"/>
+  <anchor x="958" y="0" name="m.uni0326"/>
+  <anchor x="1143" y="1118" name="m.uni030F_1"/>
   <outline>
     <contour>
       <point x="9" y="0" type="line"/>
@@ -29,8 +31,9 @@
       <point x="1737" y="0" type="line"/>
       <point x="1335" y="0" type="line"/>
       <point x="1446" y="665" type="line" smooth="yes"/>
-      <point x="1458" y="738"/>
-      <point x="1409" y="808"/>
+      <point x="1454" y="714"/>
+      <point x="1437" y="777"/>
+      <point x="1391" y="808"/>
       <point x="1354" y="808" type="qcurve" smooth="yes"/>
       <point x="1308" y="808"/>
       <point x="1230" y="764"/>

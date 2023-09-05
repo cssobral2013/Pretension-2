@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutedotcomb.cn" format="2">
-  <advance width="628"/>
+  <advance width="635"/>
   <outline>
     <contour>
-      <point x="406" y="1612" type="line"/>
-      <point x="590" y="1876" type="line"/>
-      <point x="806" y="1876" type="line"/>
-      <point x="554" y="1612" type="line"/>
+      <point x="412" y="1614" type="line"/>
+      <point x="596" y="1877" type="line"/>
+      <point x="813" y="1877" type="line"/>
+      <point x="561" y="1614" type="line"/>
     </contour>
     <contour>
-      <point x="265" y="1920" type="qcurve" smooth="yes"/>
-      <point x="273" y="1966"/>
-      <point x="342" y="2030"/>
-      <point x="397" y="2030" type="qcurve" smooth="yes"/>
-      <point x="456" y="2030"/>
-      <point x="502" y="1964"/>
-      <point x="495" y="1920" type="qcurve" smooth="yes"/>
-      <point x="488" y="1874"/>
-      <point x="420" y="1810"/>
-      <point x="361" y="1810" type="qcurve" smooth="yes"/>
-      <point x="304" y="1810"/>
-      <point x="258" y="1876"/>
+      <point x="265" y="1918" type="qcurve" smooth="yes"/>
+      <point x="273" y="1962"/>
+      <point x="343" y="2028"/>
+      <point x="399" y="2028" type="qcurve" smooth="yes"/>
+      <point x="458" y="2028"/>
+      <point x="505" y="1962"/>
+      <point x="499" y="1920" type="qcurve" smooth="yes"/>
+      <point x="492" y="1873"/>
+      <point x="422" y="1807"/>
+      <point x="363" y="1807" type="qcurve" smooth="yes"/>
+      <point x="305" y="1807"/>
+      <point x="258" y="1874"/>
     </contour>
   </outline>
 </glyph>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asciitilde.case" format="2">
-  <advance width="1308"/>
+  <advance width="1304"/>
   <unicode hex="E0A3"/>
   <outline>
-    <component base="asciitilde" xOffset="2" yOffset="159"/>
+    <component base="asciitilde" yOffset="159"/>
   </outline>
 </glyph>

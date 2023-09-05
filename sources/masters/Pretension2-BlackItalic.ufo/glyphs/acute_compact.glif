@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute_compact" format="2">
   <advance width="822"/>
+  <anchor x="525" y="1574" name="m.uni030F_1"/>
   <outline>
     <contour>
       <point x="285" y="1256" type="line"/>

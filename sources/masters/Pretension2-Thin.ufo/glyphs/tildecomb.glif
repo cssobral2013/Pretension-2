@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tildecomb" format="2">
   <unicode hex="0303"/>
+  <anchor x="573" y="1242" name="_m.uni030F_1"/>
+  <anchor x="573" y="1242" name="_t.uni030F"/>
+  <anchor x="577" y="1677" name="t.uni030F"/>
   <outline>
     <contour>
       <point x="633" y="1338" type="qcurve" smooth="yes"/>

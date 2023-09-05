@@ -5,7 +5,7 @@
   <outline>
     <contour>
       <point x="952" y="-24" type="line"/>
-      <point x="326" y="724" type="line" smooth="yes"/>
+      <point x="326" y="724" type="line"/>
       <point x="251" y="815"/>
       <point x="232" y="1052"/>
       <point x="331" y="1287"/>
@@ -19,7 +19,7 @@
       <point x="1386" y="1463"/>
       <point x="1629" y="1522"/>
       <point x="1853" y="1464"/>
-      <point x="1928" y="1374" type="qcurve" smooth="yes"/>
+      <point x="1928" y="1374" type="qcurve"/>
       <point x="2003" y="1287"/>
       <point x="2024" y="1052"/>
       <point x="1927" y="815"/>

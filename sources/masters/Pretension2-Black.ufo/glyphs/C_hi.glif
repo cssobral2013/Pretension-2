@@ -2,6 +2,8 @@
 <glyph name="Chi" format="2">
   <advance width="1610"/>
   <unicode hex="03A7"/>
+  <anchor x="901" y="-6" name="m.uni0326"/>
+  <anchor x="901" y="1490" name="m.uni030F_1"/>
   <outline>
     <component base="X"/>
   </outline>

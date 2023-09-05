@@ -2,6 +2,6 @@
 <glyph name="parenleft.tf" format="2">
   <advance width="800"/>
   <outline>
-    <component base="parenleft" xOffset="36"/>
+    <component base="parenleft" xOffset="39"/>
   </outline>
 </glyph>

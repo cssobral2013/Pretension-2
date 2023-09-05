@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hookabovecomb" format="2">
   <unicode hex="0309"/>
+  <anchor x="288" y="1242" name="_m.uni030F_1"/>
+  <anchor x="288" y="1242" name="_t.uni030F"/>
   <outline>
     <contour>
       <point x="243" y="1283" type="line"/>

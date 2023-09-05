@@ -3,6 +3,8 @@
   <advance width="1512"/>
   <unicode hex="0047"/>
   <unicode hex="E002"/>
+  <anchor x="698" y="6" name="m.uni0326"/>
+  <anchor x="864" y="1490" name="m.uni030F_1"/>
   <outline>
     <contour>
       <point x="674" y="-20" type="qcurve" smooth="yes"/>
@@ -38,9 +40,9 @@
       <point x="1108" y="175"/>
       <point x="1284" y="449"/>
       <point x="1315" y="636" type="qcurve"/>
-      <point x="1354" y="636" type="line"/>
-      <point x="1353" y="628" type="line" smooth="yes"/>
-      <point x="1335" y="480"/>
+      <point x="1346" y="636" type="line"/>
+      <point x="1345" y="628" type="line" smooth="yes"/>
+      <point x="1327" y="480"/>
       <point x="1217" y="241"/>
       <point x="1035" y="71"/>
       <point x="805" y="-20"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="at.case" format="2">
-  <advance width="1962"/>
+  <advance width="1975"/>
   <unicode hex="E087"/>
   <outline>
     <component base="at" xOffset="37" yOffset="224"/>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="minus.squared" format="2">
-  <advance width="2826"/>
+  <advance width="2828"/>
   <unicode hex="E156"/>
   <outline>
-    <component base="whiteLargeSquare" xOffset="-1"/>
-    <component base="minus" xOffset="761" yOffset="163"/>
+    <component base="uni2B1C"/>
+    <component base="minus" xOffset="762" yOffset="163"/>
   </outline>
 </glyph>

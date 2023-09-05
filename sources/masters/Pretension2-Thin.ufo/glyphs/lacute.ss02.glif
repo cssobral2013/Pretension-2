@@ -3,6 +3,8 @@
   <advance width="472"/>
   <unicode hex="013A"/>
   <unicode hex="E056"/>
+  <anchor x="431" y="0" name="m.uni0326"/>
+  <anchor x="375" y="1982" name="m.uni030F_1"/>
   <outline>
     <component base="l.ss02"/>
     <component base="acutecomb" xOffset="9" yOffset="372"/>

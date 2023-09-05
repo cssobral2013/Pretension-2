@@ -1,27 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k.base" format="2">
-  <advance width="1115"/>
+  <advance width="1126"/>
+  <anchor x="636" y="0" name="m.uni0326"/>
+  <anchor x="513" y="1180" name="m.uni030F_1"/>
   <outline>
     <contour>
-      <point x="294" y="408" type="line"/>
-      <point x="329" y="620" type="line"/>
-      <point x="361" y="620" type="line"/>
+      <point x="302" y="402" type="line"/>
+      <point x="339" y="625" type="line"/>
+      <point x="372" y="625" type="line"/>
       <point x="931" y="1118" type="line"/>
-      <point x="1143" y="1118" type="line"/>
-      <point x="536" y="590" type="line"/>
-      <point x="520" y="590" type="line"/>
+      <point x="1154" y="1118" type="line"/>
+      <point x="549" y="587" type="line"/>
+      <point x="529" y="587" type="line"/>
     </contour>
     <contour>
       <point x="66" y="0" type="line"/>
       <point x="251" y="1118" type="line"/>
-      <point x="421" y="1118" type="line"/>
-      <point x="236" y="0" type="line"/>
+      <point x="431" y="1118" type="line"/>
+      <point x="246" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="774" y="0" type="line"/>
-      <point x="429" y="552" type="line"/>
-      <point x="571" y="672" type="line"/>
-      <point x="994" y="0" type="line"/>
+      <point x="773" y="0" type="line"/>
+      <point x="435" y="547" type="line"/>
+      <point x="585" y="674" type="line"/>
+      <point x="1004" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

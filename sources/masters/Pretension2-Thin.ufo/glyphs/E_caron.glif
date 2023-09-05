@@ -2,8 +2,12 @@
 <glyph name="Ecaron" format="2">
   <advance width="1196"/>
   <unicode hex="011A"/>
+  <anchor x="660" y="0" name="m.uni0326"/>
+  <anchor x="660" y="2007" name="m.uni030F_1"/>
+  <anchor x="613" y="0" name="m.uni0327_3"/>
+  <anchor x="1147" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="E"/>
-    <component base="caroncomb" xOffset="208" yOffset="372"/>
+    <component base="uni030C" xOffset="208" yOffset="372"/>
   </outline>
 </glyph>

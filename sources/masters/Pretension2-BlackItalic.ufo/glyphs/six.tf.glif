@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="six.tf" format="2">
-  <advance width="1316"/>
+  <advance width="1320"/>
   <outline>
-    <component base="six" xOffset="-53"/>
+    <component base="six" xOffset="-51"/>
   </outline>
 </glyph>

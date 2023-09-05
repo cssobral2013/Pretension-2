@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Etatonos" format="2">
-  <advance width="1768"/>
+  <advance width="1805"/>
   <unicode hex="0389"/>
+  <anchor x="1440" y="0" name="m.uni0326"/>
+  <anchor x="1687" y="1490" name="m.uni030F_1"/>
+  <anchor x="1000" y="0" name="m.uni0327_3"/>
   <outline>
-    <component base="H" xOffset="254"/>
-    <component base="tonostop" xOffset="-10"/>
+    <component base="H" xOffset="283"/>
+    <component base="tonos.top" xOffset="-74" yOffset="-68"/>
   </outline>
 </glyph>

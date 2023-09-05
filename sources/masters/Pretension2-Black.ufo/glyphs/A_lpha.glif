@@ -2,6 +2,9 @@
 <glyph name="Alpha" format="2">
   <advance width="1628"/>
   <unicode hex="0391"/>
+  <anchor x="921" y="0" name="m.uni0326"/>
+  <anchor x="921" y="1490" name="m.uni030F_1"/>
+  <anchor x="1829" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="A"/>
   </outline>

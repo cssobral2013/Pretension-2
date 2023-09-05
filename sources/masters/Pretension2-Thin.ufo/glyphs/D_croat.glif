@@ -2,6 +2,8 @@
 <glyph name="Dcroat" format="2">
   <advance width="1462"/>
   <unicode hex="0110"/>
+  <anchor x="724" y="0" name="m.uni0326"/>
+  <anchor x="663" y="1490" name="m.uni030F_1"/>
   <outline>
     <component base="D"/>
     <component base="crossbar_left_long" xOffset="-40"/>

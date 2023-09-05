@@ -2,6 +2,9 @@
 <glyph name="Uhorn" format="2">
   <advance width="1478"/>
   <unicode hex="01AF"/>
+  <anchor x="647" y="0" name="m.uni0326"/>
+  <anchor x="894" y="1490" name="m.uni030F_1"/>
+  <anchor x="1443" y="540" name="m.uni0328_4"/>
   <outline>
     <contour>
       <point x="1092" y="1250" type="line"/>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotmacron.lc" format="2">
-  <advance width="488"/>
+  <advance width="495"/>
   <unicode hex="E10C"/>
   <outline>
     <contour>
-      <point x="244" y="1276" type="qcurve" smooth="yes"/>
-      <point x="194" y="1276"/>
-      <point x="122" y="1344"/>
+      <point x="247" y="1273" type="qcurve" smooth="yes"/>
+      <point x="196" y="1273"/>
+      <point x="122" y="1343"/>
       <point x="122" y="1392" type="qcurve" smooth="yes"/>
-      <point x="122" y="1440"/>
-      <point x="194" y="1508"/>
-      <point x="244" y="1508" type="qcurve" smooth="yes"/>
-      <point x="294" y="1508"/>
-      <point x="366" y="1440"/>
-      <point x="366" y="1392" type="qcurve" smooth="yes"/>
-      <point x="366" y="1344"/>
-      <point x="294" y="1276"/>
+      <point x="122" y="1442"/>
+      <point x="196" y="1511"/>
+      <point x="247" y="1511" type="qcurve" smooth="yes"/>
+      <point x="299" y="1511"/>
+      <point x="373" y="1442"/>
+      <point x="373" y="1392" type="qcurve" smooth="yes"/>
+      <point x="373" y="1343"/>
+      <point x="299" y="1273"/>
     </contour>
     <contour>
-      <point x="520" y="1779" type="line"/>
-      <point x="520" y="1655" type="line"/>
-      <point x="-32" y="1655" type="line"/>
-      <point x="-32" y="1779" type="line"/>
+      <point x="522" y="1781" type="line"/>
+      <point x="522" y="1653" type="line"/>
+      <point x="-32" y="1653" type="line"/>
+      <point x="-32" y="1781" type="line"/>
     </contour>
   </outline>
 </glyph>

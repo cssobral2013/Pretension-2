@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave_compact" format="2">
-  <advance width="654"/>
+  <advance width="661"/>
+  <anchor x="752" y="1617" name="m.uni030F_1"/>
   <outline>
     <contour>
-      <point x="352" y="1283" type="line"/>
-      <point x="160" y="1557" type="line"/>
-      <point x="354" y="1557" type="line"/>
-      <point x="494" y="1283" type="line"/>
+      <point x="353" y="1282" type="line"/>
+      <point x="160" y="1558" type="line"/>
+      <point x="361" y="1558" type="line"/>
+      <point x="501" y="1282" type="line"/>
     </contour>
   </outline>
 </glyph>

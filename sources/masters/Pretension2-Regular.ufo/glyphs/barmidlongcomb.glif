@@ -2,10 +2,10 @@
 <glyph name="barmidlongcomb" format="2">
   <outline>
     <contour>
-      <point x="32" y="620" type="line"/>
-      <point x="32" y="460" type="line"/>
-      <point x="-1210" y="460" type="line"/>
-      <point x="-1210" y="620" type="line"/>
+      <point x="37" y="621" type="line"/>
+      <point x="37" y="459" type="line"/>
+      <point x="-1210" y="459" type="line"/>
+      <point x="-1210" y="621" type="line"/>
     </contour>
   </outline>
 </glyph>

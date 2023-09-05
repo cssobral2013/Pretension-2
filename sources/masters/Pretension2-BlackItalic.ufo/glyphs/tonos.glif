@@ -3,6 +3,6 @@
   <advance width="822"/>
   <unicode hex="0384"/>
   <outline>
-    <component base="tonostop"/>
+    <component base="tonos.top"/>
   </outline>
 </glyph>

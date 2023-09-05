@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevegravecomb.cn" format="2">
   <advance width="960"/>
+  <anchor x="782" y="1897" name="m.uni030F_1"/>
   <outline>
     <contour>
       <point x="589" y="1213" type="qcurve" smooth="yes"/>

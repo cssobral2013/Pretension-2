@@ -2,22 +2,22 @@
 <glyph name="bridgesubcomb" format="2">
   <outline>
     <contour>
-      <point x="-1122" y="-466" type="line"/>
-      <point x="-1062" y="-110" type="line"/>
-      <point x="-910" y="-110" type="line"/>
-      <point x="-970" y="-466" type="line"/>
+      <point x="-1122" y="-467" type="line"/>
+      <point x="-1062" y="-109" type="line"/>
+      <point x="-907" y="-109" type="line"/>
+      <point x="-967" y="-467" type="line"/>
     </contour>
     <contour>
-      <point x="-952" y="-232" type="line"/>
-      <point x="-930" y="-110" type="line"/>
-      <point x="-518" y="-110" type="line"/>
-      <point x="-538" y="-232" type="line"/>
+      <point x="-950" y="-235" type="line"/>
+      <point x="-928" y="-109" type="line"/>
+      <point x="-516" y="-109" type="line"/>
+      <point x="-536" y="-235" type="line"/>
     </contour>
     <contour>
-      <point x="-592" y="-466" type="line"/>
-      <point x="-532" y="-110" type="line"/>
-      <point x="-382" y="-110" type="line"/>
-      <point x="-440" y="-466" type="line"/>
+      <point x="-591" y="-467" type="line"/>
+      <point x="-531" y="-109" type="line"/>
+      <point x="-378" y="-109" type="line"/>
+      <point x="-436" y="-467" type="line"/>
     </contour>
   </outline>
 </glyph>

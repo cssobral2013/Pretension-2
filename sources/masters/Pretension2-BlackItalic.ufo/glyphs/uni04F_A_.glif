@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04FA" format="2">
+  <advance width="3067"/>
+  <unicode hex="04FA"/>
+  <anchor x="988" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <component base="Gamma" xOffset="120"/>
+    <component base="crossbar.uc" xOffset="1320"/>
+    <component base="_part.cyrtic_hook" xOffset="2340"/>
+  </outline>
+</glyph>

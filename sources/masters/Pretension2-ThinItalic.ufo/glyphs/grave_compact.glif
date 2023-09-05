@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave_compact" format="2">
   <advance width="572"/>
+  <anchor x="948" y="1659" name="m.uni030F_1"/>
   <outline>
     <contour>
       <point x="466" y="1283" type="line"/>

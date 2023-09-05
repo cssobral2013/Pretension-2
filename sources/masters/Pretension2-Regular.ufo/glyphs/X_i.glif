@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Xi" format="2">
-  <advance width="1106"/>
+  <advance width="1344"/>
   <unicode hex="039E"/>
   <outline>
     <contour>
-      <point x="82" y="0" type="line"/>
-      <point x="82" y="160" type="line"/>
-      <point x="1024" y="160" type="line"/>
-      <point x="1024" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="140" y="167" type="line"/>
+      <point x="1204" y="167" type="line"/>
+      <point x="1204" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="168" y="678" type="line"/>
-      <point x="168" y="838" type="line"/>
-      <point x="930" y="838" type="line"/>
-      <point x="930" y="678" type="line"/>
+      <point x="223" y="669" type="line"/>
+      <point x="223" y="836" type="line"/>
+      <point x="1122" y="836" type="line"/>
+      <point x="1122" y="669" type="line"/>
     </contour>
     <contour>
-      <point x="84" y="1330" type="line"/>
-      <point x="84" y="1490" type="line"/>
-      <point x="1010" y="1490" type="line"/>
-      <point x="1010" y="1330" type="line"/>
+      <point x="148" y="1323" type="line"/>
+      <point x="148" y="1490" type="line"/>
+      <point x="1196" y="1490" type="line"/>
+      <point x="1196" y="1323" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -9,7 +9,7 @@
       <point x="554" y="2029" type="line"/>
     </contour>
     <contour>
-      <point x="433" y="1518" type="qcurve" smooth="yes"/>
+      <point x="432" y="1518" type="qcurve" smooth="yes"/>
       <point x="345" y="1518"/>
       <point x="217" y="1577"/>
       <point x="147" y="1681"/>
@@ -17,11 +17,11 @@
       <point x="147" y="1811"/>
       <point x="217" y="1914"/>
       <point x="345" y="1974"/>
-      <point x="433" y="1974" type="qcurve" smooth="yes"/>
+      <point x="432" y="1974" type="qcurve" smooth="yes"/>
       <point x="520" y="1974"/>
       <point x="647" y="1914"/>
       <point x="717" y="1811"/>
-      <point x="717" y="1747" type="qcurve" smooth="yes"/>
+      <point x="717" y="1746" type="qcurve" smooth="yes"/>
       <point x="717" y="1681"/>
       <point x="647" y="1577"/>
       <point x="520" y="1518"/>

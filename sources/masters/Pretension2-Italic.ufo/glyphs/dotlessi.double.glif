@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi.double" format="2">
-  <advance width="974"/>
+  <advance width="994"/>
+  <anchor x="922" y="1180" name="m.uni030F_1"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="dotlessi" xOffset="487"/>
+    <component base="dotlessi" xOffset="497"/>
   </outline>
 </glyph>

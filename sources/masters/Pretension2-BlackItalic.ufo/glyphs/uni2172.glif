@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2172" format="2">
+  <advance width="1821"/>
+  <unicode hex="2172"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="uni0307" xOffset="-32"/>
+    <component base="dotlessi" xOffset="607"/>
+    <component base="uni0307" xOffset="575"/>
+    <component base="dotlessi" xOffset="1214"/>
+    <component base="uni0307" xOffset="1182"/>
+  </outline>
+</glyph>

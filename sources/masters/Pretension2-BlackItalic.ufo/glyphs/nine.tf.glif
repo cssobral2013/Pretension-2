@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nine.tf" format="2">
-  <advance width="1308"/>
+  <advance width="1320"/>
   <outline>
-    <component base="nine" xOffset="-57"/>
+    <component base="nine" xOffset="-51"/>
   </outline>
 </glyph>

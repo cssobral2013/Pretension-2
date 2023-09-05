@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="threequarters" format="2">
-  <advance width="1813"/>
+  <advance width="1807"/>
   <unicode hex="00BE"/>
   <outline>
-    <component base="three.dnom" xOffset="119" yOffset="698"/>
-    <component base="fraction" xOffset="864"/>
-    <component base="four.dnom" xOffset="943"/>
+    <component base="three.dnom" xOffset="116" yOffset="698"/>
+    <component base="fraction" xOffset="861"/>
+    <component base="four.dnom" xOffset="940"/>
   </outline>
 </glyph>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i.sc" format="2">
-  <advance width="700"/>
+  <advance width="709"/>
   <outline>
     <contour>
       <point x="265" y="24" type="line"/>
       <point x="265" y="1094" type="line"/>
-      <point x="435" y="1094" type="line"/>
-      <point x="435" y="24" type="line"/>
+      <point x="445" y="1094" type="line"/>
+      <point x="445" y="24" type="line"/>
     </contour>
     <contour>
       <point x="110" y="0" type="line"/>
-      <point x="110" y="146" type="line"/>
-      <point x="590" y="146" type="line"/>
-      <point x="590" y="0" type="line"/>
+      <point x="110" y="153" type="line"/>
+      <point x="599" y="153" type="line"/>
+      <point x="599" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="110" y="972" type="line"/>
+      <point x="110" y="965" type="line"/>
       <point x="110" y="1118" type="line"/>
-      <point x="590" y="1118" type="line"/>
-      <point x="590" y="972" type="line"/>
+      <point x="599" y="1118" type="line"/>
+      <point x="599" y="965" type="line"/>
     </contour>
   </outline>
 </glyph>

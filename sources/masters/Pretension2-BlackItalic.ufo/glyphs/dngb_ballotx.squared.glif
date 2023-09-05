@@ -3,7 +3,7 @@
   <advance width="2828"/>
   <unicode hex="E15E"/>
   <outline>
-    <component base="whiteLargeSquare"/>
-    <component base="ballotx" xOffset="527" yOffset="91"/>
+    <component base="uni2B1C"/>
+    <component base="dngb_ballotx" xOffset="527" yOffset="91"/>
   </outline>
 </glyph>

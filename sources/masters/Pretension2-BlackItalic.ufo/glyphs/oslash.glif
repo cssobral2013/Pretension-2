@@ -2,6 +2,9 @@
 <glyph name="oslash" format="2">
   <advance width="1280"/>
   <unicode hex="00F8"/>
+  <anchor x="607" y="0" name="m.uni0326"/>
+  <anchor x="793" y="1118" name="m.uni030F_1"/>
+  <anchor x="1364" y="558" name="m.uni0328_4"/>
   <outline>
     <component base="o"/>
     <component base="_part.oslash" xOffset="-1"/>

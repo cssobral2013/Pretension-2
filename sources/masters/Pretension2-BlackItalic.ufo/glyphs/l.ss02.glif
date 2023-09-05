@@ -3,6 +3,8 @@
   <advance width="691"/>
   <unicode hex="006C"/>
   <unicode hex="E050"/>
+  <anchor x="331" y="0" name="m.uni0326"/>
+  <anchor x="532" y="1490" name="m.uni030F_1"/>
   <outline>
     <contour>
       <point x="410" y="-6" type="qcurve" smooth="yes"/>

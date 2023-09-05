@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slongdotaccent" format="2">
+  <advance width="765"/>
+  <unicode hex="1E9B"/>
+  <anchor x="765" y="2057" name="m.uni030F_1"/>
+  <outline>
+    <component base="_part.f_base" xOffset="-81"/>
+    <component base="uni0307" xOffset="188" yOffset="420"/>
+  </outline>
+</glyph>

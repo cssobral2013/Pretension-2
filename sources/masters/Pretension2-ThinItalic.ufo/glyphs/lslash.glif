@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash" format="2">
   <advance width="442"/>
+  <anchor x="269" y="0" name="m.uni0326"/>
+  <anchor x="513" y="1490" name="m.uni030F_1"/>
   <outline>
     <component base="l"/>
-    <component base="slashshortcomb.lc" xOffset="31"/>
+    <component base="uni0337.lc" xOffset="31"/>
   </outline>
 </glyph>

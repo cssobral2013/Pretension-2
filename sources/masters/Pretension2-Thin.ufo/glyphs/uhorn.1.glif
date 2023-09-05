@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uhorn.1" format="2">
   <advance width="1232"/>
+  <anchor x="794" y="0" name="m.uni0326"/>
+  <anchor x="794" y="1242" name="m.uni030F_1"/>
+  <anchor x="1415" y="460" name="m.uni0328_4"/>
   <outline>
     <contour>
       <point x="971" y="1072" type="line"/>

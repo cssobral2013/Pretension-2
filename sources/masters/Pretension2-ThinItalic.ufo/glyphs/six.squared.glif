@@ -2,7 +2,7 @@
 <glyph name="six.squared" format="2">
   <advance width="2828"/>
   <outline>
-    <component base="whiteLargeSquare"/>
+    <component base="uni2B1C"/>
     <component base="six" xOffset="835"/>
   </outline>
 </glyph>

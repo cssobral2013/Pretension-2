@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="OE" format="2">
-  <advance width="1948"/>
+  <advance width="1956"/>
   <unicode hex="0152"/>
+  <anchor x="1378" y="0" name="m.uni0326"/>
+  <anchor x="1625" y="1490" name="m.uni030F_1"/>
+  <anchor x="1356" y="0" name="m.uni0327_3"/>
+  <anchor x="1976" y="0" name="m.uni0328_4"/>
   <outline>
     <contour>
       <point x="684" y="0" type="line" smooth="yes"/>
@@ -30,16 +34,16 @@
     <contour>
       <point x="811" y="0" type="line"/>
       <point x="1058" y="1490" type="line"/>
-      <point x="1958" y="1490" type="line"/>
-      <point x="1931" y="1330" type="line"/>
-      <point x="1211" y="1330" type="line"/>
-      <point x="1129" y="832" type="line"/>
-      <point x="1801" y="832" type="line"/>
-      <point x="1774" y="672" type="line"/>
-      <point x="1102" y="672" type="line"/>
-      <point x="1017" y="160" type="line"/>
-      <point x="1747" y="160" type="line"/>
-      <point x="1721" y="0" type="line"/>
+      <point x="1966" y="1490" type="line"/>
+      <point x="1938" y="1323" type="line"/>
+      <point x="1220" y="1323" type="line"/>
+      <point x="1140" y="836" type="line"/>
+      <point x="1809" y="836" type="line"/>
+      <point x="1781" y="669" type="line"/>
+      <point x="1111" y="669" type="line"/>
+      <point x="1028" y="167" type="line"/>
+      <point x="1755" y="167" type="line"/>
+      <point x="1728" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

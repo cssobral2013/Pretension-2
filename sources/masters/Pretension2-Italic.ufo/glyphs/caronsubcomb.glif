@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caronsubcomb" format="2">
-  <advance width="833"/>
+  <advance width="847"/>
   <unicode hex="E109"/>
   <outline>
-    <component base="caroncomb" xOffset="-285" yOffset="-1722"/>
+    <component base="uni030C" xOffset="-285" yOffset="-1722"/>
   </outline>
 </glyph>

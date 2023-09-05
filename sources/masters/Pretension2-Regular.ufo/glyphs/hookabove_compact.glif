@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hookabove_compact" format="2">
-  <advance width="510"/>
+  <advance width="514"/>
   <outline>
     <contour>
-      <point x="330" y="1283" type="line"/>
-      <point x="198" y="1283" type="line"/>
-      <point x="260" y="1401" type="line" smooth="yes"/>
-      <point x="271" y="1422"/>
-      <point x="260" y="1442"/>
-      <point x="237" y="1442" type="qcurve" smooth="yes"/>
-      <point x="100" y="1442" type="line"/>
-      <point x="100" y="1557" type="line"/>
-      <point x="237" y="1557" type="line" smooth="yes"/>
-      <point x="296" y="1557"/>
-      <point x="375" y="1525"/>
-      <point x="413" y="1468"/>
-      <point x="405" y="1393"/>
-      <point x="376" y="1351" type="qcurve" smooth="yes"/>
+      <point x="334" y="1282" type="line"/>
+      <point x="198" y="1282" type="line"/>
+      <point x="261" y="1401" type="line" smooth="yes"/>
+      <point x="272" y="1422"/>
+      <point x="259" y="1440"/>
+      <point x="239" y="1440" type="qcurve" smooth="yes"/>
+      <point x="100" y="1440" type="line"/>
+      <point x="100" y="1558" type="line"/>
+      <point x="239" y="1558" type="line" smooth="yes"/>
+      <point x="301" y="1558"/>
+      <point x="381" y="1525"/>
+      <point x="418" y="1467"/>
+      <point x="408" y="1392"/>
+      <point x="380" y="1350" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

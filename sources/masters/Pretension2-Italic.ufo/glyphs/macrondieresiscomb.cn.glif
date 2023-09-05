@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macrondieresiscomb.cn" format="2">
-  <advance width="976"/>
+  <advance width="979"/>
   <outline>
     <component base="macrondieresiscomb.lc" xOffset="62" yOffset="372"/>
   </outline>

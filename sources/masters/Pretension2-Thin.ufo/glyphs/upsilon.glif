@@ -2,6 +2,9 @@
 <glyph name="upsilon" format="2">
   <advance width="1196"/>
   <unicode hex="03C5"/>
+  <anchor x="794" y="0" name="m.uni0326"/>
+  <anchor x="794" y="1242" name="m.uni030F_1"/>
+  <anchor x="1415" y="460" name="m.uni0328_4"/>
   <outline>
     <component base="u.1"/>
   </outline>

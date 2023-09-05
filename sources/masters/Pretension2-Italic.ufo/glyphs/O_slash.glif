@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslash" format="2">
-  <advance width="1560"/>
+  <advance width="1566"/>
   <unicode hex="00D8"/>
+  <anchor x="711" y="0" name="m.uni0326"/>
+  <anchor x="959" y="1490" name="m.uni030F_1"/>
+  <anchor x="1599" y="902" name="m.uni0328_4"/>
   <outline>
     <component base="O"/>
-    <component base="_part.Oslash" xOffset="193"/>
+    <component base="_part.Oslash" xOffset="194"/>
   </outline>
 </glyph>

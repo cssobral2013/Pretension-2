@@ -2,6 +2,7 @@
 <glyph name="dcaron" format="2">
   <advance width="1622"/>
   <unicode hex="010F"/>
+  <anchor x="430" y="1346" name="m.uni030F_1"/>
   <outline>
     <component base="d"/>
     <component base="commaaccentright.cn" xOffset="1212"/>

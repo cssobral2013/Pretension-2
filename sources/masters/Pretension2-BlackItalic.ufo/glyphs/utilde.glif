@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="utilde" format="2">
-  <advance width="1333"/>
+  <advance width="1331"/>
   <unicode hex="0169"/>
+  <anchor x="677" y="0" name="m.uni0326"/>
+  <anchor x="914" y="1593" name="m.uni030F_1"/>
+  <anchor x="1321" y="0" name="m.uni0328_4"/>
   <outline>
-    <component base="u" xOffset="1"/>
-    <component base="tildecomb" xOffset="155"/>
+    <component base="u"/>
+    <component base="tildecomb" xOffset="154"/>
   </outline>
 </glyph>

@@ -3,6 +3,8 @@
   <advance width="502"/>
   <unicode hex="0140"/>
   <unicode hex="E055"/>
+  <anchor x="431" y="0" name="m.uni0326"/>
+  <anchor x="371" y="1490" name="m.uni030F_1"/>
   <outline>
     <component base="l.ss02"/>
     <component base="period" xOffset="132" yOffset="701"/>

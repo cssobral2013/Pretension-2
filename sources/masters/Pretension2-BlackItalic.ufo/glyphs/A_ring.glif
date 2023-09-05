@@ -2,8 +2,11 @@
 <glyph name="Aring" format="2">
   <advance width="1628"/>
   <unicode hex="00C5"/>
+  <anchor x="828" y="0" name="m.uni0326"/>
+  <anchor x="1075" y="1490" name="m.uni030F_1"/>
+  <anchor x="1736" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="A"/>
-    <component base="ringcomb.uc" xOffset="378"/>
+    <component base="uni030A.uc" xOffset="378"/>
   </outline>
 </glyph>

@@ -3,7 +3,7 @@
   <advance width="2828"/>
   <unicode hex="E15D"/>
   <outline>
-    <component base="whiteLargeSquare"/>
-    <component base="check" xOffset="521" yOffset="54"/>
+    <component base="uni2B1C"/>
+    <component base="dngb_check" xOffset="521" yOffset="54"/>
   </outline>
 </glyph>

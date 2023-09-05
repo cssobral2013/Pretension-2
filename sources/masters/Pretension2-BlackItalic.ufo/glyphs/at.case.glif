@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="at.case" format="2">
-  <advance width="2202"/>
+  <advance width="2168"/>
   <unicode hex="E087"/>
   <outline>
-    <component base="at" xOffset="32" yOffset="214"/>
+    <component base="at" xOffset="35" yOffset="214"/>
   </outline>
 </glyph>

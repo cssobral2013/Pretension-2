@@ -2,6 +2,8 @@
 <glyph name="alpha" format="2">
   <advance width="1265"/>
   <unicode hex="03B1"/>
+  <anchor x="695" y="0" name="m.uni0326"/>
+  <anchor x="786" y="1242" name="m.uni030F_1"/>
   <outline>
     <contour>
       <point x="598" y="-24" type="qcurve" smooth="yes"/>
@@ -13,9 +15,10 @@
       <point x="250" y="984"/>
       <point x="461" y="1132"/>
       <point x="598" y="1132" type="qcurve" smooth="yes"/>
-      <point x="718" y="1132"/>
-      <point x="901" y="1027"/>
-      <point x="1018" y="827"/>
+      <point x="688" y="1132"/>
+      <point x="837" y="1072"/>
+      <point x="949" y="957"/>
+      <point x="1023" y="791"/>
       <point x="1038" y="684" type="qcurve"/>
       <point x="1050" y="684" type="line"/>
       <point x="1070" y="562" type="line"/>
@@ -45,9 +48,10 @@
       <point x="1070" y="556" type="line"/>
       <point x="1052" y="434" type="line"/>
       <point x="1040" y="434" type="line"/>
-      <point x="1015" y="259"/>
-      <point x="880" y="59"/>
-      <point x="697" y="-24"/>
+      <point x="1021" y="303"/>
+      <point x="935" y="126"/>
+      <point x="814" y="21"/>
+      <point x="672" y="-24"/>
     </contour>
   </outline>
 </glyph>

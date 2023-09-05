@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="racute" format="2">
-  <advance width="916"/>
+  <advance width="889"/>
   <unicode hex="0155"/>
+  <anchor x="290" y="0" name="m.uni0326"/>
+  <anchor x="750" y="1574" name="m.uni030F_1"/>
   <outline>
     <component base="r"/>
     <component base="acutecomb" xOffset="309"/>

@@ -2,6 +2,6 @@
 <glyph name="linevertsubcomb" format="2">
   <advance width="26"/>
   <outline>
-    <component base="verticallinemod" xOffset="-856" yOffset="-1656"/>
+    <component base="linevert" xOffset="-856" yOffset="-1656"/>
   </outline>
 </glyph>

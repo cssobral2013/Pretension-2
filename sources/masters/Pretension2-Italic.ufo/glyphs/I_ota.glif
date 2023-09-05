@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iota" format="2">
-  <advance width="555"/>
+  <advance width="566"/>
   <unicode hex="0196"/>
+  <anchor x="361" y="0" name="m.uni0326"/>
+  <anchor x="565" y="1490" name="m.uni030F_1"/>
   <outline>
     <component base="l.ss02"/>
   </outline>

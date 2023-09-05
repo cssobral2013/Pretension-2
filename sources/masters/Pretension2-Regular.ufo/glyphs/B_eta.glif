@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Beta" format="2">
-  <advance width="1332"/>
+  <advance width="1340"/>
   <unicode hex="0392"/>
+  <anchor x="691" y="0" name="m.uni0326"/>
+  <anchor x="703" y="1490" name="m.uni030F_1"/>
   <outline>
     <component base="B"/>
   </outline>

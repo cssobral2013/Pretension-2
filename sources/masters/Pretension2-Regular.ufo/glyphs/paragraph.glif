@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="paragraph" format="2">
-  <advance width="1228"/>
+  <advance width="1234"/>
   <unicode hex="00B6"/>
   <outline>
     <contour>
-      <point x="1040" y="1330" type="line"/>
-      <point x="686" y="1330" type="line"/>
-      <point x="686" y="552" type="line"/>
-      <point x="602" y="552" type="line" smooth="yes"/>
+      <point x="1045" y="1324" type="line"/>
+      <point x="687" y="1324" type="line"/>
+      <point x="687" y="552" type="line"/>
+      <point x="603" y="552" type="line" smooth="yes"/>
       <point x="444" y="552"/>
       <point x="224" y="674"/>
       <point x="110" y="887"/>
@@ -15,14 +15,14 @@
       <point x="110" y="1156"/>
       <point x="224" y="1367"/>
       <point x="444" y="1490"/>
-      <point x="602" y="1490" type="qcurve" smooth="yes"/>
-      <point x="1040" y="1490" type="line"/>
+      <point x="603" y="1490" type="qcurve" smooth="yes"/>
+      <point x="1045" y="1490" type="line"/>
     </contour>
     <contour>
-      <point x="866" y="0" type="line"/>
-      <point x="866" y="1490" type="line"/>
-      <point x="1048" y="1490" type="line"/>
-      <point x="1048" y="0" type="line"/>
+      <point x="867" y="0" type="line"/>
+      <point x="867" y="1490" type="line"/>
+      <point x="1054" y="1490" type="line"/>
+      <point x="1054" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

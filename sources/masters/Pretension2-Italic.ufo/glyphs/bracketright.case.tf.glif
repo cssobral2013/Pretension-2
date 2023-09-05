@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketright.case.tf" format="2">
-  <advance width="800"/>
+  <advance width="801"/>
   <outline>
-    <component base="bracketright" xOffset="16" yOffset="94"/>
+    <component base="bracketright" xOffset="3" yOffset="94"/>
   </outline>
 </glyph>

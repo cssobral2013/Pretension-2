@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon" format="2">
-  <advance width="610"/>
+  <advance width="617"/>
   <unicode hex="003B"/>
   <outline>
     <component base="quoteright" xOffset="-32" yOffset="-1282"/>

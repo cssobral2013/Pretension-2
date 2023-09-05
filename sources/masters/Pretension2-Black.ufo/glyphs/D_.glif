@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="2">
-  <advance width="1500"/>
+  <advance width="1480"/>
   <unicode hex="0044"/>
+  <anchor x="750" y="0" name="m.uni0326"/>
+  <anchor x="596" y="1490" name="m.uni030F_1"/>
   <outline>
     <contour>
       <point x="670" y="0" type="qcurve" smooth="yes"/>

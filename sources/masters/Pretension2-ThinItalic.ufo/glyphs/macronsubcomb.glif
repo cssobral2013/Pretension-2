@@ -2,6 +2,6 @@
 <glyph name="macronsubcomb" format="2">
   <advance width="801"/>
   <outline>
-    <component base="macroncomb" xOffset="-279" yOffset="-1686"/>
+    <component base="uni0304" xOffset="-279" yOffset="-1686"/>
   </outline>
 </glyph>

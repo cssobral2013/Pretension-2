@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="arrowboth.case" format="2">
-  <advance width="2744"/>
+  <advance width="2746"/>
   <unicode hex="E1DC"/>
   <outline>
     <component base="arrowboth" xOffset="15" yOffset="93"/>

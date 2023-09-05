@@ -2,7 +2,6 @@
 <glyph name="one.tf.ss01" format="2">
   <advance width="1320"/>
   <unicode hex="E072"/>
-  <unicode hex="E07C"/>
   <outline>
     <contour>
       <point x="82" y="0" type="line"/>

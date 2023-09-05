@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lacute" format="2">
-  <advance width="486"/>
+  <advance width="496"/>
+  <anchor x="315" y="0" name="m.uni0326"/>
+  <anchor x="637" y="1927" name="m.uni030F_1"/>
   <outline>
     <component base="l"/>
-    <component base="acutecomb" xOffset="180" yOffset="372"/>
+    <component base="acutecomb" xOffset="183" yOffset="372"/>
   </outline>
 </glyph>

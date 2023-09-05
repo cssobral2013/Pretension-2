@@ -33,9 +33,9 @@
     </contour>
     <contour>
       <point x="636" y="1529" type="line"/>
-      <point x="719" y="1822" type="line"/>
-      <point x="905" y="1822" type="line"/>
-      <point x="756" y="1529" type="line"/>
+      <point x="719" y="1823" type="line"/>
+      <point x="912" y="1823" type="line"/>
+      <point x="761" y="1529" type="line"/>
     </contour>
   </outline>
 </glyph>

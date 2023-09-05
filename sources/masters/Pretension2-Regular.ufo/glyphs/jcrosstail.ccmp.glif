@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcrosstail.ccmp" format="2">
+  <advance width="710"/>
+  <unicode hex="E04F"/>
+  <anchor x="1236" y="-460" name="m.uni0326"/>
+  <anchor x="1091" y="1180" name="m.uni030F_1"/>
+  <anchor x="1412" y="0" name="m.uni0328_4"/>
+  <outline>
+    <contour>
+      <point x="264" y="-418" type="qcurve" smooth="yes"/>
+      <point x="174" y="-418"/>
+      <point x="44" y="-348"/>
+      <point x="-26" y="-228"/>
+      <point x="-26" y="-154" type="qcurve" smooth="yes"/>
+      <point x="-26" y="-71"/>
+      <point x="56" y="50"/>
+      <point x="193" y="116"/>
+      <point x="274" y="116" type="qcurve" smooth="yes"/>
+      <point x="768" y="116" type="line"/>
+      <point x="768" y="-46" type="line"/>
+      <point x="274" y="-46" type="line"/>
+      <point x="222" y="-47"/>
+      <point x="158" y="-111"/>
+      <point x="158" y="-158" type="qcurve" smooth="yes"/>
+      <point x="158" y="-201"/>
+      <point x="216" y="-262"/>
+      <point x="262" y="-262" type="qcurve" smooth="yes"/>
+      <point x="325" y="-262"/>
+      <point x="382" y="-162"/>
+      <point x="382" y="-116" type="qcurve" smooth="yes"/>
+      <point x="382" y="244" type="line"/>
+      <point x="552" y="244" type="line"/>
+      <point x="552" y="-98" type="line" smooth="yes"/>
+      <point x="552" y="-161"/>
+      <point x="514" y="-276"/>
+      <point x="440" y="-366"/>
+      <point x="333" y="-418"/>
+    </contour>
+    <contour>
+      <point x="382" y="0" type="line"/>
+      <point x="382" y="1118" type="line"/>
+      <point x="562" y="1118" type="line"/>
+      <point x="562" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
