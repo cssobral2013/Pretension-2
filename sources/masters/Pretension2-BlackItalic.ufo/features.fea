@@ -1,4 +1,4 @@
-#> classes
+#/> classes
 #/> otclasses
 @aalt = [A G uni0193 uni0122 uni0122.1 H I uni0136 L uni013B M N uni0145 O OE R uni0156 Scedilla uni0218 T Y b c d e f uni0260 j k uni0137 uni013C l.ss02 uni013C.ss02 uni0146 oe p q uni0157 s scedilla uni0219 uni0163 uni021B uni021B.1 u v w x z zero.slash one.ss01 four.ss01 six.ss01 nine.ss01 zero.tf.slash one.tf.ss01 four.tf.ss01 six.tf.ss01 nine.tf.ss01 comma.tf period.tf colon.tf colon.case.tf semicolon.tf parenleft.tf parenright.tf braceleft.tf braceright.tf bracketleft.tf bracketright.tf parenleft.case.tf parenright.case.tf braceleft.case.tf braceright.case.tf bracketleft.case.tf bracketright.case.tf hyphen.tf hyphen.case.tf less.tf greater.tf lessequal.tf greaterequal.tf equal.tf notequal.tf plus.tf minus.tf multiply.tf divide.tf plusminus.tf approxequal.tf asciitilde.tf asterisk.tf less.case.tf greater.case.tf lessequal.case.tf greaterequal.case.tf equal.case.tf notequal.case.tf plus.case.tf minus.case.tf multiply.case.tf divide.case.tf plusminus.case.tf approxequal.case.tf asciitilde.case.tf asterisk.case.tf space.tf uni00A0.tf uni2008.tf exclamdown at braceleft.case braceright.case slash endash figuredash emdash bullet openbullet uni2043 trianglebullet uni204C uni204D uni25AA quoteleft quoteright quotedblleft quotedblright quotereversed quotedblreversed period colon.case less.case greater.case lessequal.case greaterequal.case notequal.case multiply.case divide.case plusminus.case approxequal.case asciitilde.case asterisk.case zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr uni0326 space uni00A0 uni2008 arrowleft uni27F5 leftLongArrow2 arrowdblleft uni27F8 arrowright rightLongArrow rightLongArrow2 arrowdblright uni27F9 uni2196 uni2197 uni2198 uni2199 arrowboth uni27F7 arrowdblboth uni27FA uni204F];
 @aalt2 = [ordfeminine g.sc uni0260.sc uni0122.ss03 uni0122.1.ss03 h.sc i.sc uni0136.ss03 l.sc uni013B.ss03 m.sc n.sc uni0145.ss03 ordmasculine oe.sc r.sc uni0156.ss03 uni0218 uni0218.ss03 t.sc y.sc b.subs c.subs d.subs e.subs f.subs uni0260.sc j.subs k.subs uni0137.ss03 uni013C.ss03 l.subs uni013C.ss02.ss03 uni0146.ss03 oe.sc p.subs q.subs uni0157.ss03 s.subs uni0219 uni0219.ss03 uni021B uni021B.ss03 uni021B.1.ss03 u.subs v.subs w.subs x.subs z.subs zero.subs one.subs four.subs six.subs nine.subs zero.subs one.subs four.subs six.subs nine.subs comma period colon colon.case semicolon parenleft parenright braceleft braceright bracketleft bracketright parenleft.case parenright.case braceleft.case braceright.case bracketleft.case bracketright.case hyphen hyphen.case less greater lessequal greaterequal equal notequal plus minus multiply divide plusminus approxequal asciitilde asterisk less.case greater.case lessequal.case greaterequal.case equal.case notequal.case plus.case minus.case multiply.case divide.case plusminus.case approxequal.case asciitilde.case asterisk.case space uni00A0 uni2008 exclamdown.case at.case braceleft.case.tf braceright.case.tf fraction endash.case figuredash.case emdash.case bullet.case openbullet.case uni2043.case trianglebullet.case uni204C.case uni204D.case uni25AA.case quoteleft.ss03 quoteright.ss03 quotedblleft.ss03 quotedblright.ss03 quotereversed.ss03 quotedblreversed.ss03 period.tf colon.case.tf less.case.tf greater.case.tf lessequal.case.tf greaterequal.case.tf notequal.case.tf multiply.case.tf divide.case.tf plusminus.case.tf approxequal.case.tf asciitilde.case.tf asterisk.case.tf zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom uni0326.ss03 space.tf uni00A0.tf uni2008.tf arrowleft.case uni27F5.case leftLongArrow2.case arrowdblleft.case uni27F8.case arrowright.case rightLongArrow.case rightLongArrow2.case arrowdblright.case uni27F9.case uni2196.case uni2197.case uni2198.case uni2199.case arrowboth.case uni27F7.case arrowdblboth.case uni27FA.case uni204F.ss03];
@@ -66,7 +66,7 @@
 @tnum2 = [zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf one.tf.ss01 three.1.tf parenleft.tf parenright.tf bracketleft.tf bracketright.tf braceleft.tf braceright.tf parenleft.case.tf parenright.case.tf bracketleft.case.tf bracketright.case.tf braceleft.case.tf braceright.case.tf hyphen.tf hyphen.case.tf comma.tf period.tf colon.tf colon.case.tf semicolon.tf less.tf greater.tf lessequal.tf greaterequal.tf equal.tf notequal.tf plus.tf minus.tf multiply.tf divide.tf plusminus.tf approxequal.tf asciitilde.tf less.case.tf greater.case.tf lessequal.case.tf greaterequal.case.tf equal.case.tf notequal.case.tf plus.case.tf minus.case.tf multiply.case.tf divide.case.tf plusminus.case.tf approxequal.case.tf asciitilde.case.tf asterisk.tf asterisk.case.tf space.tf uni00A0.tf uni2008.tf];
 @ordn = [zero one two three four five six seven eight nine];
 #/< otclasses
-#< classes
+#/< classes
 
 @aalt = [A G uni0193 uni0122 uni0122.1 H I uni0136 L uni013B M N uni0145 O OE R uni0156 Scedilla uni0218 T Y b c d e f uni0260 j k uni0137 uni013C l.ss02 uni013C.ss02 uni0146 oe p q uni0157 s scedilla uni0219 uni0163 uni021B uni021B.1 u v w x z zero.slash one.ss01 four.ss01 six.ss01 nine.ss01 zero.tf.slash one.tf.ss01 four.tf.ss01 six.tf.ss01 nine.tf.ss01 comma.tf period.tf colon.tf colon.case.tf semicolon.tf parenleft.tf parenright.tf braceleft.tf braceright.tf bracketleft.tf bracketright.tf parenleft.case.tf parenright.case.tf braceleft.case.tf braceright.case.tf bracketleft.case.tf bracketright.case.tf hyphen.tf hyphen.case.tf less.tf greater.tf lessequal.tf greaterequal.tf equal.tf notequal.tf plus.tf minus.tf multiply.tf divide.tf plusminus.tf approxequal.tf asciitilde.tf asterisk.tf less.case.tf greater.case.tf lessequal.case.tf greaterequal.case.tf equal.case.tf notequal.case.tf plus.case.tf minus.case.tf multiply.case.tf divide.case.tf plusminus.case.tf approxequal.case.tf asciitilde.case.tf asterisk.case.tf space.tf uni00A0.tf uni2008.tf exclamdown at braceleft.case braceright.case slash endash figuredash emdash bullet openbullet uni2043 trianglebullet uni204C uni204D uni25AA quoteleft quoteright quotedblleft quotedblright quotereversed quotedblreversed period colon.case less.case greater.case lessequal.case greaterequal.case notequal.case multiply.case divide.case plusminus.case approxequal.case asciitilde.case asterisk.case zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr uni0326 space uni00A0 uni2008 arrowleft uni27F5 leftLongArrow2 arrowdblleft uni27F8 arrowright rightLongArrow rightLongArrow2 arrowdblright uni27F9 uni2196 uni2197 uni2198 uni2199 arrowboth uni27F7 arrowdblboth uni27FA uni204F];
 @aalt2 = [ordfeminine g.sc uni0260.sc uni0122.ss03 uni0122.1.ss03 h.sc i.sc uni0136.ss03 l.sc uni013B.ss03 m.sc n.sc uni0145.ss03 ordmasculine oe.sc r.sc uni0156.ss03 uni0218 uni0218.ss03 t.sc y.sc b.subs c.subs d.subs e.subs f.subs uni0260.sc j.subs k.subs uni0137.ss03 uni013C.ss03 l.subs uni013C.ss02.ss03 uni0146.ss03 oe.sc p.subs q.subs uni0157.ss03 s.subs uni0219 uni0219.ss03 uni021B uni021B.ss03 uni021B.1.ss03 u.subs v.subs w.subs x.subs z.subs zero.subs one.subs four.subs six.subs nine.subs zero.subs one.subs four.subs six.subs nine.subs comma period colon colon.case semicolon parenleft parenright braceleft braceright bracketleft bracketright parenleft.case parenright.case braceleft.case braceright.case bracketleft.case bracketright.case hyphen hyphen.case less greater lessequal greaterequal equal notequal plus minus multiply divide plusminus approxequal asciitilde asterisk less.case greater.case lessequal.case greaterequal.case equal.case notequal.case plus.case minus.case multiply.case divide.case plusminus.case approxequal.case asciitilde.case asterisk.case space uni00A0 uni2008 exclamdown.case at.case braceleft.case.tf braceright.case.tf fraction endash.case figuredash.case emdash.case bullet.case openbullet.case uni2043.case trianglebullet.case uni204C.case uni204D.case uni25AA.case quoteleft.ss03 quoteright.ss03 quotedblleft.ss03 quotedblright.ss03 quotereversed.ss03 quotedblreversed.ss03 period.tf colon.case.tf less.case.tf greater.case.tf lessequal.case.tf greaterequal.case.tf notequal.case.tf multiply.case.tf divide.case.tf plusminus.case.tf approxequal.case.tf asciitilde.case.tf asterisk.case.tf zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom uni0326.ss03 space.tf uni00A0.tf uni2008.tf arrowleft.case uni27F5.case leftLongArrow2.case arrowdblleft.case uni27F8.case arrowright.case rightLongArrow.case rightLongArrow2.case arrowdblright.case uni27F9.case uni2196.case uni2197.case uni2198.case uni2199.case arrowboth.case uni27F7.case arrowdblboth.case uni27FA.case uni204F.ss03];
@@ -234,7 +234,6 @@ lookup ordn_2 {
 #
 # Feature definitions
 #
-
 feature aalt useExtension {
 # GSUB feature: Access All Alternates
 # Lookups: 2
@@ -306,7 +305,6 @@ feature aalt useExtension {
   sub minus.case from [minus.case.tf minus.subs];
   sub asterisk from [asterisk.tf asterisk.case];
 } aalt;
-
 feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 7
@@ -943,7 +941,6 @@ feature ccmp {
   sub dngb_ballotx uni20DD by dngb_ballotx.circled;
 
 } ccmp;
-
 feature locl {
 # Localized Forms
 
@@ -988,7 +985,6 @@ feature sinf {
   sub @sinf by @sinf2;
 
 } sinf;
-
 feature numr {
 # GSUB feature: Numerators
 # Lookups: 1
@@ -996,7 +992,6 @@ feature numr {
   sub @numr by @numr2;
 
 } numr;
-
 feature dnom {
 # GSUB feature: Denominators
 # Lookups: 1
@@ -1004,7 +999,6 @@ feature dnom {
   sub @dnom by @dnom2;
 
 } dnom;
-
 feature frac {
 # GSUB feature: Fractions
 # Lookups: 3
@@ -1015,7 +1009,6 @@ feature frac {
   sub @frac2 @frac' lookup frac_4;
 
 } frac;
-
 feature case {
 # GSUB feature: Case-Sensitive Forms
 # Lookups: 1
@@ -1023,7 +1016,6 @@ feature case {
   sub @case by @case2;
 
 } case;
-
 feature calt {
 # GSUB feature: Contextual Alternates
 # Lookups: 4
@@ -1726,7 +1718,6 @@ feature calt {
   sub @calt5 @calt5 x' lookup calt_7 @calt9 @calt5;
 
 } calt;
-
 feature dlig {
 # GSUB feature: Discretionary Ligatures
 # Lookups: 2
@@ -1752,7 +1743,6 @@ feature dlig {
 
 
 } dlig;
-
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -1766,7 +1756,6 @@ feature liga {
 
 
 } liga;
-
 feature pnum {
 # GSUB feature: Proportional Figures
 # Lookups: 1
@@ -1774,7 +1763,6 @@ feature pnum {
   sub @pnum by @pnum2;
 
 } pnum;
-
 feature tnum {
 # GSUB feature: Tabular Figures
 # Lookups: 1
@@ -1782,7 +1770,6 @@ feature tnum {
   sub @tnum by @tnum2;
 
 } tnum;
-
 feature zero {
 # GSUB feature: Slashed Zero
 # Lookups: 1
@@ -1790,7 +1777,6 @@ feature zero {
   sub [zero zero.tf uni24EA zero.squared] by [zero.slash zero.tf.slash zero.slash.circled zero.slash.squared];
 
 } zero;
-
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
@@ -1798,7 +1784,6 @@ feature sups {
   sub @subs_sups by @sups;
 
 } sups;
-
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
@@ -1806,7 +1791,6 @@ feature subs {
   sub @subs_sups by @subs;
 
 } subs;
-
 feature ordn {
 # GSUB feature: Ordinals
 # Lookups: 2
@@ -1816,7 +1800,6 @@ feature ordn {
   sub N o period by uni2116;
 
 } ordn;
-
 feature salt {
 # GSUB feature: Stylistic Alternates
 # Lookups: 1
@@ -1824,7 +1807,6 @@ feature salt {
   sub @salt by @salt2;
 
 } salt;
-
 feature ss01 {
 # GSUB feature: Stylistic Set 1
 # Lookups: 1
@@ -1836,7 +1818,6 @@ feature ss01 {
   sub @ss01 by @ss012;
 
 } ss01;
-
 feature ss02 {
 # GSUB feature: Stylistic Set 2
 # Lookups: 1
@@ -1848,7 +1829,6 @@ feature ss02 {
   sub @ss02 by @ss022;
 
 } ss02;
-
 feature ss03 {
 # GSUB feature: Stylistic Set 3
 # Lookups: 1
@@ -1860,7 +1840,6 @@ feature ss03 {
   sub @ss03 by @ss032;
 
 } ss03;
-
 feature ss04 {
 # GSUB feature: Stylistic Set 4
 # Lookups: 1
@@ -1872,7 +1851,6 @@ feature ss04 {
   sub @ss04 by @ss042;
 
 } ss04;
-
 feature cv01 {
 # GSUB
 # Lookups: 1
@@ -1885,7 +1863,6 @@ feature cv01 {
   sub [one one.tf uni2460 one.squared] by [one.ss01 one.tf.ss01 one.ss01.circled one.ss01.squared];
 
 } cv01;
-
 feature cv02 {
 # GSUB
 # Lookups: 1
@@ -1898,7 +1875,6 @@ feature cv02 {
   sub [four four.tf uni2463 four.squared] by [four.ss01 four.tf.ss01 four.ss01.circled four.ss01.squared];
 
 } cv02;
-
 feature cv03 {
 # GSUB
 # Lookups: 1
@@ -1911,7 +1887,6 @@ feature cv03 {
   sub [six six.tf uni2465 six.squared] by [six.ss01 six.tf.ss01 six.ss01.circled six.ss01.squared];
 
 } cv03;
-
 feature cv04 {
 # GSUB
 # Lookups: 1
@@ -1924,7 +1899,6 @@ feature cv04 {
   sub [nine nine.tf uni2468 nine.squared] by [nine.ss01 nine.tf.ss01 nine.ss01.circled nine.ss01.squared];
 
 } cv04;
-
 feature cv05 {
 # GSUB
 # Lookups: 1
@@ -1937,7 +1911,6 @@ feature cv05 {
   sub @cv05 by @cv052;
 
 } cv05;
-
 feature cv06 {
 # GSUB
 # Lookups: 1
@@ -1950,7 +1923,6 @@ feature cv06 {
   sub @cv06 by @cv062;
 
 } cv06;
-
 feature cv07 {
 # GSUB
 # Lookups: 1
@@ -1963,7 +1935,6 @@ feature cv07 {
   sub germandbls by germandbls.1;
 
 } cv07;
-
 feature cv08 {
 # GSUB
 # Lookups: 1
@@ -1976,7 +1947,6 @@ feature cv08 {
   sub @cv08 by @cv082;
 
 } cv08;
-
 feature cv09 {
 # GSUB
 # Lookups: 1
@@ -1989,7 +1959,6 @@ feature cv09 {
   sub [three three.tf uni2462 three.squared] by [three.1 three.1.tf three.1.circled three.1.squared];
 
 } cv09;
-
 feature cv10 {
 # GSUB
 # Lookups: 1
@@ -2002,7 +1971,6 @@ feature cv10 {
   sub @cv10 by @cv102;
 
 } cv10;
-
 feature cv12 {
 # GSUB
 # Lookups: 1
@@ -2015,7 +1983,6 @@ feature cv12 {
   sub [f uni1E1F feng] by [f.1 uni1E1F.1 feng.1];
 
 } cv12;
-
 feature cv13 {
 # GSUB
 # Lookups: 1
@@ -2028,7 +1995,6 @@ feature cv13 {
   sub @cv13_dlig by @cv13;
 
 } cv13;
-
 feature c2sc {
 # GSUB feature: Small Capitals From Capitals
 # Lookups: 1
@@ -2036,7 +2002,6 @@ feature c2sc {
   sub @c2sc by @c2sc_smcp;
 
 } c2sc;
-
 feature smcp {
 # GSUB feature: Small Capitals
 # Lookups: 1
@@ -2044,7 +2009,6 @@ feature smcp {
   sub @smcp by @c2sc_smcp;
 
 } smcp;
-
 feature cpsp {
 # GPOS feature: Capital Spacing
 # Lookups: 1
@@ -2052,7 +2016,6 @@ feature cpsp {
   pos @cpsp <16 0 32 0>;
 
 } cpsp;
-
 feature mark {
 # GPOS feature: Mark Positioning
 # Lookups: 1
@@ -10450,7 +10413,6 @@ feature mark {
 
 
 } mark;
-
 feature mkmk {
 # GPOS feature: Mark to Mark Positioning
 # Lookups: 1
@@ -10504,4 +10466,3 @@ feature mkmk {
 
 
 } mkmk;
-

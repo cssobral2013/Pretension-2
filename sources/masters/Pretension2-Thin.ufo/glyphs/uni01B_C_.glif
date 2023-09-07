@@ -1,49 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01BC" format="2">
-  <advance width="1186"/>
+  <advance width="1162"/>
   <unicode hex="01BC"/>
   <outline>
+    <component base="five"/>
     <contour>
-      <point x="360" y="1490" type="line"/>
-      <point x="360" y="1444" type="line"/>
-      <point x="120" y="1444" type="line"/>
-      <point x="120" y="1490" type="line"/>
-    </contour>
-    <contour>
-      <point x="566" y="-20" type="curve" smooth="yes"/>
-      <point x="460" y="-20"/>
-      <point x="259" y="81"/>
-      <point x="143" y="259"/>
-      <point x="143" y="372" type="qcurve"/>
-      <point x="189" y="372" type="line"/>
-      <point x="190" y="272"/>
-      <point x="295" y="116"/>
-      <point x="474" y="26"/>
-      <point x="566" y="26" type="qcurve" smooth="yes"/>
-      <point x="813" y="26"/>
-      <point x="932" y="228"/>
-      <point x="932" y="462" type="curve" smooth="yes"/>
-      <point x="932" y="690"/>
-      <point x="795" y="894"/>
-      <point x="550" y="894" type="curve" smooth="yes"/>
-      <point x="407" y="894"/>
-      <point x="258" y="835"/>
-      <point x="212" y="688" type="curve"/>
-      <point x="170" y="688" type="line"/>
-      <point x="233" y="1490" type="line"/>
-      <point x="954" y="1490" type="line"/>
-      <point x="954" y="1444" type="line"/>
-      <point x="275" y="1444" type="line"/>
-      <point x="225" y="804" type="line"/>
-      <point x="227" y="804" type="line"/>
-      <point x="307" y="903"/>
-      <point x="427" y="940"/>
-      <point x="550" y="940" type="curve" smooth="yes"/>
-      <point x="820" y="940"/>
-      <point x="978" y="715"/>
-      <point x="978" y="462" type="curve" smooth="yes"/>
-      <point x="978" y="202"/>
-      <point x="839" y="-20"/>
+      <point x="400" y="1490" type="line"/>
+      <point x="400" y="1444" type="line"/>
+      <point x="160" y="1444" type="line"/>
+      <point x="160" y="1490" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=138</string>
+  </dict>
+  </lib>
 </glyph>

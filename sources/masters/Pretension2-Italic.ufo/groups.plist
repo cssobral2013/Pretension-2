@@ -11915,7 +11915,6 @@
   <array>
     <string>f</string>
     <string>f.1</string>
-    <string>f.i</string>
     <string>uni01B4</string>
     <string>uni0479</string>
     <string>uni1E1F</string>
@@ -12617,7 +12616,6 @@
     <string>bar</string>
     <string>exclamdown.case</string>
     <string>f.1</string>
-    <string>f.i.1</string>
     <string>feng.1</string>
     <string>filledbox</string>
     <string>germandbls</string>
@@ -13487,7 +13485,6 @@
   <key>public.kern2.f2</key>
   <array>
     <string>f</string>
-    <string>f.i</string>
     <string>feng</string>
     <string>uni1E1F</string>
   </array>
