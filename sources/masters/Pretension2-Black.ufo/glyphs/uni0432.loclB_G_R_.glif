@@ -3,7 +3,7 @@
   <advance width="1180"/>
   <outline>
     <contour>
-      <point x="578" y="862" type="line"/>
+      <point x="460" y="862" type="line"/>
       <point x="716" y="862" type="line" smooth="yes"/>
       <point x="872" y="862"/>
       <point x="1100" y="750"/>
@@ -30,7 +30,7 @@
       <point x="785" y="589"/>
       <point x="693" y="614"/>
       <point x="642" y="614" type="qcurve" smooth="yes"/>
-      <point x="578" y="614" type="line"/>
+      <point x="460" y="614" type="line"/>
     </contour>
     <contour>
       <point x="640" y="1510" type="qcurve" smooth="yes"/>
@@ -43,8 +43,8 @@
       <point x="1048" y="786"/>
       <point x="844" y="654"/>
       <point x="706" y="654" type="qcurve" smooth="yes"/>
-      <point x="578" y="654" type="line"/>
-      <point x="578" y="882" type="line"/>
+      <point x="460" y="654" type="line"/>
+      <point x="460" y="882" type="line"/>
       <point x="634" y="882" type="line" smooth="yes"/>
       <point x="699" y="882"/>
       <point x="758" y="931"/>

@@ -1019,7 +1019,7 @@
     <string>Kacyr</string>
     <string>zero.slash</string>
     <string>one.ss01</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>four.ss01</string>
     <string>six.ss01</string>
     <string>nine.ss01</string>
@@ -1035,7 +1035,7 @@
     <string>nine.tf</string>
     <string>zero.tf.slash</string>
     <string>one.tf.ss01</string>
-    <string>three.1.tf</string>
+    <string>three.tf.ss01</string>
     <string>four.tf.ss01</string>
     <string>six.tf.ss01</string>
     <string>nine.tf.ss01</string>
@@ -1244,7 +1244,7 @@
     <string>eight</string>
     <string>nine</string>
     <string>one.ss01</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>four.ss01</string>
     <string>six.ss01</string>
     <string>nine.ss01</string>
@@ -1258,7 +1258,7 @@
     <string>eight.tf</string>
     <string>nine.tf</string>
     <string>one.tf.ss01</string>
-    <string>three.1.tf</string>
+    <string>three.tf.ss01</string>
     <string>four.tf.ss01</string>
     <string>six.tf.ss01</string>
     <string>nine.tf.ss01</string>
@@ -1384,7 +1384,7 @@
     <string>nine</string>
     <string>zero.slash</string>
     <string>one.ss01</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>four.ss01</string>
     <string>six.ss01</string>
     <string>nine.ss01</string>
@@ -1400,7 +1400,7 @@
     <string>nine.tf</string>
     <string>zero.tf.slash</string>
     <string>one.tf.ss01</string>
-    <string>three.1.tf</string>
+    <string>three.tf.ss01</string>
     <string>four.tf.ss01</string>
     <string>six.tf.ss01</string>
     <string>nine.tf.ss01</string>
@@ -3040,7 +3040,7 @@
     <string>Kacyr</string>
     <string>zero.slash</string>
     <string>one.ss01</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>four.ss01</string>
     <string>six.ss01</string>
     <string>nine.ss01</string>
@@ -3056,7 +3056,7 @@
     <string>nine.tf</string>
     <string>zero.tf.slash</string>
     <string>one.tf.ss01</string>
-    <string>three.1.tf</string>
+    <string>three.tf.ss01</string>
     <string>four.tf.ss01</string>
     <string>six.tf.ss01</string>
     <string>nine.tf.ss01</string>
@@ -3169,7 +3169,7 @@
     <string>nine.squared</string>
     <string>zero.slash.squared</string>
     <string>one.ss01.squared</string>
-    <string>three.1.squared</string>
+    <string>three.ss01.squared</string>
     <string>four.ss01.squared</string>
     <string>six.ss01.squared</string>
     <string>nine.ss01.squared</string>
@@ -3689,7 +3689,7 @@
     <string>uni2466</string>
     <string>uni2467</string>
     <string>one.ss01.circled</string>
-    <string>three.1.circled</string>
+    <string>three.ss01.circled</string>
     <string>four.ss01.circled</string>
     <string>six.ss01.circled</string>
     <string>nine.ss01.circled</string>
@@ -4026,7 +4026,7 @@
     <string>nine</string>
     <string>zero.slash</string>
     <string>one.ss01</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>four.ss01</string>
     <string>six.ss01</string>
     <string>nine.ss01</string>
@@ -4042,7 +4042,7 @@
     <string>nine.tf</string>
     <string>zero.tf.slash</string>
     <string>one.tf.ss01</string>
-    <string>three.1.tf</string>
+    <string>three.tf.ss01</string>
     <string>four.tf.ss01</string>
     <string>six.tf.ss01</string>
     <string>nine.tf.ss01</string>
@@ -6417,7 +6417,7 @@
     <string>Kacyr</string>
     <string>zero.slash</string>
     <string>one.ss01</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>four.ss01</string>
     <string>six.ss01</string>
     <string>nine.ss01</string>
@@ -6433,7 +6433,7 @@
     <string>nine.tf</string>
     <string>zero.tf.slash</string>
     <string>one.tf.ss01</string>
-    <string>three.1.tf</string>
+    <string>three.tf.ss01</string>
     <string>four.tf.ss01</string>
     <string>six.tf.ss01</string>
     <string>nine.tf.ss01</string>
@@ -6570,7 +6570,7 @@
     <string>nine.squared</string>
     <string>zero.slash.squared</string>
     <string>one.ss01.squared</string>
-    <string>three.1.squared</string>
+    <string>three.ss01.squared</string>
     <string>four.ss01.squared</string>
     <string>six.ss01.squared</string>
     <string>nine.ss01.squared</string>
@@ -7107,7 +7107,7 @@
     <string>uni2466</string>
     <string>uni2467</string>
     <string>one.ss01.circled</string>
-    <string>three.1.circled</string>
+    <string>three.ss01.circled</string>
     <string>four.ss01.circled</string>
     <string>six.ss01.circled</string>
     <string>nine.ss01.circled</string>
@@ -8838,7 +8838,7 @@
     <string>Kacyr</string>
     <string>zero.slash</string>
     <string>one.ss01</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>four.ss01</string>
     <string>six.ss01</string>
     <string>nine.ss01</string>
@@ -8854,7 +8854,7 @@
     <string>nine.tf</string>
     <string>zero.tf.slash</string>
     <string>one.tf.ss01</string>
-    <string>three.1.tf</string>
+    <string>three.tf.ss01</string>
     <string>four.tf.ss01</string>
     <string>six.tf.ss01</string>
     <string>nine.tf.ss01</string>
@@ -10796,26 +10796,26 @@
     <string>seven.tf</string>
     <string>eight.tf</string>
     <string>nine.tf</string>
-    <string>three.1.tf</string>
+    <string>zero.tf.slash</string>
+    <string>parenleft.tf</string>
+    <string>parenright.tf</string>
+    <string>bracketleft.tf</string>
+    <string>bracketright.tf</string>
+    <string>braceleft.tf</string>
+    <string>braceright.tf</string>
+    <string>parenleft.case.tf</string>
+    <string>parenright.case.tf</string>
+    <string>bracketleft.case.tf</string>
+    <string>bracketright.case.tf</string>
+    <string>braceleft.case.tf</string>
+    <string>braceright.case.tf</string>
+    <string>hyphen.tf</string>
+    <string>hyphen.case.tf</string>
     <string>comma.tf</string>
     <string>period.tf</string>
     <string>colon.tf</string>
     <string>colon.case.tf</string>
     <string>semicolon.tf</string>
-    <string>parenleft.tf</string>
-    <string>parenright.tf</string>
-    <string>braceleft.tf</string>
-    <string>braceright.tf</string>
-    <string>bracketleft.tf</string>
-    <string>bracketright.tf</string>
-    <string>parenleft.case.tf</string>
-    <string>parenright.case.tf</string>
-    <string>braceleft.case.tf</string>
-    <string>braceright.case.tf</string>
-    <string>bracketleft.case.tf</string>
-    <string>bracketright.case.tf</string>
-    <string>hyphen.tf</string>
-    <string>hyphen.case.tf</string>
     <string>less.tf</string>
     <string>greater.tf</string>
     <string>lessequal.tf</string>
@@ -10829,7 +10829,6 @@
     <string>plusminus.tf</string>
     <string>approxequal.tf</string>
     <string>asciitilde.tf</string>
-    <string>asterisk.tf</string>
     <string>less.case.tf</string>
     <string>greater.case.tf</string>
     <string>lessequal.case.tf</string>
@@ -10843,6 +10842,7 @@
     <string>plusminus.case.tf</string>
     <string>approxequal.case.tf</string>
     <string>asciitilde.case.tf</string>
+    <string>asterisk.tf</string>
     <string>asterisk.case.tf</string>
     <string>space.tf</string>
     <string>uni00A0.tf</string>
@@ -10860,26 +10860,26 @@
     <string>seven</string>
     <string>eight</string>
     <string>nine</string>
-    <string>three.1</string>
+    <string>zero.slash</string>
+    <string>parenleft</string>
+    <string>parenright</string>
+    <string>bracketleft</string>
+    <string>bracketright</string>
+    <string>braceleft</string>
+    <string>braceright</string>
+    <string>parenleft.case</string>
+    <string>parenright.case</string>
+    <string>bracketleft.case</string>
+    <string>bracketright.case</string>
+    <string>braceleft.case</string>
+    <string>braceright.case</string>
+    <string>hyphen</string>
+    <string>hyphen.case</string>
     <string>comma</string>
     <string>period</string>
     <string>colon</string>
     <string>colon.case</string>
     <string>semicolon</string>
-    <string>parenleft</string>
-    <string>parenright</string>
-    <string>braceleft</string>
-    <string>braceright</string>
-    <string>bracketleft</string>
-    <string>bracketright</string>
-    <string>parenleft.case</string>
-    <string>parenright.case</string>
-    <string>braceleft.case</string>
-    <string>braceright.case</string>
-    <string>bracketleft.case</string>
-    <string>bracketright.case</string>
-    <string>hyphen</string>
-    <string>hyphen.case</string>
     <string>less</string>
     <string>greater</string>
     <string>lessequal</string>
@@ -10893,7 +10893,6 @@
     <string>plusminus</string>
     <string>approxequal</string>
     <string>asciitilde</string>
-    <string>asterisk</string>
     <string>less.case</string>
     <string>greater.case</string>
     <string>lessequal.case</string>
@@ -10907,10 +10906,27 @@
     <string>plusminus.case</string>
     <string>approxequal.case</string>
     <string>asciitilde.case</string>
+    <string>asterisk</string>
     <string>asterisk.case</string>
     <string>space</string>
     <string>uni00A0</string>
     <string>uni2008</string>
+  </array>
+  <key>pnumss01</key>
+  <array>
+    <string>one.tf.ss01</string>
+    <string>three.tf.ss01</string>
+    <string>four.tf.ss01</string>
+    <string>six.tf.ss01</string>
+    <string>nine.tf.ss01</string>
+  </array>
+  <key>pnumss012</key>
+  <array>
+    <string>one.ss01</string>
+    <string>three.ss01</string>
+    <string>four.ss01</string>
+    <string>six.ss01</string>
+    <string>nine.ss01</string>
   </array>
   <key>public.kern1.A</key>
   <array>
@@ -12227,7 +12243,7 @@
   <array>
     <string>eight</string>
     <string>three</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>uni0498</string>
     <string>uni04E0</string>
   </array>
@@ -13864,7 +13880,7 @@
   <key>public.kern2.three2</key>
   <array>
     <string>three</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
   </array>
   <key>public.kern2.u2</key>
   <array>
@@ -14051,130 +14067,6 @@
     <string>zbar</string>
     <string>zrthook</string>
   </array>
-  <key>salt</key>
-  <array>
-    <string>G</string>
-    <string>Gbar</string>
-    <string>uni0193</string>
-    <string>Gcircumflex</string>
-    <string>Gbreve</string>
-    <string>Gdotaccent</string>
-    <string>uni0122</string>
-    <string>Gcaron</string>
-    <string>uni01F4</string>
-    <string>uni1E20</string>
-    <string>I</string>
-    <string>Idieresis</string>
-    <string>uni1E2E</string>
-    <string>uni0197</string>
-    <string>uni1E2C</string>
-    <string>Igrave</string>
-    <string>Iacute</string>
-    <string>Icircumflex</string>
-    <string>Itilde</string>
-    <string>Imacron</string>
-    <string>Ibreve</string>
-    <string>Iogonek</string>
-    <string>Idotaccent</string>
-    <string>uni01CF</string>
-    <string>uni0208</string>
-    <string>uni020A</string>
-    <string>uni1EC8</string>
-    <string>uni1ECA</string>
-    <string>uni1F38</string>
-    <string>uni1F39</string>
-    <string>uni1F3A</string>
-    <string>uni1F3B</string>
-    <string>uni1F3C</string>
-    <string>uni1F3D</string>
-    <string>uni1F3E</string>
-    <string>uni1F3F</string>
-    <string>uni1FD8</string>
-    <string>uni1FD9</string>
-    <string>uni1FDA</string>
-    <string>uni1FDB</string>
-    <string>uni0406</string>
-    <string>uni0407</string>
-    <string>f</string>
-    <string>uni1E1F</string>
-    <string>feng</string>
-    <string>l</string>
-    <string>lslash</string>
-    <string>uni019A</string>
-    <string>lmidtilde</string>
-    <string>uni026C</string>
-    <string>ldot</string>
-    <string>lacute</string>
-    <string>uni013C</string>
-    <string>lcaron</string>
-    <string>uni1E37</string>
-    <string>uni1E39</string>
-    <string>uni1E3B</string>
-    <string>uni1E3D</string>
-    <string>germandbls</string>
-    <string>t</string>
-    <string>uni01AB</string>
-    <string>uni0163</string>
-    <string>tcaron</string>
-    <string>uni021B</string>
-    <string>uni1E6B</string>
-    <string>uni1E6D</string>
-    <string>uni1E6F</string>
-    <string>uni1E71</string>
-    <string>uni1E97</string>
-    <string>u</string>
-    <string>udieresis</string>
-    <string>utilde</string>
-    <string>uhorn</string>
-    <string>uni0289</string>
-    <string>ugrave</string>
-    <string>uacute</string>
-    <string>ucircumflex</string>
-    <string>umacron</string>
-    <string>ubreve</string>
-    <string>uring</string>
-    <string>uhungarumlaut</string>
-    <string>uogonek</string>
-    <string>uni01D4</string>
-    <string>uni01D6</string>
-    <string>uni01D8</string>
-    <string>uni01DA</string>
-    <string>uni01DC</string>
-    <string>uni0215</string>
-    <string>uni0217</string>
-    <string>uni1E73</string>
-    <string>uni1E75</string>
-    <string>uni1E77</string>
-    <string>uni1E79</string>
-    <string>uni1E7B</string>
-    <string>uni1EE5</string>
-    <string>uni1EE7</string>
-    <string>uni1EE9</string>
-    <string>uni1EEB</string>
-    <string>uni1EED</string>
-    <string>uni1EEF</string>
-    <string>uni1EF1</string>
-    <string>one</string>
-    <string>three</string>
-    <string>four</string>
-    <string>six</string>
-    <string>nine</string>
-    <string>one.tf</string>
-    <string>three.tf</string>
-    <string>four.tf</string>
-    <string>six.tf</string>
-    <string>nine.tf</string>
-    <string>uni2460</string>
-    <string>uni2462</string>
-    <string>uni2463</string>
-    <string>uni2465</string>
-    <string>uni2468</string>
-    <string>one.squared</string>
-    <string>three.squared</string>
-    <string>four.squared</string>
-    <string>six.squared</string>
-    <string>nine.squared</string>
-  </array>
   <key>salt2</key>
   <array>
     <string>G.1</string>
@@ -14279,22 +14171,22 @@
     <string>uni1EEF.1</string>
     <string>uni1EF1.1</string>
     <string>one.ss01</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>four.ss01</string>
     <string>six.ss01</string>
     <string>nine.ss01</string>
     <string>one.tf.ss01</string>
-    <string>three.1.tf</string>
+    <string>three.tf.ss01</string>
     <string>four.tf.ss01</string>
     <string>six.tf.ss01</string>
     <string>nine.tf.ss01</string>
     <string>one.ss01.circled</string>
-    <string>three.1.circled</string>
+    <string>three.ss01.circled</string>
     <string>four.ss01.circled</string>
     <string>six.ss01.circled</string>
     <string>nine.ss01.circled</string>
     <string>one.ss01.squared</string>
-    <string>three.1.squared</string>
+    <string>three.ss01.squared</string>
     <string>four.ss01.squared</string>
     <string>six.ss01.squared</string>
     <string>nine.ss01.squared</string>
@@ -14426,19 +14318,19 @@
   </array>
   <key>ss012</key>
   <array>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>four.ss01</string>
     <string>six.ss01</string>
     <string>nine.ss01</string>
-    <string>three.1.tf</string>
+    <string>three.tf.ss01</string>
     <string>four.tf.ss01</string>
     <string>six.tf.ss01</string>
     <string>nine.tf.ss01</string>
-    <string>three.1.circled</string>
+    <string>three.ss01.circled</string>
     <string>four.ss01.circled</string>
     <string>six.ss01.circled</string>
     <string>nine.ss01.circled</string>
-    <string>three.1.squared</string>
+    <string>three.ss01.squared</string>
     <string>four.ss01.squared</string>
     <string>six.ss01.squared</string>
     <string>nine.ss01.squared</string>
@@ -14822,7 +14714,7 @@
     <string>nine</string>
     <string>zero.slash</string>
     <string>one.ss01</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>four.ss01</string>
     <string>six.ss01</string>
     <string>nine.ss01</string>
@@ -14838,7 +14730,7 @@
     <string>nine.tf</string>
     <string>zero.tf.slash</string>
     <string>one.tf.ss01</string>
-    <string>three.1.tf</string>
+    <string>three.tf.ss01</string>
     <string>four.tf.ss01</string>
     <string>six.tf.ss01</string>
     <string>nine.tf.ss01</string>
@@ -14949,8 +14841,7 @@
     <string>seven</string>
     <string>eight</string>
     <string>nine</string>
-    <string>one.ss01</string>
-    <string>three.1</string>
+    <string>zero.slash</string>
     <string>parenleft</string>
     <string>parenright</string>
     <string>bracketleft</string>
@@ -15014,8 +14905,7 @@
     <string>seven.tf</string>
     <string>eight.tf</string>
     <string>nine.tf</string>
-    <string>one.tf.ss01</string>
-    <string>three.1.tf</string>
+    <string>zero.tf.slash</string>
     <string>parenleft.tf</string>
     <string>parenright.tf</string>
     <string>bracketleft.tf</string>
@@ -15066,6 +14956,22 @@
     <string>space.tf</string>
     <string>uni00A0.tf</string>
     <string>uni2008.tf</string>
+  </array>
+  <key>tnumss01</key>
+  <array>
+    <string>one.ss01</string>
+    <string>three.ss01</string>
+    <string>four.ss01</string>
+    <string>six.ss01</string>
+    <string>nine.ss01</string>
+  </array>
+  <key>tnumss012</key>
+  <array>
+    <string>one.tf.ss01</string>
+    <string>three.tf.ss01</string>
+    <string>four.tf.ss01</string>
+    <string>six.tf.ss01</string>
+    <string>nine.tf.ss01</string>
   </array>
 </dict>
 </plist>

@@ -1988,26 +1988,26 @@
   <string>thorn.glif</string>
   <key>three</key>
   <string>three.glif</string>
-  <key>three.1</key>
-  <string>three.1.glif</string>
-  <key>three.1.circled</key>
-  <string>three.1.circled.glif</string>
-  <key>three.1.squared</key>
-  <string>three.1.squared.glif</string>
-  <key>three.1.tf</key>
-  <string>three.1.tf.glif</string>
   <key>three.dnom</key>
   <string>three.dnom.glif</string>
   <key>three.numr</key>
   <string>three.numr.glif</string>
   <key>three.squared</key>
   <string>three.squared.glif</string>
+  <key>three.ss01</key>
+  <string>three.ss01.glif</string>
+  <key>three.ss01.circled</key>
+  <string>three.ss01.circled.glif</string>
+  <key>three.ss01.squared</key>
+  <string>three.ss01.squared.glif</string>
   <key>three.subs</key>
   <string>three.subs.glif</string>
   <key>three.sups</key>
   <string>three.sups.glif</string>
   <key>three.tf</key>
   <string>three.tf.glif</string>
+  <key>three.tf.ss01</key>
+  <string>three.tf.ss01.glif</string>
   <key>threeeighths</key>
   <string>threeeighths.glif</string>
   <key>threequarters</key>

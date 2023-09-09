@@ -1019,7 +1019,7 @@
     <string>Kacyr</string>
     <string>zero.slash</string>
     <string>one.ss01</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>four.ss01</string>
     <string>six.ss01</string>
     <string>nine.ss01</string>
@@ -1035,7 +1035,7 @@
     <string>nine.tf</string>
     <string>zero.tf.slash</string>
     <string>one.tf.ss01</string>
-    <string>three.1.tf</string>
+    <string>three.tf.ss01</string>
     <string>four.tf.ss01</string>
     <string>six.tf.ss01</string>
     <string>nine.tf.ss01</string>
@@ -1244,7 +1244,7 @@
     <string>eight</string>
     <string>nine</string>
     <string>one.ss01</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>four.ss01</string>
     <string>six.ss01</string>
     <string>nine.ss01</string>
@@ -1258,7 +1258,7 @@
     <string>eight.tf</string>
     <string>nine.tf</string>
     <string>one.tf.ss01</string>
-    <string>three.1.tf</string>
+    <string>three.tf.ss01</string>
     <string>four.tf.ss01</string>
     <string>six.tf.ss01</string>
     <string>nine.tf.ss01</string>
@@ -1384,7 +1384,7 @@
     <string>nine</string>
     <string>zero.slash</string>
     <string>one.ss01</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>four.ss01</string>
     <string>six.ss01</string>
     <string>nine.ss01</string>
@@ -1400,7 +1400,7 @@
     <string>nine.tf</string>
     <string>zero.tf.slash</string>
     <string>one.tf.ss01</string>
-    <string>three.1.tf</string>
+    <string>three.tf.ss01</string>
     <string>four.tf.ss01</string>
     <string>six.tf.ss01</string>
     <string>nine.tf.ss01</string>
@@ -3040,7 +3040,7 @@
     <string>Kacyr</string>
     <string>zero.slash</string>
     <string>one.ss01</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>four.ss01</string>
     <string>six.ss01</string>
     <string>nine.ss01</string>
@@ -3056,7 +3056,7 @@
     <string>nine.tf</string>
     <string>zero.tf.slash</string>
     <string>one.tf.ss01</string>
-    <string>three.1.tf</string>
+    <string>three.tf.ss01</string>
     <string>four.tf.ss01</string>
     <string>six.tf.ss01</string>
     <string>nine.tf.ss01</string>
@@ -3169,7 +3169,7 @@
     <string>nine.squared</string>
     <string>zero.slash.squared</string>
     <string>one.ss01.squared</string>
-    <string>three.1.squared</string>
+    <string>three.ss01.squared</string>
     <string>four.ss01.squared</string>
     <string>six.ss01.squared</string>
     <string>nine.ss01.squared</string>
@@ -3720,7 +3720,7 @@
     <string>uni2466</string>
     <string>uni2467</string>
     <string>one.ss01.circled</string>
-    <string>three.1.circled</string>
+    <string>three.ss01.circled</string>
     <string>four.ss01.circled</string>
     <string>six.ss01.circled</string>
     <string>nine.ss01.circled</string>
@@ -4057,7 +4057,7 @@
     <string>nine</string>
     <string>zero.slash</string>
     <string>one.ss01</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>four.ss01</string>
     <string>six.ss01</string>
     <string>nine.ss01</string>
@@ -4073,7 +4073,7 @@
     <string>nine.tf</string>
     <string>zero.tf.slash</string>
     <string>one.tf.ss01</string>
-    <string>three.1.tf</string>
+    <string>three.tf.ss01</string>
     <string>four.tf.ss01</string>
     <string>six.tf.ss01</string>
     <string>nine.tf.ss01</string>
@@ -6448,7 +6448,7 @@
     <string>Kacyr</string>
     <string>zero.slash</string>
     <string>one.ss01</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>four.ss01</string>
     <string>six.ss01</string>
     <string>nine.ss01</string>
@@ -6464,7 +6464,7 @@
     <string>nine.tf</string>
     <string>zero.tf.slash</string>
     <string>one.tf.ss01</string>
-    <string>three.1.tf</string>
+    <string>three.tf.ss01</string>
     <string>four.tf.ss01</string>
     <string>six.tf.ss01</string>
     <string>nine.tf.ss01</string>
@@ -6601,7 +6601,7 @@
     <string>nine.squared</string>
     <string>zero.slash.squared</string>
     <string>one.ss01.squared</string>
-    <string>three.1.squared</string>
+    <string>three.ss01.squared</string>
     <string>four.ss01.squared</string>
     <string>six.ss01.squared</string>
     <string>nine.ss01.squared</string>
@@ -7169,7 +7169,7 @@
     <string>uni2466</string>
     <string>uni2467</string>
     <string>one.ss01.circled</string>
-    <string>three.1.circled</string>
+    <string>three.ss01.circled</string>
     <string>four.ss01.circled</string>
     <string>six.ss01.circled</string>
     <string>nine.ss01.circled</string>
@@ -8900,7 +8900,7 @@
     <string>Kacyr</string>
     <string>zero.slash</string>
     <string>one.ss01</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>four.ss01</string>
     <string>six.ss01</string>
     <string>nine.ss01</string>
@@ -8916,7 +8916,7 @@
     <string>nine.tf</string>
     <string>zero.tf.slash</string>
     <string>one.tf.ss01</string>
-    <string>three.1.tf</string>
+    <string>three.tf.ss01</string>
     <string>four.tf.ss01</string>
     <string>six.tf.ss01</string>
     <string>nine.tf.ss01</string>
@@ -10815,26 +10815,26 @@
     <string>seven.tf</string>
     <string>eight.tf</string>
     <string>nine.tf</string>
-    <string>three.1.tf</string>
+    <string>zero.tf.slash</string>
+    <string>parenleft.tf</string>
+    <string>parenright.tf</string>
+    <string>bracketleft.tf</string>
+    <string>bracketright.tf</string>
+    <string>braceleft.tf</string>
+    <string>braceright.tf</string>
+    <string>parenleft.case.tf</string>
+    <string>parenright.case.tf</string>
+    <string>bracketleft.case.tf</string>
+    <string>bracketright.case.tf</string>
+    <string>braceleft.case.tf</string>
+    <string>braceright.case.tf</string>
+    <string>hyphen.tf</string>
+    <string>hyphen.case.tf</string>
     <string>comma.tf</string>
     <string>period.tf</string>
     <string>colon.tf</string>
     <string>colon.case.tf</string>
     <string>semicolon.tf</string>
-    <string>parenleft.tf</string>
-    <string>parenright.tf</string>
-    <string>braceleft.tf</string>
-    <string>braceright.tf</string>
-    <string>bracketleft.tf</string>
-    <string>bracketright.tf</string>
-    <string>parenleft.case.tf</string>
-    <string>parenright.case.tf</string>
-    <string>braceleft.case.tf</string>
-    <string>braceright.case.tf</string>
-    <string>bracketleft.case.tf</string>
-    <string>bracketright.case.tf</string>
-    <string>hyphen.tf</string>
-    <string>hyphen.case.tf</string>
     <string>less.tf</string>
     <string>greater.tf</string>
     <string>lessequal.tf</string>
@@ -10848,7 +10848,6 @@
     <string>plusminus.tf</string>
     <string>approxequal.tf</string>
     <string>asciitilde.tf</string>
-    <string>asterisk.tf</string>
     <string>less.case.tf</string>
     <string>greater.case.tf</string>
     <string>lessequal.case.tf</string>
@@ -10862,6 +10861,7 @@
     <string>plusminus.case.tf</string>
     <string>approxequal.case.tf</string>
     <string>asciitilde.case.tf</string>
+    <string>asterisk.tf</string>
     <string>asterisk.case.tf</string>
     <string>space.tf</string>
     <string>uni00A0.tf</string>
@@ -10879,26 +10879,26 @@
     <string>seven</string>
     <string>eight</string>
     <string>nine</string>
-    <string>three.1</string>
+    <string>zero.slash</string>
+    <string>parenleft</string>
+    <string>parenright</string>
+    <string>bracketleft</string>
+    <string>bracketright</string>
+    <string>braceleft</string>
+    <string>braceright</string>
+    <string>parenleft.case</string>
+    <string>parenright.case</string>
+    <string>bracketleft.case</string>
+    <string>bracketright.case</string>
+    <string>braceleft.case</string>
+    <string>braceright.case</string>
+    <string>hyphen</string>
+    <string>hyphen.case</string>
     <string>comma</string>
     <string>period</string>
     <string>colon</string>
     <string>colon.case</string>
     <string>semicolon</string>
-    <string>parenleft</string>
-    <string>parenright</string>
-    <string>braceleft</string>
-    <string>braceright</string>
-    <string>bracketleft</string>
-    <string>bracketright</string>
-    <string>parenleft.case</string>
-    <string>parenright.case</string>
-    <string>braceleft.case</string>
-    <string>braceright.case</string>
-    <string>bracketleft.case</string>
-    <string>bracketright.case</string>
-    <string>hyphen</string>
-    <string>hyphen.case</string>
     <string>less</string>
     <string>greater</string>
     <string>lessequal</string>
@@ -10912,7 +10912,6 @@
     <string>plusminus</string>
     <string>approxequal</string>
     <string>asciitilde</string>
-    <string>asterisk</string>
     <string>less.case</string>
     <string>greater.case</string>
     <string>lessequal.case</string>
@@ -10926,10 +10925,27 @@
     <string>plusminus.case</string>
     <string>approxequal.case</string>
     <string>asciitilde.case</string>
+    <string>asterisk</string>
     <string>asterisk.case</string>
     <string>space</string>
     <string>uni00A0</string>
     <string>uni2008</string>
+  </array>
+  <key>pnumss01</key>
+  <array>
+    <string>one.tf.ss01</string>
+    <string>three.tf.ss01</string>
+    <string>four.tf.ss01</string>
+    <string>six.tf.ss01</string>
+    <string>nine.tf.ss01</string>
+  </array>
+  <key>pnumss012</key>
+  <array>
+    <string>one.ss01</string>
+    <string>three.ss01</string>
+    <string>four.ss01</string>
+    <string>six.ss01</string>
+    <string>nine.ss01</string>
   </array>
   <key>public.kern1.A</key>
   <array>
@@ -11940,7 +11956,6 @@
   <array>
     <string>f</string>
     <string>f.1</string>
-    <string>f.i</string>
     <string>uni01B4</string>
     <string>uni0479</string>
     <string>uni1E1F</string>
@@ -12254,7 +12269,7 @@
   <array>
     <string>eight</string>
     <string>three</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>uni0498</string>
     <string>uni04E0</string>
   </array>
@@ -12681,7 +12696,6 @@
     <string>bar</string>
     <string>exclamdown.case</string>
     <string>f.1</string>
-    <string>f.i.1</string>
     <string>feng.1</string>
     <string>filledbox</string>
     <string>germandbls</string>
@@ -13585,7 +13599,6 @@
   <key>public.kern2.f2</key>
   <array>
     <string>f</string>
-    <string>f.i</string>
     <string>feng</string>
     <string>uni1E1F</string>
   </array>
@@ -13969,7 +13982,7 @@
   <key>public.kern2.three2</key>
   <array>
     <string>three</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
   </array>
   <key>public.kern2.u2</key>
   <array>
@@ -14449,22 +14462,22 @@
     <string>uni1EEF.1</string>
     <string>uni1EF1.1</string>
     <string>one.ss01</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>four.ss01</string>
     <string>six.ss01</string>
     <string>nine.ss01</string>
     <string>one.tf.ss01</string>
-    <string>three.1.tf</string>
+    <string>three.tf.ss01</string>
     <string>four.tf.ss01</string>
     <string>six.tf.ss01</string>
     <string>nine.tf.ss01</string>
     <string>one.ss01.circled</string>
-    <string>three.1.circled</string>
+    <string>three.ss01.circled</string>
     <string>four.ss01.circled</string>
     <string>six.ss01.circled</string>
     <string>nine.ss01.circled</string>
     <string>one.ss01.squared</string>
-    <string>three.1.squared</string>
+    <string>three.ss01.squared</string>
     <string>four.ss01.squared</string>
     <string>six.ss01.squared</string>
     <string>nine.ss01.squared</string>
@@ -14596,19 +14609,19 @@
   </array>
   <key>ss012</key>
   <array>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>four.ss01</string>
     <string>six.ss01</string>
     <string>nine.ss01</string>
-    <string>three.1.tf</string>
+    <string>three.tf.ss01</string>
     <string>four.tf.ss01</string>
     <string>six.tf.ss01</string>
     <string>nine.tf.ss01</string>
-    <string>three.1.circled</string>
+    <string>three.ss01.circled</string>
     <string>four.ss01.circled</string>
     <string>six.ss01.circled</string>
     <string>nine.ss01.circled</string>
-    <string>three.1.squared</string>
+    <string>three.ss01.squared</string>
     <string>four.ss01.squared</string>
     <string>six.ss01.squared</string>
     <string>nine.ss01.squared</string>
@@ -14992,7 +15005,7 @@
     <string>nine</string>
     <string>zero.slash</string>
     <string>one.ss01</string>
-    <string>three.1</string>
+    <string>three.ss01</string>
     <string>four.ss01</string>
     <string>six.ss01</string>
     <string>nine.ss01</string>
@@ -15008,7 +15021,7 @@
     <string>nine.tf</string>
     <string>zero.tf.slash</string>
     <string>one.tf.ss01</string>
-    <string>three.1.tf</string>
+    <string>three.tf.ss01</string>
     <string>four.tf.ss01</string>
     <string>six.tf.ss01</string>
     <string>nine.tf.ss01</string>
@@ -15119,8 +15132,7 @@
     <string>seven</string>
     <string>eight</string>
     <string>nine</string>
-    <string>one.tf</string>
-    <string>three.1</string>
+    <string>zero.slash</string>
     <string>parenleft</string>
     <string>parenright</string>
     <string>bracketleft</string>
@@ -15184,8 +15196,7 @@
     <string>seven.tf</string>
     <string>eight.tf</string>
     <string>nine.tf</string>
-    <string>one.tf.ss01</string>
-    <string>three.1.tf</string>
+    <string>zero.tf.slash</string>
     <string>parenleft.tf</string>
     <string>parenright.tf</string>
     <string>bracketleft.tf</string>
@@ -15236,6 +15247,22 @@
     <string>space.tf</string>
     <string>uni00A0.tf</string>
     <string>uni2008.tf</string>
+  </array>
+  <key>tnumss01</key>
+  <array>
+    <string>one.ss01</string>
+    <string>three.ss01</string>
+    <string>four.ss01</string>
+    <string>six.ss01</string>
+    <string>nine.ss01</string>
+  </array>
+  <key>tnumss012</key>
+  <array>
+    <string>one.tf.ss01</string>
+    <string>three.tf.ss01</string>
+    <string>four.tf.ss01</string>
+    <string>six.tf.ss01</string>
+    <string>nine.tf.ss01</string>
   </array>
 </dict>
 </plist>

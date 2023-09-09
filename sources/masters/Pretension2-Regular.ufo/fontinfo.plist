@@ -70,6 +70,213 @@
   <string>Pretension 2</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
+  <key>openTypeNameRecords</key>
+  <array>
+  <dict>
+    <key>nameID</key>
+    <integer>256</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Open digits</string>
+  </dict>
+  <dict>
+    <key>nameID</key>
+    <integer>257</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Disambiguation</string>
+  </dict>
+  <dict>
+    <key>nameID</key>
+    <integer>258</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Round quotes &amp; commas</string>
+  </dict>
+  <dict>
+    <key>nameID</key>
+    <integer>259</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Disambiguation (no slashed zero)</string>
+  </dict>
+  <dict>
+    <key>nameID</key>
+    <integer>260</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Alternate one</string>
+  </dict>
+  <dict>
+    <key>nameID</key>
+    <integer>261</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Open four</string>
+  </dict>
+  <dict>
+    <key>nameID</key>
+    <integer>262</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Open six</string>
+  </dict>
+  <dict>
+    <key>nameID</key>
+    <integer>263</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Open nine</string>
+  </dict>
+  <dict>
+    <key>nameID</key>
+    <integer>264</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Lower-case L with tail</string>
+  </dict>
+  <dict>
+    <key>nameID</key>
+    <integer>265</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Simplified u</string>
+  </dict>
+  <dict>
+    <key>nameID</key>
+    <integer>266</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Alternate German double s</string>
+  </dict>
+  <dict>
+    <key>nameID</key>
+    <integer>267</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Upper-case i with serif</string>
+  </dict>
+  <dict>
+    <key>nameID</key>
+    <integer>268</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Flat-top three</string>
+  </dict>
+  <dict>
+    <key>nameID</key>
+    <integer>269</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Capital G with spur</string>
+  </dict>
+  <dict>
+    <key>nameID</key>
+    <integer>270</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Single-story a</string>
+  </dict>
+  <dict>
+    <key>nameID</key>
+    <integer>271</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Compact f</string>
+  </dict>
+  <dict>
+    <key>nameID</key>
+    <integer>272</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Compact t</string>
+  </dict>
+  </array>
   <key>openTypeNameVersion</key>
   <string>Version 3.044</string>
   <key>openTypeOS2CodePageRanges</key>
