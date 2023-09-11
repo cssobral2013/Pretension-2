@@ -3,7 +3,7 @@
   <advance width="442"/>
   <unicode hex="0456"/>
   <anchor x="374" y="0" name="m.uni0326"/>
-  <anchor x="369" y="1586" name="m.uni030F_1"/>
+  <anchor x="329" y="1550" name="m.uni030F_1"/>
   <anchor x="568" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="dotlessi"/>

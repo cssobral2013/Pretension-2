@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04F6" format="2">
-  <advance width="1563"/>
+  <advance width="1185"/>
   <unicode hex="04F6"/>
   <anchor x="844" y="1490" name="m.uni030F_1"/>
   <outline>
     <component base="Gamma"/>
-    <component base="_part.cyrtic" xOffset="1185"/>
+    <component base="_part.cyrtic" xOffset="255"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>Gamma</string>
+  </dict>
+  </lib>
 </glyph>
