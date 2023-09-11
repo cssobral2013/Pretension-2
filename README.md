@@ -6,5 +6,4 @@ Main changes include:
 - Flattened open-contour digits (3, 4, 6, and 9);
 - Reversed r to the one found prior to v3.0;
 - Changed 1 to the form used in Inter Display;
-- Applied horizontal terminals to a/e/g/s-related glyphs,
-  as well as tilde, in Regular and Thin masters (and their Italics).
+- Changed 5 to the form used in Pretendard.
