@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Epsilongrave" format="2">
-  <advance width="1404"/>
-  <unicode hex="1FC8"/>
-  <outline>
-    <component base="E" xOffset="180"/>
-    <component base="grave-gr" xOffset="-210"/>
-  </outline>
-</glyph>

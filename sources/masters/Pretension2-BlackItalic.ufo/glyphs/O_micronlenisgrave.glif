@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Omicronlenisgrave" format="2">
-  <advance width="2028"/>
-  <unicode hex="1F4A"/>
-  <outline>
-    <component base="O" xOffset="482"/>
-    <component base="lenisgrave" xOffset="-179" yOffset="-6"/>
-  </outline>
-</glyph>

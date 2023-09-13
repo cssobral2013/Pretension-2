@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Reverseddottedsigmalunatesymbol" format="2">
-  <advance width="1490"/>
-  <unicode hex="03FF"/>
-  <outline>
-    <component base="Oopen"/>
-    <component base="period" xOffset="421" yOffset="626"/>
-  </outline>
-</glyph>

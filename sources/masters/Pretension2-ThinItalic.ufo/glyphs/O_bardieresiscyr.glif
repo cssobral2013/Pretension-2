@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Obardieresiscyr" format="2">
-  <advance width="1530"/>
-  <unicode hex="04EA"/>
-  <outline>
-    <component base="Thetasymbol"/>
-    <component base="dieresiscomb" xOffset="245" yOffset="372"/>
-  </outline>
-</glyph>

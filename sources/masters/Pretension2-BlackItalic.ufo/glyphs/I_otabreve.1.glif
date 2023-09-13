@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Iotabreve.1" format="2">
-  <advance width="1032"/>
-  <unicode hex="E026"/>
-  <outline>
-    <component base="I.1"/>
-    <component base="brevecomb" xOffset="101" yOffset="372"/>
-  </outline>
-</glyph>

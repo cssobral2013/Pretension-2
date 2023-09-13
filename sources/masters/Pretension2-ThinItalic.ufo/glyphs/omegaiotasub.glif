@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="omegaiotasub" format="2">
-  <advance width="1580"/>
-  <unicode hex="1FF3"/>
-  <outline>
-    <component base="omega" xOffset="1"/>
-    <component base="iotaadscript" xOffset="581"/>
-  </outline>
-</glyph>

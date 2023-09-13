@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tdotbelow.1" format="2">
-  <advance width="501"/>
-  <outline>
-    <component base="t.1" xOffset="-8"/>
-    <component base="dotaccentcomb" xOffset="-138" yOffset="-1686"/>
-  </outline>
-</glyph>

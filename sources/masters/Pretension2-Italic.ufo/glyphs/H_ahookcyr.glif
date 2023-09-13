@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Hahookcyr" format="2">
-  <advance width="1426"/>
-  <unicode hex="04FC"/>
-  <outline>
-    <component base="X"/>
-    <component base="_part.cyrtic_hook" xOffset="954"/>
-  </outline>
-</glyph>

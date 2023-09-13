@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Omicronaspergrave" format="2">
-  <advance width="1626"/>
-  <unicode hex="1F4B"/>
-  <outline>
-    <component base="O" xOffset="-1"/>
-    <component base="aspergrave" xOffset="-533"/>
-  </outline>
-</glyph>

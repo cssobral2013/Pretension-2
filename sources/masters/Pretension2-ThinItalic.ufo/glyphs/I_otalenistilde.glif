@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Iotalenistilde" format="2">
-  <advance width="976"/>
-  <unicode hex="1F3E"/>
-  <outline>
-    <component base="I" xOffset="488"/>
-    <component base="lenistilde" xOffset="92" yOffset="40"/>
-  </outline>
-</glyph>

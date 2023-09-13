@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Upsilongrave" format="2">
-  <advance width="1736"/>
-  <unicode hex="1FEA"/>
-  <outline>
-    <component base="Y" xOffset="370"/>
-    <component base="grave-gr" xOffset="-52"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="squaresmallblack.case" format="2">
-  <advance width="816"/>
-  <unicode hex="E1C3"/>
-  <outline>
-    <component base="squaresmallblack" yOffset="152"/>
-  </outline>
-</glyph>

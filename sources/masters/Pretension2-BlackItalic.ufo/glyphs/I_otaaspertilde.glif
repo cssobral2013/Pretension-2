@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Iotaaspertilde" format="2">
-  <advance width="1140"/>
-  <unicode hex="1F3F"/>
-  <outline>
-    <component base="I" xOffset="552"/>
-    <component base="aspertilde" xOffset="4" yOffset="38"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Gcircle" format="2">
-  <advance width="2846"/>
-  <unicode hex="24BC"/>
-  <outline>
-    <component base="largecircle"/>
-    <component base="G" xOffset="667"/>
-  </outline>
-</glyph>

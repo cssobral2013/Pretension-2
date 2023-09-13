@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="aringbelow" format="2">
-  <advance width="1195"/>
-  <unicode hex="1E01"/>
-  <outline>
-    <component base="a" xOffset="2"/>
-    <component base="ringlowmod" xOffset="363"/>
-  </outline>
-</glyph>

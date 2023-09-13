@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bstroke" format="2">
-  <advance width="1247"/>
-  <unicode hex="0180"/>
-  <outline>
-    <component base="b"/>
-    <component base="crossbar" xOffset="-40" yOffset="559"/>
-  </outline>
-</glyph>

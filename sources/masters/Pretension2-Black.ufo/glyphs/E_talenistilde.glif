@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Etalenistilde" format="2">
-  <advance width="1536"/>
-  <unicode hex="1F2E"/>
-  <outline>
-    <component base="H"/>
-    <component base="lenistilde" xOffset="-544" yOffset="36"/>
-  </outline>
-</glyph>

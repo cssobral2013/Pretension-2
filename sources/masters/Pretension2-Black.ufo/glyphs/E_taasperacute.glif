@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Etaasperacute" format="2">
-  <advance width="1536"/>
-  <unicode hex="1F2D"/>
-  <outline>
-    <component base="H"/>
-    <component base="asperacute" xOffset="-814"/>
-  </outline>
-</glyph>

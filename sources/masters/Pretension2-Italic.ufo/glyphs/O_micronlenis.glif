@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Omicronlenis" format="2">
-  <advance width="1694"/>
-  <unicode hex="1F48"/>
-  <outline>
-    <component base="O" xOffset="134"/>
-    <component base="koronis" xOffset="-130" yOffset="-6"/>
-  </outline>
-</glyph>

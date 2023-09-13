@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="epsilonlenisgrave" format="2">
-  <advance width="1172"/>
-  <unicode hex="1F12"/>
-  <outline>
-    <component base="epsilon" xOffset="-2"/>
-    <component base="lenisgrave" xOffset="65"/>
-  </outline>
-</glyph>

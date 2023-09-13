@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="omegaasper" format="2">
-  <advance width="1578"/>
-  <unicode hex="1F61"/>
-  <outline>
-    <component base="omega"/>
-    <component base="asper" xOffset="579"/>
-  </outline>
-</glyph>

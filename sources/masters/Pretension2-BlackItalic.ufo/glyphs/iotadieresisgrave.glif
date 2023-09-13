@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="iotadieresisgrave" format="2">
-  <advance width="688"/>
-  <unicode hex="1FD2"/>
-  <outline>
-    <component base="iota" xOffset="-2"/>
-    <component base="dieresisgrave" xOffset="-309"/>
-  </outline>
-</glyph>

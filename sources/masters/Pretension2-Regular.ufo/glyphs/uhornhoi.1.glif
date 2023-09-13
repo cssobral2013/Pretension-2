@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uhornhoi.1" format="2">
-  <advance width="1278"/>
-  <outline>
-    <component base="uhorn.1"/>
-    <component base="hookabovecomb" xOffset="335"/>
-  </outline>
-</glyph>

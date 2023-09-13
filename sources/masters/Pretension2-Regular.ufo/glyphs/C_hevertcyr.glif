@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Chevertcyr" format="2">
-  <advance width="1426"/>
-  <unicode hex="04B8"/>
-  <outline>
-    <component base="Checyr"/>
-    <component base="_part.crossbar_vert" xOffset="494" yOffset="-109"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="fitacyr" format="2">
-  <advance width="1222"/>
-  <unicode hex="0473"/>
-  <outline>
-    <component base="o"/>
-    <component base="_part.fitacy_bar" xOffset="-1"/>
-  </outline>
-</glyph>

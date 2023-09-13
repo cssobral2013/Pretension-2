@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="alphalenis" format="2">
-  <advance width="1265"/>
-  <unicode hex="1F00"/>
-  <outline>
-    <component base="alpha"/>
-    <component base="koronis" xOffset="320"/>
-  </outline>
-</glyph>

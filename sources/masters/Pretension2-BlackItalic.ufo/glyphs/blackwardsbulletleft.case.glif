@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="blackwardsbulletleft.case" format="2">
-  <advance width="1279"/>
-  <unicode hex="E090"/>
-  <outline>
-    <component base="blackwardsbulletleft" xOffset="26" yOffset="152"/>
-  </outline>
-</glyph>

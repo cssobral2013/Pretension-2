@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Etalenis" format="2">
-  <advance width="1808"/>
-  <unicode hex="1F28"/>
-  <outline>
-    <component base="H" xOffset="302"/>
-    <component base="koronis" xOffset="-14" yOffset="-6"/>
-  </outline>
-</glyph>

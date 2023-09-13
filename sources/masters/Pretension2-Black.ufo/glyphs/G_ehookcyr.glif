@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Gehookcyr" format="2">
-  <advance width="1382"/>
-  <unicode hex="0494"/>
-  <outline>
-    <component base="Gecyr"/>
-    <component base="largerighthook" xOffset="232"/>
-  </outline>
-</glyph>

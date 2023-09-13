@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ainferior" format="2">
-  <advance width="810"/>
-  <unicode hex="2090"/>
-  <outline>
-    <component base="amod" xOffset="-167" yOffset="-1000"/>
-  </outline>
-</glyph>

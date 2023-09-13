@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="degreefahrenheit" format="2">
-  <advance width="2132"/>
-  <unicode hex="2109"/>
-  <outline>
-    <component base="degree"/>
-    <component base="F" xOffset="930"/>
-  </outline>
-</glyph>

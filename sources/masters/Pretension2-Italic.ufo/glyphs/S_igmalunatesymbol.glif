@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Sigmalunatesymbol" format="2">
-  <advance width="1490"/>
-  <unicode hex="03F9"/>
-  <outline>
-    <component base="C"/>
-  </outline>
-</glyph>

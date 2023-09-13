@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Omicronlenisacute" format="2">
-  <advance width="1560"/>
-  <unicode hex="1F4C"/>
-  <outline>
-    <component base="O"/>
-    <component base="lenisacute" xOffset="-594"/>
-  </outline>
-</glyph>

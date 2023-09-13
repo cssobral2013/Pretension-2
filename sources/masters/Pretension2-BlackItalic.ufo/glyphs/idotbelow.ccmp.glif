@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="idotbelow.ccmp" format="2">
-  <advance width="601"/>
-  <unicode hex="E04D"/>
-  <outline>
-    <component base="dotlessi" xOffset="-3"/>
-    <component base="dotaccentcomb" xOffset="-314" yOffset="-1714"/>
-  </outline>
-</glyph>

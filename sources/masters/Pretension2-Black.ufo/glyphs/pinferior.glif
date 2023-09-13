@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="pinferior" format="2">
-  <advance width="886"/>
-  <unicode hex="209A"/>
-  <outline>
-    <component base="pmod" yOffset="-1000"/>
-  </outline>
-</glyph>

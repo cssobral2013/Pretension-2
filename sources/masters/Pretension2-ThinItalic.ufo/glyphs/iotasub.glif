@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="iotasub" format="2">
-  <advance width="498"/>
-  <unicode hex="037A"/>
-  <outline>
-    <component base="iotaadscript" xOffset="6"/>
-  </outline>
-</glyph>

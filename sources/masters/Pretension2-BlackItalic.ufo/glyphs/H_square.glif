@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Hsquare" format="2">
-  <advance width="2828"/>
-  <unicode hex="1F137"/>
-  <outline>
-    <component base="whiteLargeSquare"/>
-    <component base="H" xOffset="647"/>
-  </outline>
-</glyph>

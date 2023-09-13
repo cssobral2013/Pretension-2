@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="alphaasper" format="2">
-  <advance width="1287"/>
-  <unicode hex="1F01"/>
-  <outline>
-    <component base="alpha"/>
-    <component base="asper" xOffset="336"/>
-  </outline>
-</glyph>

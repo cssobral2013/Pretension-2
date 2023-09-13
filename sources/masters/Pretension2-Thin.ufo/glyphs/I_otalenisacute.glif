@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Iotalenisacute" format="2">
-  <advance width="510"/>
-  <unicode hex="1F3C"/>
-  <outline>
-    <component base="I"/>
-    <component base="lenisacute" xOffset="-518"/>
-  </outline>
-</glyph>

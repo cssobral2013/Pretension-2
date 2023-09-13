@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="iotabreve" format="2">
-  <advance width="482"/>
-  <unicode hex="1FD0"/>
-  <outline>
-    <component base="iota" xOffset="5"/>
-    <component base="brevecomb" xOffset="-125"/>
-  </outline>
-</glyph>

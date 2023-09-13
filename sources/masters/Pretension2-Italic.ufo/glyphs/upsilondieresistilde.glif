@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="upsilondieresistilde" format="2">
-  <advance width="1201"/>
-  <unicode hex="1FE7"/>
-  <outline>
-    <component base="u.1"/>
-    <component base="dieresistilde" xOffset="153"/>
-  </outline>
-</glyph>

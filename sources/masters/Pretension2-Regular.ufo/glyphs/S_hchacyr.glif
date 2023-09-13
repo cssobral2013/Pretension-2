@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Shchacyr" format="2">
-  <advance width="1978"/>
-  <unicode hex="0429"/>
-  <outline>
-    <component base="Shacyr"/>
-    <component base="_part.cyrtic" xOffset="1620"/>
-  </outline>
-</glyph>

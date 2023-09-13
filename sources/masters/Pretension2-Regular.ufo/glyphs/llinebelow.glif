@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="llinebelow" format="2">
-  <advance width="486"/>
-  <outline>
-    <component base="l"/>
-    <component base="macroncomb" xOffset="-246" yOffset="-1722"/>
-  </outline>
-</glyph>

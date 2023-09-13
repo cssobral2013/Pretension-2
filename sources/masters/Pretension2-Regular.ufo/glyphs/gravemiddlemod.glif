@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gravemiddlemod" format="2">
-  <advance width="734"/>
-  <unicode hex="02F4"/>
-  <outline>
-    <component base="gravecomb" xOffset="96" yOffset="-1018"/>
-  </outline>
-</glyph>

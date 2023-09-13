@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Omegaaspertilde" format="2">
-  <advance width="1560"/>
-  <unicode hex="1F6F"/>
-  <outline>
-    <component base="Omega"/>
-    <component base="aspertilde" xOffset="-410" yOffset="36"/>
-  </outline>
-</glyph>

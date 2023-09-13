@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Etaaspertilde" format="2">
-  <advance width="1514"/>
-  <unicode hex="1F2F"/>
-  <outline>
-    <component base="H"/>
-    <component base="aspertilde" xOffset="-468" yOffset="36"/>
-  </outline>
-</glyph>

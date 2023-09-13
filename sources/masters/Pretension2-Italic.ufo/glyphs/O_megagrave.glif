@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Omegagrave" format="2">
-  <advance width="1734"/>
-  <unicode hex="1FFA"/>
-  <outline>
-    <component base="Omega" xOffset="174"/>
-    <component base="grave-gr" xOffset="-146"/>
-  </outline>
-</glyph>

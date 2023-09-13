@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="itildebelow.ccmp" format="2">
-  <advance width="487"/>
-  <unicode hex="E04B"/>
-  <outline>
-    <component base="dotlessi"/>
-    <component base="tildecomb" xOffset="-553" yOffset="-1722"/>
-  </outline>
-</glyph>

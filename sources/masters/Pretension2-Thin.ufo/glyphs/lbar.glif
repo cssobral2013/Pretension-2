@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lbar" format="2">
-  <advance width="442"/>
-  <outline>
-    <component base="l"/>
-    <component base="crossbar" xOffset="-202" yOffset="23"/>
-  </outline>
-</glyph>

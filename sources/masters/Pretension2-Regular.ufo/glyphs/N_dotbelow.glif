@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ndotbelow" format="2">
-  <advance width="1534"/>
-  <unicode hex="1E46"/>
-  <outline>
-    <component base="N"/>
-    <component base="dotaccentcomb" xOffset="523" yOffset="-1722"/>
-  </outline>
-</glyph>

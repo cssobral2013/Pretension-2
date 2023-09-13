@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hyphenationpoint" format="2">
-  <advance width="754"/>
-  <unicode hex="2027"/>
-  <outline>
-    <component base="period" xOffset="82" yOffset="526"/>
-  </outline>
-</glyph>
