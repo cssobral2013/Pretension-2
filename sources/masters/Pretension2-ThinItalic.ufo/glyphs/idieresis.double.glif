@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis.double" format="2">
+  <advance width="886"/>
+  <anchor x="900" y="1586" name="m.uni030F_1"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="dotlessi" xOffset="443"/>
+    <component base="dieresis.three" xOffset="12"/>
+  </outline>
+</glyph>

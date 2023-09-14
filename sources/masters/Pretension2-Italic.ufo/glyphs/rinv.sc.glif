@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rinv.sc" format="2">
+  <advance width="1124"/>
+  <outline>
+    <contour>
+      <point x="52" y="0" type="line"/>
+      <point x="237" y="1118" type="line"/>
+      <point x="416" y="1118" type="line"/>
+      <point x="257" y="157" type="line"/>
+      <point x="509" y="157" type="line" smooth="yes"/>
+      <point x="654" y="157"/>
+      <point x="797" y="262"/>
+      <point x="812" y="357" type="qcurve" smooth="yes"/>
+      <point x="827" y="452"/>
+      <point x="711" y="548"/>
+      <point x="575" y="548" type="qcurve" smooth="yes"/>
+      <point x="245" y="548" type="line"/>
+      <point x="270" y="699" type="line"/>
+      <point x="613" y="699" type="line" smooth="yes"/>
+      <point x="834" y="699"/>
+      <point x="1017" y="510"/>
+      <point x="992" y="356" type="qcurve" smooth="yes"/>
+      <point x="976" y="254"/>
+      <point x="856" y="93"/>
+      <point x="648" y="0"/>
+      <point x="497" y="0" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="569" y="612" type="line"/>
+      <point x="960" y="1118" type="line"/>
+      <point x="1167" y="1118" type="line"/>
+      <point x="771" y="612" type="line"/>
+    </contour>
+  </outline>
+</glyph>

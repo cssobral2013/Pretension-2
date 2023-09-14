@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.ss01.squared" format="2">
+  <advance width="2828"/>
+  <unicode hex="E144"/>
+  <unicode hex="E14C"/>
+  <outline>
+    <component base="uni2B1C"/>
+    <component base="six.ss01" xOffset="727"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2105" format="2">
+  <advance width="1815"/>
+  <unicode hex="2105"/>
+  <outline>
+    <component base="c.sups"/>
+    <component base="fraction" xOffset="789"/>
+    <component base="o.sups" xOffset="992" yOffset="-744"/>
+  </outline>
+</glyph>

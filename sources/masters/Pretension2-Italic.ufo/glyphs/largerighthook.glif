@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="largerighthook" format="2">
+  <advance width="1083"/>
+  <unicode hex="E10F"/>
+  <outline>
+    <contour>
+      <point x="278" y="-89" type="line"/>
+      <point x="306" y="87" type="line"/>
+      <point x="413" y="87" type="line" smooth="yes"/>
+      <point x="566" y="87"/>
+      <point x="779" y="259"/>
+      <point x="804" y="409" type="qcurve" smooth="yes"/>
+      <point x="830" y="564"/>
+      <point x="674" y="743"/>
+      <point x="522" y="743" type="qcurve" smooth="yes"/>
+      <point x="365" y="743"/>
+      <point x="152" y="553"/>
+      <point x="125" y="389" type="qcurve"/>
+      <point x="36" y="389" type="line"/>
+      <point x="65" y="565"/>
+      <point x="201" y="801"/>
+      <point x="413" y="920"/>
+      <point x="554" y="920" type="qcurve" smooth="yes"/>
+      <point x="709" y="920"/>
+      <point x="924" y="790"/>
+      <point x="1020" y="560"/>
+      <point x="995" y="411" type="qcurve" smooth="yes"/>
+      <point x="970" y="262"/>
+      <point x="798" y="37"/>
+      <point x="540" y="-89"/>
+      <point x="385" y="-89" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

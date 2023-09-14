@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="diamondwhite_x" format="2">
+  <advance width="2152"/>
+  <unicode hex="E000"/>
+  <outline>
+    <contour>
+      <point x="530" y="314" type="line"/>
+      <point x="98" y="744" type="line"/>
+      <point x="530" y="1170" type="line"/>
+      <point x="960" y="744" type="line"/>
+    </contour>
+    <contour>
+      <point x="530" y="493" type="line"/>
+      <point x="781" y="744" type="line"/>
+      <point x="530" y="995" type="line"/>
+      <point x="279" y="744" type="line"/>
+    </contour>
+    <contour>
+      <point x="1082" y="-232" type="line"/>
+      <point x="652" y="192" type="line"/>
+      <point x="1082" y="622" type="line"/>
+      <point x="1506" y="192" type="line"/>
+    </contour>
+    <contour>
+      <point x="1082" y="-53" type="line"/>
+      <point x="1327" y="192" type="line"/>
+      <point x="1082" y="443" type="line"/>
+      <point x="831" y="192" type="line"/>
+    </contour>
+    <contour>
+      <point x="1630" y="314" type="line"/>
+      <point x="1204" y="744" type="line"/>
+      <point x="1630" y="1170" type="line"/>
+      <point x="2054" y="744" type="line"/>
+    </contour>
+    <contour>
+      <point x="1630" y="493" type="line"/>
+      <point x="1881" y="744" type="line"/>
+      <point x="1630" y="995" type="line"/>
+      <point x="1379" y="744" type="line"/>
+    </contour>
+    <contour>
+      <point x="1082" y="866" type="line"/>
+      <point x="652" y="1292" type="line"/>
+      <point x="1082" y="1722" type="line"/>
+      <point x="1506" y="1292" type="line"/>
+    </contour>
+    <contour>
+      <point x="1082" y="1047" type="line"/>
+      <point x="1327" y="1292" type="line"/>
+      <point x="1082" y="1543" type="line"/>
+      <point x="831" y="1292" type="line"/>
+    </contour>
+  </outline>
+</glyph>

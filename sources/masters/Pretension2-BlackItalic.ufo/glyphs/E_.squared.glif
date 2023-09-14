@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E.squared" format="2">
+  <advance width="2828"/>
+  <unicode hex="1F134"/>
+  <anchor x="1291" y="0" name="m.uni0326"/>
+  <anchor x="1538" y="1490" name="m.uni030F_1"/>
+  <anchor x="1280" y="0" name="m.uni0327_3"/>
+  <anchor x="1916" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="uni2B1C"/>
+    <component base="E" xOffset="776"/>
+  </outline>
+</glyph>

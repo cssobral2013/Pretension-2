@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F77" format="2">
+  <advance width="564"/>
+  <unicode hex="1F77"/>
+  <anchor x="417" y="1180" name="m.uni030F_1"/>
+  <outline>
+    <component base="iota"/>
+    <component base="tonos.top" xOffset="24"/>
+  </outline>
+</glyph>

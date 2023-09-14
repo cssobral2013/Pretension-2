@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pecyrillicturn" format="2">
+  <advance width="1177"/>
+  <outline>
+    <contour>
+      <point x="106" y="0" type="line"/>
+      <point x="291" y="1118" type="line"/>
+      <point x="337" y="1118" type="line"/>
+      <point x="160" y="46" type="line"/>
+      <point x="848" y="46" type="line"/>
+      <point x="1025" y="1118" type="line"/>
+      <point x="1071" y="1118" type="line"/>
+      <point x="886" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildeacutecomb.uc" format="2">
+  <advance width="1025"/>
+  <unicode hex="E12A"/>
+  <outline>
+    <component base="tildeacute.lc"/>
+  </outline>
+</glyph>

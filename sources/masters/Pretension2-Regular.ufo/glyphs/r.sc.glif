@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r.sc" format="2">
+  <advance width="1135"/>
+  <outline>
+    <contour>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="1118" type="line"/>
+      <point x="603" y="1118" type="line" smooth="yes"/>
+      <point x="824" y="1118"/>
+      <point x="1039" y="920"/>
+      <point x="1039" y="764" type="qcurve" smooth="yes"/>
+      <point x="1039" y="609"/>
+      <point x="824" y="419"/>
+      <point x="603" y="419" type="qcurve" smooth="yes"/>
+      <point x="260" y="419" type="line"/>
+      <point x="260" y="570" type="line"/>
+      <point x="591" y="570" type="line" smooth="yes"/>
+      <point x="734" y="570"/>
+      <point x="859" y="672"/>
+      <point x="859" y="764" type="qcurve" smooth="yes"/>
+      <point x="859" y="857"/>
+      <point x="733" y="961"/>
+      <point x="589" y="961" type="qcurve" smooth="yes"/>
+      <point x="337" y="961" type="line"/>
+      <point x="337" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="881" y="0" type="line"/>
+      <point x="575" y="506" type="line"/>
+      <point x="776" y="506" type="line"/>
+      <point x="1088" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscorecomb" format="2">
+  <advance width="18"/>
+  <outline>
+    <component base="underscore" xOffset="-1182" yOffset="-154"/>
+  </outline>
+</glyph>

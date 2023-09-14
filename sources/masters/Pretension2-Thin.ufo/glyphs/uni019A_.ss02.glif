@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni019A.ss02" format="2">
+  <advance width="574"/>
+  <unicode hex="019A"/>
+  <unicode hex="E052"/>
+  <anchor x="499" y="0" name="m.uni0326"/>
+  <anchor x="439" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <component base="l.ss02" xOffset="64"/>
+    <component base="crossbar" xOffset="-138" yOffset="23"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slongstroke" format="2">
+  <advance width="840"/>
+  <anchor x="467" y="0" name="m.uni0326"/>
+  <anchor x="501" y="1552" name="m.uni030F_1"/>
+  <outline>
+    <component base="_part.f_base"/>
+    <component base="uni0337.lc" xOffset="58"/>
+  </outline>
+</glyph>

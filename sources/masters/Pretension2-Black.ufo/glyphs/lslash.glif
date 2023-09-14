@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash" format="2">
+  <advance width="606"/>
+  <anchor x="377" y="0" name="m.uni0326"/>
+  <anchor x="378" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <component base="l"/>
+    <component base="uni0337.lc" xOffset="-24"/>
+  </outline>
+</glyph>

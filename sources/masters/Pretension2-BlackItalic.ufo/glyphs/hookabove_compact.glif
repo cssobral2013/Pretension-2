@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookabove_compact" format="2">
+  <advance width="621"/>
+  <outline>
+    <contour>
+      <point x="528" y="1256" type="line"/>
+      <point x="314" y="1256" type="line"/>
+      <point x="418" y="1392" type="line" smooth="yes"/>
+      <point x="420" y="1395"/>
+      <point x="420" y="1399"/>
+      <point x="416" y="1399" type="qcurve" smooth="yes"/>
+      <point x="239" y="1399" type="line"/>
+      <point x="269" y="1582" type="line"/>
+      <point x="446" y="1582" type="line" smooth="yes"/>
+      <point x="549" y="1582"/>
+      <point x="652" y="1529"/>
+      <point x="675" y="1447"/>
+      <point x="636" y="1357"/>
+      <point x="597" y="1320" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

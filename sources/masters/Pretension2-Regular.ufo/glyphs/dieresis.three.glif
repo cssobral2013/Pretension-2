@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis.three" format="2">
+  <advance width="1157"/>
+  <anchor x="820" y="1682" name="m.uni030F_1"/>
+  <outline>
+    <contour>
+      <point x="999" y="1301" type="qcurve" smooth="yes"/>
+      <point x="950" y="1301"/>
+      <point x="880" y="1371"/>
+      <point x="880" y="1420" type="qcurve" smooth="yes"/>
+      <point x="880" y="1469"/>
+      <point x="950" y="1538"/>
+      <point x="999" y="1538" type="qcurve" smooth="yes"/>
+      <point x="1048" y="1538"/>
+      <point x="1117" y="1469"/>
+      <point x="1117" y="1420" type="qcurve" smooth="yes"/>
+      <point x="1117" y="1371"/>
+      <point x="1048" y="1301"/>
+    </contour>
+    <contour>
+      <point x="159" y="1301" type="qcurve" smooth="yes"/>
+      <point x="110" y="1301"/>
+      <point x="40" y="1371"/>
+      <point x="40" y="1420" type="qcurve" smooth="yes"/>
+      <point x="40" y="1469"/>
+      <point x="110" y="1538"/>
+      <point x="159" y="1538" type="qcurve" smooth="yes"/>
+      <point x="208" y="1538"/>
+      <point x="277" y="1469"/>
+      <point x="277" y="1420" type="qcurve" smooth="yes"/>
+      <point x="277" y="1371"/>
+      <point x="208" y="1301"/>
+    </contour>
+    <contour>
+      <point x="579" y="1301" type="qcurve" smooth="yes"/>
+      <point x="530" y="1301"/>
+      <point x="460" y="1371"/>
+      <point x="460" y="1420" type="qcurve" smooth="yes"/>
+      <point x="460" y="1469"/>
+      <point x="530" y="1538"/>
+      <point x="579" y="1538" type="qcurve" smooth="yes"/>
+      <point x="628" y="1538"/>
+      <point x="697" y="1469"/>
+      <point x="697" y="1420" type="qcurve" smooth="yes"/>
+      <point x="697" y="1371"/>
+      <point x="628" y="1301"/>
+    </contour>
+  </outline>
+</glyph>
