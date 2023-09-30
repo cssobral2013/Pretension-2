@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aringogonek" format="2">
-  <advance width="1257"/>
+  <advance width="1142"/>
   <unicode hex="EE04"/>
   <anchor x="722" y="0" name="m.uni0326"/>
   <anchor x="915" y="1180" name="m.uni030F_1"/>
@@ -8,6 +8,14 @@
   <outline>
     <component base="a"/>
     <component base="ringcomb" xOffset="322"/>
-    <component base="ogonekcomb" xOffset="657"/>
+    <component base="ogonekcomb" xOffset="539"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>a</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>a</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acircumflexdotbelow" format="2">
-  <advance width="1322"/>
+  <advance width="1222"/>
   <unicode hex="1EAD"/>
   <anchor x="666" y="0" name="m.uni0326"/>
   <anchor x="927" y="1599" name="m.uni030F_1"/>
   <anchor x="1282" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="a"/>
-    <component base="circumflexcomb" xOffset="155"/>
-    <component base="dotaccentcomb" xOffset="38" yOffset="-1714"/>
+    <component base="circumflexcomb" xOffset="65"/>
+    <component base="dotaccentcomb" xOffset="-52" yOffset="-1714"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>a</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>a</string>
+  </dict>
+  </lib>
 </glyph>

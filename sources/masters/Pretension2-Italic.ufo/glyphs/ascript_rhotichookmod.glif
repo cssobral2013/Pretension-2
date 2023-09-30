@@ -3,7 +3,7 @@
   <advance width="1557"/>
   <unicode hex="E10A"/>
   <outline>
-    <component base="a"/>
-    <component base="rhotichookmod" xOffset="1043" yOffset="-83"/>
+    <component base="rhotichookmod" xOffset="933" yOffset="-83"/>
+    <component base="ascript"/>
   </outline>
 </glyph>

@@ -2654,6 +2654,7 @@
     <string>ishortcyr.loclBGR</string>
     <string>tsecyr.loclBGR</string>
     <string>becyr.loclSRB</string>
+    <string>questiondown.case</string>
   </array>
 </dict>
 </plist>

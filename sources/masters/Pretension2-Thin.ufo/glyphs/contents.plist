@@ -4178,6 +4178,8 @@
   <string>questiondbl.glif</string>
   <key>questiondown</key>
   <string>questiondown.glif</string>
+  <key>questiondown.case</key>
+  <string>questiondown.case.glif</string>
   <key>questionexclamationmark</key>
   <string>questionexclamationmark.glif</string>
   <key>questiongreek</key>
