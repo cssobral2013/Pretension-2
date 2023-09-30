@@ -4,6 +4,15 @@
   <unicode hex="0442"/>
   <anchor x="760" y="1180" name="m.uni030F_1"/>
   <outline>
-    <component base="t.sc"/>
+    <contour>
+      <point x="296" y="0" type="line"/>
+      <point x="454" y="952" type="line"/>
+      <point x="86" y="952" type="line"/>
+      <point x="113" y="1118" type="line"/>
+      <point x="1027" y="1118" type="line"/>
+      <point x="1000" y="952" type="line"/>
+      <point x="634" y="952" type="line"/>
+      <point x="476" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>

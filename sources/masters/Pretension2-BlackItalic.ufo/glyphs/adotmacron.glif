@@ -7,7 +7,7 @@
   <anchor x="1282" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="a"/>
-    <component base="dotmacron.lc" xOffset="296"/>
+    <component base="dotmacron.lc" xOffset="196"/>
   </outline>
   <lib>
   <dict>

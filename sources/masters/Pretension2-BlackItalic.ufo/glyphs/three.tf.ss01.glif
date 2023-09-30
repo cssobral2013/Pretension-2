@@ -3,8 +3,8 @@
   <advance width="1328"/>
   <unicode hex="E074"/>
   <unicode hex="E07D"/>
-  <anchor x="843" y="1490" name="m.uni030F_1"/>
+  <anchor x="839" y="1490" name="m.uni030F_1"/>
   <outline>
-    <component base="three.ss01" xOffset="-28"/>
+    <component base="three.ss01" xOffset="-32"/>
   </outline>
 </glyph>

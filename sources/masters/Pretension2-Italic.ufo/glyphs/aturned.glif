@@ -2,7 +2,7 @@
 <glyph name="aturned" format="2">
   <advance width="1142"/>
   <unicode hex="0250"/>
-  <anchor x="463" y="0" name="m.uni0326"/>
+  <anchor x="463" y="-0" name="m.uni0326"/>
   <anchor x="668" y="1180" name="m.uni030F_1"/>
   <anchor x="10" y="1180" name="m.uni0328_4"/>
   <outline>
