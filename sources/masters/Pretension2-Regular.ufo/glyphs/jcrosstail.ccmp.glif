@@ -2,9 +2,9 @@
 <glyph name="jcrosstail.ccmp" format="2">
   <advance width="710"/>
   <unicode hex="E04F"/>
-  <anchor x="1236" y="-460" name="m.uni0326"/>
-  <anchor x="1091" y="1180" name="m.uni030F_1"/>
-  <anchor x="1412" y="0" name="m.uni0328_4"/>
+  <anchor x="372" y="-460" name="m.uni0326"/>
+  <anchor x="473" y="1118" name="t.uni030F_1"/>
+  <anchor x="562" y="0" name="m.uni0328_3"/>
   <outline>
     <contour>
       <point x="264" y="-418" type="qcurve" smooth="yes"/>

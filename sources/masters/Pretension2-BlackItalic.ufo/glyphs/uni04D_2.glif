@@ -2,11 +2,10 @@
 <glyph name="uni04D2" format="2">
   <advance width="1628"/>
   <unicode hex="04D2"/>
-  <anchor x="828" y="0" name="m.uni0326"/>
-  <anchor x="1159" y="2001" name="m.uni030F_1"/>
-  <anchor x="1736" y="0" name="m.uni0328_4"/>
+  <anchor x="717" y="0" name="m.uni0326"/>
+  <anchor x="1041" y="1957" name="t.uni030F_1"/>
+  <anchor x="1489" y="0" name="m.uni0328_3"/>
   <outline>
-    <component base="A"/>
-    <component base="uni0308" xOffset="206" yOffset="372"/>
+    <component base="Adieresis"/>
   </outline>
 </glyph>

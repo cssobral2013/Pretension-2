@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis.ss07" format="2">
+  <advance width="1210"/>
+  <unicode hex="00A8"/>
+  <unicode hex="E2C5"/>
+  <outline>
+    <component base="uni0308.ss07"/>
+  </outline>
+</glyph>

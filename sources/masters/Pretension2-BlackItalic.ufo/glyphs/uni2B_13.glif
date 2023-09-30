@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2B13" format="2">
-  <advance width="1874"/>
+  <advance width="1872"/>
   <unicode hex="2B13"/>
   <outline>
     <contour>
@@ -13,7 +13,7 @@
       <point x="332" y="0" type="line" smooth="yes"/>
       <point x="100" y="0"/>
       <point x="138" y="232" type="qcurve" smooth="yes"/>
-      <point x="306" y="1256" type="line"/>
+      <point x="306" y="1256" type="line" smooth="yes"/>
       <point x="326" y="1370"/>
       <point x="466" y="1489"/>
       <point x="578" y="1490" type="qcurve"/>
@@ -32,14 +32,14 @@
       <point x="1342" y="291"/>
       <point x="1347" y="296"/>
       <point x="1348" y="306" type="qcurve"/>
-      <point x="1494" y="1184" type="line" smooth="yes"/>
+      <point x="1494" y="1184" type="line"/>
       <point x="1496" y="1194"/>
       <point x="1492" y="1199"/>
       <point x="1482" y="1198" type="qcurve"/>
       <point x="604" y="1198" type="line"/>
       <point x="594" y="1199"/>
       <point x="588" y="1194"/>
-      <point x="586" y="1184" type="qcurve" smooth="yes"/>
+      <point x="586" y="1184" type="qcurve"/>
       <point x="440" y="306" type="line"/>
       <point x="439" y="296"/>
       <point x="444" y="291"/>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longsdot" format="2">
+  <advance width="641"/>
+  <unicode hex="1E9B"/>
+  <anchor x="837" y="2099" name="m.uni030F_1"/>
+  <outline>
+    <component base="_part.f_base" xOffset="-74"/>
+    <component base="dotaccentcomb" xOffset="207" yOffset="431"/>
+  </outline>
+</glyph>

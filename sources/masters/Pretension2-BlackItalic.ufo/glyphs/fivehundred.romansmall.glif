@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fivehundred.romansmall" format="2">
+  <advance width="1150"/>
+  <unicode hex="217E"/>
+  <anchor x="745" y="0" name="m.uni0326"/>
+  <anchor x="587" y="1346" name="m.uni030F_1"/>
+  <outline>
+    <component base="d" xOffset="8"/>
+  </outline>
+</glyph>

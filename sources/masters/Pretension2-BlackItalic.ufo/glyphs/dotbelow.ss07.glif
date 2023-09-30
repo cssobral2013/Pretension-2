@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelow.ss07" format="2">
+  <advance width="670"/>
+  <unicode hex="0323"/>
+  <unicode hex="E2DB"/>
+  <outline>
+    <component base="uni0307.ss07" xOffset="-284" yOffset="-1714"/>
+  </outline>
+</glyph>

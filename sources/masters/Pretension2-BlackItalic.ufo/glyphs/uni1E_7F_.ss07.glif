@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E7F.ss07" format="2">
+  <advance width="1294"/>
+  <unicode hex="1E7F"/>
+  <unicode hex="E26A"/>
+  <anchor x="555" y="0" name="m.uni0326"/>
+  <anchor x="740" y="1118" name="t.uni030F_1"/>
+  <outline>
+    <component base="v"/>
+    <component base="dotbelow.ss07" xOffset="312"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegaasperiotasub" format="2">
+  <advance width="1864"/>
+  <unicode hex="1FA9"/>
+  <anchor x="1236" y="0" name="m.uni0326"/>
+  <anchor x="1485" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <component base="Omega" xOffset="288"/>
+    <component base="iotaadscript" xOffset="844"/>
+    <component base="asper" xOffset="8" yOffset="-68"/>
+  </outline>
+</glyph>

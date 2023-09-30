@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FED.ss07" format="2">
+  <advance width="1196"/>
+  <unicode hex="1FED"/>
+  <unicode hex="E2BC"/>
+  <anchor x="945" y="1434" name="t.uni030F_1"/>
+  <outline>
+    <contour>
+      <point x="759" y="1420" type="line"/>
+      <point x="723" y="1420" type="line"/>
+      <point x="717" y="1694" type="line"/>
+      <point x="766" y="1694" type="line"/>
+    </contour>
+    <contour>
+      <point x="958" y="1319" type="line"/>
+      <point x="894" y="1319" type="line"/>
+      <point x="913" y="1434" type="line"/>
+      <point x="977" y="1434" type="line"/>
+    </contour>
+    <contour>
+      <point x="554" y="1319" type="line"/>
+      <point x="490" y="1319" type="line"/>
+      <point x="509" y="1434" type="line"/>
+      <point x="573" y="1434" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rhookturned" format="2">
+  <advance width="763"/>
+  <unicode hex="027B"/>
+  <outline>
+    <contour>
+      <point x="555" y="-426" type="qcurve" smooth="yes"/>
+      <point x="416" y="-426"/>
+      <point x="299" y="-297"/>
+      <point x="319" y="-176" type="qcurve" smooth="yes"/>
+      <point x="348" y="0" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="483" y="-176" type="line" smooth="yes"/>
+      <point x="474" y="-228"/>
+      <point x="539" y="-278"/>
+      <point x="624" y="-278" type="qcurve" smooth="yes"/>
+      <point x="636" y="-278"/>
+      <point x="666" y="-276"/>
+      <point x="681" y="-274" type="qcurve"/>
+      <point x="657" y="-418" type="line"/>
+      <point x="648" y="-420"/>
+      <point x="617" y="-424"/>
+      <point x="578" y="-426"/>
+    </contour>
+    <contour>
+      <point x="702" y="1118" type="line"/>
+      <point x="516" y="1" type="line"/>
+      <point x="350" y="1" type="line"/>
+      <point x="379" y="170" type="line"/>
+      <point x="367" y="170" type="line"/>
+      <point x="324" y="87"/>
+      <point x="147" y="-17"/>
+      <point x="45" y="-17" type="qcurve" smooth="yes"/>
+      <point x="-1" y="-17"/>
+      <point x="-67" y="5"/>
+      <point x="-89" y="24" type="qcurve"/>
+      <point x="-8" y="167" type="line"/>
+      <point x="7" y="158"/>
+      <point x="55" y="149"/>
+      <point x="88" y="149" type="qcurve" smooth="yes"/>
+      <point x="170" y="149"/>
+      <point x="309" y="218"/>
+      <point x="402" y="335"/>
+      <point x="414" y="411" type="qcurve" smooth="yes"/>
+      <point x="530" y="1118" type="line"/>
+    </contour>
+  </outline>
+</glyph>

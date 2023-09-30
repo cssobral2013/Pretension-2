@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="h.subs" format="2">
-  <advance width="878"/>
+  <advance width="992"/>
   <unicode hex="2095"/>
+  <anchor x="348" y="-314" name="m.uni0326"/>
+  <anchor x="234" y="528" name="t.uni030F_1"/>
+  <anchor x="110" y="-314" name="m.uni0327_2"/>
   <outline>
-    <component base="h.sups" xOffset="-166" yOffset="-1000"/>
+    <component base="h.sups" xOffset="-199" yOffset="-1200"/>
   </outline>
 </glyph>

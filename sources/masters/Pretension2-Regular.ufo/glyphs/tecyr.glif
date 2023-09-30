@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tecyr" format="2">
+  <advance width="954"/>
+  <unicode hex="0442"/>
+  <anchor x="663" y="1180" name="m.uni030F_1"/>
+  <outline>
+    <component base="t.sc"/>
+  </outline>
+</glyph>

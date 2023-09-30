@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commasuprevcomb" format="2">
   <outline>
-    <component base="uni02BD" xOffset="-728"/>
+    <component base="commareversedmod" xOffset="-728"/>
   </outline>
 </glyph>

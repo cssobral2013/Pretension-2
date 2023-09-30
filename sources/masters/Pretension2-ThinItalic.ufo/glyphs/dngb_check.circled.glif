@@ -4,6 +4,6 @@
   <unicode hex="E13C"/>
   <outline>
     <component base="uni25EF"/>
-    <component base="dngb_check" xOffset="527" yOffset="35"/>
+    <component base="dngb_check" xOffset="528" yOffset="37"/>
   </outline>
 </glyph>

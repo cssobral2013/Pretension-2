@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0459" format="2">
-  <advance width="1845"/>
+  <advance width="1893"/>
   <unicode hex="0459"/>
-  <anchor x="636" y="0" name="m.uni0326"/>
-  <anchor x="775" y="1180" name="m.uni030F_1"/>
+  <anchor x="600" y="0" name="m.uni0326"/>
+  <anchor x="643" y="1118" name="t.uni030F_1"/>
   <outline>
-    <component base="uni043B" xOffset="23"/>
-    <component base="uni044C" xOffset="701"/>
+    <component base="uni043B" xOffset="21"/>
+    <component base="uni044C" xOffset="749"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsRight</key>
-  <string>=104</string>
-  </dict>
-  </lib>
 </glyph>

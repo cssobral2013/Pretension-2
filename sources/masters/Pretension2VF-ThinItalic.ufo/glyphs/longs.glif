@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="longs" format="2">
-  <advance width="543"/>
-  <unicode hex="017F"/>
-  <anchor x="752" y="1655" name="m.uni030F_1"/>
-  <outline>
-    <component base="_part.f_base" xOffset="-97"/>
-  </outline>
-</glyph>

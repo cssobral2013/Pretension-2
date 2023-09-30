@@ -3,7 +3,7 @@
   <advance width="2846"/>
   <unicode hex="E137"/>
   <outline>
-    <component base="uni25EF"/>
+    <component base="largecircle"/>
     <component base="equal" xOffset="711" yOffset="140"/>
   </outline>
 </glyph>

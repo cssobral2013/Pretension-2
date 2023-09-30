@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2106" format="2">
-  <advance width="1843"/>
+  <advance width="1869"/>
   <unicode hex="2106"/>
+  <anchor x="472" y="916" name="m.uni0327_2"/>
+  <anchor x="1631" y="0" name="m.uni0328_3"/>
   <outline>
     <component base="c.sups"/>
-    <component base="fraction" xOffset="755"/>
-    <component base="u.sups" xOffset="940" yOffset="-744"/>
+    <component base="fraction" xOffset="764"/>
+    <component base="u.subs" xOffset="1087" yOffset="284"/>
   </outline>
 </glyph>

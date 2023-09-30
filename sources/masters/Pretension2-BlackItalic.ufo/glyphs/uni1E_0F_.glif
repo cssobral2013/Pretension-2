@@ -2,10 +2,10 @@
 <glyph name="uni1E0F" format="2">
   <advance width="1322"/>
   <unicode hex="1E0F"/>
-  <anchor x="717" y="0" name="m.uni0326"/>
-  <anchor x="559" y="1346" name="m.uni030F_1"/>
+  <anchor x="591" y="0" name="m.uni0326"/>
+  <anchor x="607" y="1304" name="t.uni030F_1"/>
   <outline>
     <component base="d"/>
-    <component base="uni0304" xOffset="-17" yOffset="-1714"/>
+    <component base="macronsub" xOffset="267"/>
   </outline>
 </glyph>

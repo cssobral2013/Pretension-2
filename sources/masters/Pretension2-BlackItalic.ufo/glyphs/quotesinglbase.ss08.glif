@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesinglbase.ss08" format="2">
+  <advance width="685"/>
+  <outline>
+    <component base="quoteright.ss08" xOffset="-183" yOffset="-1106"/>
+  </outline>
+</glyph>

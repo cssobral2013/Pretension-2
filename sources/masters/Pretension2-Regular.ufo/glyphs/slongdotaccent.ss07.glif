@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slongdotaccent.ss07" format="2">
+  <advance width="644"/>
+  <unicode hex="1E9B"/>
+  <unicode hex="E2DA"/>
+  <anchor x="248" y="0" name="m.uni0326"/>
+  <anchor x="326" y="1924" name="t.uni030F_1"/>
+  <outline>
+    <component base="longs"/>
+    <component base="uni0307.ss07" xOffset="78" yOffset="434"/>
+  </outline>
+</glyph>

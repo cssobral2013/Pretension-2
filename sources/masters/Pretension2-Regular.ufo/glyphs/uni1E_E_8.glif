@@ -2,9 +2,9 @@
 <glyph name="uni1EE8" format="2">
   <advance width="1518"/>
   <unicode hex="1EE8"/>
-  <anchor x="783" y="0" name="m.uni0326"/>
-  <anchor x="783" y="1977" name="m.uni030F_1"/>
-  <anchor x="1490" y="561" name="m.uni0328_4"/>
+  <anchor x="763" y="0" name="m.uni0326"/>
+  <anchor x="763" y="1930" name="t.uni030F_1"/>
+  <anchor x="1344" y="507" name="m.uni0328_3"/>
   <outline>
     <component base="Uhorn"/>
     <component base="acutecomb" xOffset="516" yOffset="372"/>

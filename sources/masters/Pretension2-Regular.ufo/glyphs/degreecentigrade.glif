@@ -2,8 +2,8 @@
 <glyph name="degreecentigrade" format="2">
   <advance width="2406"/>
   <unicode hex="2103"/>
-  <anchor x="1809" y="1490" name="m.uni030F_1"/>
-  <anchor x="1792" y="1" name="m.uni0327_3"/>
+  <anchor x="1693" y="1490" name="t.uni030F_1"/>
+  <anchor x="1692" y="-11" name="m.uni0327_2"/>
   <outline>
     <component base="degree"/>
     <component base="C" xOffset="910"/>

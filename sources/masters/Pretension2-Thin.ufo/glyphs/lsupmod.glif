@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lsupmod" format="2">
+  <advance width="300"/>
+  <unicode hex="02E1"/>
+  <outline>
+    <contour>
+      <point x="172" y="1736" type="line"/>
+      <point x="172" y="744" type="line"/>
+      <point x="128" y="744" type="line"/>
+      <point x="128" y="1736" type="line"/>
+    </contour>
+  </outline>
+</glyph>

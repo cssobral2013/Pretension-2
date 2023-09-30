@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni20DB" format="2">
-  <unicode hex="20DB"/>
   <outline>
-    <component base="period" xOffset="-964" yOffset="1300"/>
-    <component base="period" xOffset="-582" yOffset="1300"/>
-    <component base="period" xOffset="-200" yOffset="1300"/>
+    <component base="period" xOffset="216" yOffset="1298"/>
+    <component base="period" xOffset="806" yOffset="1298"/>
+    <component base="period" xOffset="1396" yOffset="1298"/>
   </outline>
 </glyph>

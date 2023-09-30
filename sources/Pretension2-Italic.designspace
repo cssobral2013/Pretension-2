@@ -9,12 +9,12 @@
   </axis>
  </axes>
  <sources>
-    <source name="ThinItalic" familyname="Pretension 2 VF" stylename="Thin Italic" filename="masters/Pretension2VF-ThinItalic.ufo">
+    <source name="ThinItalic" familyname="Pretension 2 VF" stylename="Thin Italic" filename="masters/Pretension2-ThinItalic.ufo">
    <location>
     <dimension name="weight" xvalue="100"/>
    </location>
   </source>
-  <source name="Italic" familyname="Pretension 2 VF" stylename="Italic" filename="masters/Pretension2VF-Italic.ufo">
+  <source name="Italic" familyname="Pretension 2 VF" stylename="Italic" filename="masters/Pretension2-Italic.ufo">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
@@ -23,54 +23,54 @@
     <dimension name="weight" xvalue="400"/>
    </location>
   </source>
-  <source name="BlackItalic" familyname="Pretension 2 VF" stylename="Black Italic" filename="masters/Pretension2VF-BlackItalic.ufo">
+  <source name="BlackItalic" familyname="Pretension 2 VF" stylename="Black Italic" filename="masters/Pretension2-BlackItalic.ufo">
    <location>
     <dimension name="weight" xvalue="900"/>
    </location>
   </source>
  </sources>
  <instances>
-  <instance name="ThinItalic" familyname="Pretension 2" stylename="Thin Italic" filename="instances/Pretension2VF-ThinItalic.ufo">
+  <instance name="ThinItalic" familyname="Pretension 2" stylename="Thin Italic" filename="instances/Pretension2-ThinItalic.ufo">
    <location>
     <dimension name="weight" xvalue="100"/>
    </location>
   </instance>
-  <instance name="ExtraLightItalic" familyname="Pretension 2" stylename="ExtraLight Italic" filename="instances/Pretension2VF-ExtraLightItalic.ufo">
+  <instance name="ExtraLightItalic" familyname="Pretension 2" stylename="ExtraLight Italic" filename="instances/Pretension2-ExtraLightItalic.ufo">
    <location>
     <dimension name="weight" xvalue="200"/>
    </location>
   </instance>
-  <instance name="LightItalic" familyname="Pretension 2" stylename="Light Italic" filename="instances/Pretension2VF-LightItalic.ufo">
+  <instance name="LightItalic" familyname="Pretension 2" stylename="Light Italic" filename="instances/Pretension2-LightItalic.ufo">
    <location>
     <dimension name="weight" xvalue="300"/>
    </location>
   </instance>
-  <instance name="Italic" familyname="Pretension 2" stylename="Italic" filename="instances/Pretension2VF-Italic.ufo">
+  <instance name="Italic" familyname="Pretension 2" stylename="Italic" filename="instances/Pretension2-Italic.ufo">
    <location>
     <dimension name="weight" xvalue="400"/>
    </location>
   </instance>
-  <instance name="MediumItalic" familyname="Pretension 2" stylename="Medium Italic" filename="instances/Pretension2VF-MediumItalic.ufo">
+  <instance name="MediumItalic" familyname="Pretension 2" stylename="Medium Italic" filename="instances/Pretension2-MediumItalic.ufo">
    <location>
     <dimension name="weight" xvalue="500"/>
    </location>
   </instance>
-  <instance name="SemiBoldItalic" familyname="Pretension 2" stylename="SemiBold Italic" filename="instances/Pretension2VF-SemiBoldItalic.ufo">
+  <instance name="SemiBoldItalic" familyname="Pretension 2" stylename="SemiBold Italic" filename="instances/Pretension2-SemiBoldItalic.ufo">
    <location>
     <dimension name="weight" xvalue="580"/>
    </location>
   </instance>
-  <instance name="BoldItalic" familyname="Pretension 2" stylename="Bold Italic" filename="instances/Pretension2VF-BoldItalic.ufo">
+  <instance name="BoldItalic" familyname="Pretension 2" stylename="Bold Italic" filename="instances/Pretension2-BoldItalic.ufo">
    <location>
     <dimension name="weight" xvalue="660"/>
    </location>
   </instance>
-  <instance name="ExtraBoldItalic" familyname="Pretension 2" stylename="ExtraBold Italic" filename="instances/Pretension2VF-ExtraBoldItalic.ufo">
+  <instance name="ExtraBoldItalic" familyname="Pretension 2" stylename="ExtraBold Italic" filename="instances/Pretension2-ExtraBoldItalic.ufo">
    <location>
     <dimension name="weight" xvalue="780"/>
    </location>
   </instance>
-  <instance name="BlackItalic" familyname="Pretension 2" stylename="Black Italic" filename="instances/Pretension2VF-BlackItalic.ufo">
+  <instance name="BlackItalic" familyname="Pretension 2" stylename="Black Italic" filename="instances/Pretension2-BlackItalic.ufo">
    <location>
     <dimension name="weight" xvalue="900"/>
    </location>

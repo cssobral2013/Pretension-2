@@ -2,10 +2,10 @@
 <glyph name="uni0474" format="2">
   <advance width="1646"/>
   <unicode hex="0474"/>
-  <anchor x="918" y="1490" name="m.uni030F_1"/>
+  <anchor x="824" y="1490" name="t.uni030F_1"/>
   <outline>
     <contour>
-      <point x="1016" y="1108" type="line"/>
+      <point x="1016" y="1108" type="line" smooth="yes"/>
       <point x="1078" y="1324"/>
       <point x="1312" y="1510"/>
       <point x="1502" y="1510" type="qcurve" smooth="yes"/>

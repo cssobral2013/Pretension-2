@@ -3,10 +3,10 @@
   <advance width="471"/>
   <unicode hex="1E3B"/>
   <unicode hex="E05B"/>
-  <anchor x="327" y="0" name="m.uni0326"/>
-  <anchor x="515" y="1490" name="m.uni030F_1"/>
+  <anchor x="201" y="0" name="m.uni0326"/>
+  <anchor x="375" y="1490" name="t.uni030F_1"/>
   <outline>
     <component base="l.ss02"/>
-    <component base="uni0304" xOffset="-386" yOffset="-1686"/>
+    <component base="macronsub" xOffset="-107"/>
   </outline>
 </glyph>

@@ -4,9 +4,7 @@
   <unicode hex="2176"/>
   <outline>
     <component base="v"/>
-    <component base="dotlessi" xOffset="1294"/>
-    <component base="uni0307" xOffset="1262"/>
-    <component base="dotlessi" xOffset="1900"/>
-    <component base="uni0307" xOffset="1868"/>
+    <component base="i" xOffset="1294"/>
+    <component base="i" xOffset="1900"/>
   </outline>
 </glyph>

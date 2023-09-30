@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edieresis.ss07" format="2">
+  <advance width="1179"/>
+  <unicode hex="00EB"/>
+  <unicode hex="E237"/>
+  <anchor x="521" y="0" name="m.uni0326"/>
+  <anchor x="767" y="1490" name="t.uni030F_1"/>
+  <anchor x="516" y="0" name="m.uni0327_2"/>
+  <anchor x="1030" y="261" name="m.uni0328_3"/>
+  <outline>
+    <component base="e"/>
+    <component base="uni0308.ss07" xOffset="8"/>
+  </outline>
+</glyph>

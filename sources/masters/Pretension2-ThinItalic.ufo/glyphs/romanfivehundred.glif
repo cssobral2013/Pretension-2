@@ -2,8 +2,8 @@
 <glyph name="romanfivehundred" format="2">
   <advance width="1460"/>
   <unicode hex="216E"/>
-  <anchor x="619" y="0" name="m.uni0326"/>
-  <anchor x="805" y="1490" name="m.uni030F_1"/>
+  <anchor x="497" y="0" name="m.uni0326"/>
+  <anchor x="786" y="1490" name="t.uni030F_1"/>
   <outline>
     <component base="D"/>
   </outline>

@@ -2,10 +2,10 @@
 <glyph name="uni1F68" format="2">
   <advance width="1958"/>
   <unicode hex="1F68"/>
-  <anchor x="1136" y="0" name="m.uni0326"/>
-  <anchor x="1385" y="1490" name="m.uni030F_1"/>
+  <anchor x="1014" y="0" name="m.uni0326"/>
+  <anchor x="1262" y="1490" name="t.uni030F_1"/>
   <outline>
     <component base="uni03A9" xOffset="296"/>
-    <component base="uni1FBD" xOffset="-39" yOffset="-89"/>
+    <component base="koronisaccentleft.cn" xOffset="-39" yOffset="-89"/>
   </outline>
 </glyph>

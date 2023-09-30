@@ -2,8 +2,8 @@
 <glyph name="romanfive" format="2">
   <advance width="1628"/>
   <unicode hex="2164"/>
-  <anchor x="820" y="0" name="m.uni0326"/>
-  <anchor x="1067" y="1490" name="m.uni030F_1"/>
+  <anchor x="721" y="0" name="m.uni0326"/>
+  <anchor x="968" y="1490" name="t.uni030F_1"/>
   <outline>
     <component base="V"/>
   </outline>

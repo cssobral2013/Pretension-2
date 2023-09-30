@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotalenistilde" format="2">
+  <advance width="965"/>
+  <unicode hex="1F3E"/>
+  <anchor x="1229" y="0" name="m.uni0326"/>
+  <anchor x="1233" y="1490" name="m.uni030F_1"/>
+  <anchor x="1422" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="I" xOffset="455"/>
+    <component base="lenistilde" xOffset="128" yOffset="-75"/>
+  </outline>
+</glyph>

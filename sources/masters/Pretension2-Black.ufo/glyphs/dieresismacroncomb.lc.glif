@@ -2,40 +2,25 @@
 <glyph name="dieresismacroncomb.lc" format="2">
   <advance width="1330"/>
   <unicode hex="E10D"/>
+  <unicode hex="E2D3"/>
   <outline>
-    <contour>
-      <point x="896" y="1223" type="qcurve" smooth="yes"/>
-      <point x="823" y="1223"/>
-      <point x="720" y="1322"/>
-      <point x="720" y="1392" type="qcurve" smooth="yes"/>
-      <point x="720" y="1462"/>
-      <point x="823" y="1561"/>
-      <point x="896" y="1561" type="qcurve" smooth="yes"/>
-      <point x="969" y="1561"/>
-      <point x="1072" y="1462"/>
-      <point x="1072" y="1392" type="qcurve" smooth="yes"/>
-      <point x="1072" y="1322"/>
-      <point x="969" y="1223"/>
-    </contour>
-    <contour>
-      <point x="434" y="1223" type="qcurve" smooth="yes"/>
-      <point x="361" y="1223"/>
-      <point x="258" y="1322"/>
-      <point x="258" y="1392" type="qcurve" smooth="yes"/>
-      <point x="258" y="1462"/>
-      <point x="361" y="1561"/>
-      <point x="434" y="1561" type="qcurve" smooth="yes"/>
-      <point x="507" y="1561"/>
-      <point x="610" y="1462"/>
-      <point x="610" y="1392" type="qcurve" smooth="yes"/>
-      <point x="610" y="1322"/>
-      <point x="507" y="1223"/>
-    </contour>
     <contour>
       <point x="965" y="1858" type="line"/>
       <point x="965" y="1672" type="line"/>
       <point x="365" y="1672" type="line"/>
       <point x="365" y="1858" type="line"/>
+    </contour>
+    <contour>
+      <point x="273" y="1260" type="line"/>
+      <point x="273" y="1524" type="line"/>
+      <point x="595" y="1524" type="line"/>
+      <point x="595" y="1260" type="line"/>
+    </contour>
+    <contour>
+      <point x="735" y="1260" type="line"/>
+      <point x="735" y="1524" type="line"/>
+      <point x="1057" y="1524" type="line"/>
+      <point x="1057" y="1260" type="line"/>
     </contour>
   </outline>
 </glyph>

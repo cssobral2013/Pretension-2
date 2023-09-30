@@ -4,6 +4,6 @@
   <unicode hex="04A6"/>
   <outline>
     <component base="Pi"/>
-    <component base="largerighthook" xOffset="1166"/>
+    <component base="largerighthook" xOffset="1088"/>
   </outline>
 </glyph>

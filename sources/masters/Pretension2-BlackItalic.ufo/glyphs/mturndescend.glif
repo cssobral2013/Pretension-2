@@ -2,8 +2,8 @@
 <glyph name="mturndescend" format="2">
   <advance width="1932"/>
   <unicode hex="0270"/>
-  <anchor x="958" y="0" name="m.uni0326"/>
-  <anchor x="1143" y="1118" name="m.uni030F_1"/>
+  <anchor x="874" y="0" name="m.uni0326"/>
+  <anchor x="1056" y="1118" name="t.uni030F_1"/>
   <outline>
     <contour>
       <point x="1288" y="-418" type="line"/>
@@ -22,7 +22,7 @@
       <point x="1116" y="-14"/>
       <point x="1044" y="-14" type="qcurve" smooth="yes"/>
       <point x="960" y="-14"/>
-      <point x="846" y="60"/>
+      <point x="847" y="60"/>
       <point x="784" y="219"/>
       <point x="774" y="347" type="qcurve"/>
       <point x="814" y="321" type="line"/>

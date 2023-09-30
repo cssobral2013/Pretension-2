@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tackupmod" format="2">
+  <advance width="741"/>
+  <unicode hex="02D4"/>
+  <outline>
+    <contour>
+      <point x="162" y="171" type="line"/>
+      <point x="162" y="314" type="line"/>
+      <point x="577" y="314" type="line"/>
+      <point x="577" y="171" type="line"/>
+    </contour>
+    <contour>
+      <point x="292" y="171" type="line"/>
+      <point x="292" y="515" type="line"/>
+      <point x="447" y="515" type="line"/>
+      <point x="447" y="171" type="line"/>
+    </contour>
+  </outline>
+</glyph>

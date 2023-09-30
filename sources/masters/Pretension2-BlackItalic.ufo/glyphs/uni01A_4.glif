@@ -2,11 +2,11 @@
 <glyph name="uni01A4" format="2">
   <advance width="1823"/>
   <unicode hex="01A4"/>
-  <anchor x="1530" y="1490" name="m.uni030F_1"/>
+  <anchor x="1292" y="1490" name="t.uni030F_1"/>
   <outline>
     <contour>
       <point x="119" y="1024" type="line"/>
-      <point x="130" y="1096" type="line"/>
+      <point x="130" y="1096" type="line" smooth="yes"/>
       <point x="165" y="1302"/>
       <point x="441" y="1490"/>
       <point x="708" y="1490" type="qcurve" smooth="yes"/>

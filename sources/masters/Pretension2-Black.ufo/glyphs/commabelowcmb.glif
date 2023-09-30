@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commabelowcmb" format="2">
-  <advance width="52"/>
-  <unicode hex="0326"/>
-  <anchor x="-640" y="0" name="_m.uni0326"/>
+  <anchor x="-630" y="0" name="_m.uni0326"/>
   <outline>
     <contour>
       <point x="-508" y="-140" type="line"/>

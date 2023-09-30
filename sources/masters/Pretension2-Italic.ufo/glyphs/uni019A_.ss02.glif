@@ -3,10 +3,10 @@
   <advance width="686"/>
   <unicode hex="019A"/>
   <unicode hex="E052"/>
-  <anchor x="488" y="0" name="m.uni0326"/>
-  <anchor x="692" y="1490" name="m.uni030F_1"/>
+  <anchor x="313" y="0" name="m.uni0326"/>
+  <anchor x="497" y="1490" name="t.uni030F_1"/>
   <outline>
-    <component base="l.ss02" xOffset="93"/>
+    <component base="l.ss02" xOffset="94"/>
     <component base="crossbar" xOffset="-117" yOffset="24"/>
   </outline>
 </glyph>

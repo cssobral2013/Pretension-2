@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0358" format="2">
-  <unicode hex="0358"/>
   <outline>
-    <component base="uni0307" yOffset="-1722"/>
+    <component base="dotbelow" yOffset="1695"/>
   </outline>
 </glyph>

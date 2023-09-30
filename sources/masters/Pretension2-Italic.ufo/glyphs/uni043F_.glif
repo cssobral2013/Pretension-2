@@ -3,15 +3,6 @@
   <advance width="1205"/>
   <unicode hex="043F"/>
   <outline>
-    <contour>
-      <point x="1139" y="1118" type="line"/>
-      <point x="954" y="0" type="line"/>
-      <point x="774" y="0" type="line"/>
-      <point x="932" y="952" type="line"/>
-      <point x="405" y="952" type="line"/>
-      <point x="247" y="0" type="line"/>
-      <point x="66" y="0" type="line"/>
-      <point x="251" y="1118" type="line"/>
-    </contour>
+    <component base="pecyrillicturn" xScale="-1" yScale="-1" xOffset="1205" yOffset="1118"/>
   </outline>
 </glyph>

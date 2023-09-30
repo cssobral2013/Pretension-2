@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twodotenleader.ss07" format="2">
+  <advance width="1108"/>
+  <unicode hex="E2B3"/>
+  <outline>
+    <component base="period.ss07"/>
+    <component base="period.ss07" xOffset="554"/>
+  </outline>
+</glyph>

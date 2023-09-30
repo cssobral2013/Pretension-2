@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis.ss07" format="2">
+  <advance width="550"/>
+  <unicode hex="00CF"/>
+  <unicode hex="E1F6"/>
+  <anchor x="182" y="0" name="m.uni0326"/>
+  <anchor x="491" y="1862" name="t.uni030F_1"/>
+  <anchor x="277" y="0" name="m.uni0328_3"/>
+  <outline>
+    <component base="I"/>
+    <component base="uni0308.ss07" xOffset="-268" yOffset="372"/>
+  </outline>
+</glyph>

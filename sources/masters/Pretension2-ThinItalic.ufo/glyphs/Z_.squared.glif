@@ -2,8 +2,8 @@
 <glyph name="Z.squared" format="2">
   <advance width="2828"/>
   <unicode hex="1F149"/>
-  <anchor x="1319" y="0" name="m.uni0326"/>
-  <anchor x="1580" y="1490" name="m.uni030F_1"/>
+  <anchor x="1322" y="0" name="m.uni0326"/>
+  <anchor x="1569" y="1490" name="t.uni030F_1"/>
   <outline>
     <component base="uni2B1C"/>
     <component base="Z" xOffset="795"/>

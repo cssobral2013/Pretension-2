@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Rho" format="2">
-  <advance width="1242"/>
-  <unicode hex="03A1"/>
-  <anchor x="712" y="1490" name="m.uni030F_1"/>
-  <outline>
-    <component base="P"/>
-  </outline>
-</glyph>

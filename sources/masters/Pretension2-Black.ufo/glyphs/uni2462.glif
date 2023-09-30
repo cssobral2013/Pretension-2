@@ -3,7 +3,7 @@
   <advance width="2846"/>
   <anchor x="1418" y="1490" name="m.uni030F_1"/>
   <outline>
-    <component base="uni25EF"/>
+    <component base="largecircle"/>
     <component base="three" xOffset="730"/>
   </outline>
 </glyph>

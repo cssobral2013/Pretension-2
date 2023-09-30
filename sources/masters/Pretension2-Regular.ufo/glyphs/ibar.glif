@@ -2,12 +2,11 @@
 <glyph name="ibar" format="2">
   <advance width="496"/>
   <unicode hex="0268"/>
-  <anchor x="419" y="0" name="m.uni0326"/>
-  <anchor x="414" y="1682" name="m.uni030F_1"/>
-  <anchor x="736" y="0" name="m.uni0328_4"/>
+  <anchor x="249" y="0" name="m.uni0326"/>
+  <anchor x="249" y="1539" name="t.uni030F_1"/>
+  <anchor x="338" y="0" name="m.uni0328_3"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="uni0307" xOffset="2"/>
+    <component base="i"/>
     <component base="crossbar" xOffset="-214" yOffset="-150"/>
   </outline>
 </glyph>

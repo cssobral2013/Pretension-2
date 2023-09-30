@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0235" format="2">
-  <advance width="1531"/>
+  <advance width="1530"/>
   <unicode hex="0235"/>
-  <anchor x="781" y="0" name="m.uni0326"/>
-  <anchor x="781" y="1180" name="m.uni030F_1"/>
+  <anchor x="605" y="0" name="m.uni0326"/>
+  <anchor x="605" y="1118" name="t.uni030F_1"/>
   <outline>
     <contour>
       <point x="1189" y="-418" type="qcurve" smooth="yes"/>
@@ -51,10 +51,10 @@
       <point x="547" y="1132"/>
       <point x="674" y="1132" type="qcurve" smooth="yes"/>
       <point x="787" y="1132"/>
-      <point x="958" y="1039"/>
-      <point x="1053" y="852"/>
-      <point x="1053" y="710" type="qcurve" smooth="yes"/>
-      <point x="1053" y="0" type="line"/>
+      <point x="957" y="1039"/>
+      <point x="1052" y="852"/>
+      <point x="1052" y="710" type="qcurve" smooth="yes"/>
+      <point x="1052" y="0" type="line"/>
       <point x="872" y="0" type="line"/>
       <point x="872" y="695" type="line" smooth="yes"/>
       <point x="872" y="824"/>

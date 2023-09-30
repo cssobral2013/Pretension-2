@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilonacute" format="2">
+  <advance width="1727"/>
+  <unicode hex="1FC9"/>
+  <anchor x="1312" y="0" name="m.uni0326"/>
+  <anchor x="1312" y="1490" name="m.uni030F_1"/>
+  <anchor x="1301" y="0" name="m.uni0327_3"/>
+  <anchor x="1937" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="E" xOffset="472"/>
+    <component base="tonos.top" xOffset="-200" yOffset="-92"/>
+  </outline>
+</glyph>

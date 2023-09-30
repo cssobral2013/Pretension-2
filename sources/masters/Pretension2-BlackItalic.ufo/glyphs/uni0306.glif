@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0306" format="2">
   <unicode hex="0306"/>
-  <anchor x="653" y="1118" name="_m.uni030F_1"/>
-  <anchor x="653" y="1118" name="_t.uni030F"/>
-  <anchor x="733" y="1599" name="t.uni030F"/>
+  <anchor x="572" y="1118" name="_t.uni030F_1"/>
+  <anchor x="572" y="1118" name="_t.uni030F"/>
+  <anchor x="649" y="1582" name="t.uni030F"/>
   <outline>
     <contour>
       <point x="592" y="1240" type="qcurve" smooth="yes"/>

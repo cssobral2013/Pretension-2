@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wdieresis.ss07" format="2">
+  <advance width="1796"/>
+  <unicode hex="1E85"/>
+  <unicode hex="E26B"/>
+  <anchor x="796" y="0" name="m.uni0326"/>
+  <anchor x="1066" y="1585" name="t.uni030F_1"/>
+  <outline>
+    <component base="w"/>
+    <component base="uni0308.ss07" xOffset="198"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilonacutehooksymbol" format="2">
+  <advance width="2022"/>
+  <unicode hex="03D3"/>
+  <anchor x="1502" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <component base="Upsilonhooksymbol" xOffset="512"/>
+    <component base="tonos.top" xOffset="-200" yOffset="-92"/>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E7B.1.ss07" format="2">
+  <advance width="1328"/>
+  <unicode hex="E28B"/>
+  <unicode hex="EE40"/>
+  <anchor x="572" y="0" name="m.uni0326"/>
+  <anchor x="757" y="1118" name="t.uni030F_1"/>
+  <anchor x="1210" y="460" name="m.uni0328_3"/>
+  <outline>
+    <component base="u.1"/>
+    <component base="macrondieresiscomb.lc.ss07" xOffset="301"/>
+  </outline>
+</glyph>

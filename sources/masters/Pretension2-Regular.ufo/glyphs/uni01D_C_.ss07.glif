@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01DC.ss07" format="2">
+  <advance width="1211"/>
+  <unicode hex="01DC"/>
+  <unicode hex="E265"/>
+  <anchor x="606" y="0" name="m.uni0326"/>
+  <anchor x="605" y="1118" name="t.uni030F_1"/>
+  <anchor x="1053" y="0" name="m.uni0328_3"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresisgravecomb.lc.ss07" xOffset="5"/>
+  </outline>
+</glyph>

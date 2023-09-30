@@ -2,6 +2,6 @@
 <glyph name="uni032C" format="2">
   <unicode hex="032C"/>
   <outline>
-    <component base="uni030C" xOffset="-284" yOffset="-1717"/>
+    <component base="caronsubcomb"/>
   </outline>
 </glyph>

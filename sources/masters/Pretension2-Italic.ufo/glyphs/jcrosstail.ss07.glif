@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcrosstail.ss07" format="2">
+  <advance width="710"/>
+  <unicode hex="029D"/>
+  <unicode hex="E2D9"/>
+  <anchor x="370" y="-460" name="m.uni0326"/>
+  <anchor x="626" y="1490" name="t.uni030F_1"/>
+  <anchor x="468" y="0" name="m.uni0328_3"/>
+  <outline>
+    <component base="jcrosstail.ccmp" xOffset="-2"/>
+    <component base="uni0307.ss07" xOffset="223"/>
+  </outline>
+</glyph>

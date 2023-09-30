@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vdotbelow" format="2">
+  <advance width="1151"/>
+  <unicode hex="1E7F"/>
+  <anchor x="682" y="0" name="m.uni0326"/>
+  <anchor x="866" y="1180" name="m.uni030F_1"/>
+  <outline>
+    <component base="v"/>
+    <component base="dotaccentcomb" xOffset="47" yOffset="-1722"/>
+  </outline>
+</glyph>

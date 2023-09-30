@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni20E8" format="2">
-  <unicode hex="20E8"/>
   <outline>
-    <component base="period" xOffset="-1300" yOffset="-500"/>
-    <component base="period" xOffset="-856" yOffset="-500"/>
-    <component base="period" xOffset="-436" yOffset="-500"/>
+    <component base="ellipsis" yOffset="-424"/>
   </outline>
 </glyph>

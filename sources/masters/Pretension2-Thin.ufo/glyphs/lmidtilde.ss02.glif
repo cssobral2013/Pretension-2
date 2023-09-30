@@ -3,8 +3,8 @@
   <advance width="576"/>
   <unicode hex="026B"/>
   <unicode hex="E053"/>
-  <anchor x="752" y="0" name="m.uni0326"/>
-  <anchor x="692" y="1490" name="m.uni030F_1"/>
+  <anchor x="364" y="0" name="m.uni0326"/>
+  <anchor x="291" y="1490" name="t.uni030F_1"/>
   <outline>
     <component base="l.ss02" xOffset="70"/>
     <component base="_tildecross.cn" xOffset="-42"/>

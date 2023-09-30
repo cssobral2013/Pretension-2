@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EE9.1" format="2">
   <advance width="1420"/>
-  <anchor x="737" y="0" name="m.uni0326"/>
-  <anchor x="737" y="1599" name="m.uni030F_1"/>
-  <anchor x="1412" y="506" name="m.uni0328_4"/>
+  <unicode hex="EE38"/>
+  <anchor x="664" y="0" name="m.uni0326"/>
+  <anchor x="664" y="1582" name="t.uni030F_1"/>
+  <anchor x="1226" y="460" name="m.uni0328_3"/>
   <outline>
     <component base="uhorn.1"/>
     <component base="acutecomb" xOffset="360"/>

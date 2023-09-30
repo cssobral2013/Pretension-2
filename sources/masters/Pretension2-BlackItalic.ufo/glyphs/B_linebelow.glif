@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Blinebelow" format="2">
+  <advance width="1368"/>
+  <unicode hex="1E06"/>
+  <anchor x="583" y="0" name="m.uni0326"/>
+  <anchor x="842" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <component base="B"/>
+    <component base="macroncomb" xOffset="-37" yOffset="-1714"/>
+  </outline>
+</glyph>

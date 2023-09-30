@@ -2,7 +2,7 @@
 <glyph name="linevertdblcomb" format="2">
   <advance width="38"/>
   <outline>
-    <component base="linevert" xOffset="-1062"/>
-    <component base="linevert" xOffset="-696"/>
+    <component base="verticallinemod" xOffset="-1062"/>
+    <component base="verticallinemod" xOffset="-696"/>
   </outline>
 </glyph>

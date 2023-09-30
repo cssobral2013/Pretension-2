@@ -2,10 +2,10 @@
 <glyph name="M.squared" format="2">
   <advance width="2828"/>
   <unicode hex="1F13C"/>
-  <anchor x="1440" y="0" name="m.uni0326"/>
-  <anchor x="1440" y="1490" name="m.uni030F_1"/>
+  <anchor x="1414" y="0" name="m.uni0326"/>
+  <anchor x="1414" y="1490" name="t.uni030F_1"/>
   <outline>
     <component base="uni2B1C"/>
-    <component base="M" xOffset="460"/>
+    <component base="M" xOffset="435"/>
   </outline>
 </glyph>

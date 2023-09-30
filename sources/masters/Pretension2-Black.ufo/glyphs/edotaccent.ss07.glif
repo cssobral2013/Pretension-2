@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edotaccent.ss07" format="2">
+  <advance width="1242"/>
+  <unicode hex="0117"/>
+  <unicode hex="E238"/>
+  <anchor x="622" y="0" name="m.uni0326"/>
+  <anchor x="622" y="1586" name="t.uni030F_1"/>
+  <anchor x="628" y="0" name="m.uni0327_2"/>
+  <anchor x="1168" y="307" name="m.uni0328_3"/>
+  <outline>
+    <component base="e"/>
+    <component base="uni0307.ss07" xOffset="287"/>
+  </outline>
+</glyph>

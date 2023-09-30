@@ -2,7 +2,7 @@
 <glyph name="uni04FB" format="2">
   <advance width="956"/>
   <unicode hex="04FB"/>
-  <anchor x="558" y="1118" name="m.uni030F_1"/>
+  <anchor x="520" y="1118" name="t.uni030F_1"/>
   <outline>
     <component base="uni0433"/>
     <component base="crossbar" xOffset="-150" yOffset="-186"/>

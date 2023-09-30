@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="candrabinducomb" format="2">
   <advance width="30"/>
+  <unicode hex="EEB0"/>
   <outline>
     <contour>
       <point x="-702" y="1236" type="qcurve" smooth="yes"/>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="two.subs" format="2">
-  <advance width="872"/>
+  <advance width="973"/>
   <unicode hex="2082"/>
+  <anchor x="488" y="528" name="t.uni030F_1"/>
   <outline>
-    <component base="two.sups" yOffset="-1000"/>
+    <component base="two.sups" yOffset="-1200"/>
   </outline>
 </glyph>

@@ -2,8 +2,8 @@
 <glyph name="degreefarenheit" format="2">
   <advance width="2126"/>
   <unicode hex="2109"/>
-  <anchor x="1420" y="0" name="m.uni0326"/>
-  <anchor x="1719" y="1490" name="m.uni030F_1"/>
+  <anchor x="1185" y="0" name="m.uni0326"/>
+  <anchor x="1562" y="1490" name="t.uni030F_1"/>
   <outline>
     <component base="degree"/>
     <component base="F" xOffset="930"/>

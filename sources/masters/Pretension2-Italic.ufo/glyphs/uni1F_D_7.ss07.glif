@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FD7.ss07" format="2">
+  <advance width="565"/>
+  <unicode hex="1FD7"/>
+  <unicode hex="E2A5"/>
+  <anchor x="342" y="1118" name="t.uni030F_1"/>
+  <outline>
+    <component base="iota"/>
+    <component base="uni1FC1.ss07" xOffset="-198"/>
+  </outline>
+</glyph>

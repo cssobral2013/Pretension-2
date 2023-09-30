@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omicronasperacute" format="2">
+  <advance width="1958"/>
+  <unicode hex="1F4D"/>
+  <anchor x="1903" y="0" name="m.uni0326"/>
+  <anchor x="1903" y="1490" name="m.uni030F_1"/>
+  <anchor x="2535" y="744" name="m.uni0328_4"/>
+  <outline>
+    <component base="O" xOffset="428"/>
+    <component base="asperacute" xOffset="48" yOffset="-67"/>
+  </outline>
+</glyph>

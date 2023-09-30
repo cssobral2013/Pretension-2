@@ -6,6 +6,6 @@
   <unicode hex="E130"/>
   <outline>
     <component base="uni25EF"/>
-    <component base="nine.ss01" xOffset="835"/>
+    <component base="nine.ss01" xOffset="829"/>
   </outline>
 </glyph>

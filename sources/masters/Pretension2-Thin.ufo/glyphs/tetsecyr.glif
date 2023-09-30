@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tetsecyr" format="2">
+  <advance width="1390"/>
+  <unicode hex="04B5"/>
+  <outline>
+    <contour>
+      <point x="786" y="1118" type="line"/>
+      <point x="786" y="1070" type="line"/>
+      <point x="94" y="1070" type="line"/>
+      <point x="94" y="1118" type="line"/>
+    </contour>
+    <contour>
+      <point x="403" y="0" type="line"/>
+      <point x="403" y="1118" type="line"/>
+      <point x="449" y="1118" type="line"/>
+      <point x="449" y="46" type="line"/>
+      <point x="1137" y="46" type="line"/>
+      <point x="1137" y="1118" type="line"/>
+      <point x="1183" y="1118" type="line"/>
+      <point x="1183" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1277" y="-320" type="line"/>
+      <point x="1277" y="0" type="line"/>
+      <point x="1169" y="0" type="line"/>
+      <point x="1169" y="46" type="line"/>
+      <point x="1323" y="46" type="line"/>
+      <point x="1323" y="-320" type="line"/>
+    </contour>
+  </outline>
+</glyph>

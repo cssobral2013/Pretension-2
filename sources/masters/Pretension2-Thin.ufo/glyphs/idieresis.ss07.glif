@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis.ss07" format="2">
+  <advance width="442"/>
+  <unicode hex="00EF"/>
+  <unicode hex="E240"/>
+  <anchor x="220" y="0" name="m.uni0326"/>
+  <anchor x="220" y="1434" name="t.uni030F_1"/>
+  <anchor x="244" y="0" name="m.uni0328_3"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="uni0308.ss07" xOffset="-378"/>
+  </outline>
+</glyph>

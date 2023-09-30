@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresistonos.ss07" format="2">
+  <advance width="1592"/>
+  <unicode hex="0385"/>
+  <unicode hex="E2BB"/>
+  <anchor x="443" y="1586" name="t.uni030F_1"/>
+  <outline>
+    <contour>
+      <point x="273" y="1256" type="line"/>
+      <point x="273" y="1586" type="line"/>
+      <point x="613" y="1586" type="line"/>
+      <point x="613" y="1256" type="line"/>
+    </contour>
+    <contour>
+      <point x="979" y="1256" type="line"/>
+      <point x="979" y="1586" type="line"/>
+      <point x="1319" y="1586" type="line"/>
+      <point x="1319" y="1256" type="line"/>
+    </contour>
+    <contour>
+      <point x="664" y="1491" type="line"/>
+      <point x="696" y="1817" type="line"/>
+      <point x="1032" y="1817" type="line"/>
+      <point x="888" y="1491" type="line"/>
+    </contour>
+  </outline>
+</glyph>

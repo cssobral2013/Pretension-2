@@ -2,9 +2,9 @@
 <glyph name="uni1FEC" format="2">
   <advance width="1813"/>
   <unicode hex="1FEC"/>
-  <anchor x="1404" y="1490" name="m.uni030F_1"/>
+  <anchor x="1282" y="1490" name="t.uni030F_1"/>
   <outline>
     <component base="P" xOffset="470"/>
-    <component base="uni1FFE" xOffset="-41" yOffset="-105"/>
+    <component base="uni1FFE.tonos" xOffset="-41" yOffset="-105"/>
   </outline>
 </glyph>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0426" format="2">
-  <advance width="1472"/>
+  <advance width="1380"/>
   <unicode hex="0426"/>
-  <anchor x="813" y="1490" name="m.uni030F_1"/>
+  <anchor x="731" y="1490" name="t.uni030F_1"/>
   <outline>
     <component base="uni041F.turn"/>
     <component base="_part.cyrtic" xOffset="1166"/>

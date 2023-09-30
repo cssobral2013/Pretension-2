@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildedieresiscomb.uc.ss07" format="2">
+  <advance width="1018"/>
+  <unicode hex="E2D8"/>
+  <unicode hex="EED1"/>
+  <outline>
+    <component base="tildedieresiscomb.lc.ss07"/>
+  </outline>
+</glyph>

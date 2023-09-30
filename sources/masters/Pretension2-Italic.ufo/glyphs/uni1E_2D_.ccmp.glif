@@ -2,11 +2,11 @@
 <glyph name="uni1E2D.ccmp" format="2">
   <advance width="497"/>
   <unicode hex="E04B"/>
-  <anchor x="322" y="0" name="m.uni0326"/>
-  <anchor x="513" y="1180" name="m.uni030F_1"/>
-  <anchor x="639" y="0" name="m.uni0328_4"/>
+  <anchor x="157" y="0" name="m.uni0326"/>
+  <anchor x="342" y="1118" name="t.uni030F_1"/>
+  <anchor x="246" y="0" name="m.uni0328_3"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="tildecomb" xOffset="-548" yOffset="-1722"/>
+    <component base="tildesubcomb" xOffset="849"/>
   </outline>
 </glyph>

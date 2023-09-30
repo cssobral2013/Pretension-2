@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1DC6.lc" format="2">
-  <anchor x="516" y="1242" name="_m.uni030F_1"/>
-  <anchor x="516" y="1242" name="_t.uni030F"/>
+  <unicode hex="EE9B"/>
+  <anchor x="492" y="1118" name="_t.uni030F_1"/>
+  <anchor x="492" y="1118" name="_t.uni030F"/>
   <outline>
     <contour>
       <point x="775" y="1415" type="line"/>

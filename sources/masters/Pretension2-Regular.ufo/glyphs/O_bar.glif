@@ -6,6 +6,6 @@
   <anchor x="808" y="1490" name="m.uni030F_1"/>
   <anchor x="1562" y="744" name="m.uni0328_4"/>
   <outline>
-    <component base="uni03F4"/>
+    <component base="Thetasymbol"/>
   </outline>
 </glyph>

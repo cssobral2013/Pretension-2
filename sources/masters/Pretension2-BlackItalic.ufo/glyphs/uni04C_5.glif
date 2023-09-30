@@ -2,8 +2,8 @@
 <glyph name="uni04C5" format="2">
   <advance width="1538"/>
   <unicode hex="04C5"/>
-  <anchor x="677" y="0" name="m.uni0326"/>
-  <anchor x="1074" y="1490" name="m.uni030F_1"/>
+  <anchor x="674" y="0" name="m.uni0326"/>
+  <anchor x="1043" y="1490" name="t.uni030F_1"/>
   <outline>
     <component base="uni041B"/>
     <component base="_part.cyrtail" xOffset="1010"/>

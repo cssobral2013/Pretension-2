@@ -5,7 +5,7 @@
   <anchor x="1314" y="0" name="m.uni0326"/>
   <anchor x="1316" y="1490" name="m.uni030F_1"/>
   <outline>
-    <component base="uni03A9" xOffset="102"/>
+    <component base="Omega" xOffset="102"/>
     <component base="tonos.top" xOffset="8" yOffset="-67"/>
   </outline>
 </glyph>

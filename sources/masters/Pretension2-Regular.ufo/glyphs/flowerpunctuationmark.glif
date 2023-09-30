@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="flowerpunctuationmark" format="2">
+  <advance width="1125"/>
+  <unicode hex="2055"/>
+  <outline>
+    <contour>
+      <point x="987" y="469" type="line"/>
+      <point x="136" y="469" type="line"/>
+      <point x="136" y="613" type="line"/>
+      <point x="987" y="613" type="line"/>
+    </contour>
+    <contour>
+      <point x="811" y="183" type="line"/>
+      <point x="212" y="791" type="line"/>
+      <point x="314" y="893" type="line"/>
+      <point x="913" y="286" type="line"/>
+    </contour>
+    <contour>
+      <point x="635" y="968" type="line"/>
+      <point x="635" y="117" type="line"/>
+      <point x="488" y="117" type="line"/>
+      <point x="491" y="968" type="line"/>
+    </contour>
+    <contour>
+      <point x="314" y="183" type="line"/>
+      <point x="212" y="286" type="line"/>
+      <point x="811" y="893" type="line"/>
+      <point x="913" y="791" type="line"/>
+    </contour>
+  </outline>
+</glyph>

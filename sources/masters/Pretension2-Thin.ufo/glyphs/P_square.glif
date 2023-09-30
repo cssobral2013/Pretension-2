@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Psquare" format="2">
+  <advance width="2828"/>
+  <unicode hex="1F13F"/>
+  <anchor x="1444" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <component base="whiteLargeSquare"/>
+    <component base="P" xOffset="793"/>
+  </outline>
+</glyph>

@@ -2,9 +2,9 @@
 <glyph name="uni0403" format="2">
   <advance width="1185"/>
   <unicode hex="0403"/>
-  <anchor x="918" y="1927" name="m.uni030F_1"/>
+  <anchor x="864" y="1930" name="t.uni030F_1"/>
   <outline>
-    <component base="Gamma"/>
+    <component base="uni0413"/>
     <component base="acutecomb" xOffset="571" yOffset="372"/>
   </outline>
 </glyph>

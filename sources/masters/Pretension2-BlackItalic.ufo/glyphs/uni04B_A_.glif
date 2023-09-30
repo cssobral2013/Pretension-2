@@ -2,33 +2,8 @@
 <glyph name="uni04BA" format="2">
   <advance width="1462"/>
   <unicode hex="04BA"/>
-  <anchor x="654" y="0" name="m.uni030F_1"/>
+  <anchor x="635" y="0" name="t.uni030F_1"/>
   <outline>
-    <contour>
-      <point x="878" y="987" type="qcurve" smooth="yes"/>
-      <point x="1039" y="987"/>
-      <point x="1271" y="882"/>
-      <point x="1376" y="654"/>
-      <point x="1345" y="468" type="qcurve" smooth="yes"/>
-      <point x="1267" y="0" type="line"/>
-      <point x="863" y="0" type="line"/>
-      <point x="934" y="428" type="line"/>
-      <point x="947" y="502"/>
-      <point x="925" y="609"/>
-      <point x="831" y="667"/>
-      <point x="734" y="667" type="qcurve" smooth="yes"/>
-      <point x="635" y="667"/>
-      <point x="477" y="618"/>
-      <point x="430" y="591" type="qcurve"/>
-      <point x="465" y="801" type="line"/>
-      <point x="570" y="914"/>
-      <point x="759" y="987"/>
-    </contour>
-    <contour>
-      <point x="655" y="1490" type="line"/>
-      <point x="408" y="0" type="line"/>
-      <point x="4" y="0" type="line"/>
-      <point x="251" y="1490" type="line"/>
-    </contour>
+    <component base="uni0427" xScale="-1" yScale="-1" xOffset="1524" yOffset="1490"/>
   </outline>
 </glyph>

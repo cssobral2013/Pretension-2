@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="overscorecomb" format="2">
   <advance width="18"/>
+  <unicode hex="EEC0"/>
   <outline>
     <component base="underscore" xOffset="-1176" yOffset="1864"/>
   </outline>

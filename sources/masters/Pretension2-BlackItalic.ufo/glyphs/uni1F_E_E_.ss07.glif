@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FEE.ss07" format="2">
+  <advance width="1582"/>
+  <unicode hex="1FEE"/>
+  <unicode hex="E2BD"/>
+  <outline>
+    <component base="dieresistonos.ss07"/>
+  </outline>
+</glyph>

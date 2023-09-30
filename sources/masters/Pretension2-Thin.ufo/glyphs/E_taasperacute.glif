@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etaasperacute" format="2">
+  <advance width="1986"/>
+  <unicode hex="1F2D"/>
+  <anchor x="1937" y="0" name="m.uni0326"/>
+  <anchor x="1937" y="1490" name="m.uni030F_1"/>
+  <anchor x="1484" y="1" name="m.uni0327_3"/>
+  <outline>
+    <component base="H" xOffset="482"/>
+    <component base="asperacute" xOffset="48" yOffset="-67"/>
+  </outline>
+</glyph>

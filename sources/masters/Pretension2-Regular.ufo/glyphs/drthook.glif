@@ -2,7 +2,7 @@
 <glyph name="drthook" format="2">
   <advance width="1254"/>
   <unicode hex="0256"/>
-  <anchor x="498" y="1388" name="m.uni030F_1"/>
+  <anchor x="582" y="1304" name="t.uni030F_1"/>
   <outline>
     <contour>
       <point x="1198" y="-427" type="qcurve" smooth="yes"/>

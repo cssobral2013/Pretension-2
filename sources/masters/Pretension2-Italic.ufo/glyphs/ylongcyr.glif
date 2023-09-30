@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ylongcyr" format="2">
+  <advance width="1509"/>
+  <unicode hex="044B"/>
+  <anchor x="1600" y="0" name="m.uni0326"/>
+  <anchor x="974" y="1180" name="m.uni030F_1"/>
+  <anchor x="1917" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="softcyr"/>
+    <component base="dotlessi" xOffset="1012"/>
+  </outline>
+</glyph>

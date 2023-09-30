@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2154" format="2">
-  <advance width="1724"/>
+  <advance width="1822"/>
   <unicode hex="2154"/>
   <outline>
-    <component base="two.dnom" yOffset="698"/>
-    <component base="fraction" xOffset="760"/>
-    <component base="three.dnom" xOffset="1036"/>
+    <component base="two.numr"/>
+    <component base="fraction" xOffset="794"/>
+    <component base="three.dnom" xOffset="1110"/>
   </outline>
 </glyph>

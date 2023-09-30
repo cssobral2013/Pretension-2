@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cdotaccent.ss07" format="2">
+  <advance width="1095"/>
+  <unicode hex="010B"/>
+  <unicode hex="E233"/>
+  <anchor x="594" y="0" name="m.uni0326"/>
+  <anchor x="594" y="1434" name="t.uni030F_1"/>
+  <anchor x="594" y="0" name="m.uni0327_2"/>
+  <outline>
+    <component base="c"/>
+    <component base="uni0307.ss07" xOffset="408"/>
+  </outline>
+</glyph>

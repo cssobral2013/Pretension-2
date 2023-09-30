@@ -3,7 +3,6 @@
   <advance width="1494"/>
   <unicode hex="048C"/>
   <outline>
-    <component base="uni042C" xOffset="114"/>
-    <component base="crossbar.uc" xOffset="-30" yOffset="492"/>
+    <component base="uni0462"/>
   </outline>
 </glyph>

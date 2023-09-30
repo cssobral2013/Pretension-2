@@ -2,9 +2,9 @@
 <glyph name="srthook" format="2">
   <advance width="1081"/>
   <unicode hex="0282"/>
-  <anchor x="756" y="0" name="m.uni0326"/>
-  <anchor x="752" y="1180" name="m.uni030F_1"/>
-  <anchor x="743" y="0" name="m.uni0327_3"/>
+  <anchor x="553" y="0" name="m.uni0326"/>
+  <anchor x="553" y="1118" name="t.uni030F_1"/>
+  <anchor x="550" y="0" name="m.uni0327_2"/>
   <outline>
     <contour>
       <point x="398" y="-427" type="qcurve" smooth="yes"/>

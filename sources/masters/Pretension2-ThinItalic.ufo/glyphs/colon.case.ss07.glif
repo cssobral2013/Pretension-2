@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon.case.ss07" format="2">
+  <advance width="555"/>
+  <unicode hex="E092"/>
+  <unicode hex="E2B4"/>
+  <outline>
+    <component base="colon.ss07" xOffset="36" yOffset="219"/>
+  </outline>
+</glyph>

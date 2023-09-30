@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0156.ss03" format="2">
   <advance width="1260"/>
-  <anchor x="701" y="0" name="m.uni0326"/>
-  <anchor x="659" y="1490" name="m.uni030F_1"/>
+  <unicode hex="EE7A"/>
+  <anchor x="646" y="0" name="m.uni0326"/>
+  <anchor x="626" y="1490" name="t.uni030F_1"/>
   <outline>
     <component base="R"/>
     <component base="uni0326.ss03" xOffset="366"/>

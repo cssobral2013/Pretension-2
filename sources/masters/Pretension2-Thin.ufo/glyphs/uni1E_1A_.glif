@@ -2,12 +2,12 @@
 <glyph name="uni1E1A" format="2">
   <advance width="1196"/>
   <unicode hex="1E1A"/>
-  <anchor x="660" y="0" name="m.uni0326"/>
-  <anchor x="660" y="1490" name="m.uni030F_1"/>
-  <anchor x="613" y="0" name="m.uni0327_3"/>
-  <anchor x="1147" y="0" name="m.uni0328_4"/>
+  <anchor x="640" y="0" name="m.uni0326"/>
+  <anchor x="640" y="1490" name="t.uni030F_1"/>
+  <anchor x="640" y="0" name="m.uni0327_2"/>
+  <anchor x="1048" y="0" name="m.uni0328_3"/>
   <outline>
     <component base="E"/>
-    <component base="tildecomb" xOffset="136" yOffset="-1686"/>
+    <component base="tildesubcomb" xOffset="1223"/>
   </outline>
 </glyph>

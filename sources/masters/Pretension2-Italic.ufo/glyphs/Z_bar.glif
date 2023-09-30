@@ -2,8 +2,8 @@
 <glyph name="Zbar" format="2">
   <advance width="1290"/>
   <unicode hex="01B5"/>
-  <anchor x="734" y="0" name="m.uni0326"/>
-  <anchor x="995" y="1490" name="m.uni030F_1"/>
+  <anchor x="547" y="0" name="m.uni0326"/>
+  <anchor x="800" y="1490" name="t.uni030F_1"/>
   <outline>
     <component base="Z"/>
     <component base="crossbar.uc" xOffset="188"/>

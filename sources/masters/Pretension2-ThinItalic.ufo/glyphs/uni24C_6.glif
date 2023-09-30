@@ -2,9 +2,9 @@
 <glyph name="uni24C6" format="2">
   <advance width="2846"/>
   <unicode hex="24C6"/>
-  <anchor x="1266" y="36" name="m.uni0326"/>
-  <anchor x="1515" y="1526" name="m.uni030F_1"/>
-  <anchor x="2039" y="996" name="m.uni0328_4"/>
+  <anchor x="1337" y="60" name="m.uni0326"/>
+  <anchor x="1584" y="1550" name="t.uni030F_1"/>
+  <anchor x="2092" y="986" name="m.uni0328_3"/>
   <outline>
     <component base="uni25EF"/>
     <component base="Q" xOffset="664" yOffset="60"/>

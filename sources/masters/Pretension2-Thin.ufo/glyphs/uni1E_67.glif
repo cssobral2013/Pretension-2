@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E67" format="2">
   <advance width="1010"/>
-  <unicode hex="1E67"/>
-  <anchor x="761" y="0" name="m.uni0326"/>
-  <anchor x="757" y="1242" name="m.uni030F_1"/>
-  <anchor x="724" y="0" name="m.uni0327_3"/>
+  <anchor x="518" y="0" name="m.uni0326"/>
+  <anchor x="518" y="1118" name="t.uni030F_1"/>
+  <anchor x="516" y="0" name="m.uni0327_2"/>
   <outline>
     <component base="s"/>
     <component base="carondot.lc" xOffset="155"/>

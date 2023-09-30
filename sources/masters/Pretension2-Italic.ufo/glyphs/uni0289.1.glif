@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0289.1" format="2">
   <advance width="1300"/>
-  <anchor x="711" y="0" name="m.uni0326"/>
-  <anchor x="909" y="1180" name="m.uni030F_1"/>
-  <anchor x="1490" y="524" name="m.uni0328_4"/>
+  <unicode hex="EE28"/>
+  <anchor x="564" y="0" name="m.uni0326"/>
+  <anchor x="749" y="1118" name="t.uni030F_1"/>
+  <anchor x="1081" y="418" name="m.uni0328_3"/>
   <outline>
     <contour>
       <point x="1299" y="671" type="line"/>

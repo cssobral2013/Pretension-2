@@ -2,8 +2,8 @@
 <glyph name="nlfthook" format="2">
   <advance width="1197"/>
   <unicode hex="0272"/>
-  <anchor x="689" y="0" name="m.uni0326"/>
-  <anchor x="902" y="1242" name="m.uni030F_1"/>
+  <anchor x="506" y="0" name="m.uni0326"/>
+  <anchor x="693" y="1118" name="t.uni030F_1"/>
   <outline>
     <contour>
       <point x="-101" y="-418" type="qcurve" smooth="yes"/>

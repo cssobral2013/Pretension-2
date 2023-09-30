@@ -2,11 +2,10 @@
 <glyph name="uni2170" format="2">
   <advance width="546"/>
   <unicode hex="2170"/>
-  <anchor x="334" y="0" name="m.uni0326"/>
-  <anchor x="609" y="1682" name="m.uni030F_1"/>
-  <anchor x="651" y="0" name="m.uni0328_4"/>
+  <anchor x="145" y="0" name="m.uni0326"/>
+  <anchor x="400" y="1539" name="t.uni030F_1"/>
+  <anchor x="234" y="0" name="m.uni0328_3"/>
   <outline>
-    <component base="dotlessi" xOffset="-12"/>
-    <component base="uni0307" xOffset="-10"/>
+    <component base="i" xOffset="-12"/>
   </outline>
 </glyph>

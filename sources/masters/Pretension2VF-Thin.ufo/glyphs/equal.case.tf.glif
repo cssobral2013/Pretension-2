@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="equal.case.tf" format="2">
-  <advance width="1320"/>
-  <outline>
-    <component base="equal" xOffset="8" yOffset="163"/>
-  </outline>
-</glyph>

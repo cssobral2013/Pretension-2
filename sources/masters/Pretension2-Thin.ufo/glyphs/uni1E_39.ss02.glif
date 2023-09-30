@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E39.ss02" format="2">
   <advance width="472"/>
-  <unicode hex="1E39"/>
-  <unicode hex="E05A"/>
-  <anchor x="431" y="0" name="m.uni0326"/>
-  <anchor x="371" y="1887" name="m.uni030F_1"/>
+  <anchor x="294" y="0" name="m.uni0326"/>
+  <anchor x="221" y="1815" name="t.uni030F_1"/>
   <outline>
     <component base="l.ss02"/>
-    <component base="uni0307" xOffset="108" yOffset="-1686"/>
+    <component base="dotbelow" xOffset="108"/>
     <component base="uni0304" xOffset="-179" yOffset="372"/>
   </outline>
 </glyph>

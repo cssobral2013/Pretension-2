@@ -2,9 +2,9 @@
 <glyph name="uni044B" format="2">
   <advance width="1279"/>
   <unicode hex="044B"/>
-  <anchor x="1230" y="0" name="m.uni0326"/>
-  <anchor x="833" y="1180" name="m.uni030F_1"/>
-  <anchor x="1424" y="0" name="m.uni0328_4"/>
+  <anchor x="964" y="0" name="m.uni0326"/>
+  <anchor x="731" y="1118" name="t.uni030F_1"/>
+  <anchor x="988" y="0" name="m.uni0328_3"/>
   <outline>
     <component base="uni044C"/>
     <component base="dotlessi" xOffset="836"/>

@@ -2,8 +2,8 @@
 <glyph name="Nhook" format="2">
   <advance width="1576"/>
   <unicode hex="019D"/>
-  <anchor x="726" y="0" name="m.uni0326"/>
-  <anchor x="973" y="1490" name="m.uni030F_1"/>
+  <anchor x="695" y="0" name="m.uni0326"/>
+  <anchor x="942" y="1490" name="t.uni030F_1"/>
   <outline>
     <contour>
       <point x="-284" y="-417" type="qcurve"/>
@@ -36,7 +36,7 @@
       <point x="1073" y="453"/>
       <point x="1093" y="666"/>
       <point x="1116" y="873"/>
-      <point x="1127" y="944" type="qcurve"/>
+      <point x="1127" y="944" type="qcurve" smooth="yes"/>
       <point x="1218" y="1490" type="line"/>
       <point x="1634" y="1490" type="line"/>
       <point x="1387" y="0" type="line"/>

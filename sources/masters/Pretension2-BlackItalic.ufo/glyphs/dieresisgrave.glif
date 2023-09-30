@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisgrave" format="2">
+  <advance width="1234"/>
+  <unicode hex="1FED"/>
+  <outline>
+    <contour>
+      <point x="388" y="1256" type="line"/>
+      <point x="443" y="1586" type="line"/>
+      <point x="783" y="1586" type="line"/>
+      <point x="728" y="1256" type="line"/>
+    </contour>
+    <contour>
+      <point x="1094" y="1256" type="line"/>
+      <point x="1149" y="1586" type="line"/>
+      <point x="1489" y="1586" type="line"/>
+      <point x="1434" y="1256" type="line"/>
+    </contour>
+    <contour>
+      <point x="1099" y="1491" type="line"/>
+      <point x="875" y="1491" type="line"/>
+      <point x="677" y="1817" type="line"/>
+      <point x="1013" y="1817" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.numr.ss01" format="2">
+  <advance width="676"/>
+  <unicode hex="E0E2"/>
+  <outline>
+    <component base="six.dnom.ss01" xOffset="120" yOffset="723"/>
+  </outline>
+</glyph>

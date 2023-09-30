@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni20DC" format="2">
-  <unicode hex="20DC"/>
   <outline>
-    <component base="period" xOffset="-1842" yOffset="1300"/>
-    <component base="period" xOffset="-1330" yOffset="1300"/>
-    <component base="period" xOffset="-818" yOffset="1300"/>
-    <component base="period" xOffset="-306" yOffset="1300"/>
+    <component base="period" xOffset="205" yOffset="1237"/>
+    <component base="period" xOffset="969" yOffset="1237"/>
+    <component base="period" xOffset="1733" yOffset="1237"/>
+    <component base="period" xOffset="2497" yOffset="1237"/>
   </outline>
 </glyph>

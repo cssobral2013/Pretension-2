@@ -2,29 +2,9 @@
 <glyph name="kturn" format="2">
   <advance width="1124"/>
   <unicode hex="029E"/>
-  <anchor x="1012" y="-372" name="m.uni0326"/>
-  <anchor x="670" y="1180" name="m.uni030F_1"/>
+  <anchor x="872" y="-372" name="m.uni0326"/>
+  <anchor x="562" y="1118" name="t.uni030F_1"/>
   <outline>
-    <contour>
-      <point x="797" y="716" type="line"/>
-      <point x="797" y="493" type="line"/>
-      <point x="764" y="493" type="line"/>
-      <point x="286" y="0" type="line"/>
-      <point x="63" y="0" type="line"/>
-      <point x="580" y="531" type="line"/>
-      <point x="600" y="531" type="line"/>
-    </contour>
-    <contour>
-      <point x="966" y="1118" type="line"/>
-      <point x="966" y="-372" type="line"/>
-      <point x="786" y="-372" type="line"/>
-      <point x="786" y="1118" type="line"/>
-    </contour>
-    <contour>
-      <point x="259" y="1118" type="line"/>
-      <point x="687" y="571" type="line"/>
-      <point x="559" y="444" type="line"/>
-      <point x="28" y="1118" type="line"/>
-    </contour>
+    <component base="k" xScale="-1" yScale="-1" xOffset="1124" yOffset="1118"/>
   </outline>
 </glyph>

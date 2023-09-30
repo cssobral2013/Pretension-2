@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2153" format="2">
-  <advance width="1848"/>
+  <advance width="1991"/>
   <unicode hex="2153"/>
+  <anchor x="1586" y="842" name="t.uni030F_1"/>
   <outline>
-    <component base="one.dnom" yOffset="698"/>
-    <component base="fraction" xOffset="734"/>
-    <component base="three.dnom" xOffset="958"/>
+    <component base="one.numr"/>
+    <component base="fraction" xOffset="633"/>
+    <component base="three.dnom" xOffset="1187"/>
   </outline>
 </glyph>

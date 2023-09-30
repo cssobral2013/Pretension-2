@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni041F.turn" format="2">
   <advance width="1479"/>
+  <unicode hex="EE87"/>
   <outline>
     <contour>
       <point x="1206" y="0" type="line"/>

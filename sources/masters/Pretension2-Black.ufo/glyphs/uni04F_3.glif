@@ -2,9 +2,9 @@
 <glyph name="uni04F3" format="2">
   <advance width="1302"/>
   <unicode hex="04F3"/>
-  <anchor x="1219" y="0" name="m.uni0326"/>
-  <anchor x="703" y="1118" name="m.uni030F_1"/>
-  <anchor x="1073" y="0" name="m.uni0328_4"/>
+  <anchor x="1034" y="0" name="m.uni0326"/>
+  <anchor x="655" y="1118" name="t.uni030F_1"/>
+  <anchor x="865" y="0" name="m.uni0328_3"/>
   <outline>
     <component base="y"/>
     <component base="hungarumlaut" xOffset="169"/>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dyogh" format="2">
-  <advance width="2074"/>
+  <advance width="2051"/>
   <unicode hex="02A4"/>
-  <anchor x="765" y="0" name="m.uni0326"/>
-  <anchor x="629" y="1388" name="m.uni030F_1"/>
+  <anchor x="494" y="0" name="m.uni0326"/>
+  <anchor x="705" y="1304" name="t.uni030F_1"/>
   <outline>
     <contour>
       <point x="1003" y="-96" type="line"/>

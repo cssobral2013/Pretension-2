@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon.tf.ss07" format="2">
+  <advance width="550"/>
+  <unicode hex="E096"/>
+  <unicode hex="E2B8"/>
+  <outline>
+    <component base="semicolon.ss07" xOffset="13"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotalenisacute" format="2">
+  <advance width="985"/>
+  <unicode hex="1F3C"/>
+  <anchor x="1272" y="0" name="m.uni0326"/>
+  <anchor x="1523" y="1490" name="m.uni030F_1"/>
+  <anchor x="1465" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="I" xOffset="475"/>
+    <component base="lenisacute" xOffset="37" yOffset="-67"/>
+  </outline>
+</glyph>

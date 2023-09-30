@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="carondot.uc.ss07" format="2">
+  <advance width="726"/>
+  <unicode hex="E2CC"/>
+  <unicode hex="EECD"/>
+  <outline>
+    <component base="carondot.lc.ss07" xOffset="62" yOffset="372"/>
+  </outline>
+</glyph>

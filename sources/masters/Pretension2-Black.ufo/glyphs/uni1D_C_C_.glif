@@ -3,7 +3,7 @@
   <unicode hex="1DCC"/>
   <outline>
     <contour>
-      <point x="-448" y="1234" type="qcurve"/>
+      <point x="-448" y="1234" type="qcurve" smooth="yes"/>
       <point x="-561" y="1233"/>
       <point x="-738" y="1308"/>
       <point x="-788" y="1374" type="qcurve"/>

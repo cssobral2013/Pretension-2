@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="p.subs" format="2">
-  <advance width="800"/>
-  <unicode hex="209A"/>
-  <outline>
-    <component base="p.sups" yOffset="-1000"/>
-  </outline>
-</glyph>

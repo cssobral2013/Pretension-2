@@ -4,7 +4,6 @@
   <unicode hex="2236"/>
   <unicode hex="EE01"/>
   <outline>
-    <component base="period" yOffset="219"/>
-    <component base="period" yOffset="1183"/>
+    <component base="colon.case"/>
   </outline>
 </glyph>

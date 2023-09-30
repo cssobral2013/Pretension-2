@@ -2,7 +2,7 @@
 <glyph name="uni02A3" format="2">
   <advance width="2111"/>
   <unicode hex="02A3"/>
-  <anchor x="560" y="1430" name="m.uni030F_1"/>
+  <anchor x="560" y="1304" name="t.uni030F_1"/>
   <outline>
     <contour>
       <point x="1197" y="0" type="line"/>

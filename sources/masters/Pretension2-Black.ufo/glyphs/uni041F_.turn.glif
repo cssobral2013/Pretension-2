@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni041F.turn" format="2">
   <advance width="1498"/>
-  <anchor x="785" y="1490" name="m.uni030F_1"/>
+  <unicode hex="EE87"/>
+  <anchor x="749" y="1490" name="t.uni030F_1"/>
   <outline>
     <contour>
       <point x="1402" y="0" type="line"/>

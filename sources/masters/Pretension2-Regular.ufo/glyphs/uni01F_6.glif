@@ -20,11 +20,13 @@
       <point x="1152" y="1490" type="line"/>
       <point x="1344" y="1490" type="line"/>
       <point x="1344" y="474" type="line" smooth="yes"/>
-      <point x="1344" y="308"/>
-      <point x="1504" y="153"/>
+      <point x="1344" y="364"/>
+      <point x="1416" y="221"/>
+      <point x="1552" y="153"/>
       <point x="1647" y="153" type="qcurve" smooth="yes"/>
-      <point x="1790" y="153"/>
-      <point x="1942" y="308"/>
+      <point x="1743" y="153"/>
+      <point x="1874" y="221"/>
+      <point x="1942" y="364"/>
       <point x="1942" y="474" type="qcurve" smooth="yes"/>
       <point x="1942" y="1116" type="line"/>
       <point x="2132" y="1116" type="line"/>

@@ -2,8 +2,8 @@
 <glyph name="K.squared" format="2">
   <advance width="2828"/>
   <unicode hex="1F13A"/>
-  <anchor x="1305" y="0" name="m.uni0326"/>
-  <anchor x="1552" y="1490" name="m.uni030F_1"/>
+  <anchor x="1338" y="0" name="m.uni0326"/>
+  <anchor x="1585" y="1490" name="t.uni030F_1"/>
   <outline>
     <component base="uni2B1C"/>
     <component base="K" xOffset="681"/>

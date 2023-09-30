@@ -2,9 +2,9 @@
 <glyph name="uni03D3" format="2">
   <advance width="1730"/>
   <unicode hex="03D3"/>
-  <anchor x="1602" y="1490" name="m.uni030F_1"/>
+  <anchor x="1050" y="1490" name="t.uni030F_1"/>
   <outline>
     <component base="uni03D2" xOffset="363"/>
-    <component base="tonos.top" xOffset="-64" yOffset="-68"/>
+    <component base="tonos" xOffset="-64" yOffset="-68"/>
   </outline>
 </glyph>

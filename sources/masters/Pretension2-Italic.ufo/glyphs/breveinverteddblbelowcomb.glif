@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breveinverteddblbelowcomb" format="2">
+  <unicode hex="1DFC"/>
+  <outline>
+    <contour>
+      <point x="522" y="-407" type="qcurve"/>
+      <point x="358" y="-407" type="line"/>
+      <point x="335" y="-378"/>
+      <point x="237" y="-317"/>
+      <point x="100" y="-264"/>
+      <point x="-64" y="-232"/>
+      <point x="-154" y="-232" type="qcurve" smooth="yes"/>
+      <point x="-244" y="-232"/>
+      <point x="-418" y="-265"/>
+      <point x="-570" y="-317"/>
+      <point x="-688" y="-378"/>
+      <point x="-724" y="-407" type="qcurve"/>
+      <point x="-888" y="-407" type="line"/>
+      <point x="-837" y="-346"/>
+      <point x="-681" y="-236"/>
+      <point x="-485" y="-151"/>
+      <point x="-256" y="-102"/>
+      <point x="-131" y="-102" type="qcurve" smooth="yes"/>
+      <point x="-7" y="-102"/>
+      <point x="205" y="-151"/>
+      <point x="373" y="-235"/>
+      <point x="492" y="-345"/>
+    </contour>
+  </outline>
+</glyph>

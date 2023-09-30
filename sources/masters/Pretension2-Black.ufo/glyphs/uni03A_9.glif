@@ -3,8 +3,8 @@
   <advance width="1622"/>
   <unicode hex="03A9"/>
   <unicode hex="2126"/>
-  <anchor x="838" y="0" name="m.uni0326"/>
-  <anchor x="840" y="1490" name="m.uni030F_1"/>
+  <anchor x="810" y="0" name="m.uni0326"/>
+  <anchor x="811" y="1490" name="t.uni030F_1"/>
   <outline>
     <contour>
       <point x="75" y="0" type="line"/>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asteriskabovecomb" format="2">
+  <unicode hex="20F0"/>
+  <anchor x="-450" y="1304" name="_m.uni030F_1"/>
+  <anchor x="-450" y="1304" name="_t.uni030F"/>
+  <outline>
+    <contour>
+      <point x="-512" y="1278" type="line"/>
+      <point x="-512" y="1608" type="line"/>
+      <point x="-792" y="1448" type="line"/>
+      <point x="-816" y="1488" type="line"/>
+      <point x="-536" y="1648" type="line"/>
+      <point x="-808" y="1806" type="line"/>
+      <point x="-786" y="1848" type="line"/>
+      <point x="-512" y="1688" type="line"/>
+      <point x="-512" y="2010" type="line"/>
+      <point x="-466" y="2010" type="line"/>
+      <point x="-466" y="1688" type="line"/>
+      <point x="-194" y="1844" type="line"/>
+      <point x="-170" y="1804" type="line"/>
+      <point x="-442" y="1648" type="line"/>
+      <point x="-166" y="1490" type="line"/>
+      <point x="-190" y="1448" type="line"/>
+      <point x="-466" y="1608" type="line"/>
+      <point x="-466" y="1278" type="line"/>
+    </contour>
+  </outline>
+</glyph>

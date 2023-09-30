@@ -2,9 +2,9 @@
 <glyph name="uni1ED3" format="2">
   <advance width="1229"/>
   <unicode hex="1ED3"/>
-  <anchor x="652" y="0" name="m.uni0326"/>
-  <anchor x="1000" y="2084" name="m.uni030F_1"/>
-  <anchor x="1435" y="584" name="m.uni0328_4"/>
+  <anchor x="520" y="0" name="m.uni0326"/>
+  <anchor x="834" y="1890" name="t.uni030F_1"/>
+  <anchor x="1123" y="552" name="m.uni0328_3"/>
   <outline>
     <component base="o"/>
     <component base="circumflexgravecomb.cn" xOffset="198"/>

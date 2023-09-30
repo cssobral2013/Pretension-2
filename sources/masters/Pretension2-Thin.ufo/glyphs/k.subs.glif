@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k.subs" format="2">
-  <advance width="678"/>
+  <advance width="714"/>
   <unicode hex="2096"/>
+  <anchor x="379" y="-284" name="m.uni0326"/>
+  <anchor x="168" y="483" name="t.uni030F_1"/>
   <outline>
-    <component base="k.sups" yOffset="-1000"/>
+    <component base="k.sups" yOffset="-1200"/>
   </outline>
 </glyph>

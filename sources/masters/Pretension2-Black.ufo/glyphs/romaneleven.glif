@@ -2,7 +2,7 @@
 <glyph name="romaneleven" format="2">
   <advance width="2206"/>
   <unicode hex="216A"/>
-  <anchor x="2474" y="0" name="m.uni0328_4"/>
+  <anchor x="2110" y="0" name="m.uni0328_3"/>
   <outline>
     <component base="X"/>
     <component base="I" xOffset="1610"/>

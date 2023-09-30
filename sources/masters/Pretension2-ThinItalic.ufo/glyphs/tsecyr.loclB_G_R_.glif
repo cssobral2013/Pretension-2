@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tsecyr.loclBGR" format="2">
+  <advance width="1219"/>
+  <outline>
+    <contour>
+      <point x="503" y="-16" type="qcurve" smooth="yes"/>
+      <point x="389" y="-16"/>
+      <point x="225" y="81"/>
+      <point x="150" y="254"/>
+      <point x="169" y="368" type="qcurve" smooth="yes"/>
+      <point x="293" y="1118" type="line"/>
+      <point x="339" y="1118" type="line"/>
+      <point x="215" y="368" type="line" smooth="yes"/>
+      <point x="190" y="216"/>
+      <point x="351" y="30"/>
+      <point x="503" y="30" type="qcurve" smooth="yes"/>
+      <point x="607" y="30"/>
+      <point x="786" y="117"/>
+      <point x="907" y="270"/>
+      <point x="923" y="368" type="qcurve" smooth="yes"/>
+      <point x="1047" y="1118" type="line"/>
+      <point x="1093" y="1118" type="line"/>
+      <point x="908" y="0" type="line"/>
+      <point x="862" y="0" type="line"/>
+      <point x="902" y="240" type="line"/>
+      <point x="914" y="240" type="line"/>
+      <point x="856" y="112"/>
+      <point x="631" y="-16"/>
+    </contour>
+    <contour>
+      <point x="935" y="-320" type="line"/>
+      <point x="988" y="0" type="line"/>
+      <point x="880" y="0" type="line"/>
+      <point x="888" y="46" type="line"/>
+      <point x="1042" y="46" type="line"/>
+      <point x="981" y="-320" type="line"/>
+    </contour>
+  </outline>
+</glyph>

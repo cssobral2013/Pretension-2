@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FDB.1" format="2">
-  <advance width="1272"/>
+  <advance width="1256"/>
   <unicode hex="E029"/>
-  <anchor x="1429" y="0" name="m.uni0326"/>
-  <anchor x="1429" y="1490" name="m.uni030F_1"/>
-  <anchor x="2080" y="0" name="m.uni0328_4"/>
+  <anchor x="805" y="0" name="m.uni0326"/>
+  <anchor x="805" y="1490" name="t.uni030F_1"/>
+  <anchor x="1164" y="0" name="m.uni0328_3"/>
   <outline>
-    <component base="I.1" xOffset="369"/>
-    <component base="tonos.top" xOffset="-64" yOffset="-68"/>
+    <component base="I.1" xOffset="353"/>
+    <component base="tonos" xOffset="-64" yOffset="-68"/>
   </outline>
 </glyph>

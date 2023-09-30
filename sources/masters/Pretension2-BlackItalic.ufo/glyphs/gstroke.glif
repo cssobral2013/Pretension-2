@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gstroke" format="2">
+  <advance width="1327"/>
+  <unicode hex="01E5"/>
+  <anchor x="545" y="-402" name="m.uni0326"/>
+  <anchor x="810" y="1118" name="m.uni030F_1"/>
+  <outline>
+    <component base="g"/>
+    <component base="_part.crossbar_compact" xOffset="560" yOffset="-177"/>
+  </outline>
+</glyph>

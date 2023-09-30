@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onedotleader.ss07" format="2">
+  <advance width="554"/>
+  <unicode hex="2024"/>
+  <unicode hex="E2DC"/>
+  <outline>
+    <component base="period.ss07"/>
+  </outline>
+</glyph>

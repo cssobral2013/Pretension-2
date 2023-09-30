@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etaaspertildeiotasub" format="2">
+  <advance width="1960"/>
+  <unicode hex="1F9F"/>
+  <anchor x="1603" y="0" name="m.uni0326"/>
+  <anchor x="1850" y="1490" name="m.uni030F_1"/>
+  <anchor x="1137" y="0" name="m.uni0327_3"/>
+  <outline>
+    <component base="H" xOffset="454"/>
+    <component base="iotaadscript" xOffset="999"/>
+    <component base="aspertilde" xOffset="116" yOffset="-75"/>
+  </outline>
+</glyph>

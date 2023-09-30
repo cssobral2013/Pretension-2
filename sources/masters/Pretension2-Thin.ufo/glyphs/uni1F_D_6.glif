@@ -2,9 +2,9 @@
 <glyph name="uni1FD6" format="2">
   <advance width="472"/>
   <unicode hex="1FD6"/>
-  <anchor x="375" y="1242" name="m.uni030F_1"/>
+  <anchor x="221" y="1118" name="t.uni030F_1"/>
   <outline>
     <component base="iota"/>
-    <component base="tildecomb" xOffset="-283"/>
+    <component base="uni1FC0" xOffset="-283"/>
   </outline>
 </glyph>

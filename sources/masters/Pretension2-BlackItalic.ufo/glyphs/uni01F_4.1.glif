@@ -3,8 +3,8 @@
   <advance width="1545"/>
   <unicode hex="01F4"/>
   <unicode hex="E00A"/>
-  <anchor x="704" y="6" name="m.uni0326"/>
-  <anchor x="1020" y="1946" name="m.uni030F_1"/>
+  <anchor x="689" y="0" name="m.uni0326"/>
+  <anchor x="1027" y="1954" name="t.uni030F_1"/>
   <outline>
     <component base="G.1"/>
     <component base="acutecomb" xOffset="684" yOffset="372"/>

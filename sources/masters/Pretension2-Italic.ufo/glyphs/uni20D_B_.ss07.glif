@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20DB.ss07" format="2">
+  <unicode hex="20DB"/>
+  <unicode hex="E2C3"/>
+  <outline>
+    <component base="period.ss07" xOffset="216" yOffset="1304"/>
+    <component base="period.ss07" xOffset="806" yOffset="1304"/>
+    <component base="period.ss07" xOffset="1396" yOffset="1304"/>
+  </outline>
+</glyph>

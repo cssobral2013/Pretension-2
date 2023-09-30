@@ -4,7 +4,7 @@
   <unicode hex="03D0"/>
   <outline>
     <contour>
-      <point x="814" y="910" type="qcurve"/>
+      <point x="814" y="910" type="qcurve" smooth="yes"/>
       <point x="963" y="911"/>
       <point x="1167" y="791"/>
       <point x="1272" y="582"/>

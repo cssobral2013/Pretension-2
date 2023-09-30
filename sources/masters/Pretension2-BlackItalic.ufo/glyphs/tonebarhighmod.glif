@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonebarhighmod" format="2">
+  <advance width="830"/>
+  <unicode hex="02E6"/>
+  <outline>
+    <contour>
+      <point x="908" y="1458" type="line"/>
+      <point x="666" y="0" type="line"/>
+      <point x="290" y="0" type="line"/>
+      <point x="532" y="1458" type="line"/>
+    </contour>
+    <contour>
+      <point x="840" y="1242" type="line"/>
+      <point x="792" y="940" type="line"/>
+      <point x="140" y="940" type="line"/>
+      <point x="190" y="1242" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dngb_check.circled" format="2">
-  <advance width="2847"/>
-  <unicode hex="E13C"/>
-  <outline>
-    <component base="uni25EF"/>
-    <component base="dngb_check" xOffset="536" yOffset="89"/>
-  </outline>
-</glyph>

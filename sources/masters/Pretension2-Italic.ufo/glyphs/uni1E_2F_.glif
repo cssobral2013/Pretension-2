@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E2F" format="2">
   <advance width="497"/>
-  <unicode hex="1E2F"/>
-  <anchor x="322" y="0" name="m.uni0326"/>
-  <anchor x="513" y="1180" name="m.uni030F_1"/>
-  <anchor x="639" y="0" name="m.uni0328_4"/>
+  <anchor x="157" y="0" name="m.uni0326"/>
+  <anchor x="342" y="1118" name="t.uni030F_1"/>
+  <anchor x="246" y="0" name="m.uni0328_3"/>
   <outline>
     <component base="dotlessi"/>
     <component base="dieresisacutecomb.lc" xOffset="-350"/>

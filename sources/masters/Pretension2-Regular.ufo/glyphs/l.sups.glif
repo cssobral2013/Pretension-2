@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l.sups" format="2">
-  <advance width="351"/>
+  <advance width="405"/>
   <unicode hex="02E1"/>
+  <anchor x="202" y="898" name="m.uni0326"/>
+  <anchor x="203" y="1710" name="t.uni030F_1"/>
   <outline>
     <contour>
-      <point x="255" y="1736" type="line"/>
-      <point x="255" y="744" type="line"/>
-      <point x="96" y="744" type="line"/>
-      <point x="96" y="1736" type="line"/>
+      <point x="288" y="1710" type="line"/>
+      <point x="288" y="898" type="line"/>
+      <point x="117" y="898" type="line"/>
+      <point x="117" y="1710" type="line"/>
     </contour>
   </outline>
 </glyph>

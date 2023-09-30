@@ -11,7 +11,7 @@
   <key>descender</key>
   <integer>-494</integer>
   <key>familyName</key>
-  <string>Pretension 2</string>
+  <string>Pretension 2 VF</string>
   <key>guidelines</key>
   <array>
   <dict>
@@ -67,7 +67,7 @@
   <key>openTypeNameManufacturerURL</key>
   <string>https://rsms.me/</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>Pretension 2</string>
+  <string>Pretension 2 VF</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Black</string>
   <key>openTypeNameRecords</key>
@@ -388,11 +388,11 @@
     <integer>0</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>Pretension2-Black</string>
+  <string>Pretension2VF-Black</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Pretension 2 Black</string>
+  <string>Pretension 2 VF Black</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptUnderlinePosition</key>
@@ -402,7 +402,7 @@
   <key>postscriptWeightName</key>
   <string>Black</string>
   <key>styleMapFamilyName</key>
-  <string>Pretension 2 Black</string>
+  <string>Pretension 2 VF Black</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>

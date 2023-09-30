@@ -2,9 +2,9 @@
 <glyph name="uni0202" format="2">
   <advance width="1413"/>
   <unicode hex="0202"/>
-  <anchor x="856" y="0" name="m.uni0326"/>
-  <anchor x="1191" y="2014" name="m.uni030F_1"/>
-  <anchor x="1773" y="0" name="m.uni0328_4"/>
+  <anchor x="613" y="0" name="m.uni0326"/>
+  <anchor x="936" y="1947" name="t.uni030F_1"/>
+  <anchor x="1268" y="0" name="m.uni0328_3"/>
   <outline>
     <component base="A"/>
     <component base="breveinvcomb" xOffset="347" yOffset="372"/>

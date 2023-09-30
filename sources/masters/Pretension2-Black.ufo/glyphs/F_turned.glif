@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Fturned" format="2">
+  <advance width="1196"/>
+  <unicode hex="2132"/>
+  <anchor x="646" y="0" name="m.uni0326"/>
+  <anchor x="936" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <contour>
+      <point x="1100" y="1490" type="line"/>
+      <point x="1100" y="0" type="line"/>
+      <point x="52" y="0" type="line"/>
+      <point x="52" y="326" type="line"/>
+      <point x="696" y="326" type="line"/>
+      <point x="696" y="662" type="line"/>
+      <point x="116" y="662" type="line"/>
+      <point x="116" y="980" type="line"/>
+      <point x="696" y="980" type="line"/>
+      <point x="696" y="1490" type="line"/>
+    </contour>
+  </outline>
+</glyph>

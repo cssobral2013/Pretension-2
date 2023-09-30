@@ -3,8 +3,8 @@
   <advance width="1545"/>
   <unicode hex="01E4"/>
   <unicode hex="E003"/>
-  <anchor x="704" y="6" name="m.uni0326"/>
-  <anchor x="944" y="1490" name="m.uni030F_1"/>
+  <anchor x="689" y="0" name="m.uni0326"/>
+  <anchor x="950" y="1490" name="t.uni030F_1"/>
   <outline>
     <component base="G.1"/>
     <component base="_part.crossbar_compact_rext" xOffset="634" yOffset="-286"/>

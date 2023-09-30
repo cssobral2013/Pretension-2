@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni022A.ss07" format="2">
+  <advance width="1566"/>
+  <unicode hex="022A"/>
+  <unicode hex="E203"/>
+  <anchor x="784" y="0" name="m.uni0326"/>
+  <anchor x="784" y="1490" name="t.uni030F_1"/>
+  <anchor x="1444" y="744" name="m.uni0328_3"/>
+  <outline>
+    <component base="O"/>
+    <component base="dieresismacroncomb.uc.ss07" xOffset="184"/>
+  </outline>
+</glyph>

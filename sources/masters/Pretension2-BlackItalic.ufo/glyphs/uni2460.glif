@@ -2,7 +2,7 @@
 <glyph name="uni2460" format="2">
   <advance width="2847"/>
   <outline>
-    <component base="uni25EF"/>
+    <component base="largecircle"/>
     <component base="one" xOffset="905"/>
   </outline>
 </glyph>

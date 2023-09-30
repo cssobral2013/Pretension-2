@@ -4,6 +4,6 @@
   <unicode hex="E13D"/>
   <outline>
     <component base="uni25EF"/>
-    <component base="dngb_ballotx" xOffset="519" yOffset="97"/>
+    <component base="dngb_ballotx" xOffset="521" yOffset="97"/>
   </outline>
 </glyph>

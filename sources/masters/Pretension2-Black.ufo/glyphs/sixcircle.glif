@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sixcircle" format="2">
+  <advance width="2846"/>
+  <unicode hex="2465"/>
+  <unicode hex="2785"/>
+  <unicode hex="E12F"/>
+  <outline>
+    <component base="largecircle"/>
+    <component base="six.ss01" xOffset="734"/>
+  </outline>
+</glyph>

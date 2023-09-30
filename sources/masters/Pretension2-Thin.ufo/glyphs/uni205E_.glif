@@ -3,9 +3,9 @@
   <advance width="298"/>
   <unicode hex="205E"/>
   <outline>
-    <component base="uni0307" xOffset="750" yOffset="-144"/>
-    <component base="uni0307" xOffset="750" yOffset="-558"/>
-    <component base="uni0307" xOffset="750" yOffset="-950"/>
-    <component base="uni0307" xOffset="750" yOffset="-1352"/>
+    <component base="dotbelow" xOffset="750" yOffset="1542"/>
+    <component base="dotbelow" xOffset="750" yOffset="1128"/>
+    <component base="dotbelow" xOffset="750" yOffset="736"/>
+    <component base="dotbelow" xOffset="750" yOffset="334"/>
   </outline>
 </glyph>

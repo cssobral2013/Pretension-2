@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fivecircle" format="2">
+  <advance width="2846"/>
+  <unicode hex="2464"/>
+  <unicode hex="2784"/>
+  <outline>
+    <component base="largecircle"/>
+    <component base="five" xOffset="729"/>
+  </outline>
+</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="greater.case" format="2">
-  <advance width="1421"/>
-  <unicode hex="E098"/>
-  <outline>
-    <component base="greater" xOffset="23" yOffset="139"/>
-  </outline>
-</glyph>

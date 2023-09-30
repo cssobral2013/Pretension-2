@@ -2,11 +2,11 @@
 <glyph name="uni1F84" format="2">
   <advance width="1473"/>
   <unicode hex="1F84"/>
-  <anchor x="624" y="0" name="m.uni0326"/>
-  <anchor x="726" y="1118" name="m.uni030F_1"/>
+  <anchor x="574" y="0" name="m.uni0326"/>
+  <anchor x="654" y="1118" name="t.uni030F_1"/>
   <outline>
     <component base="alpha"/>
-    <component base="uni1FBE" xOffset="306"/>
+    <component base="uni1FBE" xOffset="270"/>
     <component base="uni1FCE" xOffset="220"/>
   </outline>
 </glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E67.ss07" format="2">
+  <advance width="1010"/>
+  <unicode hex="1E67"/>
+  <unicode hex="E25A"/>
+  <anchor x="518" y="0" name="m.uni0326"/>
+  <anchor x="518" y="1118" name="t.uni030F_1"/>
+  <anchor x="516" y="0" name="m.uni0327_2"/>
+  <outline>
+    <component base="s"/>
+    <component base="carondot.lc.ss07" xOffset="155"/>
+  </outline>
+</glyph>

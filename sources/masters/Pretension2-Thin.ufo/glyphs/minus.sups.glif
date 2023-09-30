@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="minus.sups" format="2">
-  <advance width="866"/>
+  <advance width="758"/>
   <unicode hex="207B"/>
   <outline>
     <contour>
-      <point x="718" y="1134" type="line"/>
-      <point x="718" y="1088" type="line"/>
-      <point x="148" y="1088" type="line"/>
-      <point x="148" y="1134" type="line"/>
+      <point x="619" y="1303" type="line"/>
+      <point x="619" y="1257" type="line"/>
+      <point x="140" y="1257" type="line"/>
+      <point x="140" y="1303" type="line"/>
     </contour>
   </outline>
 </glyph>

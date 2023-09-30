@@ -1,40 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresistonos_narrow" format="2">
-  <advance width="1234"/>
+  <advance width="1330"/>
+  <anchor x="705" y="1118" name="_top"/>
   <outline>
     <contour>
-      <point x="935" y="1223" type="qcurve" smooth="yes"/>
-      <point x="862" y="1223"/>
-      <point x="776" y="1322"/>
-      <point x="787" y="1392" type="qcurve" smooth="yes"/>
-      <point x="799" y="1462"/>
-      <point x="918" y="1561"/>
-      <point x="991" y="1561" type="qcurve" smooth="yes"/>
-      <point x="1064" y="1561"/>
-      <point x="1151" y="1462"/>
-      <point x="1139" y="1392" type="qcurve" smooth="yes"/>
-      <point x="1128" y="1322"/>
-      <point x="1008" y="1223"/>
+      <point x="711" y="1260" type="line"/>
+      <point x="755" y="1524" type="line"/>
+      <point x="433" y="1524" type="line"/>
+      <point x="389" y="1260" type="line"/>
     </contour>
     <contour>
-      <point x="501" y="1223" type="qcurve" smooth="yes"/>
-      <point x="428" y="1223"/>
-      <point x="342" y="1322"/>
-      <point x="353" y="1392" type="qcurve" smooth="yes"/>
-      <point x="365" y="1462"/>
-      <point x="484" y="1561"/>
-      <point x="557" y="1561" type="qcurve" smooth="yes"/>
-      <point x="630" y="1561"/>
-      <point x="717" y="1462"/>
-      <point x="705" y="1392" type="qcurve" smooth="yes"/>
-      <point x="694" y="1322"/>
-      <point x="574" y="1223"/>
+      <point x="1173" y="1260" type="line"/>
+      <point x="1217" y="1524" type="line"/>
+      <point x="895" y="1524" type="line"/>
+      <point x="851" y="1260" type="line"/>
     </contour>
     <contour>
-      <point x="710" y="1632" type="line"/>
-      <point x="779" y="1893" type="line"/>
-      <point x="1047" y="1893" type="line"/>
-      <point x="889" y="1632" type="line"/>
+      <point x="906" y="1632" type="line"/>
+      <point x="1124" y="1893" type="line"/>
+      <point x="849" y="1893" type="line"/>
+      <point x="695" y="1632" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

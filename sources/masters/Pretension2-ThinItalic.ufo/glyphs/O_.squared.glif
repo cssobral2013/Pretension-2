@@ -2,9 +2,9 @@
 <glyph name="O.squared" format="2">
   <advance width="2828"/>
   <unicode hex="1F13E"/>
-  <anchor x="1302" y="0" name="m.uni0326"/>
-  <anchor x="1551" y="1490" name="m.uni030F_1"/>
-  <anchor x="2075" y="960" name="m.uni0328_4"/>
+  <anchor x="1322" y="0" name="m.uni0326"/>
+  <anchor x="1569" y="1490" name="t.uni030F_1"/>
+  <anchor x="2077" y="926" name="m.uni0328_3"/>
   <outline>
     <component base="uni2B1C"/>
     <component base="O" xOffset="649"/>

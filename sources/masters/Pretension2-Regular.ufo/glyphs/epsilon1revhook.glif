@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="epsilon1revhook" format="2">
-  <advance width="1434"/>
+  <advance width="1426"/>
   <unicode hex="025D"/>
-  <anchor x="709" y="1180" name="m.uni030F_1"/>
+  <anchor x="539" y="1118" name="t.uni030F_1"/>
   <outline>
     <contour>
-      <point x="902" y="728" type="line"/>
-      <point x="902" y="890" type="line"/>
-      <point x="1166" y="942" type="line"/>
-      <point x="1180" y="857"/>
-      <point x="1213" y="726"/>
-      <point x="1273" y="652"/>
-      <point x="1326" y="652" type="qcurve" smooth="yes"/>
-      <point x="1352" y="652"/>
-      <point x="1379" y="656"/>
-      <point x="1388" y="658" type="qcurve"/>
-      <point x="1414" y="536" type="line"/>
-      <point x="1386" y="520"/>
-      <point x="1321" y="504"/>
-      <point x="1286" y="504" type="qcurve" smooth="yes"/>
-      <point x="1203" y="504"/>
-      <point x="1105" y="573"/>
-      <point x="1053" y="687"/>
-      <point x="1038" y="754" type="qcurve"/>
+      <point x="1278" y="476" type="qcurve" smooth="yes"/>
+      <point x="1196" y="476"/>
+      <point x="1104" y="539"/>
+      <point x="1059" y="648"/>
+      <point x="1044" y="717" type="qcurve"/>
+      <point x="876" y="616" type="line"/>
+      <point x="876" y="770" type="line"/>
+      <point x="1152" y="933" type="line"/>
+      <point x="1165" y="847"/>
+      <point x="1196" y="700"/>
+      <point x="1251" y="610"/>
+      <point x="1299" y="610" type="qcurve" smooth="yes"/>
+      <point x="1325" y="610"/>
+      <point x="1370" y="624"/>
+      <point x="1380" y="628" type="qcurve"/>
+      <point x="1406" y="508" type="line"/>
+      <point x="1378" y="495"/>
+      <point x="1313" y="476"/>
     </contour>
     <contour>
       <point x="536" y="-20" type="qcurve" smooth="yes"/>

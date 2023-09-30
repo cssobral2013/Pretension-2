@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ahoi" format="2">
+  <advance width="1191"/>
+  <unicode hex="1EA3"/>
+  <anchor x="729" y="0" name="m.uni0326"/>
+  <anchor x="900" y="1242" name="m.uni030F_1"/>
+  <anchor x="1253" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="a"/>
+    <component base="hookabovecomb" xOffset="359"/>
+  </outline>
+</glyph>

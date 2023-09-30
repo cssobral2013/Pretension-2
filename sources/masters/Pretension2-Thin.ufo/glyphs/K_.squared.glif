@@ -2,10 +2,10 @@
 <glyph name="K.squared" format="2">
   <advance width="2828"/>
   <unicode hex="1F13A"/>
-  <anchor x="1415" y="0" name="m.uni0326"/>
-  <anchor x="1415" y="1490" name="m.uni030F_1"/>
+  <anchor x="1421" y="0" name="m.uni0326"/>
+  <anchor x="1421" y="1490" name="t.uni030F_1"/>
   <outline>
     <component base="uni2B1C"/>
-    <component base="K" xOffset="783"/>
+    <component base="K" xOffset="759"/>
   </outline>
 </glyph>

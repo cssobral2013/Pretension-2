@@ -2,15 +2,9 @@
 <glyph name="uni0492" format="2">
   <advance width="1185"/>
   <unicode hex="0492"/>
-  <anchor x="844" y="1490" name="m.uni030F_1"/>
+  <anchor x="790" y="1490" name="t.uni030F_1"/>
   <outline>
-    <component base="Gamma"/>
-    <component base="crossbar.uc" xOffset="25"/>
+    <component base="uni0413"/>
+    <component base="crossbar.uc" xOffset="1185"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>Gamma</string>
-  </dict>
-  </lib>
 </glyph>

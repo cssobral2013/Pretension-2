@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="plus.squared" format="2">
-  <advance width="2828"/>
-  <unicode hex="E155"/>
-  <outline>
-    <component base="uni2B1C"/>
-    <component base="plus" xOffset="727" yOffset="140"/>
-  </outline>
-</glyph>

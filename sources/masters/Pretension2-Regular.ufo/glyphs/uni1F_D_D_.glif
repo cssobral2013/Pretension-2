@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FDD" format="2">
-  <advance width="875"/>
+  <advance width="701"/>
   <unicode hex="1FDD"/>
   <outline>
     <contour>
@@ -24,10 +24,10 @@
       <point x="330" y="1255" type="line"/>
     </contour>
     <contour>
-      <point x="713" y="1264" type="line"/>
-      <point x="588" y="1264" type="line"/>
-      <point x="486" y="1558" type="line"/>
-      <point x="679" y="1558" type="line"/>
+      <point x="661" y="1264" type="line"/>
+      <point x="536" y="1264" type="line"/>
+      <point x="434" y="1558" type="line"/>
+      <point x="627" y="1558" type="line"/>
     </contour>
   </outline>
 </glyph>

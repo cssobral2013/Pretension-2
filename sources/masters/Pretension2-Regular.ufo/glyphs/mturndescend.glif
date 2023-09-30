@@ -2,8 +2,8 @@
 <glyph name="mturndescend" format="2">
   <advance width="1794"/>
   <unicode hex="0270"/>
-  <anchor x="1080" y="0" name="m.uni0326"/>
-  <anchor x="1082" y="1180" name="m.uni030F_1"/>
+  <anchor x="890" y="0" name="m.uni0326"/>
+  <anchor x="890" y="1118" name="t.uni030F_1"/>
   <outline>
     <contour>
       <point x="1450" y="-418" type="line"/>

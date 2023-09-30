@@ -2,12 +2,12 @@
 <glyph name="uni018A" format="2">
   <advance width="1959"/>
   <unicode hex="018A"/>
-  <anchor x="1337" y="0" name="m.uni0326"/>
-  <anchor x="1430" y="1490" name="m.uni030F_1"/>
+  <anchor x="1061" y="0" name="m.uni0326"/>
+  <anchor x="1228" y="1490" name="t.uni030F_1"/>
   <outline>
     <contour>
       <point x="119" y="1024" type="line"/>
-      <point x="130" y="1096" type="line"/>
+      <point x="130" y="1096" type="line" smooth="yes"/>
       <point x="165" y="1302"/>
       <point x="441" y="1490"/>
       <point x="708" y="1490" type="qcurve" smooth="yes"/>

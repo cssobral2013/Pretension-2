@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight.romansmall" format="2">
+  <advance width="3115"/>
+  <unicode hex="2177"/>
+  <outline>
+    <component base="v"/>
+    <component base="dotlessi" xOffset="1294"/>
+    <component base="dotaccentcomb" xOffset="1262"/>
+    <component base="dotlessi" xOffset="1901"/>
+    <component base="dotaccentcomb" xOffset="1869"/>
+    <component base="dotlessi" xOffset="2508"/>
+    <component base="dotaccentcomb" xOffset="2476"/>
+  </outline>
+</glyph>

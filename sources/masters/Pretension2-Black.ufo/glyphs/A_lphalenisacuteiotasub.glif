@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphalenisacuteiotasub" format="2">
+  <advance width="2123"/>
+  <unicode hex="1F8C"/>
+  <anchor x="1609" y="0" name="m.uni0326"/>
+  <anchor x="1609" y="1490" name="m.uni030F_1"/>
+  <anchor x="2517" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="A" xOffset="495"/>
+    <component base="lenisacute" xOffset="-24" yOffset="-105"/>
+    <component base="iotaadscript" xOffset="1037"/>
+  </outline>
+</glyph>

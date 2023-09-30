@@ -2,9 +2,9 @@
 <glyph name="uni1F77" format="2">
   <advance width="564"/>
   <unicode hex="1F77"/>
-  <anchor x="417" y="1180" name="m.uni030F_1"/>
+  <anchor x="248" y="1118" name="t.uni030F_1"/>
   <outline>
     <component base="iota"/>
-    <component base="tonos.top" xOffset="24"/>
+    <component base="uni1FFD" xOffset="24"/>
   </outline>
 </glyph>
