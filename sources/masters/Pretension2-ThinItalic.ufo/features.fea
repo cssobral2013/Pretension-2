@@ -105,7 +105,6 @@ languagesystem latn ROM ; # Latin Romanian
 #
 # Feature definitions
 #
-
 feature aalt useExtension {
 # GSUB feature: Access All Alternates
 # Lookups: 2
@@ -177,7 +176,6 @@ feature aalt useExtension {
   sub minus.case from [minus.case.tf minus.subs];
   sub asterisk from [asterisk.tf asterisk.case];
 } aalt;
-
 feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 7
@@ -814,7 +812,6 @@ feature ccmp {
   sub dngb_ballotx uni20DD by dngb_ballotx.circled;
 
 } ccmp;
-
 feature locl {
 # GSUB feature: Localized Forms
 # Lookups: 3
@@ -832,7 +829,6 @@ feature locl {
 
 
 } locl;
-
 feature sinf {
 # GSUB feature: Scientific Inferiors
 # Lookups: 1
@@ -840,7 +836,6 @@ feature sinf {
   sub @sinf by @sinf2;
 
 } sinf;
-
 feature numr {
 # GSUB feature: Numerators
 # Lookups: 1
@@ -848,7 +843,6 @@ feature numr {
   sub @numr by @numr2;
 
 } numr;
-
 feature dnom {
 # GSUB feature: Denominators
 # Lookups: 1
@@ -856,7 +850,6 @@ feature dnom {
   sub @dnom by @dnom2;
 
 } dnom;
-
 feature frac {
 # GSUB feature: Fractions
 # Lookups: 3
@@ -867,7 +860,6 @@ feature frac {
   sub @frac2 @frac' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
 
 } frac;
-
 feature case {
 # GSUB feature: Case-Sensitive Forms
 # Lookups: 1
@@ -875,7 +867,6 @@ feature case {
   sub @case by @case2;
 
 } case;
-
 feature calt {
 # GSUB feature: Contextual Alternates
 # Lookups: 4
@@ -1578,7 +1569,6 @@ feature calt {
   sub @calt5 @calt5 x' @calt9 @calt5 by multiply.case;
 
 } calt;
-
 feature dlig {
 # GSUB feature: Discretionary Ligatures
 # Lookups: 2
@@ -1596,7 +1586,6 @@ feature dlig {
 
 
 } dlig;
-
 feature pnum {
 # GSUB feature: Proportional Figures
 # Lookups: 1
@@ -1605,7 +1594,6 @@ feature pnum {
   sub @pnumss01 by @pnumss012;
 
 } pnum;
-
 feature tnum {
 # GSUB feature: Tabular Figures
 # Lookups: 1
@@ -1614,7 +1602,6 @@ feature tnum {
   sub @tnumss01 by @tnumss012;
 
 } tnum;
-
 feature zero {
 # GSUB feature: Slashed Zero
 # Lookups: 1
@@ -1622,7 +1609,6 @@ feature zero {
   sub [zero zero.tf uni24EA zero.squared] by [zero.slash zero.tf.slash zero.slash.circled zero.slash.squared];
 
 } zero;
-
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
@@ -1630,7 +1616,6 @@ feature sups {
   sub @subs_sups by @sups;
 
 } sups;
-
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
@@ -1638,7 +1623,6 @@ feature subs {
   sub @subs_sups by @subs;
 
 } subs;
-
 feature ordn {
 # GSUB feature: Ordinals
 # Lookups: 2
@@ -1648,7 +1632,6 @@ feature ordn {
   sub N o period by uni2116;
 
 } ordn;
-
 feature salt {
 # GSUB feature: Stylistic Alternates
 # Lookups: 1
@@ -1656,7 +1639,6 @@ feature salt {
   sub @salt by @salt2;
 
 } salt;
-
 feature ss01 {
 # GSUB feature: Stylistic Set 1
 # Lookups: 1
@@ -1668,7 +1650,6 @@ feature ss01 {
   sub @ss01 by @ss012;
 
 } ss01;
-
 feature ss02 {
 # GSUB feature: Stylistic Set 2
 # Lookups: 1
@@ -1680,7 +1661,6 @@ feature ss02 {
   sub @ss02 by @ss022;
 
 } ss02;
-
 feature ss03 {
 # GSUB feature: Stylistic Set 3
 # Lookups: 1
@@ -1692,7 +1672,6 @@ feature ss03 {
   sub @ss03 by @ss032;
 
 } ss03;
-
 feature ss04 {
 # GSUB feature: Stylistic Set 4
 # Lookups: 1
@@ -1704,7 +1683,6 @@ feature ss04 {
   sub @ss04 by @ss042;
 
 } ss04;
-
 feature cv01 {
 # GSUB
 # Lookups: 1
@@ -1717,7 +1695,6 @@ feature cv01 {
   sub [one one.tf uni2460 one.squared] by [one.ss01 one.tf.ss01 one.ss01.circled one.ss01.squared];
 
 } cv01;
-
 feature cv02 {
 # GSUB
 # Lookups: 1
@@ -1730,7 +1707,6 @@ feature cv02 {
   sub [four four.tf uni2463 four.squared] by [four.ss01 four.tf.ss01 four.ss01.circled four.ss01.squared];
 
 } cv02;
-
 feature cv03 {
 # GSUB
 # Lookups: 1
@@ -1743,7 +1719,6 @@ feature cv03 {
   sub [six six.tf uni2465 six.squared] by [six.ss01 six.tf.ss01 six.ss01.circled six.ss01.squared];
 
 } cv03;
-
 feature cv04 {
 # GSUB
 # Lookups: 1
@@ -1756,7 +1731,6 @@ feature cv04 {
   sub [nine nine.tf uni2468 nine.squared] by [nine.ss01 nine.tf.ss01 nine.ss01.circled nine.ss01.squared];
 
 } cv04;
-
 feature cv05 {
 # GSUB
 # Lookups: 1
@@ -1769,7 +1743,6 @@ feature cv05 {
   sub @cv05 by @cv052;
 
 } cv05;
-
 feature cv06 {
 # GSUB
 # Lookups: 1
@@ -1782,7 +1755,6 @@ feature cv06 {
   sub @cv06 by @cv062;
 
 } cv06;
-
 feature cv07 {
 # GSUB
 # Lookups: 1
@@ -1795,7 +1767,6 @@ feature cv07 {
   sub germandbls by germandbls.1;
 
 } cv07;
-
 feature cv08 {
 # GSUB
 # Lookups: 1
@@ -1808,7 +1779,6 @@ feature cv08 {
   sub @cv08 by @cv082;
 
 } cv08;
-
 feature cv09 {
 # GSUB
 # Lookups: 1
@@ -1821,7 +1791,6 @@ feature cv09 {
   sub [three three.tf uni2462 three.squared] by [three.ss01 three.tf.ss01 threecircle three.ss01.squared];
 
 } cv09;
-
 feature cv10 {
 # GSUB
 # Lookups: 1
@@ -1834,7 +1803,6 @@ feature cv10 {
   sub @cv10 by @cv102;
 
 } cv10;
-
 feature cv12 {
 # GSUB
 # Lookups: 1
@@ -1847,7 +1815,6 @@ feature cv12 {
   sub [f uni1E1F feng] by [f.1 uni1E1F.1 feng.1];
 
 } cv12;
-
 feature cv13 {
 # GSUB
 # Lookups: 1
@@ -1860,7 +1827,6 @@ feature cv13 {
   sub @cv13_dlig by @cv13;
 
 } cv13;
-
 feature c2sc {
 # GSUB feature: Small Capitals From Capitals
 # Lookups: 1
@@ -1868,7 +1834,6 @@ feature c2sc {
   sub @c2sc by @c2sc_smcp;
 
 } c2sc;
-
 feature smcp {
 # GSUB feature: Small Capitals
 # Lookups: 1
@@ -1876,7 +1841,6 @@ feature smcp {
   sub @smcp by @c2sc_smcp;
 
 } smcp;
-
 feature cpsp {
 # GPOS feature: Capital Spacing
 # Lookups: 1
@@ -1884,7 +1848,6 @@ feature cpsp {
   pos @cpsp <16 0 32 0>;
 
 } cpsp;
-
 feature kern {
 # GPOS feature: Kerning
 # Lookups: 2
@@ -11869,7 +11832,6 @@ feature kern {
 
 
 } kern;
-
 feature mark {
 # GPOS feature: Mark Positioning
 # Lookups: 1
@@ -20267,7 +20229,6 @@ feature mark {
 
 
 } mark;
-
 feature mkmk {
 # GPOS feature: Mark to Mark Positioning
 # Lookups: 1
@@ -20321,4 +20282,3 @@ feature mkmk {
 
 
 } mkmk;
-

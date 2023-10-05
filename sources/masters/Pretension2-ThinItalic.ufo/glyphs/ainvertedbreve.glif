@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ainvertedbreve" format="2">
-  <advance width="1076"/>
+  <advance width="1108"/>
   <unicode hex="0203"/>
   <anchor x="729" y="0" name="m.uni0326"/>
   <anchor x="983" y="1732" name="m.uni030F_1"/>

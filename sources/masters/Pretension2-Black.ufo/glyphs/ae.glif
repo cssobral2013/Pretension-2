@@ -32,12 +32,12 @@
       <point x="1256" y="262" type="qcurve" smooth="yes"/>
       <point x="1297" y="262"/>
       <point x="1364" y="285"/>
-      <point x="1412" y="329"/>
-      <point x="1424" y="360" type="qcurve"/>
-      <point x="1790" y="360" type="line"/>
-      <point x="1771" y="244"/>
-      <point x="1632" y="73"/>
-      <point x="1403" y="-20"/>
+      <point x="1412" y="328"/>
+      <point x="1424" y="359" type="qcurve"/>
+      <point x="1778" y="307" type="line"/>
+      <point x="1750" y="207"/>
+      <point x="1608" y="60"/>
+      <point x="1391" y="-20"/>
       <point x="1248" y="-20" type="qcurve" smooth="yes"/>
       <point x="1148" y="-20"/>
       <point x="978" y="24"/>
