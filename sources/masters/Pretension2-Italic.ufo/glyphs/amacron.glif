@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="amacron" format="2">
-  <advance width="1142"/>
+  <advance width="1155"/>
   <unicode hex="0101"/>
   <anchor x="722" y="0" name="m.uni0326"/>
   <anchor x="989" y="1627" name="m.uni030F_1"/>

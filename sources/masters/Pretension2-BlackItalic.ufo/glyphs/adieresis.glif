@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="adieresis" format="2">
-  <advance width="1222"/>
+  <advance width="1210"/>
   <unicode hex="00E4"/>
   <anchor x="666" y="0" name="m.uni0326"/>
   <anchor x="931" y="1629" name="m.uni030F_1"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="edieresis" format="2">
-  <advance width="1129"/>
+  <advance width="1181"/>
   <unicode hex="00EB"/>
   <anchor x="640" y="0" name="m.uni0326"/>
   <anchor x="958" y="1589" name="m.uni030F_1"/>
