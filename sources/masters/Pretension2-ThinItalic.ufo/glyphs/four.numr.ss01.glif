@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="four.numr.ss01" format="2">
-  <advance width="718"/>
-  <unicode hex="E0E0"/>
-  <outline>
-    <component base="four.dnom.ss01" xOffset="120" yOffset="723"/>
-  </outline>
-</glyph>

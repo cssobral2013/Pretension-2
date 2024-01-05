@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="slongdotaccent" format="2">
-  <advance width="543"/>
-  <anchor x="577" y="1897" name="t.uni030F_1"/>
-  <outline>
-    <component base="longs"/>
-    <component base="uni0307" xOffset="240" yOffset="430"/>
-  </outline>
-</glyph>

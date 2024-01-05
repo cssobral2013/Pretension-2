@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni2236" format="2">
-  <advance width="764"/>
-  <unicode hex="2236"/>
-  <unicode hex="EE01"/>
-  <outline>
-    <component base="colon.case"/>
-  </outline>
-</glyph>

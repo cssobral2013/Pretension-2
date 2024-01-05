@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rfishhookrev" format="2">
-  <advance width="666"/>
-  <unicode hex="027F"/>
-  <outline>
-    <component base="uni027E" xScale="-1" xOffset="666"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dieresisacutecomb.uc.ss07" format="2">
-  <advance width="1164"/>
-  <unicode hex="E121"/>
-  <unicode hex="E2CE"/>
-  <outline>
-    <component base="dieresisacutecomb.lc.ss07" yOffset="372"/>
-  </outline>
-</glyph>

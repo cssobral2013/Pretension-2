@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni1FED" format="2">
-  <advance width="1196"/>
-  <outline>
-    <component base="dieresistonos" xScale="-1" xOffset="1196"/>
-  </outline>
-</glyph>

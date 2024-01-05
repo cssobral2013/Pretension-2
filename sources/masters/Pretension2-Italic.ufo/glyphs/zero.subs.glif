@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zero.subs" format="2">
-  <advance width="943"/>
-  <unicode hex="2080"/>
-  <anchor x="462" y="510" name="t.uni030F_1"/>
-  <outline>
-    <component base="zero.sups" xOffset="-199" yOffset="-1200"/>
-  </outline>
-</glyph>

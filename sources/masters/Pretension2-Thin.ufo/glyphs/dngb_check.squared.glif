@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dngb_check.squared" format="2">
-  <advance width="2828"/>
-  <unicode hex="E15D"/>
-  <outline>
-    <component base="uni2B1C"/>
-    <component base="dngb_check" xOffset="512" yOffset="37"/>
-  </outline>
-</glyph>

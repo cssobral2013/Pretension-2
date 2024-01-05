@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni045F" format="2">
-  <advance width="1204"/>
-  <unicode hex="045F"/>
-  <outline>
-    <component base="pecyrillicturn"/>
-    <component base="_part.cyrtic_center" xOffset="384"/>
-  </outline>
-</glyph>

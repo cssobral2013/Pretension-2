@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dotbelow" format="2">
-  <advance width="495"/>
-  <anchor x="151" y="0" name="_m.uni0326"/>
-  <outline>
-    <component base="uni0307" xOffset="-285" yOffset="-1722"/>
-  </outline>
-</glyph>

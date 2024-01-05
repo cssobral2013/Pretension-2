@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="nine.numr.ss01" format="2">
-  <advance width="776"/>
-  <unicode hex="E0E5"/>
-  <outline>
-    <component base="nine.dnom.ss01" xOffset="107" yOffset="648"/>
-  </outline>
-</glyph>

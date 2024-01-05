@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="epsilon1rev" format="2">
-  <advance width="1177"/>
-  <unicode hex="025C"/>
-  <anchor x="572" y="1118" name="t.uni030F_1"/>
-  <outline>
-    <component base="epsilon" xScale="-1" xOffset="1177"/>
-  </outline>
-</glyph>

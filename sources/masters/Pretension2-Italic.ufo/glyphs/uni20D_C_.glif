@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni20DC" format="2">
-  <outline>
-    <component base="period" xOffset="216" yOffset="1298"/>
-    <component base="period" xOffset="806" yOffset="1298"/>
-    <component base="period" xOffset="1396" yOffset="1298"/>
-    <component base="period" xOffset="1986" yOffset="1298"/>
-  </outline>
-</glyph>

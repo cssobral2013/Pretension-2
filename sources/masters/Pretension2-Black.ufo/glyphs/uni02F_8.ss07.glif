@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni02F8.ss07" format="2">
-  <advance width="764"/>
-  <unicode hex="02F8"/>
-  <unicode hex="E2BA"/>
-  <outline>
-    <component base="colon.ss07" yOffset="424"/>
-  </outline>
-</glyph>

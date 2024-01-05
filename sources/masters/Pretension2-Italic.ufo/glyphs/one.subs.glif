@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="one.subs" format="2">
-  <advance width="624"/>
-  <outline>
-    <component base="one.sups" xOffset="-199" yOffset="-1200"/>
-  </outline>
-</glyph>

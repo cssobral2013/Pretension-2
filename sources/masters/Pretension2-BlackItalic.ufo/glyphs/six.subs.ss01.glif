@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="six.subs.ss01" format="2">
-  <advance width="980"/>
-  <unicode hex="2086"/>
-  <outline>
-    <component base="six.sups.ss01" xOffset="-199" yOffset="-1200"/>
-  </outline>
-</glyph>

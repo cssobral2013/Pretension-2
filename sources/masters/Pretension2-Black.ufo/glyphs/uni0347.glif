@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0347" format="2">
-  <unicode hex="0347"/>
-  <anchor x="-648" y="0" name="_m.uni0326"/>
-  <outline>
-    <component base="equal.subs" xOffset="-1112" yOffset="-524"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="three.subs" format="2">
-  <advance width="853"/>
-  <anchor x="429" y="483" name="t.uni030F_1"/>
-  <outline>
-    <component base="three.sups" xOffset="-199" yOffset="-1200"/>
-  </outline>
-</glyph>

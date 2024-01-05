@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni20E8.ss07" format="2">
-  <unicode hex="20E8"/>
-  <unicode hex="E2C4"/>
-  <outline>
-    <component base="ellipsis.ss07" yOffset="-424"/>
-  </outline>
-</glyph>

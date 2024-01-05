@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="periodcentered.ss07" format="2">
-  <advance width="764"/>
-  <unicode hex="00B7"/>
-  <unicode hex="E2B1"/>
-  <outline>
-    <component base="period.ss07" yOffset="512"/>
-  </outline>
-</glyph>

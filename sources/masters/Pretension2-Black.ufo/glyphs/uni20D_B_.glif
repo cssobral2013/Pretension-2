@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni20DB" format="2">
-  <outline>
-    <component base="period" yOffset="1237"/>
-    <component base="period" xOffset="764" yOffset="1237"/>
-    <component base="period" xOffset="1528" yOffset="1237"/>
-  </outline>
-</glyph>
