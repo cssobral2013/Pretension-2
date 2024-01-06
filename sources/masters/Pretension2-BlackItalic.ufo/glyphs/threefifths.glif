@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threefifths" format="2">
+  <advance width="1906"/>
+  <unicode hex="2157"/>
+  <outline>
+    <component base="three.dnom" xOffset="116" yOffset="698"/>
+    <component base="fraction" xOffset="861"/>
+    <component base="five.dnom" xOffset="1085"/>
+  </outline>
+</glyph>

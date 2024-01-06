@@ -6,7 +6,7 @@
   <unicode hex="E12D"/>
   <anchor x="1641" y="1490" name="m.uni030F_1"/>
   <outline>
-    <component base="uni25EF"/>
+    <component base="largecircle"/>
     <component base="three.ss01" xOffset="794"/>
   </outline>
 </glyph>

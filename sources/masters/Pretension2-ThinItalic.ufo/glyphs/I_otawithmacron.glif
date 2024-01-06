@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotawithmacron" format="2">
+  <advance width="510"/>
+  <unicode hex="1FD9"/>
+  <anchor x="248" y="0" name="m.uni0326"/>
+  <anchor x="564" y="1887" name="m.uni030F_1"/>
+  <anchor x="441" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="I"/>
+    <component base="macroncomb" xOffset="-84" yOffset="372"/>
+  </outline>
+</glyph>

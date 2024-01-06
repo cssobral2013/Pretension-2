@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilonaspergrave" format="2">
+  <advance width="2212"/>
+  <unicode hex="1F5B"/>
+  <anchor x="2252" y="0" name="m.uni0326"/>
+  <anchor x="2241" y="1490" name="m.uni030F_1"/>
+  <anchor x="2573" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="Y" xOffset="822"/>
+    <component base="aspergrave" xOffset="18" yOffset="-68"/>
+  </outline>
+</glyph>

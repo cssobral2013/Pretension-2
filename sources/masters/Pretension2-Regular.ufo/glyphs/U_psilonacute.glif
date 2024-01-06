@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilonacute" format="2">
+  <advance width="1799"/>
+  <unicode hex="1FEB"/>
+  <anchor x="1651" y="0" name="m.uni0326"/>
+  <anchor x="1640" y="1490" name="m.uni030F_1"/>
+  <anchor x="1972" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="Y" xOffset="409"/>
+    <component base="tonos.top" xOffset="-64" yOffset="-68"/>
+  </outline>
+</glyph>

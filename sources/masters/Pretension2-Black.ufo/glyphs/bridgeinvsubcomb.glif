@@ -2,6 +2,6 @@
 <glyph name="bridgeinvsubcomb" format="2">
   <advance width="26"/>
   <outline>
-    <component base="uni02FD" xOffset="-1166" yOffset="-34"/>
+    <component base="shelfmod" xOffset="-1166" yOffset="-34"/>
   </outline>
 </glyph>

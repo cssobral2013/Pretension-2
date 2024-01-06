@@ -34,6 +34,8 @@
     <integer>-70</integer>
     <key>Oacute</key>
     <integer>-70</integer>
+    <key>Obar</key>
+    <integer>-70</integer>
     <key>Obreve</key>
     <integer>-70</integer>
     <key>Ocircumflex</key>
@@ -132,6 +134,8 @@
     <integer>-69</integer>
     <key>chi</key>
     <integer>-139</integer>
+    <key>circleblack</key>
+    <integer>-70</integer>
     <key>copyright</key>
     <integer>-70</integer>
     <key>degree</key>
@@ -214,10 +218,6 @@
     <integer>-40</integer>
     <key>tcaron</key>
     <integer>-40</integer>
-    <key>uni019F</key>
-    <integer>-70</integer>
-    <key>uni25CF</key>
-    <integer>-70</integer>
     <key>v</key>
     <integer>-139</integer>
     <key>w</key>
@@ -315,6 +315,8 @@
     <integer>-70</integer>
     <key>Oacute</key>
     <integer>-70</integer>
+    <key>Obar</key>
+    <integer>-70</integer>
     <key>Obreve</key>
     <integer>-70</integer>
     <key>Ocircumflex</key>
@@ -413,6 +415,8 @@
     <integer>-69</integer>
     <key>chi</key>
     <integer>-139</integer>
+    <key>circleblack</key>
+    <integer>-70</integer>
     <key>copyright</key>
     <integer>-70</integer>
     <key>degree</key>
@@ -495,10 +499,6 @@
     <integer>-40</integer>
     <key>tcaron</key>
     <integer>-40</integer>
-    <key>uni019F</key>
-    <integer>-70</integer>
-    <key>uni25CF</key>
-    <integer>-70</integer>
     <key>v</key>
     <integer>-139</integer>
     <key>w</key>
@@ -574,6 +574,8 @@
     <integer>-70</integer>
     <key>Oacute</key>
     <integer>-70</integer>
+    <key>Obar</key>
+    <integer>-70</integer>
     <key>Obreve</key>
     <integer>-70</integer>
     <key>Ocircumflex</key>
@@ -672,6 +674,8 @@
     <integer>-69</integer>
     <key>chi</key>
     <integer>-139</integer>
+    <key>circleblack</key>
+    <integer>-70</integer>
     <key>copyright</key>
     <integer>-70</integer>
     <key>degree</key>
@@ -754,10 +758,6 @@
     <integer>-40</integer>
     <key>tcaron</key>
     <integer>-40</integer>
-    <key>uni019F</key>
-    <integer>-70</integer>
-    <key>uni25CF</key>
-    <integer>-70</integer>
     <key>v</key>
     <integer>-139</integer>
     <key>w</key>
@@ -833,6 +833,8 @@
     <integer>-70</integer>
     <key>Oacute</key>
     <integer>-70</integer>
+    <key>Obar</key>
+    <integer>-70</integer>
     <key>Obreve</key>
     <integer>-70</integer>
     <key>Ocircumflex</key>
@@ -931,6 +933,8 @@
     <integer>-69</integer>
     <key>chi</key>
     <integer>-139</integer>
+    <key>circleblack</key>
+    <integer>-70</integer>
     <key>copyright</key>
     <integer>-70</integer>
     <key>degree</key>
@@ -1013,10 +1017,6 @@
     <integer>-40</integer>
     <key>tcaron</key>
     <integer>-40</integer>
-    <key>uni019F</key>
-    <integer>-70</integer>
-    <key>uni25CF</key>
-    <integer>-70</integer>
     <key>v</key>
     <integer>-139</integer>
     <key>w</key>
@@ -1092,6 +1092,8 @@
     <integer>-70</integer>
     <key>Oacute</key>
     <integer>-70</integer>
+    <key>Obar</key>
+    <integer>-70</integer>
     <key>Obreve</key>
     <integer>-70</integer>
     <key>Ocircumflex</key>
@@ -1190,6 +1192,8 @@
     <integer>-69</integer>
     <key>chi</key>
     <integer>-139</integer>
+    <key>circleblack</key>
+    <integer>-70</integer>
     <key>copyright</key>
     <integer>-70</integer>
     <key>degree</key>
@@ -1272,10 +1276,6 @@
     <integer>-40</integer>
     <key>tcaron</key>
     <integer>-40</integer>
-    <key>uni019F</key>
-    <integer>-70</integer>
-    <key>uni25CF</key>
-    <integer>-70</integer>
     <key>v</key>
     <integer>-139</integer>
     <key>w</key>
@@ -1351,6 +1351,8 @@
     <integer>-70</integer>
     <key>Oacute</key>
     <integer>-70</integer>
+    <key>Obar</key>
+    <integer>-70</integer>
     <key>Obreve</key>
     <integer>-70</integer>
     <key>Ocircumflex</key>
@@ -1449,6 +1451,8 @@
     <integer>-69</integer>
     <key>chi</key>
     <integer>-139</integer>
+    <key>circleblack</key>
+    <integer>-70</integer>
     <key>copyright</key>
     <integer>-70</integer>
     <key>degree</key>
@@ -1531,10 +1535,6 @@
     <integer>-40</integer>
     <key>tcaron</key>
     <integer>-40</integer>
-    <key>uni019F</key>
-    <integer>-70</integer>
-    <key>uni25CF</key>
-    <integer>-70</integer>
     <key>v</key>
     <integer>-139</integer>
     <key>w</key>
@@ -1610,6 +1610,8 @@
     <integer>-70</integer>
     <key>Oacute</key>
     <integer>-70</integer>
+    <key>Obar</key>
+    <integer>-70</integer>
     <key>Obreve</key>
     <integer>-70</integer>
     <key>Ocircumflex</key>
@@ -1708,6 +1710,8 @@
     <integer>-69</integer>
     <key>chi</key>
     <integer>-139</integer>
+    <key>circleblack</key>
+    <integer>-70</integer>
     <key>copyright</key>
     <integer>-70</integer>
     <key>degree</key>
@@ -1790,10 +1794,6 @@
     <integer>-40</integer>
     <key>tcaron</key>
     <integer>-40</integer>
-    <key>uni019F</key>
-    <integer>-70</integer>
-    <key>uni25CF</key>
-    <integer>-70</integer>
     <key>v</key>
     <integer>-139</integer>
     <key>w</key>
@@ -1869,6 +1869,8 @@
     <integer>-70</integer>
     <key>Oacute</key>
     <integer>-70</integer>
+    <key>Obar</key>
+    <integer>-70</integer>
     <key>Obreve</key>
     <integer>-70</integer>
     <key>Ocircumflex</key>
@@ -1967,6 +1969,8 @@
     <integer>-69</integer>
     <key>chi</key>
     <integer>-139</integer>
+    <key>circleblack</key>
+    <integer>-70</integer>
     <key>copyright</key>
     <integer>-70</integer>
     <key>degree</key>
@@ -2049,10 +2053,6 @@
     <integer>-40</integer>
     <key>tcaron</key>
     <integer>-40</integer>
-    <key>uni019F</key>
-    <integer>-70</integer>
-    <key>uni25CF</key>
-    <integer>-70</integer>
     <key>v</key>
     <integer>-139</integer>
     <key>w</key>
@@ -2128,6 +2128,8 @@
     <integer>-70</integer>
     <key>Oacute</key>
     <integer>-70</integer>
+    <key>Obar</key>
+    <integer>-70</integer>
     <key>Obreve</key>
     <integer>-70</integer>
     <key>Ocircumflex</key>
@@ -2226,6 +2228,8 @@
     <integer>-69</integer>
     <key>chi</key>
     <integer>-139</integer>
+    <key>circleblack</key>
+    <integer>-70</integer>
     <key>copyright</key>
     <integer>-70</integer>
     <key>degree</key>
@@ -2308,10 +2312,6 @@
     <integer>-40</integer>
     <key>tcaron</key>
     <integer>-40</integer>
-    <key>uni019F</key>
-    <integer>-70</integer>
-    <key>uni25CF</key>
-    <integer>-70</integer>
     <key>v</key>
     <integer>-139</integer>
     <key>w</key>
@@ -2387,6 +2387,8 @@
     <integer>-70</integer>
     <key>Oacute</key>
     <integer>-70</integer>
+    <key>Obar</key>
+    <integer>-70</integer>
     <key>Obreve</key>
     <integer>-70</integer>
     <key>Ocircumflex</key>
@@ -2485,6 +2487,8 @@
     <integer>-69</integer>
     <key>chi</key>
     <integer>-139</integer>
+    <key>circleblack</key>
+    <integer>-70</integer>
     <key>copyright</key>
     <integer>-70</integer>
     <key>degree</key>
@@ -2567,10 +2571,6 @@
     <integer>-40</integer>
     <key>tcaron</key>
     <integer>-40</integer>
-    <key>uni019F</key>
-    <integer>-70</integer>
-    <key>uni25CF</key>
-    <integer>-70</integer>
     <key>v</key>
     <integer>-139</integer>
     <key>w</key>
@@ -2646,6 +2646,8 @@
     <integer>-70</integer>
     <key>Oacute</key>
     <integer>-70</integer>
+    <key>Obar</key>
+    <integer>-70</integer>
     <key>Obreve</key>
     <integer>-70</integer>
     <key>Ocircumflex</key>
@@ -2744,6 +2746,8 @@
     <integer>-69</integer>
     <key>chi</key>
     <integer>-139</integer>
+    <key>circleblack</key>
+    <integer>-70</integer>
     <key>copyright</key>
     <integer>-70</integer>
     <key>degree</key>
@@ -2826,10 +2830,6 @@
     <integer>-40</integer>
     <key>tcaron</key>
     <integer>-40</integer>
-    <key>uni019F</key>
-    <integer>-70</integer>
-    <key>uni25CF</key>
-    <integer>-70</integer>
     <key>v</key>
     <integer>-139</integer>
     <key>w</key>
@@ -2905,6 +2905,8 @@
     <integer>-70</integer>
     <key>Oacute</key>
     <integer>-70</integer>
+    <key>Obar</key>
+    <integer>-70</integer>
     <key>Obreve</key>
     <integer>-70</integer>
     <key>Ocircumflex</key>
@@ -3003,6 +3005,8 @@
     <integer>-69</integer>
     <key>chi</key>
     <integer>-139</integer>
+    <key>circleblack</key>
+    <integer>-70</integer>
     <key>copyright</key>
     <integer>-70</integer>
     <key>degree</key>
@@ -3085,10 +3089,6 @@
     <integer>-40</integer>
     <key>tcaron</key>
     <integer>-40</integer>
-    <key>uni019F</key>
-    <integer>-70</integer>
-    <key>uni25CF</key>
-    <integer>-70</integer>
     <key>v</key>
     <integer>-139</integer>
     <key>w</key>
@@ -3164,6 +3164,8 @@
     <integer>-70</integer>
     <key>Oacute</key>
     <integer>-70</integer>
+    <key>Obar</key>
+    <integer>-70</integer>
     <key>Obreve</key>
     <integer>-70</integer>
     <key>Ocircumflex</key>
@@ -3262,6 +3264,8 @@
     <integer>-69</integer>
     <key>chi</key>
     <integer>-139</integer>
+    <key>circleblack</key>
+    <integer>-70</integer>
     <key>copyright</key>
     <integer>-70</integer>
     <key>degree</key>
@@ -3344,10 +3348,6 @@
     <integer>-40</integer>
     <key>tcaron</key>
     <integer>-40</integer>
-    <key>uni019F</key>
-    <integer>-70</integer>
-    <key>uni25CF</key>
-    <integer>-70</integer>
     <key>v</key>
     <integer>-139</integer>
     <key>w</key>
@@ -3423,6 +3423,8 @@
     <integer>-70</integer>
     <key>Oacute</key>
     <integer>-70</integer>
+    <key>Obar</key>
+    <integer>-70</integer>
     <key>Obreve</key>
     <integer>-70</integer>
     <key>Ocircumflex</key>
@@ -3521,6 +3523,8 @@
     <integer>-69</integer>
     <key>chi</key>
     <integer>-139</integer>
+    <key>circleblack</key>
+    <integer>-70</integer>
     <key>copyright</key>
     <integer>-70</integer>
     <key>degree</key>
@@ -3603,10 +3607,6 @@
     <integer>-40</integer>
     <key>tcaron</key>
     <integer>-40</integer>
-    <key>uni019F</key>
-    <integer>-70</integer>
-    <key>uni25CF</key>
-    <integer>-70</integer>
     <key>v</key>
     <integer>-139</integer>
     <key>w</key>
@@ -4026,6 +4026,8 @@
     <integer>-90</integer>
     <key>Oacute</key>
     <integer>-90</integer>
+    <key>Obar</key>
+    <integer>-90</integer>
     <key>Obreve</key>
     <integer>-90</integer>
     <key>Ocircumflex</key>
@@ -4124,6 +4126,8 @@
     <integer>-58</integer>
     <key>cent</key>
     <integer>-58</integer>
+    <key>circleblack</key>
+    <integer>-90</integer>
     <key>copyright</key>
     <integer>-90</integer>
     <key>d</key>
@@ -4256,10 +4260,6 @@
     <integer>-14</integer>
     <key>sigma</key>
     <integer>-58</integer>
-    <key>uni019F</key>
-    <integer>-90</integer>
-    <key>uni25CF</key>
-    <integer>-90</integer>
     <key>public.kern2.edieresis</key>
     <integer>-58</integer>
     <key>public.kern2.guilsinglleft2</key>
@@ -4859,6 +4859,8 @@
     <integer>-81</integer>
     <key>Oacute</key>
     <integer>-81</integer>
+    <key>Obar</key>
+    <integer>-81</integer>
     <key>Obreve</key>
     <integer>-81</integer>
     <key>Ocircumflex</key>
@@ -4943,6 +4945,8 @@
     <integer>-81</integer>
     <key>chi</key>
     <integer>-69</integer>
+    <key>circleblack</key>
+    <integer>-81</integer>
     <key>copyright</key>
     <integer>-81</integer>
     <key>d</key>
@@ -5077,10 +5081,6 @@
     <integer>-69</integer>
     <key>underscore</key>
     <integer>-69</integer>
-    <key>uni019F</key>
-    <integer>-81</integer>
-    <key>uni25CF</key>
-    <integer>-81</integer>
     <key>uogonek</key>
     <integer>-69</integer>
     <key>upsilon</key>
@@ -5344,6 +5344,8 @@
     <integer>-90</integer>
     <key>Oacute</key>
     <integer>-90</integer>
+    <key>Obar</key>
+    <integer>-90</integer>
     <key>Obreve</key>
     <integer>-90</integer>
     <key>Ocircumflex</key>
@@ -5448,6 +5450,8 @@
     <integer>-160</integer>
     <key>chi</key>
     <integer>-150</integer>
+    <key>circleblack</key>
+    <integer>-90</integer>
     <key>colon</key>
     <integer>-81</integer>
     <key>colon.case</key>
@@ -5690,10 +5694,6 @@
     <integer>-104</integer>
     <key>underscore</key>
     <integer>-139</integer>
-    <key>uni019F</key>
-    <integer>-90</integer>
-    <key>uni25CF</key>
-    <integer>-90</integer>
     <key>uogonek</key>
     <integer>-104</integer>
     <key>upsilon</key>
@@ -6743,6 +6743,8 @@
     <integer>-69</integer>
     <key>Oacute</key>
     <integer>-69</integer>
+    <key>Obar</key>
+    <integer>-69</integer>
     <key>Obreve</key>
     <integer>-69</integer>
     <key>Ocircumflex</key>
@@ -6817,6 +6819,8 @@
     <integer>-81</integer>
     <key>chi</key>
     <integer>-81</integer>
+    <key>circleblack</key>
+    <integer>-69</integer>
     <key>copyright</key>
     <integer>-69</integer>
     <key>d</key>
@@ -6977,9 +6981,314 @@
     <integer>-69</integer>
     <key>umacron</key>
     <integer>-69</integer>
-    <key>uni019F</key>
+    <key>uogonek</key>
     <integer>-69</integer>
-    <key>uni25CF</key>
+    <key>uring</key>
+    <integer>-69</integer>
+    <key>utilde</key>
+    <integer>-69</integer>
+    <key>v</key>
+    <integer>-81</integer>
+    <key>w</key>
+    <integer>-128</integer>
+    <key>wacute</key>
+    <integer>-128</integer>
+    <key>wcircumflex</key>
+    <integer>-128</integer>
+    <key>wdieresis</key>
+    <integer>-128</integer>
+    <key>wgrave</key>
+    <integer>-128</integer>
+    <key>y</key>
+    <integer>-81</integer>
+    <key>y.sc</key>
+    <integer>-81</integer>
+    <key>yacute</key>
+    <integer>-81</integer>
+    <key>ycircumflex</key>
+    <integer>-81</integer>
+    <key>ydieresis</key>
+    <integer>-81</integer>
+    <key>ygrave</key>
+    <integer>-81</integer>
+    <key>yogonek</key>
+    <integer>-81</integer>
+    <key>public.kern2.edieresis</key>
+    <integer>-81</integer>
+    <key>public.kern2.guilsinglleft2</key>
+    <integer>-104</integer>
+    <key>public.kern2.plus2</key>
+    <integer>-221</integer>
+  </dict>
+  <key>Kacyr</key>
+  <dict>
+    <key>C</key>
+    <integer>-69</integer>
+    <key>Cacute</key>
+    <integer>-69</integer>
+    <key>Ccaron</key>
+    <integer>-69</integer>
+    <key>Ccedilla</key>
+    <integer>-69</integer>
+    <key>Ccircumflex</key>
+    <integer>-69</integer>
+    <key>Cdotaccent</key>
+    <integer>-69</integer>
+    <key>G</key>
+    <integer>-69</integer>
+    <key>G.1</key>
+    <integer>-69</integer>
+    <key>Gbreve</key>
+    <integer>-69</integer>
+    <key>Gcaron</key>
+    <integer>-69</integer>
+    <key>Gcircumflex</key>
+    <integer>-69</integer>
+    <key>Gdotaccent</key>
+    <integer>-69</integer>
+    <key>O</key>
+    <integer>-69</integer>
+    <key>OE</key>
+    <integer>-69</integer>
+    <key>Oacute</key>
+    <integer>-69</integer>
+    <key>Obar</key>
+    <integer>-69</integer>
+    <key>Obreve</key>
+    <integer>-69</integer>
+    <key>Ocircumflex</key>
+    <integer>-69</integer>
+    <key>Odieresis</key>
+    <integer>-69</integer>
+    <key>Ograve</key>
+    <integer>-69</integer>
+    <key>Ohorn</key>
+    <integer>-69</integer>
+    <key>Ohungarumlaut</key>
+    <integer>-69</integer>
+    <key>Omacron</key>
+    <integer>-69</integer>
+    <key>Omicron</key>
+    <integer>-69</integer>
+    <key>Omicrontonos</key>
+    <integer>-69</integer>
+    <key>Oslash</key>
+    <integer>-69</integer>
+    <key>Oslashacute</key>
+    <integer>-69</integer>
+    <key>Otilde</key>
+    <integer>-69</integer>
+    <key>Phi</key>
+    <integer>-69</integer>
+    <key>Q</key>
+    <integer>-69</integer>
+    <key>Theta</key>
+    <integer>-69</integer>
+    <key>_part.fitacy_bar</key>
+    <integer>-81</integer>
+    <key>a</key>
+    <integer>-81</integer>
+    <key>alpha</key>
+    <integer>-81</integer>
+    <key>alphatonos</key>
+    <integer>-81</integer>
+    <key>approxequal</key>
+    <integer>-69</integer>
+    <key>approxequal.case</key>
+    <integer>-69</integer>
+    <key>approxequal.case.tf</key>
+    <integer>-69</integer>
+    <key>arrowdblright</key>
+    <integer>-69</integer>
+    <key>asciitilde</key>
+    <integer>-221</integer>
+    <key>asterisk.case</key>
+    <integer>-69</integer>
+    <key>asterisk.case.tf</key>
+    <integer>-69</integer>
+    <key>at</key>
+    <integer>-69</integer>
+    <key>bullet</key>
+    <integer>-69</integer>
+    <key>bullet.case</key>
+    <integer>-69</integer>
+    <key>c</key>
+    <integer>-81</integer>
+    <key>cacute</key>
+    <integer>-81</integer>
+    <key>ccaron</key>
+    <integer>-81</integer>
+    <key>ccedilla</key>
+    <integer>-81</integer>
+    <key>ccircumflex</key>
+    <integer>-81</integer>
+    <key>cdotaccent</key>
+    <integer>-81</integer>
+    <key>cent</key>
+    <integer>-81</integer>
+    <key>chi</key>
+    <integer>-81</integer>
+    <key>circleblack</key>
+    <integer>-69</integer>
+    <key>copyright</key>
+    <integer>-69</integer>
+    <key>d</key>
+    <integer>-81</integer>
+    <key>dcaron</key>
+    <integer>-81</integer>
+    <key>dcroat</key>
+    <integer>-81</integer>
+    <key>dong</key>
+    <integer>-81</integer>
+    <key>e</key>
+    <integer>-81</integer>
+    <key>eacute</key>
+    <integer>-81</integer>
+    <key>ebreve</key>
+    <integer>-81</integer>
+    <key>ecaron</key>
+    <integer>-81</integer>
+    <key>ecircumflex</key>
+    <integer>-81</integer>
+    <key>edotaccent</key>
+    <integer>-81</integer>
+    <key>egrave</key>
+    <integer>-81</integer>
+    <key>emacron</key>
+    <integer>-81</integer>
+    <key>eogonek</key>
+    <integer>-81</integer>
+    <key>equal</key>
+    <integer>-69</integer>
+    <key>equal.case</key>
+    <integer>-69</integer>
+    <key>equal.case.tf</key>
+    <integer>-69</integer>
+    <key>eth</key>
+    <integer>-81</integer>
+    <key>g</key>
+    <integer>-81</integer>
+    <key>gbreve</key>
+    <integer>-81</integer>
+    <key>gcaron</key>
+    <integer>-81</integer>
+    <key>gcircumflex</key>
+    <integer>-81</integer>
+    <key>gdotaccent</key>
+    <integer>-81</integer>
+    <key>greaterequal</key>
+    <integer>-69</integer>
+    <key>greaterequal.case</key>
+    <integer>-69</integer>
+    <key>greaterequal.case.tf</key>
+    <integer>-69</integer>
+    <key>hyphen</key>
+    <integer>-221</integer>
+    <key>ibreve</key>
+    <integer>174</integer>
+    <key>idieresis</key>
+    <integer>174</integer>
+    <key>imacron</key>
+    <integer>174</integer>
+    <key>infinity</key>
+    <integer>-69</integer>
+    <key>itilde</key>
+    <integer>174</integer>
+    <key>less</key>
+    <integer>-139</integer>
+    <key>lessequal</key>
+    <integer>-69</integer>
+    <key>lessequal.case</key>
+    <integer>-69</integer>
+    <key>lessequal.case.tf</key>
+    <integer>-69</integer>
+    <key>logicalnot</key>
+    <integer>-104</integer>
+    <key>multiply</key>
+    <integer>-69</integer>
+    <key>multiply.case</key>
+    <integer>-69</integer>
+    <key>multiply.case.tf</key>
+    <integer>-69</integer>
+    <key>notequal</key>
+    <integer>-69</integer>
+    <key>notequal.case</key>
+    <integer>-69</integer>
+    <key>notequal.case.tf</key>
+    <integer>-69</integer>
+    <key>nu</key>
+    <integer>-81</integer>
+    <key>o</key>
+    <integer>-81</integer>
+    <key>oacute</key>
+    <integer>-81</integer>
+    <key>obreve</key>
+    <integer>-81</integer>
+    <key>ocircumflex</key>
+    <integer>-81</integer>
+    <key>oe</key>
+    <integer>-81</integer>
+    <key>oe.sc</key>
+    <integer>-81</integer>
+    <key>ograve</key>
+    <integer>-81</integer>
+    <key>ohorn</key>
+    <integer>-81</integer>
+    <key>ohungarumlaut</key>
+    <integer>-81</integer>
+    <key>omacron</key>
+    <integer>-81</integer>
+    <key>omicron</key>
+    <integer>-81</integer>
+    <key>omicrontonos</key>
+    <integer>-81</integer>
+    <key>openbullet</key>
+    <integer>-69</integer>
+    <key>openbullet.case</key>
+    <integer>-69</integer>
+    <key>oslash</key>
+    <integer>-81</integer>
+    <key>oslashacute</key>
+    <integer>-81</integer>
+    <key>otilde</key>
+    <integer>-81</integer>
+    <key>pecyrillicturn</key>
+    <integer>-69</integer>
+    <key>periodcentered</key>
+    <integer>-93</integer>
+    <key>phi</key>
+    <integer>-81</integer>
+    <key>phigreek</key>
+    <integer>-81</integer>
+    <key>plusminus</key>
+    <integer>-69</integer>
+    <key>plusminus.case</key>
+    <integer>-69</integer>
+    <key>plusminus.case.tf</key>
+    <integer>-69</integer>
+    <key>q</key>
+    <integer>-81</integer>
+    <key>registered</key>
+    <integer>-30</integer>
+    <key>sigma</key>
+    <integer>-81</integer>
+    <key>u</key>
+    <integer>-69</integer>
+    <key>uacute</key>
+    <integer>-69</integer>
+    <key>ubreve</key>
+    <integer>-69</integer>
+    <key>ucircumflex</key>
+    <integer>-69</integer>
+    <key>udieresis</key>
+    <integer>-69</integer>
+    <key>ugrave</key>
+    <integer>-69</integer>
+    <key>uhorn</key>
+    <integer>-69</integer>
+    <key>uhungarumlaut</key>
+    <integer>-69</integer>
+    <key>umacron</key>
     <integer>-69</integer>
     <key>uogonek</key>
     <integer>-69</integer>
@@ -7052,6 +7361,8 @@
     <integer>-69</integer>
     <key>Oacute</key>
     <integer>-69</integer>
+    <key>Obar</key>
+    <integer>-69</integer>
     <key>Obreve</key>
     <integer>-69</integer>
     <key>Ocircumflex</key>
@@ -7126,6 +7437,8 @@
     <integer>-81</integer>
     <key>chi</key>
     <integer>-81</integer>
+    <key>circleblack</key>
+    <integer>-69</integer>
     <key>copyright</key>
     <integer>-69</integer>
     <key>d</key>
@@ -7286,10 +7599,6 @@
     <integer>-69</integer>
     <key>umacron</key>
     <integer>-69</integer>
-    <key>uni019F</key>
-    <integer>-69</integer>
-    <key>uni25CF</key>
-    <integer>-69</integer>
     <key>uogonek</key>
     <integer>-69</integer>
     <key>uring</key>
@@ -7361,6 +7670,8 @@
     <integer>-58</integer>
     <key>Oacute</key>
     <integer>-58</integer>
+    <key>Obar</key>
+    <integer>-58</integer>
     <key>Obreve</key>
     <integer>-58</integer>
     <key>Ocircumflex</key>
@@ -7439,6 +7750,8 @@
     <integer>-69</integer>
     <key>chi</key>
     <integer>-139</integer>
+    <key>circleblack</key>
+    <integer>-58</integer>
     <key>copyright</key>
     <integer>-58</integer>
     <key>degree</key>
@@ -7467,6 +7780,8 @@
     <integer>-128</integer>
     <key>pi</key>
     <integer>-46</integer>
+    <key>quotedblreversed</key>
+    <integer>-93</integer>
     <key>quotedblright</key>
     <integer>-81</integer>
     <key>quotedblright.ss03</key>
@@ -7489,12 +7804,6 @@
     <integer>-46</integer>
     <key>tcaron</key>
     <integer>-46</integer>
-    <key>uni019F</key>
-    <integer>-58</integer>
-    <key>uni201F</key>
-    <integer>-93</integer>
-    <key>uni25CF</key>
-    <integer>-58</integer>
     <key>v</key>
     <integer>-139</integer>
     <key>y</key>
@@ -7556,6 +7865,8 @@
     <integer>-58</integer>
     <key>Oacute</key>
     <integer>-58</integer>
+    <key>Obar</key>
+    <integer>-58</integer>
     <key>Obreve</key>
     <integer>-58</integer>
     <key>Ocircumflex</key>
@@ -7634,6 +7945,8 @@
     <integer>-69</integer>
     <key>chi</key>
     <integer>-139</integer>
+    <key>circleblack</key>
+    <integer>-58</integer>
     <key>copyright</key>
     <integer>-58</integer>
     <key>degree</key>
@@ -7662,6 +7975,8 @@
     <integer>-104</integer>
     <key>pi</key>
     <integer>-46</integer>
+    <key>quotedblreversed</key>
+    <integer>-93</integer>
     <key>quotedblright</key>
     <integer>-81</integer>
     <key>quotedblright.ss03</key>
@@ -7684,12 +7999,6 @@
     <integer>-46</integer>
     <key>tcaron</key>
     <integer>-46</integer>
-    <key>uni019F</key>
-    <integer>-58</integer>
-    <key>uni201F</key>
-    <integer>-93</integer>
-    <key>uni25CF</key>
-    <integer>-58</integer>
     <key>v</key>
     <integer>-139</integer>
     <key>y</key>
@@ -7750,6 +8059,8 @@
     <key>OE</key>
     <integer>-70</integer>
     <key>Oacute</key>
+    <integer>-70</integer>
+    <key>Obar</key>
     <integer>-70</integer>
     <key>Obreve</key>
     <integer>-70</integer>
@@ -7849,6 +8160,8 @@
     <integer>-69</integer>
     <key>chi</key>
     <integer>-139</integer>
+    <key>circleblack</key>
+    <integer>-70</integer>
     <key>copyright</key>
     <integer>-70</integer>
     <key>degree</key>
@@ -7931,10 +8244,6 @@
     <integer>-40</integer>
     <key>tcaron</key>
     <integer>-40</integer>
-    <key>uni019F</key>
-    <integer>-70</integer>
-    <key>uni25CF</key>
-    <integer>-70</integer>
     <key>v</key>
     <integer>-139</integer>
     <key>w</key>
@@ -8010,6 +8319,8 @@
     <integer>-58</integer>
     <key>Oacute</key>
     <integer>-58</integer>
+    <key>Obar</key>
+    <integer>-58</integer>
     <key>Obreve</key>
     <integer>-58</integer>
     <key>Ocircumflex</key>
@@ -8088,6 +8399,8 @@
     <integer>-69</integer>
     <key>chi</key>
     <integer>-139</integer>
+    <key>circleblack</key>
+    <integer>-58</integer>
     <key>copyright</key>
     <integer>-58</integer>
     <key>degree</key>
@@ -8116,6 +8429,8 @@
     <integer>-81</integer>
     <key>pi</key>
     <integer>-46</integer>
+    <key>quotedblreversed</key>
+    <integer>-93</integer>
     <key>quotedblright</key>
     <integer>-81</integer>
     <key>quotedblright.ss03</key>
@@ -8138,12 +8453,6 @@
     <integer>-46</integer>
     <key>tcaron</key>
     <integer>-46</integer>
-    <key>uni019F</key>
-    <integer>-58</integer>
-    <key>uni201F</key>
-    <integer>-93</integer>
-    <key>uni25CF</key>
-    <integer>-58</integer>
     <key>v</key>
     <integer>-139</integer>
     <key>y</key>
@@ -8204,6 +8513,8 @@
     <key>OE</key>
     <integer>-58</integer>
     <key>Oacute</key>
+    <integer>-58</integer>
+    <key>Obar</key>
     <integer>-58</integer>
     <key>Obreve</key>
     <integer>-58</integer>
@@ -8283,6 +8594,8 @@
     <integer>-69</integer>
     <key>chi</key>
     <integer>-139</integer>
+    <key>circleblack</key>
+    <integer>-58</integer>
     <key>copyright</key>
     <integer>-58</integer>
     <key>degree</key>
@@ -8311,6 +8624,8 @@
     <integer>-128</integer>
     <key>pi</key>
     <integer>-46</integer>
+    <key>quotedblreversed</key>
+    <integer>-93</integer>
     <key>quotedblright</key>
     <integer>-69</integer>
     <key>quotedblright.ss03</key>
@@ -8333,12 +8648,6 @@
     <integer>-46</integer>
     <key>tcaron</key>
     <integer>-46</integer>
-    <key>uni019F</key>
-    <integer>-58</integer>
-    <key>uni201F</key>
-    <integer>-93</integer>
-    <key>uni25CF</key>
-    <integer>-58</integer>
     <key>v</key>
     <integer>-139</integer>
     <key>y</key>
@@ -8744,6 +9053,97 @@
     <integer>151</integer>
   </dict>
   <key>Oacute</key>
+  <dict>
+    <key>A</key>
+    <integer>-70</integer>
+    <key>AE</key>
+    <integer>-70</integer>
+    <key>AEacute</key>
+    <integer>-70</integer>
+    <key>Aacute</key>
+    <integer>-70</integer>
+    <key>Abreve</key>
+    <integer>-70</integer>
+    <key>Acircumflex</key>
+    <integer>-70</integer>
+    <key>Adieresis</key>
+    <integer>-70</integer>
+    <key>Agrave</key>
+    <integer>-70</integer>
+    <key>Alpha</key>
+    <integer>-70</integer>
+    <key>Alphatonos</key>
+    <integer>-70</integer>
+    <key>Amacron</key>
+    <integer>-70</integer>
+    <key>Aogonek</key>
+    <integer>-70</integer>
+    <key>Aring</key>
+    <integer>-70</integer>
+    <key>Aringacute</key>
+    <integer>-70</integer>
+    <key>Aringogonek</key>
+    <integer>-70</integer>
+    <key>Atilde</key>
+    <integer>-70</integer>
+    <key>Chi</key>
+    <integer>-61</integer>
+    <key>Lambda</key>
+    <integer>-70</integer>
+    <key>T</key>
+    <integer>-61</integer>
+    <key>Tau</key>
+    <integer>-61</integer>
+    <key>Tbar</key>
+    <integer>-61</integer>
+    <key>Tcaron</key>
+    <integer>-61</integer>
+    <key>Upsilon</key>
+    <integer>-69</integer>
+    <key>Upsilondieresis</key>
+    <integer>-69</integer>
+    <key>Upsilontonos</key>
+    <integer>-69</integer>
+    <key>V</key>
+    <integer>-69</integer>
+    <key>X</key>
+    <integer>-61</integer>
+    <key>Y</key>
+    <integer>-69</integer>
+    <key>Yacute</key>
+    <integer>-69</integer>
+    <key>Ycircumflex</key>
+    <integer>-69</integer>
+    <key>Ydieresis</key>
+    <integer>-69</integer>
+    <key>Ygrave</key>
+    <integer>-69</integer>
+    <key>Yogonek</key>
+    <integer>-69</integer>
+    <key>backslash</key>
+    <integer>-69</integer>
+    <key>ellipsis</key>
+    <integer>-61</integer>
+    <key>period</key>
+    <integer>-61</integer>
+    <key>quotedblleft</key>
+    <integer>-69</integer>
+    <key>quotedblleft.ss03</key>
+    <integer>-69</integer>
+    <key>quoteleft</key>
+    <integer>-69</integer>
+    <key>registered</key>
+    <integer>-11</integer>
+    <key>slash</key>
+    <integer>-81</integer>
+    <key>underscore</key>
+    <integer>-81</integer>
+    <key>public.kern2.comma2</key>
+    <integer>-61</integer>
+    <key>public.kern2.quotedblbase2</key>
+    <integer>-81</integer>
+  </dict>
+  <key>Obar</key>
   <dict>
     <key>A</key>
     <integer>-70</integer>
@@ -10911,6 +11311,8 @@
     <integer>-90</integer>
     <key>Oacute</key>
     <integer>-90</integer>
+    <key>Obar</key>
+    <integer>-90</integer>
     <key>Obreve</key>
     <integer>-90</integer>
     <key>Ocircumflex</key>
@@ -11015,6 +11417,8 @@
     <integer>-160</integer>
     <key>chi</key>
     <integer>-150</integer>
+    <key>circleblack</key>
+    <integer>-90</integer>
     <key>colon</key>
     <integer>-69</integer>
     <key>colon.case</key>
@@ -11257,10 +11661,6 @@
     <integer>-104</integer>
     <key>underscore</key>
     <integer>-116</integer>
-    <key>uni019F</key>
-    <integer>-90</integer>
-    <key>uni25CF</key>
-    <integer>-90</integer>
     <key>uogonek</key>
     <integer>-104</integer>
     <key>upsilon</key>
@@ -11404,6 +11804,8 @@
     <integer>-90</integer>
     <key>Oacute</key>
     <integer>-90</integer>
+    <key>Obar</key>
+    <integer>-90</integer>
     <key>Obreve</key>
     <integer>-90</integer>
     <key>Ocircumflex</key>
@@ -11508,6 +11910,8 @@
     <integer>-160</integer>
     <key>chi</key>
     <integer>-150</integer>
+    <key>circleblack</key>
+    <integer>-90</integer>
     <key>colon</key>
     <integer>-69</integer>
     <key>colon.case</key>
@@ -11750,10 +12154,6 @@
     <integer>-104</integer>
     <key>underscore</key>
     <integer>-116</integer>
-    <key>uni019F</key>
-    <integer>-90</integer>
-    <key>uni25CF</key>
-    <integer>-90</integer>
     <key>uogonek</key>
     <integer>-104</integer>
     <key>upsilon</key>
@@ -11897,6 +12297,8 @@
     <integer>-90</integer>
     <key>Oacute</key>
     <integer>-90</integer>
+    <key>Obar</key>
+    <integer>-90</integer>
     <key>Obreve</key>
     <integer>-90</integer>
     <key>Ocircumflex</key>
@@ -12001,6 +12403,8 @@
     <integer>-160</integer>
     <key>chi</key>
     <integer>-150</integer>
+    <key>circleblack</key>
+    <integer>-90</integer>
     <key>colon</key>
     <integer>-69</integer>
     <key>colon.case</key>
@@ -12243,10 +12647,6 @@
     <integer>-104</integer>
     <key>underscore</key>
     <integer>-116</integer>
-    <key>uni019F</key>
-    <integer>-90</integer>
-    <key>uni25CF</key>
-    <integer>-90</integer>
     <key>uogonek</key>
     <integer>-104</integer>
     <key>upsilon</key>
@@ -12390,6 +12790,8 @@
     <integer>-90</integer>
     <key>Oacute</key>
     <integer>-90</integer>
+    <key>Obar</key>
+    <integer>-90</integer>
     <key>Obreve</key>
     <integer>-90</integer>
     <key>Ocircumflex</key>
@@ -12494,6 +12896,8 @@
     <integer>-160</integer>
     <key>chi</key>
     <integer>-150</integer>
+    <key>circleblack</key>
+    <integer>-90</integer>
     <key>colon</key>
     <integer>-69</integer>
     <key>colon.case</key>
@@ -12736,10 +13140,6 @@
     <integer>-104</integer>
     <key>underscore</key>
     <integer>-116</integer>
-    <key>uni019F</key>
-    <integer>-90</integer>
-    <key>uni25CF</key>
-    <integer>-90</integer>
     <key>uogonek</key>
     <integer>-104</integer>
     <key>upsilon</key>
@@ -12812,6 +13212,485 @@
     <integer>-40</integer>
     <key>public.kern2.quotedblbase2</key>
     <integer>-244</integer>
+  </dict>
+  <key>Tdiagonalstroke</key>
+  <dict>
+    <key>A</key>
+    <integer>-174</integer>
+    <key>AE</key>
+    <integer>-174</integer>
+    <key>AEacute</key>
+    <integer>-174</integer>
+    <key>Aacute</key>
+    <integer>-174</integer>
+    <key>Abreve</key>
+    <integer>-174</integer>
+    <key>Acircumflex</key>
+    <integer>-174</integer>
+    <key>Adieresis</key>
+    <integer>-174</integer>
+    <key>Agrave</key>
+    <integer>-174</integer>
+    <key>Alpha</key>
+    <integer>-174</integer>
+    <key>Alphatonos</key>
+    <integer>-174</integer>
+    <key>Amacron</key>
+    <integer>-174</integer>
+    <key>Aogonek</key>
+    <integer>-174</integer>
+    <key>Aring</key>
+    <integer>-174</integer>
+    <key>Aringacute</key>
+    <integer>-174</integer>
+    <key>Aringogonek</key>
+    <integer>-174</integer>
+    <key>Atilde</key>
+    <integer>-174</integer>
+    <key>C</key>
+    <integer>-90</integer>
+    <key>Cacute</key>
+    <integer>-90</integer>
+    <key>Ccaron</key>
+    <integer>-90</integer>
+    <key>Ccedilla</key>
+    <integer>-90</integer>
+    <key>Ccircumflex</key>
+    <integer>-90</integer>
+    <key>Cdotaccent</key>
+    <integer>-90</integer>
+    <key>G</key>
+    <integer>-90</integer>
+    <key>G.1</key>
+    <integer>-90</integer>
+    <key>Gbreve</key>
+    <integer>-90</integer>
+    <key>Gcaron</key>
+    <integer>-90</integer>
+    <key>Gcircumflex</key>
+    <integer>-90</integer>
+    <key>Gdotaccent</key>
+    <integer>-90</integer>
+    <key>J</key>
+    <integer>-186</integer>
+    <key>Jcircumflex</key>
+    <integer>-186</integer>
+    <key>Lambda</key>
+    <integer>-174</integer>
+    <key>O</key>
+    <integer>-90</integer>
+    <key>OE</key>
+    <integer>-90</integer>
+    <key>Oacute</key>
+    <integer>-90</integer>
+    <key>Obar</key>
+    <integer>-90</integer>
+    <key>Obreve</key>
+    <integer>-90</integer>
+    <key>Ocircumflex</key>
+    <integer>-90</integer>
+    <key>Odieresis</key>
+    <integer>-90</integer>
+    <key>Ograve</key>
+    <integer>-90</integer>
+    <key>Ohorn</key>
+    <integer>-90</integer>
+    <key>Ohungarumlaut</key>
+    <integer>-90</integer>
+    <key>Omacron</key>
+    <integer>-90</integer>
+    <key>Omicron</key>
+    <integer>-90</integer>
+    <key>Omicrontonos</key>
+    <integer>-90</integer>
+    <key>Oslash</key>
+    <integer>-90</integer>
+    <key>Oslashacute</key>
+    <integer>-90</integer>
+    <key>Otilde</key>
+    <integer>-90</integer>
+    <key>Phi</key>
+    <integer>-90</integer>
+    <key>Q</key>
+    <integer>-90</integer>
+    <key>Theta</key>
+    <integer>-90</integer>
+    <key>_part.fitacy_bar</key>
+    <integer>-160</integer>
+    <key>a</key>
+    <integer>-160</integer>
+    <key>aacute</key>
+    <integer>-150</integer>
+    <key>abreve</key>
+    <integer>-150</integer>
+    <key>acircumflex</key>
+    <integer>-150</integer>
+    <key>adieresis</key>
+    <integer>-81</integer>
+    <key>ae</key>
+    <integer>-150</integer>
+    <key>aeacute</key>
+    <integer>-150</integer>
+    <key>agrave</key>
+    <integer>-150</integer>
+    <key>alpha</key>
+    <integer>-160</integer>
+    <key>alphatonos</key>
+    <integer>-160</integer>
+    <key>amacron</key>
+    <integer>-150</integer>
+    <key>ampersand</key>
+    <integer>-69</integer>
+    <key>aogonek</key>
+    <integer>-150</integer>
+    <key>approxequal</key>
+    <integer>-69</integer>
+    <key>approxequal.case</key>
+    <integer>-69</integer>
+    <key>approxequal.case.tf</key>
+    <integer>-69</integer>
+    <key>aring</key>
+    <integer>-150</integer>
+    <key>aringacute</key>
+    <integer>-150</integer>
+    <key>aringogonek</key>
+    <integer>-150</integer>
+    <key>arrowdblright</key>
+    <integer>-69</integer>
+    <key>asciitilde</key>
+    <integer>-151</integer>
+    <key>asterisk.case</key>
+    <integer>-69</integer>
+    <key>asterisk.case.tf</key>
+    <integer>-69</integer>
+    <key>at</key>
+    <integer>-90</integer>
+    <key>atilde</key>
+    <integer>-81</integer>
+    <key>beta</key>
+    <integer>-104</integer>
+    <key>bullet</key>
+    <integer>-69</integer>
+    <key>bullet.case</key>
+    <integer>-69</integer>
+    <key>c</key>
+    <integer>-160</integer>
+    <key>cacute</key>
+    <integer>-160</integer>
+    <key>ccaron</key>
+    <integer>-160</integer>
+    <key>ccedilla</key>
+    <integer>-160</integer>
+    <key>ccircumflex</key>
+    <integer>-160</integer>
+    <key>cdotaccent</key>
+    <integer>-160</integer>
+    <key>cent</key>
+    <integer>-160</integer>
+    <key>chi</key>
+    <integer>-150</integer>
+    <key>circleblack</key>
+    <integer>-90</integer>
+    <key>colon</key>
+    <integer>-81</integer>
+    <key>colon.case</key>
+    <integer>-81</integer>
+    <key>copyright</key>
+    <integer>-90</integer>
+    <key>d</key>
+    <integer>-160</integer>
+    <key>dcaron</key>
+    <integer>-160</integer>
+    <key>dcroat</key>
+    <integer>-160</integer>
+    <key>delta</key>
+    <integer>-122</integer>
+    <key>dong</key>
+    <integer>-160</integer>
+    <key>e</key>
+    <integer>-160</integer>
+    <key>eacute</key>
+    <integer>-160</integer>
+    <key>ebreve</key>
+    <integer>-160</integer>
+    <key>ecaron</key>
+    <integer>-160</integer>
+    <key>ecircumflex</key>
+    <integer>-160</integer>
+    <key>edotaccent</key>
+    <integer>-160</integer>
+    <key>egrave</key>
+    <integer>-160</integer>
+    <key>ellipsis</key>
+    <integer>-174</integer>
+    <key>emacron</key>
+    <integer>-160</integer>
+    <key>eng</key>
+    <integer>-104</integer>
+    <key>eogonek</key>
+    <integer>-160</integer>
+    <key>epsilon</key>
+    <integer>-150</integer>
+    <key>epsilontonos</key>
+    <integer>-267</integer>
+    <key>equal</key>
+    <integer>-69</integer>
+    <key>equal.case</key>
+    <integer>-69</integer>
+    <key>equal.case.tf</key>
+    <integer>-69</integer>
+    <key>eta</key>
+    <integer>-104</integer>
+    <key>etatonos</key>
+    <integer>-104</integer>
+    <key>eth</key>
+    <integer>-160</integer>
+    <key>four</key>
+    <integer>-139</integer>
+    <key>four.ss01</key>
+    <integer>-139</integer>
+    <key>g</key>
+    <integer>-160</integer>
+    <key>gamma</key>
+    <integer>-209</integer>
+    <key>gbreve</key>
+    <integer>-160</integer>
+    <key>gcaron</key>
+    <integer>-160</integer>
+    <key>gcircumflex</key>
+    <integer>-160</integer>
+    <key>gdotaccent</key>
+    <integer>-160</integer>
+    <key>greaterequal</key>
+    <integer>-69</integer>
+    <key>greaterequal.case</key>
+    <integer>-69</integer>
+    <key>greaterequal.case.tf</key>
+    <integer>-69</integer>
+    <key>hyphen</key>
+    <integer>-151</integer>
+    <key>ibreve</key>
+    <integer>186</integer>
+    <key>idieresis</key>
+    <integer>186</integer>
+    <key>imacron</key>
+    <integer>186</integer>
+    <key>iotadieresis</key>
+    <integer>233</integer>
+    <key>iotadieresistonos</key>
+    <integer>233</integer>
+    <key>itilde</key>
+    <integer>186</integer>
+    <key>lambda</key>
+    <integer>-69</integer>
+    <key>less</key>
+    <integer>-162</integer>
+    <key>lessequal</key>
+    <integer>-69</integer>
+    <key>lessequal.case</key>
+    <integer>-69</integer>
+    <key>lessequal.case.tf</key>
+    <integer>-69</integer>
+    <key>logicalnot</key>
+    <integer>-151</integer>
+    <key>m</key>
+    <integer>-104</integer>
+    <key>multiply</key>
+    <integer>-69</integer>
+    <key>multiply.case</key>
+    <integer>-69</integer>
+    <key>multiply.case.tf</key>
+    <integer>-69</integer>
+    <key>n</key>
+    <integer>-104</integer>
+    <key>nacute</key>
+    <integer>-104</integer>
+    <key>ncaron</key>
+    <integer>-104</integer>
+    <key>notequal</key>
+    <integer>-69</integer>
+    <key>notequal.case</key>
+    <integer>-69</integer>
+    <key>notequal.case.tf</key>
+    <integer>-69</integer>
+    <key>ntilde</key>
+    <integer>-104</integer>
+    <key>nu</key>
+    <integer>-150</integer>
+    <key>o</key>
+    <integer>-160</integer>
+    <key>oacute</key>
+    <integer>-160</integer>
+    <key>obreve</key>
+    <integer>-160</integer>
+    <key>ocircumflex</key>
+    <integer>-160</integer>
+    <key>oe</key>
+    <integer>-160</integer>
+    <key>oe.sc</key>
+    <integer>-160</integer>
+    <key>ograve</key>
+    <integer>-160</integer>
+    <key>ohorn</key>
+    <integer>-160</integer>
+    <key>ohungarumlaut</key>
+    <integer>-160</integer>
+    <key>omacron</key>
+    <integer>-160</integer>
+    <key>omega</key>
+    <integer>-267</integer>
+    <key>omegatonos</key>
+    <integer>-267</integer>
+    <key>omicron</key>
+    <integer>-160</integer>
+    <key>omicrontonos</key>
+    <integer>-160</integer>
+    <key>openbullet</key>
+    <integer>-69</integer>
+    <key>openbullet.case</key>
+    <integer>-69</integer>
+    <key>oslash</key>
+    <integer>-160</integer>
+    <key>oslashacute</key>
+    <integer>-160</integer>
+    <key>otilde</key>
+    <integer>-104</integer>
+    <key>p</key>
+    <integer>-104</integer>
+    <key>pecyrillicturn</key>
+    <integer>-104</integer>
+    <key>period</key>
+    <integer>-174</integer>
+    <key>periodcentered</key>
+    <integer>-162</integer>
+    <key>phi</key>
+    <integer>-160</integer>
+    <key>phigreek</key>
+    <integer>-160</integer>
+    <key>pi</key>
+    <integer>-209</integer>
+    <key>plusminus</key>
+    <integer>-69</integer>
+    <key>plusminus.case</key>
+    <integer>-69</integer>
+    <key>plusminus.case.tf</key>
+    <integer>-69</integer>
+    <key>psi</key>
+    <integer>-267</integer>
+    <key>q</key>
+    <integer>-160</integer>
+    <key>r</key>
+    <integer>-104</integer>
+    <key>racute</key>
+    <integer>-104</integer>
+    <key>rcaron</key>
+    <integer>-104</integer>
+    <key>rho</key>
+    <integer>-267</integer>
+    <key>s</key>
+    <integer>-150</integer>
+    <key>sacute</key>
+    <integer>-150</integer>
+    <key>scaron</key>
+    <integer>-150</integer>
+    <key>scedilla</key>
+    <integer>-150</integer>
+    <key>scircumflex</key>
+    <integer>-150</integer>
+    <key>semicolon</key>
+    <integer>-81</integer>
+    <key>semicolon.ss03</key>
+    <integer>-81</integer>
+    <key>sigma</key>
+    <integer>-160</integer>
+    <key>six</key>
+    <integer>-69</integer>
+    <key>slash</key>
+    <integer>-104</integer>
+    <key>tau</key>
+    <integer>-209</integer>
+    <key>theta</key>
+    <integer>-162</integer>
+    <key>u</key>
+    <integer>-104</integer>
+    <key>u.1</key>
+    <integer>-104</integer>
+    <key>uacute</key>
+    <integer>-104</integer>
+    <key>ubreve</key>
+    <integer>-104</integer>
+    <key>ucircumflex</key>
+    <integer>-104</integer>
+    <key>udieresis</key>
+    <integer>-104</integer>
+    <key>ugrave</key>
+    <integer>-104</integer>
+    <key>uhorn</key>
+    <integer>-104</integer>
+    <key>uhungarumlaut</key>
+    <integer>-104</integer>
+    <key>umacron</key>
+    <integer>-104</integer>
+    <key>underscore</key>
+    <integer>-116</integer>
+    <key>uogonek</key>
+    <integer>-104</integer>
+    <key>upsilon</key>
+    <integer>-104</integer>
+    <key>upsilondieresis</key>
+    <integer>-104</integer>
+    <key>upsilondieresistonos</key>
+    <integer>-104</integer>
+    <key>upsilontonos</key>
+    <integer>-104</integer>
+    <key>uring</key>
+    <integer>-104</integer>
+    <key>utilde</key>
+    <integer>-81</integer>
+    <key>v</key>
+    <integer>-150</integer>
+    <key>w</key>
+    <integer>-128</integer>
+    <key>wacute</key>
+    <integer>-128</integer>
+    <key>wcircumflex</key>
+    <integer>-128</integer>
+    <key>wdieresis</key>
+    <integer>-104</integer>
+    <key>wgrave</key>
+    <integer>-128</integer>
+    <key>x</key>
+    <integer>-174</integer>
+    <key>xi</key>
+    <integer>-116</integer>
+    <key>y</key>
+    <integer>-150</integer>
+    <key>y.sc</key>
+    <integer>-150</integer>
+    <key>yacute</key>
+    <integer>-150</integer>
+    <key>ycircumflex</key>
+    <integer>-150</integer>
+    <key>ydieresis</key>
+    <integer>-69</integer>
+    <key>ygrave</key>
+    <integer>-150</integer>
+    <key>yogonek</key>
+    <integer>-150</integer>
+    <key>z</key>
+    <integer>-81</integer>
+    <key>zacute</key>
+    <integer>-81</integer>
+    <key>zcaron</key>
+    <integer>-81</integer>
+    <key>zdotaccent</key>
+    <integer>-81</integer>
+    <key>zero</key>
+    <integer>-69</integer>
+    <key>zero.slash</key>
+    <integer>-69</integer>
+    <key>zeta</key>
+    <integer>-162</integer>
   </dict>
   <key>Theta</key>
   <dict>
@@ -12982,6 +13861,499 @@
     <integer>-209</integer>
     <key>public.kern2.quotedblbase2</key>
     <integer>-256</integer>
+  </dict>
+  <key>Tretroflexhook</key>
+  <dict>
+    <key>A</key>
+    <integer>-174</integer>
+    <key>AE</key>
+    <integer>-174</integer>
+    <key>AEacute</key>
+    <integer>-174</integer>
+    <key>Aacute</key>
+    <integer>-174</integer>
+    <key>Abreve</key>
+    <integer>-174</integer>
+    <key>Acircumflex</key>
+    <integer>-174</integer>
+    <key>Adieresis</key>
+    <integer>-174</integer>
+    <key>Agrave</key>
+    <integer>-174</integer>
+    <key>Alpha</key>
+    <integer>-174</integer>
+    <key>Alphatonos</key>
+    <integer>-174</integer>
+    <key>Amacron</key>
+    <integer>-174</integer>
+    <key>Aogonek</key>
+    <integer>-174</integer>
+    <key>Aring</key>
+    <integer>-174</integer>
+    <key>Aringacute</key>
+    <integer>-174</integer>
+    <key>Aringogonek</key>
+    <integer>-174</integer>
+    <key>Atilde</key>
+    <integer>-174</integer>
+    <key>C</key>
+    <integer>-90</integer>
+    <key>Cacute</key>
+    <integer>-90</integer>
+    <key>Ccaron</key>
+    <integer>-90</integer>
+    <key>Ccedilla</key>
+    <integer>-90</integer>
+    <key>Ccircumflex</key>
+    <integer>-90</integer>
+    <key>Cdotaccent</key>
+    <integer>-90</integer>
+    <key>G</key>
+    <integer>-90</integer>
+    <key>G.1</key>
+    <integer>-90</integer>
+    <key>Gbreve</key>
+    <integer>-90</integer>
+    <key>Gcaron</key>
+    <integer>-90</integer>
+    <key>Gcircumflex</key>
+    <integer>-90</integer>
+    <key>Gdotaccent</key>
+    <integer>-90</integer>
+    <key>J</key>
+    <integer>-186</integer>
+    <key>Jcircumflex</key>
+    <integer>-186</integer>
+    <key>Lambda</key>
+    <integer>-174</integer>
+    <key>O</key>
+    <integer>-90</integer>
+    <key>OE</key>
+    <integer>-90</integer>
+    <key>Oacute</key>
+    <integer>-90</integer>
+    <key>Obar</key>
+    <integer>-90</integer>
+    <key>Obreve</key>
+    <integer>-90</integer>
+    <key>Ocircumflex</key>
+    <integer>-90</integer>
+    <key>Odieresis</key>
+    <integer>-90</integer>
+    <key>Ograve</key>
+    <integer>-90</integer>
+    <key>Ohorn</key>
+    <integer>-90</integer>
+    <key>Ohungarumlaut</key>
+    <integer>-90</integer>
+    <key>Omacron</key>
+    <integer>-90</integer>
+    <key>Omicron</key>
+    <integer>-90</integer>
+    <key>Omicrontonos</key>
+    <integer>-90</integer>
+    <key>Oslash</key>
+    <integer>-90</integer>
+    <key>Oslashacute</key>
+    <integer>-90</integer>
+    <key>Otilde</key>
+    <integer>-90</integer>
+    <key>Phi</key>
+    <integer>-90</integer>
+    <key>Q</key>
+    <integer>-90</integer>
+    <key>Theta</key>
+    <integer>-90</integer>
+    <key>_part.fitacy_bar</key>
+    <integer>-160</integer>
+    <key>a</key>
+    <integer>-160</integer>
+    <key>aacute</key>
+    <integer>-150</integer>
+    <key>abreve</key>
+    <integer>-150</integer>
+    <key>acircumflex</key>
+    <integer>-150</integer>
+    <key>adieresis</key>
+    <integer>-81</integer>
+    <key>ae</key>
+    <integer>-150</integer>
+    <key>aeacute</key>
+    <integer>-150</integer>
+    <key>agrave</key>
+    <integer>-150</integer>
+    <key>alpha</key>
+    <integer>-160</integer>
+    <key>alphatonos</key>
+    <integer>-160</integer>
+    <key>amacron</key>
+    <integer>-150</integer>
+    <key>ampersand</key>
+    <integer>-69</integer>
+    <key>aogonek</key>
+    <integer>-150</integer>
+    <key>approxequal</key>
+    <integer>-69</integer>
+    <key>approxequal.case</key>
+    <integer>-69</integer>
+    <key>approxequal.case.tf</key>
+    <integer>-69</integer>
+    <key>aring</key>
+    <integer>-150</integer>
+    <key>aringacute</key>
+    <integer>-150</integer>
+    <key>aringogonek</key>
+    <integer>-150</integer>
+    <key>arrowdblright</key>
+    <integer>-69</integer>
+    <key>asciitilde</key>
+    <integer>-151</integer>
+    <key>asterisk.case</key>
+    <integer>-69</integer>
+    <key>asterisk.case.tf</key>
+    <integer>-69</integer>
+    <key>at</key>
+    <integer>-90</integer>
+    <key>atilde</key>
+    <integer>-81</integer>
+    <key>beta</key>
+    <integer>-104</integer>
+    <key>bullet</key>
+    <integer>-69</integer>
+    <key>bullet.case</key>
+    <integer>-69</integer>
+    <key>c</key>
+    <integer>-160</integer>
+    <key>cacute</key>
+    <integer>-160</integer>
+    <key>ccaron</key>
+    <integer>-160</integer>
+    <key>ccedilla</key>
+    <integer>-160</integer>
+    <key>ccircumflex</key>
+    <integer>-160</integer>
+    <key>cdotaccent</key>
+    <integer>-160</integer>
+    <key>cent</key>
+    <integer>-160</integer>
+    <key>chi</key>
+    <integer>-150</integer>
+    <key>circleblack</key>
+    <integer>-90</integer>
+    <key>colon</key>
+    <integer>-81</integer>
+    <key>colon.case</key>
+    <integer>-81</integer>
+    <key>copyright</key>
+    <integer>-90</integer>
+    <key>d</key>
+    <integer>-160</integer>
+    <key>dcaron</key>
+    <integer>-160</integer>
+    <key>dcroat</key>
+    <integer>-160</integer>
+    <key>delta</key>
+    <integer>-122</integer>
+    <key>dong</key>
+    <integer>-160</integer>
+    <key>e</key>
+    <integer>-160</integer>
+    <key>eacute</key>
+    <integer>-160</integer>
+    <key>ebreve</key>
+    <integer>-160</integer>
+    <key>ecaron</key>
+    <integer>-160</integer>
+    <key>ecircumflex</key>
+    <integer>-160</integer>
+    <key>edotaccent</key>
+    <integer>-160</integer>
+    <key>egrave</key>
+    <integer>-160</integer>
+    <key>ellipsis</key>
+    <integer>-174</integer>
+    <key>emacron</key>
+    <integer>-160</integer>
+    <key>eng</key>
+    <integer>-104</integer>
+    <key>eogonek</key>
+    <integer>-160</integer>
+    <key>epsilon</key>
+    <integer>-150</integer>
+    <key>epsilontonos</key>
+    <integer>-267</integer>
+    <key>equal</key>
+    <integer>-69</integer>
+    <key>equal.case</key>
+    <integer>-69</integer>
+    <key>equal.case.tf</key>
+    <integer>-69</integer>
+    <key>eta</key>
+    <integer>-104</integer>
+    <key>etatonos</key>
+    <integer>-104</integer>
+    <key>eth</key>
+    <integer>-160</integer>
+    <key>four</key>
+    <integer>-139</integer>
+    <key>four.ss01</key>
+    <integer>-139</integer>
+    <key>g</key>
+    <integer>-160</integer>
+    <key>gamma</key>
+    <integer>-209</integer>
+    <key>gbreve</key>
+    <integer>-160</integer>
+    <key>gcaron</key>
+    <integer>-160</integer>
+    <key>gcircumflex</key>
+    <integer>-160</integer>
+    <key>gdotaccent</key>
+    <integer>-160</integer>
+    <key>greaterequal</key>
+    <integer>-69</integer>
+    <key>greaterequal.case</key>
+    <integer>-69</integer>
+    <key>greaterequal.case.tf</key>
+    <integer>-69</integer>
+    <key>hyphen</key>
+    <integer>-151</integer>
+    <key>ibreve</key>
+    <integer>186</integer>
+    <key>idieresis</key>
+    <integer>186</integer>
+    <key>imacron</key>
+    <integer>186</integer>
+    <key>iotadieresis</key>
+    <integer>233</integer>
+    <key>iotadieresistonos</key>
+    <integer>233</integer>
+    <key>itilde</key>
+    <integer>186</integer>
+    <key>lambda</key>
+    <integer>-69</integer>
+    <key>less</key>
+    <integer>-162</integer>
+    <key>lessequal</key>
+    <integer>-69</integer>
+    <key>lessequal.case</key>
+    <integer>-69</integer>
+    <key>lessequal.case.tf</key>
+    <integer>-69</integer>
+    <key>logicalnot</key>
+    <integer>-151</integer>
+    <key>m</key>
+    <integer>-104</integer>
+    <key>multiply</key>
+    <integer>-69</integer>
+    <key>multiply.case</key>
+    <integer>-69</integer>
+    <key>multiply.case.tf</key>
+    <integer>-69</integer>
+    <key>n</key>
+    <integer>-104</integer>
+    <key>nacute</key>
+    <integer>-104</integer>
+    <key>ncaron</key>
+    <integer>-104</integer>
+    <key>notequal</key>
+    <integer>-69</integer>
+    <key>notequal.case</key>
+    <integer>-69</integer>
+    <key>notequal.case.tf</key>
+    <integer>-69</integer>
+    <key>ntilde</key>
+    <integer>-104</integer>
+    <key>nu</key>
+    <integer>-150</integer>
+    <key>o</key>
+    <integer>-160</integer>
+    <key>oacute</key>
+    <integer>-160</integer>
+    <key>obreve</key>
+    <integer>-160</integer>
+    <key>ocircumflex</key>
+    <integer>-160</integer>
+    <key>oe</key>
+    <integer>-160</integer>
+    <key>oe.sc</key>
+    <integer>-160</integer>
+    <key>ograve</key>
+    <integer>-160</integer>
+    <key>ohorn</key>
+    <integer>-160</integer>
+    <key>ohungarumlaut</key>
+    <integer>-160</integer>
+    <key>omacron</key>
+    <integer>-160</integer>
+    <key>omega</key>
+    <integer>-267</integer>
+    <key>omegatonos</key>
+    <integer>-267</integer>
+    <key>omicron</key>
+    <integer>-160</integer>
+    <key>omicrontonos</key>
+    <integer>-160</integer>
+    <key>openbullet</key>
+    <integer>-69</integer>
+    <key>openbullet.case</key>
+    <integer>-69</integer>
+    <key>oslash</key>
+    <integer>-160</integer>
+    <key>oslashacute</key>
+    <integer>-160</integer>
+    <key>otilde</key>
+    <integer>-104</integer>
+    <key>p</key>
+    <integer>-104</integer>
+    <key>pecyrillicturn</key>
+    <integer>-104</integer>
+    <key>period</key>
+    <integer>-174</integer>
+    <key>periodcentered</key>
+    <integer>-162</integer>
+    <key>phi</key>
+    <integer>-160</integer>
+    <key>phigreek</key>
+    <integer>-160</integer>
+    <key>pi</key>
+    <integer>-209</integer>
+    <key>plusminus</key>
+    <integer>-69</integer>
+    <key>plusminus.case</key>
+    <integer>-69</integer>
+    <key>plusminus.case.tf</key>
+    <integer>-69</integer>
+    <key>psi</key>
+    <integer>-267</integer>
+    <key>q</key>
+    <integer>-160</integer>
+    <key>r</key>
+    <integer>-104</integer>
+    <key>racute</key>
+    <integer>-104</integer>
+    <key>rcaron</key>
+    <integer>-104</integer>
+    <key>rho</key>
+    <integer>-267</integer>
+    <key>s</key>
+    <integer>-150</integer>
+    <key>sacute</key>
+    <integer>-150</integer>
+    <key>scaron</key>
+    <integer>-150</integer>
+    <key>scedilla</key>
+    <integer>-150</integer>
+    <key>scircumflex</key>
+    <integer>-150</integer>
+    <key>semicolon</key>
+    <integer>-81</integer>
+    <key>semicolon.ss03</key>
+    <integer>-81</integer>
+    <key>sigma</key>
+    <integer>-160</integer>
+    <key>six</key>
+    <integer>-69</integer>
+    <key>slash</key>
+    <integer>-104</integer>
+    <key>tau</key>
+    <integer>-209</integer>
+    <key>theta</key>
+    <integer>-162</integer>
+    <key>u</key>
+    <integer>-104</integer>
+    <key>u.1</key>
+    <integer>-104</integer>
+    <key>uacute</key>
+    <integer>-104</integer>
+    <key>ubreve</key>
+    <integer>-104</integer>
+    <key>ucircumflex</key>
+    <integer>-104</integer>
+    <key>udieresis</key>
+    <integer>-104</integer>
+    <key>ugrave</key>
+    <integer>-104</integer>
+    <key>uhorn</key>
+    <integer>-104</integer>
+    <key>uhungarumlaut</key>
+    <integer>-104</integer>
+    <key>umacron</key>
+    <integer>-104</integer>
+    <key>underscore</key>
+    <integer>-116</integer>
+    <key>uogonek</key>
+    <integer>-104</integer>
+    <key>upsilon</key>
+    <integer>-104</integer>
+    <key>upsilondieresis</key>
+    <integer>-104</integer>
+    <key>upsilondieresistonos</key>
+    <integer>-104</integer>
+    <key>upsilontonos</key>
+    <integer>-104</integer>
+    <key>uring</key>
+    <integer>-104</integer>
+    <key>utilde</key>
+    <integer>-81</integer>
+    <key>v</key>
+    <integer>-150</integer>
+    <key>w</key>
+    <integer>-128</integer>
+    <key>wacute</key>
+    <integer>-128</integer>
+    <key>wcircumflex</key>
+    <integer>-128</integer>
+    <key>wdieresis</key>
+    <integer>-104</integer>
+    <key>wgrave</key>
+    <integer>-128</integer>
+    <key>x</key>
+    <integer>-174</integer>
+    <key>xi</key>
+    <integer>-116</integer>
+    <key>y</key>
+    <integer>-150</integer>
+    <key>y.sc</key>
+    <integer>-150</integer>
+    <key>yacute</key>
+    <integer>-150</integer>
+    <key>ycircumflex</key>
+    <integer>-150</integer>
+    <key>ydieresis</key>
+    <integer>-69</integer>
+    <key>ygrave</key>
+    <integer>-150</integer>
+    <key>yogonek</key>
+    <integer>-150</integer>
+    <key>z</key>
+    <integer>-81</integer>
+    <key>zacute</key>
+    <integer>-81</integer>
+    <key>zcaron</key>
+    <integer>-81</integer>
+    <key>zdotaccent</key>
+    <integer>-81</integer>
+    <key>zero</key>
+    <integer>-69</integer>
+    <key>zero.slash</key>
+    <integer>-69</integer>
+    <key>zeta</key>
+    <integer>-162</integer>
+    <key>public.kern2.b.subs2</key>
+    <integer>-256</integer>
+    <key>public.kern2.comma2</key>
+    <integer>-174</integer>
+    <key>public.kern2.edieresis</key>
+    <integer>-104</integer>
+    <key>public.kern2.guilsinglleft2</key>
+    <integer>-267</integer>
+    <key>public.kern2.guilsinglright2</key>
+    <integer>-104</integer>
+    <key>public.kern2.plus2</key>
+    <integer>-151</integer>
+    <key>public.kern2.quotedblbase2</key>
+    <integer>-244</integer>
   </dict>
   <key>U</key>
   <dict>
@@ -13199,6 +14571,8 @@
     <integer>-69</integer>
     <key>Oacute</key>
     <integer>-69</integer>
+    <key>Obar</key>
+    <integer>-69</integer>
     <key>Obreve</key>
     <integer>-69</integer>
     <key>Ocircumflex</key>
@@ -13301,6 +14675,8 @@
     <integer>-157</integer>
     <key>cent</key>
     <integer>-157</integer>
+    <key>circleblack</key>
+    <integer>-69</integer>
     <key>colon</key>
     <integer>-128</integer>
     <key>colon.case</key>
@@ -13525,10 +14901,6 @@
     <integer>-81</integer>
     <key>umacron</key>
     <integer>-81</integer>
-    <key>uni019F</key>
-    <integer>-69</integer>
-    <key>uni25CF</key>
-    <integer>-69</integer>
     <key>uogonek</key>
     <integer>-81</integer>
     <key>upsilon</key>
@@ -13628,6 +15000,8 @@
     <integer>-69</integer>
     <key>Oacute</key>
     <integer>-69</integer>
+    <key>Obar</key>
+    <integer>-69</integer>
     <key>Obreve</key>
     <integer>-69</integer>
     <key>Ocircumflex</key>
@@ -13730,6 +15104,8 @@
     <integer>-157</integer>
     <key>cent</key>
     <integer>-157</integer>
+    <key>circleblack</key>
+    <integer>-69</integer>
     <key>colon</key>
     <integer>-128</integer>
     <key>colon.case</key>
@@ -13954,10 +15330,6 @@
     <integer>-81</integer>
     <key>umacron</key>
     <integer>-81</integer>
-    <key>uni019F</key>
-    <integer>-69</integer>
-    <key>uni25CF</key>
-    <integer>-69</integer>
     <key>uogonek</key>
     <integer>-81</integer>
     <key>upsilon</key>
@@ -14057,6 +15429,8 @@
     <integer>-69</integer>
     <key>Oacute</key>
     <integer>-69</integer>
+    <key>Obar</key>
+    <integer>-69</integer>
     <key>Obreve</key>
     <integer>-69</integer>
     <key>Ocircumflex</key>
@@ -14159,6 +15533,8 @@
     <integer>-157</integer>
     <key>cent</key>
     <integer>-157</integer>
+    <key>circleblack</key>
+    <integer>-69</integer>
     <key>colon</key>
     <integer>-128</integer>
     <key>colon.case</key>
@@ -14383,10 +15759,6 @@
     <integer>-81</integer>
     <key>umacron</key>
     <integer>-81</integer>
-    <key>uni019F</key>
-    <integer>-69</integer>
-    <key>uni25CF</key>
-    <integer>-69</integer>
     <key>uogonek</key>
     <integer>-81</integer>
     <key>upsilon</key>
@@ -14516,6 +15888,8 @@
     <integer>-69</integer>
     <key>Oacute</key>
     <integer>-69</integer>
+    <key>Obar</key>
+    <integer>-69</integer>
     <key>Obreve</key>
     <integer>-69</integer>
     <key>Ocircumflex</key>
@@ -14616,6 +15990,8 @@
     <integer>-104</integer>
     <key>cent</key>
     <integer>-104</integer>
+    <key>circleblack</key>
+    <integer>-69</integer>
     <key>colon</key>
     <integer>-128</integer>
     <key>colon.case</key>
@@ -14782,10 +16158,6 @@
     <integer>-151</integer>
     <key>underscore</key>
     <integer>-162</integer>
-    <key>uni019F</key>
-    <integer>-69</integer>
-    <key>uni25CF</key>
-    <integer>-69</integer>
     <key>public.kern2.b.subs2</key>
     <integer>-197</integer>
     <key>public.kern2.comma2</key>
@@ -16296,6 +17668,8 @@
     <integer>-90</integer>
     <key>Oacute</key>
     <integer>-90</integer>
+    <key>Obar</key>
+    <integer>-90</integer>
     <key>Obreve</key>
     <integer>-90</integer>
     <key>Ocircumflex</key>
@@ -16394,6 +17768,8 @@
     <integer>-58</integer>
     <key>cent</key>
     <integer>-58</integer>
+    <key>circleblack</key>
+    <integer>-90</integer>
     <key>copyright</key>
     <integer>-90</integer>
     <key>d</key>
@@ -16526,10 +17902,6 @@
     <integer>-14</integer>
     <key>sigma</key>
     <integer>-58</integer>
-    <key>uni019F</key>
-    <integer>-90</integer>
-    <key>uni25CF</key>
-    <integer>-90</integer>
     <key>public.kern2.edieresis</key>
     <integer>-58</integer>
     <key>public.kern2.guilsinglleft2</key>
@@ -16617,6 +17989,8 @@
     <key>OE</key>
     <integer>-69</integer>
     <key>Oacute</key>
+    <integer>-69</integer>
+    <key>Obar</key>
     <integer>-69</integer>
     <key>Obreve</key>
     <integer>-69</integer>
@@ -16720,6 +18094,8 @@
     <integer>-157</integer>
     <key>cent</key>
     <integer>-157</integer>
+    <key>circleblack</key>
+    <integer>-69</integer>
     <key>colon</key>
     <integer>-128</integer>
     <key>colon.case</key>
@@ -16944,10 +18320,6 @@
     <integer>-81</integer>
     <key>umacron</key>
     <integer>-81</integer>
-    <key>uni019F</key>
-    <integer>-69</integer>
-    <key>uni25CF</key>
-    <integer>-69</integer>
     <key>uogonek</key>
     <integer>-81</integer>
     <key>upsilon</key>
@@ -17047,6 +18419,8 @@
     <integer>-69</integer>
     <key>Oacute</key>
     <integer>-69</integer>
+    <key>Obar</key>
+    <integer>-69</integer>
     <key>Obreve</key>
     <integer>-69</integer>
     <key>Ocircumflex</key>
@@ -17149,6 +18523,8 @@
     <integer>-157</integer>
     <key>cent</key>
     <integer>-157</integer>
+    <key>circleblack</key>
+    <integer>-69</integer>
     <key>colon</key>
     <integer>-128</integer>
     <key>colon.case</key>
@@ -17373,10 +18749,6 @@
     <integer>-81</integer>
     <key>umacron</key>
     <integer>-81</integer>
-    <key>uni019F</key>
-    <integer>-69</integer>
-    <key>uni25CF</key>
-    <integer>-69</integer>
     <key>uogonek</key>
     <integer>-81</integer>
     <key>upsilon</key>
@@ -17476,6 +18848,8 @@
     <integer>-69</integer>
     <key>Oacute</key>
     <integer>-69</integer>
+    <key>Obar</key>
+    <integer>-69</integer>
     <key>Obreve</key>
     <integer>-69</integer>
     <key>Ocircumflex</key>
@@ -17578,6 +18952,8 @@
     <integer>-157</integer>
     <key>cent</key>
     <integer>-157</integer>
+    <key>circleblack</key>
+    <integer>-69</integer>
     <key>colon</key>
     <integer>-128</integer>
     <key>colon.case</key>
@@ -17802,10 +19178,6 @@
     <integer>-81</integer>
     <key>umacron</key>
     <integer>-81</integer>
-    <key>uni019F</key>
-    <integer>-69</integer>
-    <key>uni25CF</key>
-    <integer>-69</integer>
     <key>uogonek</key>
     <integer>-81</integer>
     <key>upsilon</key>
@@ -17905,6 +19277,8 @@
     <integer>-69</integer>
     <key>Oacute</key>
     <integer>-69</integer>
+    <key>Obar</key>
+    <integer>-69</integer>
     <key>Obreve</key>
     <integer>-69</integer>
     <key>Ocircumflex</key>
@@ -18007,6 +19381,8 @@
     <integer>-157</integer>
     <key>cent</key>
     <integer>-157</integer>
+    <key>circleblack</key>
+    <integer>-69</integer>
     <key>colon</key>
     <integer>-128</integer>
     <key>colon.case</key>
@@ -18231,10 +19607,6 @@
     <integer>-81</integer>
     <key>umacron</key>
     <integer>-81</integer>
-    <key>uni019F</key>
-    <integer>-69</integer>
-    <key>uni25CF</key>
-    <integer>-69</integer>
     <key>uogonek</key>
     <integer>-81</integer>
     <key>upsilon</key>
@@ -18334,6 +19706,8 @@
     <integer>-69</integer>
     <key>Oacute</key>
     <integer>-69</integer>
+    <key>Obar</key>
+    <integer>-69</integer>
     <key>Obreve</key>
     <integer>-69</integer>
     <key>Ocircumflex</key>
@@ -18436,6 +19810,8 @@
     <integer>-157</integer>
     <key>cent</key>
     <integer>-157</integer>
+    <key>circleblack</key>
+    <integer>-69</integer>
     <key>colon</key>
     <integer>-128</integer>
     <key>colon.case</key>
@@ -18660,10 +20036,6 @@
     <integer>-81</integer>
     <key>umacron</key>
     <integer>-81</integer>
-    <key>uni019F</key>
-    <integer>-69</integer>
-    <key>uni25CF</key>
-    <integer>-69</integer>
     <key>uogonek</key>
     <integer>-81</integer>
     <key>upsilon</key>
@@ -18763,6 +20135,8 @@
     <integer>-69</integer>
     <key>Oacute</key>
     <integer>-69</integer>
+    <key>Obar</key>
+    <integer>-69</integer>
     <key>Obreve</key>
     <integer>-69</integer>
     <key>Ocircumflex</key>
@@ -18865,6 +20239,8 @@
     <integer>-157</integer>
     <key>cent</key>
     <integer>-157</integer>
+    <key>circleblack</key>
+    <integer>-69</integer>
     <key>colon</key>
     <integer>-128</integer>
     <key>colon.case</key>
@@ -19089,10 +20465,6 @@
     <integer>-81</integer>
     <key>umacron</key>
     <integer>-81</integer>
-    <key>uni019F</key>
-    <integer>-69</integer>
-    <key>uni25CF</key>
-    <integer>-69</integer>
     <key>uogonek</key>
     <integer>-81</integer>
     <key>upsilon</key>
@@ -19154,6 +20526,8 @@
     <integer>-69</integer>
     <key>Oacute</key>
     <integer>-69</integer>
+    <key>Obar</key>
+    <integer>-69</integer>
     <key>Obreve</key>
     <integer>-69</integer>
     <key>Ocircumflex</key>
@@ -19188,6 +20562,8 @@
     <integer>-81</integer>
     <key>at</key>
     <integer>-69</integer>
+    <key>circleblack</key>
+    <integer>-69</integer>
     <key>copyright</key>
     <integer>-69</integer>
     <key>hyphen</key>
@@ -19205,10 +20581,6 @@
     <key>logicalnot</key>
     <integer>-81</integer>
     <key>periodcentered</key>
-    <integer>-69</integer>
-    <key>uni019F</key>
-    <integer>-69</integer>
-    <key>uni25CF</key>
     <integer>-69</integer>
     <key>public.kern2.guilsinglleft2</key>
     <integer>-69</integer>
@@ -19247,6 +20619,8 @@
     <integer>-69</integer>
     <key>Oacute</key>
     <integer>-69</integer>
+    <key>Obar</key>
+    <integer>-69</integer>
     <key>Obreve</key>
     <integer>-69</integer>
     <key>Ocircumflex</key>
@@ -19281,6 +20655,8 @@
     <integer>-81</integer>
     <key>at</key>
     <integer>-69</integer>
+    <key>circleblack</key>
+    <integer>-69</integer>
     <key>copyright</key>
     <integer>-69</integer>
     <key>hyphen</key>
@@ -19298,10 +20674,6 @@
     <key>logicalnot</key>
     <integer>-81</integer>
     <key>periodcentered</key>
-    <integer>-69</integer>
-    <key>uni019F</key>
-    <integer>-69</integer>
-    <key>uni25CF</key>
     <integer>-69</integer>
     <key>public.kern2.guilsinglleft2</key>
     <integer>-69</integer>
@@ -19340,6 +20712,8 @@
     <integer>-69</integer>
     <key>Oacute</key>
     <integer>-69</integer>
+    <key>Obar</key>
+    <integer>-69</integer>
     <key>Obreve</key>
     <integer>-69</integer>
     <key>Ocircumflex</key>
@@ -19374,6 +20748,8 @@
     <integer>-81</integer>
     <key>at</key>
     <integer>-69</integer>
+    <key>circleblack</key>
+    <integer>-69</integer>
     <key>copyright</key>
     <integer>-69</integer>
     <key>hyphen</key>
@@ -19391,10 +20767,6 @@
     <key>logicalnot</key>
     <integer>-81</integer>
     <key>periodcentered</key>
-    <integer>-69</integer>
-    <key>uni019F</key>
-    <integer>-69</integer>
-    <key>uni25CF</key>
     <integer>-69</integer>
     <key>public.kern2.guilsinglleft2</key>
     <integer>-69</integer>
@@ -19433,6 +20805,8 @@
     <integer>-69</integer>
     <key>Oacute</key>
     <integer>-69</integer>
+    <key>Obar</key>
+    <integer>-69</integer>
     <key>Obreve</key>
     <integer>-69</integer>
     <key>Ocircumflex</key>
@@ -19467,6 +20841,8 @@
     <integer>-81</integer>
     <key>at</key>
     <integer>-69</integer>
+    <key>circleblack</key>
+    <integer>-69</integer>
     <key>copyright</key>
     <integer>-69</integer>
     <key>hyphen</key>
@@ -19484,10 +20860,6 @@
     <key>logicalnot</key>
     <integer>-81</integer>
     <key>periodcentered</key>
-    <integer>-69</integer>
-    <key>uni019F</key>
-    <integer>-69</integer>
-    <key>uni25CF</key>
     <integer>-69</integer>
     <key>public.kern2.guilsinglleft2</key>
     <integer>-69</integer>
@@ -19526,6 +20898,8 @@
     <integer>-69</integer>
     <key>Oacute</key>
     <integer>-69</integer>
+    <key>Obar</key>
+    <integer>-69</integer>
     <key>Obreve</key>
     <integer>-69</integer>
     <key>Ocircumflex</key>
@@ -19560,6 +20934,8 @@
     <integer>-81</integer>
     <key>at</key>
     <integer>-69</integer>
+    <key>circleblack</key>
+    <integer>-69</integer>
     <key>copyright</key>
     <integer>-69</integer>
     <key>hyphen</key>
@@ -19577,10 +20953,6 @@
     <key>logicalnot</key>
     <integer>-81</integer>
     <key>periodcentered</key>
-    <integer>-69</integer>
-    <key>uni019F</key>
-    <integer>-69</integer>
-    <key>uni25CF</key>
     <integer>-69</integer>
     <key>public.kern2.guilsinglleft2</key>
     <integer>-69</integer>
@@ -22253,6 +23625,8 @@
     <integer>-70</integer>
     <key>Oacute</key>
     <integer>-70</integer>
+    <key>Obar</key>
+    <integer>-70</integer>
     <key>Obreve</key>
     <integer>-70</integer>
     <key>Ocircumflex</key>
@@ -22351,6 +23725,8 @@
     <integer>-69</integer>
     <key>chi</key>
     <integer>-104</integer>
+    <key>circleblack</key>
+    <integer>-70</integer>
     <key>copyright</key>
     <integer>-70</integer>
     <key>degree</key>
@@ -22433,10 +23809,6 @@
     <integer>-40</integer>
     <key>tcaron</key>
     <integer>-40</integer>
-    <key>uni019F</key>
-    <integer>-70</integer>
-    <key>uni25CF</key>
-    <integer>-70</integer>
     <key>v</key>
     <integer>-104</integer>
     <key>w</key>
@@ -23933,6 +25305,97 @@
     <key>jcircumflex</key>
     <integer>81</integer>
   </dict>
+  <key>circleblack</key>
+  <dict>
+    <key>A</key>
+    <integer>-70</integer>
+    <key>AE</key>
+    <integer>-70</integer>
+    <key>AEacute</key>
+    <integer>-70</integer>
+    <key>Aacute</key>
+    <integer>-70</integer>
+    <key>Abreve</key>
+    <integer>-70</integer>
+    <key>Acircumflex</key>
+    <integer>-70</integer>
+    <key>Adieresis</key>
+    <integer>-70</integer>
+    <key>Agrave</key>
+    <integer>-70</integer>
+    <key>Alpha</key>
+    <integer>-70</integer>
+    <key>Alphatonos</key>
+    <integer>-70</integer>
+    <key>Amacron</key>
+    <integer>-70</integer>
+    <key>Aogonek</key>
+    <integer>-70</integer>
+    <key>Aring</key>
+    <integer>-70</integer>
+    <key>Aringacute</key>
+    <integer>-70</integer>
+    <key>Aringogonek</key>
+    <integer>-70</integer>
+    <key>Atilde</key>
+    <integer>-70</integer>
+    <key>Chi</key>
+    <integer>-61</integer>
+    <key>Lambda</key>
+    <integer>-70</integer>
+    <key>T</key>
+    <integer>-61</integer>
+    <key>Tau</key>
+    <integer>-61</integer>
+    <key>Tbar</key>
+    <integer>-61</integer>
+    <key>Tcaron</key>
+    <integer>-61</integer>
+    <key>Upsilon</key>
+    <integer>-69</integer>
+    <key>Upsilondieresis</key>
+    <integer>-69</integer>
+    <key>Upsilontonos</key>
+    <integer>-69</integer>
+    <key>V</key>
+    <integer>-69</integer>
+    <key>X</key>
+    <integer>-61</integer>
+    <key>Y</key>
+    <integer>-69</integer>
+    <key>Yacute</key>
+    <integer>-69</integer>
+    <key>Ycircumflex</key>
+    <integer>-69</integer>
+    <key>Ydieresis</key>
+    <integer>-69</integer>
+    <key>Ygrave</key>
+    <integer>-69</integer>
+    <key>Yogonek</key>
+    <integer>-69</integer>
+    <key>backslash</key>
+    <integer>-69</integer>
+    <key>ellipsis</key>
+    <integer>-61</integer>
+    <key>period</key>
+    <integer>-61</integer>
+    <key>quotedblleft</key>
+    <integer>-69</integer>
+    <key>quotedblleft.ss03</key>
+    <integer>-69</integer>
+    <key>quoteleft</key>
+    <integer>-69</integer>
+    <key>registered</key>
+    <integer>-11</integer>
+    <key>slash</key>
+    <integer>-81</integer>
+    <key>underscore</key>
+    <integer>-81</integer>
+    <key>public.kern2.comma2</key>
+    <integer>-61</integer>
+    <key>public.kern2.quotedblbase2</key>
+    <integer>-81</integer>
+  </dict>
   <key>colon</key>
   <dict>
     <key>Psi</key>
@@ -24154,6 +25617,8 @@
     <integer>69</integer>
     <key>K</key>
     <integer>69</integer>
+    <key>Kacyr</key>
+    <integer>69</integer>
     <key>Kappa</key>
     <integer>69</integer>
     <key>L</key>
@@ -24222,6 +25687,8 @@
     <integer>69</integer>
     <key>f.1</key>
     <integer>69</integer>
+    <key>feng.1</key>
+    <integer>69</integer>
     <key>filledbox</key>
     <integer>69</integer>
     <key>germandbls</key>
@@ -24289,10 +25756,6 @@
     <key>tcaron.1</key>
     <integer>69</integer>
     <key>thorn</key>
-    <integer>69</integer>
-    <key>uni02A9.1</key>
-    <integer>69</integer>
-    <key>uni041A</key>
     <integer>69</integer>
     <key>public.kern2.b.subs2</key>
     <integer>-81</integer>
@@ -24375,6 +25838,8 @@
     <integer>69</integer>
     <key>K</key>
     <integer>69</integer>
+    <key>Kacyr</key>
+    <integer>69</integer>
     <key>Kappa</key>
     <integer>69</integer>
     <key>L</key>
@@ -24430,6 +25895,8 @@
     <key>exclamdown.case</key>
     <integer>69</integer>
     <key>f.1</key>
+    <integer>69</integer>
+    <key>feng.1</key>
     <integer>69</integer>
     <key>filledbox</key>
     <integer>69</integer>
@@ -24488,10 +25955,6 @@
     <key>tcaron.1</key>
     <integer>69</integer>
     <key>thorn</key>
-    <integer>69</integer>
-    <key>uni02A9.1</key>
-    <integer>69</integer>
-    <key>uni041A</key>
     <integer>69</integer>
   </dict>
   <key>delta</key>
@@ -25138,6 +26601,8 @@
     <integer>-90</integer>
     <key>Oacute</key>
     <integer>-90</integer>
+    <key>Obar</key>
+    <integer>-90</integer>
     <key>Obreve</key>
     <integer>-90</integer>
     <key>Ocircumflex</key>
@@ -25196,6 +26661,8 @@
     <integer>-69</integer>
     <key>at</key>
     <integer>-90</integer>
+    <key>circleblack</key>
+    <integer>-90</integer>
     <key>copyright</key>
     <integer>-90</integer>
     <key>eight</key>
@@ -25208,6 +26675,8 @@
     <integer>-14</integer>
     <key>question</key>
     <integer>-180</integer>
+    <key>quotedblreversed</key>
+    <integer>-372</integer>
     <key>quotedblright</key>
     <integer>-116</integer>
     <key>quotedblright.ss03</key>
@@ -25226,12 +26695,6 @@
     <integer>-55</integer>
     <key>three.ss01</key>
     <integer>-55</integer>
-    <key>uni019F</key>
-    <integer>-90</integer>
-    <key>uni201F</key>
-    <integer>-372</integer>
-    <key>uni25CF</key>
-    <integer>-90</integer>
     <key>zero</key>
     <integer>-52</integer>
     <key>zero.slash</key>
@@ -26021,6 +27484,8 @@
     <integer>-20</integer>
     <key>f</key>
     <integer>-80</integer>
+    <key>feng</key>
+    <integer>-80</integer>
     <key>four</key>
     <integer>-128</integer>
     <key>four.ss01</key>
@@ -26129,8 +27594,6 @@
     <integer>-70</integer>
     <key>underscore</key>
     <integer>-29</integer>
-    <key>uni02A9</key>
-    <integer>-80</integer>
     <key>v</key>
     <integer>10</integer>
     <key>w</key>
@@ -26322,6 +27785,8 @@
     <integer>-20</integer>
     <key>f</key>
     <integer>-80</integer>
+    <key>feng</key>
+    <integer>-80</integer>
     <key>four</key>
     <integer>-128</integer>
     <key>four.ss01</key>
@@ -26430,8 +27895,6 @@
     <integer>-70</integer>
     <key>underscore</key>
     <integer>-29</integer>
-    <key>uni02A9</key>
-    <integer>-80</integer>
     <key>v</key>
     <integer>10</integer>
     <key>w</key>
@@ -26470,6 +27933,152 @@
     <integer>-58</integer>
     <key>public.kern2.quotedblbase2</key>
     <integer>-186</integer>
+  </dict>
+  <key>feng</key>
+  <dict>
+    <key>T</key>
+    <integer>-151</integer>
+    <key>Tau</key>
+    <integer>-151</integer>
+    <key>Tbar</key>
+    <integer>-151</integer>
+    <key>Tcaron</key>
+    <integer>-151</integer>
+    <key>Upsilon</key>
+    <integer>-151</integer>
+    <key>Upsilondieresis</key>
+    <integer>-151</integer>
+    <key>Upsilontonos</key>
+    <integer>-151</integer>
+    <key>V</key>
+    <integer>-104</integer>
+    <key>W</key>
+    <integer>-104</integer>
+    <key>Wacute</key>
+    <integer>-104</integer>
+    <key>Wcircumflex</key>
+    <integer>-104</integer>
+    <key>Wdieresis</key>
+    <integer>-104</integer>
+    <key>Wgrave</key>
+    <integer>-104</integer>
+    <key>Y</key>
+    <integer>-151</integer>
+    <key>Yacute</key>
+    <integer>-151</integer>
+    <key>Ycircumflex</key>
+    <integer>-151</integer>
+    <key>Ydieresis</key>
+    <integer>-151</integer>
+    <key>Ygrave</key>
+    <integer>-151</integer>
+    <key>Yogonek</key>
+    <integer>-151</integer>
+    <key>backslash</key>
+    <integer>-104</integer>
+    <key>chi</key>
+    <integer>-30</integer>
+    <key>nu</key>
+    <integer>-30</integer>
+    <key>quotedblleft</key>
+    <integer>-93</integer>
+    <key>quotedblleft.ss03</key>
+    <integer>-93</integer>
+    <key>quoteleft</key>
+    <integer>-93</integer>
+    <key>registered</key>
+    <integer>-17</integer>
+    <key>v</key>
+    <integer>-30</integer>
+    <key>y</key>
+    <integer>-30</integer>
+    <key>y.sc</key>
+    <integer>-30</integer>
+    <key>yacute</key>
+    <integer>-30</integer>
+    <key>ycircumflex</key>
+    <integer>-30</integer>
+    <key>ydieresis</key>
+    <integer>-30</integer>
+    <key>ygrave</key>
+    <integer>-30</integer>
+    <key>yogonek</key>
+    <integer>-30</integer>
+    <key>public.kern2.one</key>
+    <integer>-81</integer>
+  </dict>
+  <key>feng.1</key>
+  <dict>
+    <key>T</key>
+    <integer>-197</integer>
+    <key>Tau</key>
+    <integer>-197</integer>
+    <key>Tbar</key>
+    <integer>-197</integer>
+    <key>Tcaron</key>
+    <integer>-197</integer>
+    <key>Upsilon</key>
+    <integer>-151</integer>
+    <key>Upsilondieresis</key>
+    <integer>-151</integer>
+    <key>Upsilontonos</key>
+    <integer>-151</integer>
+    <key>V</key>
+    <integer>-104</integer>
+    <key>W</key>
+    <integer>-104</integer>
+    <key>Wacute</key>
+    <integer>-104</integer>
+    <key>Wcircumflex</key>
+    <integer>-104</integer>
+    <key>Wdieresis</key>
+    <integer>-104</integer>
+    <key>Wgrave</key>
+    <integer>-104</integer>
+    <key>Y</key>
+    <integer>-151</integer>
+    <key>Yacute</key>
+    <integer>-151</integer>
+    <key>Ycircumflex</key>
+    <integer>-151</integer>
+    <key>Ydieresis</key>
+    <integer>-151</integer>
+    <key>Ygrave</key>
+    <integer>-151</integer>
+    <key>Yogonek</key>
+    <integer>-151</integer>
+    <key>backslash</key>
+    <integer>-104</integer>
+    <key>chi</key>
+    <integer>-30</integer>
+    <key>nu</key>
+    <integer>-30</integer>
+    <key>quotedblleft</key>
+    <integer>-93</integer>
+    <key>quotedblleft.ss03</key>
+    <integer>-93</integer>
+    <key>quoteleft</key>
+    <integer>-93</integer>
+    <key>registered</key>
+    <integer>-17</integer>
+    <key>v</key>
+    <integer>-30</integer>
+    <key>y</key>
+    <integer>-30</integer>
+    <key>y.sc</key>
+    <integer>-30</integer>
+    <key>yacute</key>
+    <integer>-30</integer>
+    <key>ycircumflex</key>
+    <integer>-30</integer>
+    <key>ydieresis</key>
+    <integer>-30</integer>
+    <key>ygrave</key>
+    <integer>-30</integer>
+    <key>yogonek</key>
+    <integer>-30</integer>
+    <key>public.kern2.one</key>
+    <integer>-81</integer>
   </dict>
   <key>filledbox</key>
   <dict>
@@ -27709,6 +29318,8 @@
     <integer>40</integer>
     <key>K</key>
     <integer>81</integer>
+    <key>Kacyr</key>
+    <integer>81</integer>
     <key>Kappa</key>
     <integer>81</integer>
     <key>L</key>
@@ -27784,6 +29395,10 @@
     <key>f</key>
     <integer>81</integer>
     <key>f.1</key>
+    <integer>81</integer>
+    <key>feng</key>
+    <integer>81</integer>
+    <key>feng.1</key>
     <integer>81</integer>
     <key>filledbox</key>
     <integer>81</integer>
@@ -27870,12 +29485,6 @@
     <key>tcaron.1</key>
     <integer>81</integer>
     <key>thorn</key>
-    <integer>81</integer>
-    <key>uni02A9</key>
-    <integer>81</integer>
-    <key>uni02A9.1</key>
-    <integer>81</integer>
-    <key>uni041A</key>
     <integer>81</integer>
     <key>public.kern2.one</key>
     <integer>93</integer>
@@ -28022,6 +29631,8 @@
     <integer>40</integer>
     <key>K</key>
     <integer>81</integer>
+    <key>Kacyr</key>
+    <integer>81</integer>
     <key>Kappa</key>
     <integer>81</integer>
     <key>L</key>
@@ -28097,6 +29708,10 @@
     <key>f</key>
     <integer>81</integer>
     <key>f.1</key>
+    <integer>81</integer>
+    <key>feng</key>
+    <integer>81</integer>
+    <key>feng.1</key>
     <integer>81</integer>
     <key>filledbox</key>
     <integer>81</integer>
@@ -28183,12 +29798,6 @@
     <key>tcaron.1</key>
     <integer>81</integer>
     <key>thorn</key>
-    <integer>81</integer>
-    <key>uni02A9</key>
-    <integer>81</integer>
-    <key>uni02A9.1</key>
-    <integer>81</integer>
-    <key>uni041A</key>
     <integer>81</integer>
     <key>public.kern2.one</key>
     <integer>93</integer>
@@ -28276,6 +29885,8 @@
     <integer>30</integer>
     <key>K</key>
     <integer>30</integer>
+    <key>Kacyr</key>
+    <integer>30</integer>
     <key>Kappa</key>
     <integer>30</integer>
     <key>L</key>
@@ -28327,6 +29938,8 @@
     <key>exclamdown.case</key>
     <integer>30</integer>
     <key>f.1</key>
+    <integer>30</integer>
+    <key>feng.1</key>
     <integer>30</integer>
     <key>filledbox</key>
     <integer>30</integer>
@@ -28392,10 +30005,6 @@
     <integer>30</integer>
     <key>underscore</key>
     <integer>-69</integer>
-    <key>uni02A9.1</key>
-    <integer>30</integer>
-    <key>uni041A</key>
-    <integer>30</integer>
     <key>public.kern2.b.subs2</key>
     <integer>-128</integer>
     <key>public.kern2.plus2</key>
@@ -28469,6 +30078,8 @@
     <integer>30</integer>
     <key>K</key>
     <integer>30</integer>
+    <key>Kacyr</key>
+    <integer>30</integer>
     <key>Kappa</key>
     <integer>30</integer>
     <key>L</key>
@@ -28520,6 +30131,8 @@
     <key>exclamdown.case</key>
     <integer>30</integer>
     <key>f.1</key>
+    <integer>30</integer>
+    <key>feng.1</key>
     <integer>30</integer>
     <key>filledbox</key>
     <integer>30</integer>
@@ -28585,10 +30198,6 @@
     <integer>30</integer>
     <key>underscore</key>
     <integer>-69</integer>
-    <key>uni02A9.1</key>
-    <integer>30</integer>
-    <key>uni041A</key>
-    <integer>30</integer>
     <key>public.kern2.b.subs2</key>
     <integer>-128</integer>
     <key>public.kern2.plus2</key>
@@ -28676,6 +30285,8 @@
     <integer>40</integer>
     <key>K</key>
     <integer>81</integer>
+    <key>Kacyr</key>
+    <integer>81</integer>
     <key>Kappa</key>
     <integer>81</integer>
     <key>L</key>
@@ -28751,6 +30362,10 @@
     <key>f</key>
     <integer>81</integer>
     <key>f.1</key>
+    <integer>81</integer>
+    <key>feng</key>
+    <integer>81</integer>
+    <key>feng.1</key>
     <integer>81</integer>
     <key>filledbox</key>
     <integer>81</integer>
@@ -28837,12 +30452,6 @@
     <key>tcaron.1</key>
     <integer>81</integer>
     <key>thorn</key>
-    <integer>81</integer>
-    <key>uni02A9</key>
-    <integer>81</integer>
-    <key>uni02A9.1</key>
-    <integer>81</integer>
-    <key>uni041A</key>
     <integer>81</integer>
     <key>public.kern2.one</key>
     <integer>93</integer>
@@ -29369,6 +30978,8 @@
     <integer>-81</integer>
     <key>f</key>
     <integer>-50</integer>
+    <key>feng</key>
+    <integer>-50</integer>
     <key>four</key>
     <integer>-50</integer>
     <key>four.ss01</key>
@@ -29454,8 +31065,6 @@
     <key>tbar</key>
     <integer>-50</integer>
     <key>tcaron</key>
-    <integer>-50</integer>
-    <key>uni02A9</key>
     <integer>-50</integer>
     <key>v</key>
     <integer>-40</integer>
@@ -29606,6 +31215,8 @@
     <integer>-70</integer>
     <key>Oacute</key>
     <integer>-70</integer>
+    <key>Obar</key>
+    <integer>-70</integer>
     <key>Obreve</key>
     <integer>-70</integer>
     <key>Ocircumflex</key>
@@ -29704,6 +31315,8 @@
     <integer>-69</integer>
     <key>chi</key>
     <integer>-139</integer>
+    <key>circleblack</key>
+    <integer>-70</integer>
     <key>copyright</key>
     <integer>-70</integer>
     <key>degree</key>
@@ -29796,10 +31409,6 @@
     <integer>-40</integer>
     <key>tcaron</key>
     <integer>-40</integer>
-    <key>uni019F</key>
-    <integer>-70</integer>
-    <key>uni25CF</key>
-    <integer>-70</integer>
     <key>v</key>
     <integer>-139</integer>
     <key>w</key>
@@ -29921,6 +31530,205 @@
     <key>yogonek</key>
     <integer>10</integer>
   </dict>
+  <key>lcircumflexbelow</key>
+  <dict>
+    <key>B</key>
+    <integer>69</integer>
+    <key>Beta</key>
+    <integer>69</integer>
+    <key>D</key>
+    <integer>69</integer>
+    <key>Dcaron</key>
+    <integer>69</integer>
+    <key>Dcroat</key>
+    <integer>69</integer>
+    <key>E</key>
+    <integer>69</integer>
+    <key>Eacute</key>
+    <integer>69</integer>
+    <key>Ebreve</key>
+    <integer>69</integer>
+    <key>Ecaron</key>
+    <integer>69</integer>
+    <key>Ecircumflex</key>
+    <integer>69</integer>
+    <key>Edieresis</key>
+    <integer>69</integer>
+    <key>Edotaccent</key>
+    <integer>69</integer>
+    <key>Egrave</key>
+    <integer>69</integer>
+    <key>Emacron</key>
+    <integer>69</integer>
+    <key>Eng</key>
+    <integer>69</integer>
+    <key>Eogonek</key>
+    <integer>69</integer>
+    <key>Epsilon</key>
+    <integer>69</integer>
+    <key>Eta</key>
+    <integer>69</integer>
+    <key>Etatonos</key>
+    <integer>69</integer>
+    <key>Eth</key>
+    <integer>69</integer>
+    <key>F</key>
+    <integer>69</integer>
+    <key>Gamma</key>
+    <integer>69</integer>
+    <key>H</key>
+    <integer>69</integer>
+    <key>Hbar</key>
+    <integer>69</integer>
+    <key>Hcircumflex</key>
+    <integer>69</integer>
+    <key>I</key>
+    <integer>69</integer>
+    <key>I.1</key>
+    <integer>69</integer>
+    <key>I.double</key>
+    <integer>69</integer>
+    <key>Iacute</key>
+    <integer>69</integer>
+    <key>Idotaccent</key>
+    <integer>69</integer>
+    <key>Igrave</key>
+    <integer>69</integer>
+    <key>Iogonek</key>
+    <integer>69</integer>
+    <key>Iota</key>
+    <integer>69</integer>
+    <key>IotaGreek</key>
+    <integer>69</integer>
+    <key>K</key>
+    <integer>69</integer>
+    <key>Kacyr</key>
+    <integer>69</integer>
+    <key>Kappa</key>
+    <integer>69</integer>
+    <key>L</key>
+    <integer>69</integer>
+    <key>Lacute</key>
+    <integer>69</integer>
+    <key>Lcaron</key>
+    <integer>69</integer>
+    <key>Lslash</key>
+    <integer>69</integer>
+    <key>M</key>
+    <integer>69</integer>
+    <key>Mu</key>
+    <integer>69</integer>
+    <key>N</key>
+    <integer>69</integer>
+    <key>Nacute</key>
+    <integer>69</integer>
+    <key>Ncaron</key>
+    <integer>69</integer>
+    <key>Ntilde</key>
+    <integer>69</integer>
+    <key>Nu</key>
+    <integer>69</integer>
+    <key>P</key>
+    <integer>69</integer>
+    <key>Pi</key>
+    <integer>69</integer>
+    <key>R</key>
+    <integer>69</integer>
+    <key>Racute</key>
+    <integer>69</integer>
+    <key>Rcaron</key>
+    <integer>69</integer>
+    <key>Rho</key>
+    <integer>69</integer>
+    <key>Thorn</key>
+    <integer>69</integer>
+    <key>_part.f_base</key>
+    <integer>69</integer>
+    <key>b</key>
+    <integer>69</integer>
+    <key>bar</key>
+    <integer>69</integer>
+    <key>chi</key>
+    <integer>10</integer>
+    <key>exclamdown.case</key>
+    <integer>69</integer>
+    <key>f.1</key>
+    <integer>69</integer>
+    <key>feng.1</key>
+    <integer>69</integer>
+    <key>filledbox</key>
+    <integer>69</integer>
+    <key>germandbls</key>
+    <integer>69</integer>
+    <key>germandbls.1</key>
+    <integer>69</integer>
+    <key>h</key>
+    <integer>69</integer>
+    <key>hbar</key>
+    <integer>69</integer>
+    <key>hcircumflex</key>
+    <integer>69</integer>
+    <key>ibreve</key>
+    <integer>151</integer>
+    <key>idieresis</key>
+    <integer>151</integer>
+    <key>imacron</key>
+    <integer>151</integer>
+    <key>iotadieresis</key>
+    <integer>110</integer>
+    <key>iotadieresistonos</key>
+    <integer>110</integer>
+    <key>itilde</key>
+    <integer>151</integer>
+    <key>k</key>
+    <integer>69</integer>
+    <key>k.base</key>
+    <integer>69</integer>
+    <key>l</key>
+    <integer>69</integer>
+    <key>l.ss02</key>
+    <integer>69</integer>
+    <key>lacute</key>
+    <integer>69</integer>
+    <key>lacute.ss02</key>
+    <integer>69</integer>
+    <key>lcaron</key>
+    <integer>69</integer>
+    <key>lcaron.ss02</key>
+    <integer>69</integer>
+    <key>ldot</key>
+    <integer>69</integer>
+    <key>ldot.ss02</key>
+    <integer>69</integer>
+    <key>longs</key>
+    <integer>69</integer>
+    <key>lslash</key>
+    <integer>69</integer>
+    <key>nu</key>
+    <integer>10</integer>
+    <key>t.1</key>
+    <integer>69</integer>
+    <key>tcaron.1</key>
+    <integer>69</integer>
+    <key>thorn</key>
+    <integer>69</integer>
+    <key>v</key>
+    <integer>10</integer>
+    <key>y</key>
+    <integer>10</integer>
+    <key>y.sc</key>
+    <integer>10</integer>
+    <key>yacute</key>
+    <integer>10</integer>
+    <key>ycircumflex</key>
+    <integer>10</integer>
+    <key>ydieresis</key>
+    <integer>10</integer>
+    <key>ygrave</key>
+    <integer>10</integer>
+    <key>yogonek</key>
+    <integer>10</integer>
+  </dict>
   <key>ldot</key>
   <dict>
     <key>B</key>
@@ -29993,6 +31801,8 @@
     <integer>69</integer>
     <key>K</key>
     <integer>69</integer>
+    <key>Kacyr</key>
+    <integer>69</integer>
     <key>Kappa</key>
     <integer>69</integer>
     <key>L</key>
@@ -30042,6 +31852,8 @@
     <key>exclamdown.case</key>
     <integer>69</integer>
     <key>f.1</key>
+    <integer>69</integer>
+    <key>feng.1</key>
     <integer>69</integer>
     <key>filledbox</key>
     <integer>69</integer>
@@ -30098,10 +31910,6 @@
     <key>tcaron.1</key>
     <integer>69</integer>
     <key>thorn</key>
-    <integer>69</integer>
-    <key>uni02A9.1</key>
-    <integer>69</integer>
-    <key>uni041A</key>
     <integer>69</integer>
     <key>v</key>
     <integer>10</integer>
@@ -30548,6 +32356,8 @@
     <integer>-140</integer>
     <key>f</key>
     <integer>-80</integer>
+    <key>feng</key>
+    <integer>-80</integer>
     <key>g</key>
     <integer>-140</integer>
     <key>gbreve</key>
@@ -30654,8 +32464,6 @@
     <integer>-120</integer>
     <key>umacron</key>
     <integer>-120</integer>
-    <key>uni02A9</key>
-    <integer>-80</integer>
     <key>uogonek</key>
     <integer>-120</integer>
     <key>upsilon</key>
@@ -30706,6 +32514,257 @@
     <integer>-120</integer>
     <key>zdotaccent</key>
     <integer>-120</integer>
+  </dict>
+  <key>longsdot</key>
+  <dict>
+    <key>_part.fitacy_bar</key>
+    <integer>-140</integer>
+    <key>a</key>
+    <integer>-140</integer>
+    <key>aacute</key>
+    <integer>-120</integer>
+    <key>abreve</key>
+    <integer>-120</integer>
+    <key>acircumflex</key>
+    <integer>-120</integer>
+    <key>adieresis</key>
+    <integer>-120</integer>
+    <key>ae</key>
+    <integer>-120</integer>
+    <key>aeacute</key>
+    <integer>-120</integer>
+    <key>agrave</key>
+    <integer>-120</integer>
+    <key>alpha</key>
+    <integer>-140</integer>
+    <key>alphatonos</key>
+    <integer>-140</integer>
+    <key>amacron</key>
+    <integer>-120</integer>
+    <key>aogonek</key>
+    <integer>-120</integer>
+    <key>aring</key>
+    <integer>-120</integer>
+    <key>aringacute</key>
+    <integer>-120</integer>
+    <key>aringogonek</key>
+    <integer>-120</integer>
+    <key>atilde</key>
+    <integer>-120</integer>
+    <key>beta</key>
+    <integer>-120</integer>
+    <key>c</key>
+    <integer>-140</integer>
+    <key>cacute</key>
+    <integer>-140</integer>
+    <key>ccaron</key>
+    <integer>-140</integer>
+    <key>ccedilla</key>
+    <integer>-140</integer>
+    <key>ccircumflex</key>
+    <integer>-140</integer>
+    <key>cdotaccent</key>
+    <integer>-140</integer>
+    <key>cent</key>
+    <integer>-140</integer>
+    <key>chi</key>
+    <integer>-120</integer>
+    <key>d</key>
+    <integer>-140</integer>
+    <key>dcaron</key>
+    <integer>-140</integer>
+    <key>dcroat</key>
+    <integer>-140</integer>
+    <key>dong</key>
+    <integer>-140</integer>
+    <key>e</key>
+    <integer>-140</integer>
+    <key>eacute</key>
+    <integer>-140</integer>
+    <key>ebreve</key>
+    <integer>-140</integer>
+    <key>ecaron</key>
+    <integer>-140</integer>
+    <key>ecircumflex</key>
+    <integer>-140</integer>
+    <key>edotaccent</key>
+    <integer>-140</integer>
+    <key>egrave</key>
+    <integer>-140</integer>
+    <key>emacron</key>
+    <integer>-140</integer>
+    <key>eng</key>
+    <integer>-120</integer>
+    <key>eogonek</key>
+    <integer>-140</integer>
+    <key>eta</key>
+    <integer>-120</integer>
+    <key>etatonos</key>
+    <integer>-120</integer>
+    <key>eth</key>
+    <integer>-140</integer>
+    <key>f</key>
+    <integer>-80</integer>
+    <key>feng</key>
+    <integer>-80</integer>
+    <key>g</key>
+    <integer>-140</integer>
+    <key>gbreve</key>
+    <integer>-140</integer>
+    <key>gcaron</key>
+    <integer>-140</integer>
+    <key>gcircumflex</key>
+    <integer>-140</integer>
+    <key>gdotaccent</key>
+    <integer>-140</integer>
+    <key>lslash.ss02</key>
+    <integer>-60</integer>
+    <key>m</key>
+    <integer>-120</integer>
+    <key>n</key>
+    <integer>-120</integer>
+    <key>nacute</key>
+    <integer>-120</integer>
+    <key>ncaron</key>
+    <integer>-120</integer>
+    <key>ntilde</key>
+    <integer>-120</integer>
+    <key>nu</key>
+    <integer>-120</integer>
+    <key>o</key>
+    <integer>-140</integer>
+    <key>oacute</key>
+    <integer>-140</integer>
+    <key>obreve</key>
+    <integer>-140</integer>
+    <key>ocircumflex</key>
+    <integer>-140</integer>
+    <key>oe</key>
+    <integer>-140</integer>
+    <key>oe.sc</key>
+    <integer>-140</integer>
+    <key>ograve</key>
+    <integer>-140</integer>
+    <key>ohorn</key>
+    <integer>-140</integer>
+    <key>ohungarumlaut</key>
+    <integer>-140</integer>
+    <key>omacron</key>
+    <integer>-140</integer>
+    <key>omicron</key>
+    <integer>-140</integer>
+    <key>omicrontonos</key>
+    <integer>-140</integer>
+    <key>oslash</key>
+    <integer>-140</integer>
+    <key>oslashacute</key>
+    <integer>-140</integer>
+    <key>otilde</key>
+    <integer>-140</integer>
+    <key>p</key>
+    <integer>-120</integer>
+    <key>pecyrillicturn</key>
+    <integer>-120</integer>
+    <key>phi</key>
+    <integer>-140</integer>
+    <key>phigreek</key>
+    <integer>-140</integer>
+    <key>pi</key>
+    <integer>-60</integer>
+    <key>q</key>
+    <integer>-140</integer>
+    <key>r</key>
+    <integer>-120</integer>
+    <key>racute</key>
+    <integer>-120</integer>
+    <key>rcaron</key>
+    <integer>-120</integer>
+    <key>rho</key>
+    <integer>-120</integer>
+    <key>sigma</key>
+    <integer>-140</integer>
+    <key>t</key>
+    <integer>-60</integer>
+    <key>t.sc</key>
+    <integer>-60</integer>
+    <key>tau</key>
+    <integer>-60</integer>
+    <key>tbar</key>
+    <integer>-60</integer>
+    <key>tcaron</key>
+    <integer>-60</integer>
+    <key>u</key>
+    <integer>-120</integer>
+    <key>u.1</key>
+    <integer>-120</integer>
+    <key>uacute</key>
+    <integer>-120</integer>
+    <key>ubreve</key>
+    <integer>-120</integer>
+    <key>ucircumflex</key>
+    <integer>-120</integer>
+    <key>udieresis</key>
+    <integer>-120</integer>
+    <key>ugrave</key>
+    <integer>-120</integer>
+    <key>uhorn</key>
+    <integer>-120</integer>
+    <key>uhungarumlaut</key>
+    <integer>-120</integer>
+    <key>umacron</key>
+    <integer>-120</integer>
+    <key>uogonek</key>
+    <integer>-120</integer>
+    <key>upsilon</key>
+    <integer>-120</integer>
+    <key>upsilondieresis</key>
+    <integer>-120</integer>
+    <key>upsilondieresistonos</key>
+    <integer>-120</integer>
+    <key>upsilontonos</key>
+    <integer>-120</integer>
+    <key>uring</key>
+    <integer>-120</integer>
+    <key>utilde</key>
+    <integer>-120</integer>
+    <key>v</key>
+    <integer>-120</integer>
+    <key>w</key>
+    <integer>-120</integer>
+    <key>wacute</key>
+    <integer>-120</integer>
+    <key>wcircumflex</key>
+    <integer>-120</integer>
+    <key>wdieresis</key>
+    <integer>-120</integer>
+    <key>wgrave</key>
+    <integer>-120</integer>
+    <key>x</key>
+    <integer>-120</integer>
+    <key>y</key>
+    <integer>-120</integer>
+    <key>y.sc</key>
+    <integer>-120</integer>
+    <key>yacute</key>
+    <integer>-120</integer>
+    <key>ycircumflex</key>
+    <integer>-120</integer>
+    <key>ydieresis</key>
+    <integer>-120</integer>
+    <key>ygrave</key>
+    <integer>-120</integer>
+    <key>yogonek</key>
+    <integer>-120</integer>
+    <key>z</key>
+    <integer>-120</integer>
+    <key>zacute</key>
+    <integer>-120</integer>
+    <key>zcaron</key>
+    <integer>-120</integer>
+    <key>zdotaccent</key>
+    <integer>-120</integer>
+    <key>public.kern2.edieresis</key>
+    <integer>-140</integer>
   </dict>
   <key>lslash</key>
   <dict>
@@ -30894,6 +32953,8 @@
     <integer>-20</integer>
     <key>f</key>
     <integer>-20</integer>
+    <key>feng</key>
+    <integer>-20</integer>
     <key>four</key>
     <integer>-29</integer>
     <key>four.ss01</key>
@@ -31002,8 +33063,6 @@
     <integer>-70</integer>
     <key>tcaron</key>
     <integer>-70</integer>
-    <key>uni02A9</key>
-    <integer>-20</integer>
     <key>v</key>
     <integer>40</integer>
     <key>w</key>
@@ -32406,6 +34465,8 @@
     <integer>-128</integer>
     <key>K</key>
     <integer>10</integer>
+    <key>Kacyr</key>
+    <integer>10</integer>
     <key>Kappa</key>
     <integer>10</integer>
     <key>L</key>
@@ -32530,6 +34591,10 @@
     <integer>30</integer>
     <key>f.1</key>
     <integer>10</integer>
+    <key>feng</key>
+    <integer>30</integer>
+    <key>feng.1</key>
+    <integer>10</integer>
     <key>filledbox</key>
     <integer>10</integer>
     <key>germandbls</key>
@@ -32634,12 +34699,6 @@
     <integer>10</integer>
     <key>underscore</key>
     <integer>-162</integer>
-    <key>uni02A9</key>
-    <integer>30</integer>
-    <key>uni02A9.1</key>
-    <integer>10</integer>
-    <key>uni041A</key>
-    <integer>10</integer>
     <key>public.kern2.b.subs2</key>
     <integer>-104</integer>
     <key>public.kern2.comma2</key>
@@ -35492,6 +37551,8 @@
     <integer>-20</integer>
     <key>f</key>
     <integer>-20</integer>
+    <key>feng</key>
+    <integer>-20</integer>
     <key>four</key>
     <integer>-29</integer>
     <key>four.ss01</key>
@@ -35600,8 +37661,6 @@
     <integer>-70</integer>
     <key>tcaron</key>
     <integer>-70</integer>
-    <key>uni02A9</key>
-    <integer>-20</integer>
     <key>v</key>
     <integer>40</integer>
     <key>w</key>
@@ -37758,6 +39817,8 @@
     <integer>-81</integer>
     <key>f</key>
     <integer>32</integer>
+    <key>feng</key>
+    <integer>32</integer>
     <key>g</key>
     <integer>-81</integer>
     <key>gbreve</key>
@@ -37839,8 +39900,6 @@
     <key>tbar</key>
     <integer>32</integer>
     <key>tcaron</key>
-    <integer>32</integer>
-    <key>uni02A9</key>
     <integer>32</integer>
     <key>v</key>
     <integer>32</integer>
@@ -38021,6 +40080,8 @@
     <integer>-81</integer>
     <key>f</key>
     <integer>32</integer>
+    <key>feng</key>
+    <integer>32</integer>
     <key>g</key>
     <integer>-81</integer>
     <key>gbreve</key>
@@ -38102,8 +40163,6 @@
     <key>tbar</key>
     <integer>32</integer>
     <key>tcaron</key>
-    <integer>32</integer>
-    <key>uni02A9</key>
     <integer>32</integer>
     <key>v</key>
     <integer>32</integer>
@@ -38284,6 +40343,8 @@
     <integer>-81</integer>
     <key>f</key>
     <integer>32</integer>
+    <key>feng</key>
+    <integer>32</integer>
     <key>g</key>
     <integer>-81</integer>
     <key>gbreve</key>
@@ -38365,8 +40426,6 @@
     <key>tbar</key>
     <integer>32</integer>
     <key>tcaron</key>
-    <integer>32</integer>
-    <key>uni02A9</key>
     <integer>32</integer>
     <key>v</key>
     <integer>32</integer>
@@ -39338,6 +41397,8 @@
     <integer>-81</integer>
     <key>f</key>
     <integer>32</integer>
+    <key>feng</key>
+    <integer>32</integer>
     <key>g</key>
     <integer>-81</integer>
     <key>gbreve</key>
@@ -39427,8 +41488,6 @@
     <key>tbar</key>
     <integer>32</integer>
     <key>tcaron</key>
-    <integer>32</integer>
-    <key>uni02A9</key>
     <integer>32</integer>
     <key>v</key>
     <integer>32</integer>
@@ -39634,6 +41693,8 @@
     <integer>-20</integer>
     <key>f</key>
     <integer>-20</integer>
+    <key>feng</key>
+    <integer>-20</integer>
     <key>four</key>
     <integer>-29</integer>
     <key>four.ss01</key>
@@ -39742,8 +41803,6 @@
     <integer>-70</integer>
     <key>tcaron</key>
     <integer>-70</integer>
-    <key>uni02A9</key>
-    <integer>-20</integer>
     <key>v</key>
     <integer>40</integer>
     <key>w</key>
@@ -39911,6 +41970,8 @@
     <integer>-20</integer>
     <key>f</key>
     <integer>-20</integer>
+    <key>feng</key>
+    <integer>-20</integer>
     <key>four</key>
     <integer>-29</integer>
     <key>four.ss01</key>
@@ -40019,8 +42080,6 @@
     <integer>-70</integer>
     <key>tcaron</key>
     <integer>-70</integer>
-    <key>uni02A9</key>
-    <integer>-20</integer>
     <key>v</key>
     <integer>40</integer>
     <key>w</key>
@@ -40196,6 +42255,8 @@
     <integer>-81</integer>
     <key>f</key>
     <integer>32</integer>
+    <key>feng</key>
+    <integer>32</integer>
     <key>g</key>
     <integer>-81</integer>
     <key>gbreve</key>
@@ -40277,8 +42338,6 @@
     <key>tbar</key>
     <integer>32</integer>
     <key>tcaron</key>
-    <integer>32</integer>
-    <key>uni02A9</key>
     <integer>32</integer>
     <key>v</key>
     <integer>32</integer>
@@ -40461,6 +42520,8 @@
     <integer>-81</integer>
     <key>f</key>
     <integer>32</integer>
+    <key>feng</key>
+    <integer>32</integer>
     <key>g</key>
     <integer>-81</integer>
     <key>gbreve</key>
@@ -40548,8 +42609,6 @@
     <key>tbar</key>
     <integer>32</integer>
     <key>tcaron</key>
-    <integer>32</integer>
-    <key>uni02A9</key>
     <integer>32</integer>
     <key>v</key>
     <integer>32</integer>
@@ -40722,6 +42781,8 @@
     <integer>-20</integer>
     <key>f</key>
     <integer>-20</integer>
+    <key>feng</key>
+    <integer>-20</integer>
     <key>four</key>
     <integer>-29</integer>
     <key>four.ss01</key>
@@ -40830,8 +42891,6 @@
     <integer>-70</integer>
     <key>tcaron</key>
     <integer>-70</integer>
-    <key>uni02A9</key>
-    <integer>-20</integer>
     <key>v</key>
     <integer>40</integer>
     <key>w</key>
@@ -40999,6 +43058,8 @@
     <integer>-20</integer>
     <key>f</key>
     <integer>-20</integer>
+    <key>feng</key>
+    <integer>-20</integer>
     <key>four</key>
     <integer>-29</integer>
     <key>four.ss01</key>
@@ -41107,8 +43168,6 @@
     <integer>-70</integer>
     <key>tcaron</key>
     <integer>-70</integer>
-    <key>uni02A9</key>
-    <integer>-20</integer>
     <key>v</key>
     <integer>40</integer>
     <key>w</key>
@@ -41276,6 +43335,8 @@
     <integer>-20</integer>
     <key>f</key>
     <integer>-20</integer>
+    <key>feng</key>
+    <integer>-20</integer>
     <key>four</key>
     <integer>-29</integer>
     <key>four.ss01</key>
@@ -41384,8 +43445,6 @@
     <integer>-70</integer>
     <key>tcaron</key>
     <integer>-70</integer>
-    <key>uni02A9</key>
-    <integer>-20</integer>
     <key>v</key>
     <integer>40</integer>
     <key>w</key>
@@ -42422,6 +44481,8 @@
     <integer>-81</integer>
     <key>Oacute</key>
     <integer>-81</integer>
+    <key>Obar</key>
+    <integer>-81</integer>
     <key>Obreve</key>
     <integer>-81</integer>
     <key>Ocircumflex</key>
@@ -42500,6 +44561,8 @@
     <integer>69</integer>
     <key>chi</key>
     <integer>-162</integer>
+    <key>circleblack</key>
+    <integer>-81</integer>
     <key>copyright</key>
     <integer>-81</integer>
     <key>degree</key>
@@ -42564,10 +44627,6 @@
     <integer>-93</integer>
     <key>u.1</key>
     <integer>69</integer>
-    <key>uni019F</key>
-    <integer>-81</integer>
-    <key>uni25CF</key>
-    <integer>-81</integer>
     <key>upsilon</key>
     <integer>69</integer>
     <key>upsilondieresis</key>
@@ -42600,2065 +44659,6 @@
     <integer>-221</integer>
     <key>public.kern2.paragraph</key>
     <integer>-93</integer>
-  </dict>
-  <key>uni019F</key>
-  <dict>
-    <key>A</key>
-    <integer>-70</integer>
-    <key>AE</key>
-    <integer>-70</integer>
-    <key>AEacute</key>
-    <integer>-70</integer>
-    <key>Aacute</key>
-    <integer>-70</integer>
-    <key>Abreve</key>
-    <integer>-70</integer>
-    <key>Acircumflex</key>
-    <integer>-70</integer>
-    <key>Adieresis</key>
-    <integer>-70</integer>
-    <key>Agrave</key>
-    <integer>-70</integer>
-    <key>Alpha</key>
-    <integer>-70</integer>
-    <key>Alphatonos</key>
-    <integer>-70</integer>
-    <key>Amacron</key>
-    <integer>-70</integer>
-    <key>Aogonek</key>
-    <integer>-70</integer>
-    <key>Aring</key>
-    <integer>-70</integer>
-    <key>Aringacute</key>
-    <integer>-70</integer>
-    <key>Aringogonek</key>
-    <integer>-70</integer>
-    <key>Atilde</key>
-    <integer>-70</integer>
-    <key>Chi</key>
-    <integer>-61</integer>
-    <key>Lambda</key>
-    <integer>-70</integer>
-    <key>T</key>
-    <integer>-61</integer>
-    <key>Tau</key>
-    <integer>-61</integer>
-    <key>Tbar</key>
-    <integer>-61</integer>
-    <key>Tcaron</key>
-    <integer>-61</integer>
-    <key>Upsilon</key>
-    <integer>-69</integer>
-    <key>Upsilondieresis</key>
-    <integer>-69</integer>
-    <key>Upsilontonos</key>
-    <integer>-69</integer>
-    <key>V</key>
-    <integer>-69</integer>
-    <key>X</key>
-    <integer>-61</integer>
-    <key>Y</key>
-    <integer>-69</integer>
-    <key>Yacute</key>
-    <integer>-69</integer>
-    <key>Ycircumflex</key>
-    <integer>-69</integer>
-    <key>Ydieresis</key>
-    <integer>-69</integer>
-    <key>Ygrave</key>
-    <integer>-69</integer>
-    <key>Yogonek</key>
-    <integer>-69</integer>
-    <key>backslash</key>
-    <integer>-69</integer>
-    <key>ellipsis</key>
-    <integer>-61</integer>
-    <key>period</key>
-    <integer>-61</integer>
-    <key>quotedblleft</key>
-    <integer>-69</integer>
-    <key>quotedblleft.ss03</key>
-    <integer>-69</integer>
-    <key>quoteleft</key>
-    <integer>-69</integer>
-    <key>registered</key>
-    <integer>-11</integer>
-    <key>slash</key>
-    <integer>-81</integer>
-    <key>underscore</key>
-    <integer>-81</integer>
-    <key>public.kern2.comma2</key>
-    <integer>-61</integer>
-    <key>public.kern2.quotedblbase2</key>
-    <integer>-81</integer>
-  </dict>
-  <key>uni01AE</key>
-  <dict>
-    <key>A</key>
-    <integer>-174</integer>
-    <key>AE</key>
-    <integer>-174</integer>
-    <key>AEacute</key>
-    <integer>-174</integer>
-    <key>Aacute</key>
-    <integer>-174</integer>
-    <key>Abreve</key>
-    <integer>-174</integer>
-    <key>Acircumflex</key>
-    <integer>-174</integer>
-    <key>Adieresis</key>
-    <integer>-174</integer>
-    <key>Agrave</key>
-    <integer>-174</integer>
-    <key>Alpha</key>
-    <integer>-174</integer>
-    <key>Alphatonos</key>
-    <integer>-174</integer>
-    <key>Amacron</key>
-    <integer>-174</integer>
-    <key>Aogonek</key>
-    <integer>-174</integer>
-    <key>Aring</key>
-    <integer>-174</integer>
-    <key>Aringacute</key>
-    <integer>-174</integer>
-    <key>Aringogonek</key>
-    <integer>-174</integer>
-    <key>Atilde</key>
-    <integer>-174</integer>
-    <key>C</key>
-    <integer>-90</integer>
-    <key>Cacute</key>
-    <integer>-90</integer>
-    <key>Ccaron</key>
-    <integer>-90</integer>
-    <key>Ccedilla</key>
-    <integer>-90</integer>
-    <key>Ccircumflex</key>
-    <integer>-90</integer>
-    <key>Cdotaccent</key>
-    <integer>-90</integer>
-    <key>G</key>
-    <integer>-90</integer>
-    <key>G.1</key>
-    <integer>-90</integer>
-    <key>Gbreve</key>
-    <integer>-90</integer>
-    <key>Gcaron</key>
-    <integer>-90</integer>
-    <key>Gcircumflex</key>
-    <integer>-90</integer>
-    <key>Gdotaccent</key>
-    <integer>-90</integer>
-    <key>J</key>
-    <integer>-186</integer>
-    <key>Jcircumflex</key>
-    <integer>-186</integer>
-    <key>Lambda</key>
-    <integer>-174</integer>
-    <key>O</key>
-    <integer>-90</integer>
-    <key>OE</key>
-    <integer>-90</integer>
-    <key>Oacute</key>
-    <integer>-90</integer>
-    <key>Obreve</key>
-    <integer>-90</integer>
-    <key>Ocircumflex</key>
-    <integer>-90</integer>
-    <key>Odieresis</key>
-    <integer>-90</integer>
-    <key>Ograve</key>
-    <integer>-90</integer>
-    <key>Ohorn</key>
-    <integer>-90</integer>
-    <key>Ohungarumlaut</key>
-    <integer>-90</integer>
-    <key>Omacron</key>
-    <integer>-90</integer>
-    <key>Omicron</key>
-    <integer>-90</integer>
-    <key>Omicrontonos</key>
-    <integer>-90</integer>
-    <key>Oslash</key>
-    <integer>-90</integer>
-    <key>Oslashacute</key>
-    <integer>-90</integer>
-    <key>Otilde</key>
-    <integer>-90</integer>
-    <key>Phi</key>
-    <integer>-90</integer>
-    <key>Q</key>
-    <integer>-90</integer>
-    <key>Theta</key>
-    <integer>-90</integer>
-    <key>_part.fitacy_bar</key>
-    <integer>-160</integer>
-    <key>a</key>
-    <integer>-160</integer>
-    <key>aacute</key>
-    <integer>-150</integer>
-    <key>abreve</key>
-    <integer>-150</integer>
-    <key>acircumflex</key>
-    <integer>-150</integer>
-    <key>adieresis</key>
-    <integer>-81</integer>
-    <key>ae</key>
-    <integer>-150</integer>
-    <key>aeacute</key>
-    <integer>-150</integer>
-    <key>agrave</key>
-    <integer>-150</integer>
-    <key>alpha</key>
-    <integer>-160</integer>
-    <key>alphatonos</key>
-    <integer>-160</integer>
-    <key>amacron</key>
-    <integer>-150</integer>
-    <key>ampersand</key>
-    <integer>-69</integer>
-    <key>aogonek</key>
-    <integer>-150</integer>
-    <key>approxequal</key>
-    <integer>-69</integer>
-    <key>approxequal.case</key>
-    <integer>-69</integer>
-    <key>approxequal.case.tf</key>
-    <integer>-69</integer>
-    <key>aring</key>
-    <integer>-150</integer>
-    <key>aringacute</key>
-    <integer>-150</integer>
-    <key>aringogonek</key>
-    <integer>-150</integer>
-    <key>arrowdblright</key>
-    <integer>-69</integer>
-    <key>asciitilde</key>
-    <integer>-151</integer>
-    <key>asterisk.case</key>
-    <integer>-69</integer>
-    <key>asterisk.case.tf</key>
-    <integer>-69</integer>
-    <key>at</key>
-    <integer>-90</integer>
-    <key>atilde</key>
-    <integer>-81</integer>
-    <key>beta</key>
-    <integer>-104</integer>
-    <key>bullet</key>
-    <integer>-69</integer>
-    <key>bullet.case</key>
-    <integer>-69</integer>
-    <key>c</key>
-    <integer>-160</integer>
-    <key>cacute</key>
-    <integer>-160</integer>
-    <key>ccaron</key>
-    <integer>-160</integer>
-    <key>ccedilla</key>
-    <integer>-160</integer>
-    <key>ccircumflex</key>
-    <integer>-160</integer>
-    <key>cdotaccent</key>
-    <integer>-160</integer>
-    <key>cent</key>
-    <integer>-160</integer>
-    <key>chi</key>
-    <integer>-150</integer>
-    <key>colon</key>
-    <integer>-81</integer>
-    <key>colon.case</key>
-    <integer>-81</integer>
-    <key>copyright</key>
-    <integer>-90</integer>
-    <key>d</key>
-    <integer>-160</integer>
-    <key>dcaron</key>
-    <integer>-160</integer>
-    <key>dcroat</key>
-    <integer>-160</integer>
-    <key>delta</key>
-    <integer>-122</integer>
-    <key>dong</key>
-    <integer>-160</integer>
-    <key>e</key>
-    <integer>-160</integer>
-    <key>eacute</key>
-    <integer>-160</integer>
-    <key>ebreve</key>
-    <integer>-160</integer>
-    <key>ecaron</key>
-    <integer>-160</integer>
-    <key>ecircumflex</key>
-    <integer>-160</integer>
-    <key>edotaccent</key>
-    <integer>-160</integer>
-    <key>egrave</key>
-    <integer>-160</integer>
-    <key>ellipsis</key>
-    <integer>-174</integer>
-    <key>emacron</key>
-    <integer>-160</integer>
-    <key>eng</key>
-    <integer>-104</integer>
-    <key>eogonek</key>
-    <integer>-160</integer>
-    <key>epsilon</key>
-    <integer>-150</integer>
-    <key>epsilontonos</key>
-    <integer>-267</integer>
-    <key>equal</key>
-    <integer>-69</integer>
-    <key>equal.case</key>
-    <integer>-69</integer>
-    <key>equal.case.tf</key>
-    <integer>-69</integer>
-    <key>eta</key>
-    <integer>-104</integer>
-    <key>etatonos</key>
-    <integer>-104</integer>
-    <key>eth</key>
-    <integer>-160</integer>
-    <key>four</key>
-    <integer>-139</integer>
-    <key>four.ss01</key>
-    <integer>-139</integer>
-    <key>g</key>
-    <integer>-160</integer>
-    <key>gamma</key>
-    <integer>-209</integer>
-    <key>gbreve</key>
-    <integer>-160</integer>
-    <key>gcaron</key>
-    <integer>-160</integer>
-    <key>gcircumflex</key>
-    <integer>-160</integer>
-    <key>gdotaccent</key>
-    <integer>-160</integer>
-    <key>greaterequal</key>
-    <integer>-69</integer>
-    <key>greaterequal.case</key>
-    <integer>-69</integer>
-    <key>greaterequal.case.tf</key>
-    <integer>-69</integer>
-    <key>hyphen</key>
-    <integer>-151</integer>
-    <key>ibreve</key>
-    <integer>186</integer>
-    <key>idieresis</key>
-    <integer>186</integer>
-    <key>imacron</key>
-    <integer>186</integer>
-    <key>iotadieresis</key>
-    <integer>233</integer>
-    <key>iotadieresistonos</key>
-    <integer>233</integer>
-    <key>itilde</key>
-    <integer>186</integer>
-    <key>lambda</key>
-    <integer>-69</integer>
-    <key>less</key>
-    <integer>-162</integer>
-    <key>lessequal</key>
-    <integer>-69</integer>
-    <key>lessequal.case</key>
-    <integer>-69</integer>
-    <key>lessequal.case.tf</key>
-    <integer>-69</integer>
-    <key>logicalnot</key>
-    <integer>-151</integer>
-    <key>m</key>
-    <integer>-104</integer>
-    <key>multiply</key>
-    <integer>-69</integer>
-    <key>multiply.case</key>
-    <integer>-69</integer>
-    <key>multiply.case.tf</key>
-    <integer>-69</integer>
-    <key>n</key>
-    <integer>-104</integer>
-    <key>nacute</key>
-    <integer>-104</integer>
-    <key>ncaron</key>
-    <integer>-104</integer>
-    <key>notequal</key>
-    <integer>-69</integer>
-    <key>notequal.case</key>
-    <integer>-69</integer>
-    <key>notequal.case.tf</key>
-    <integer>-69</integer>
-    <key>ntilde</key>
-    <integer>-104</integer>
-    <key>nu</key>
-    <integer>-150</integer>
-    <key>o</key>
-    <integer>-160</integer>
-    <key>oacute</key>
-    <integer>-160</integer>
-    <key>obreve</key>
-    <integer>-160</integer>
-    <key>ocircumflex</key>
-    <integer>-160</integer>
-    <key>oe</key>
-    <integer>-160</integer>
-    <key>oe.sc</key>
-    <integer>-160</integer>
-    <key>ograve</key>
-    <integer>-160</integer>
-    <key>ohorn</key>
-    <integer>-160</integer>
-    <key>ohungarumlaut</key>
-    <integer>-160</integer>
-    <key>omacron</key>
-    <integer>-160</integer>
-    <key>omega</key>
-    <integer>-267</integer>
-    <key>omegatonos</key>
-    <integer>-267</integer>
-    <key>omicron</key>
-    <integer>-160</integer>
-    <key>omicrontonos</key>
-    <integer>-160</integer>
-    <key>openbullet</key>
-    <integer>-69</integer>
-    <key>openbullet.case</key>
-    <integer>-69</integer>
-    <key>oslash</key>
-    <integer>-160</integer>
-    <key>oslashacute</key>
-    <integer>-160</integer>
-    <key>otilde</key>
-    <integer>-104</integer>
-    <key>p</key>
-    <integer>-104</integer>
-    <key>pecyrillicturn</key>
-    <integer>-104</integer>
-    <key>period</key>
-    <integer>-174</integer>
-    <key>periodcentered</key>
-    <integer>-162</integer>
-    <key>phi</key>
-    <integer>-160</integer>
-    <key>phigreek</key>
-    <integer>-160</integer>
-    <key>pi</key>
-    <integer>-209</integer>
-    <key>plusminus</key>
-    <integer>-69</integer>
-    <key>plusminus.case</key>
-    <integer>-69</integer>
-    <key>plusminus.case.tf</key>
-    <integer>-69</integer>
-    <key>psi</key>
-    <integer>-267</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>r</key>
-    <integer>-104</integer>
-    <key>racute</key>
-    <integer>-104</integer>
-    <key>rcaron</key>
-    <integer>-104</integer>
-    <key>rho</key>
-    <integer>-267</integer>
-    <key>s</key>
-    <integer>-150</integer>
-    <key>sacute</key>
-    <integer>-150</integer>
-    <key>scaron</key>
-    <integer>-150</integer>
-    <key>scedilla</key>
-    <integer>-150</integer>
-    <key>scircumflex</key>
-    <integer>-150</integer>
-    <key>semicolon</key>
-    <integer>-81</integer>
-    <key>semicolon.ss03</key>
-    <integer>-81</integer>
-    <key>sigma</key>
-    <integer>-160</integer>
-    <key>six</key>
-    <integer>-69</integer>
-    <key>slash</key>
-    <integer>-104</integer>
-    <key>tau</key>
-    <integer>-209</integer>
-    <key>theta</key>
-    <integer>-162</integer>
-    <key>u</key>
-    <integer>-104</integer>
-    <key>u.1</key>
-    <integer>-104</integer>
-    <key>uacute</key>
-    <integer>-104</integer>
-    <key>ubreve</key>
-    <integer>-104</integer>
-    <key>ucircumflex</key>
-    <integer>-104</integer>
-    <key>udieresis</key>
-    <integer>-104</integer>
-    <key>ugrave</key>
-    <integer>-104</integer>
-    <key>uhorn</key>
-    <integer>-104</integer>
-    <key>uhungarumlaut</key>
-    <integer>-104</integer>
-    <key>umacron</key>
-    <integer>-104</integer>
-    <key>underscore</key>
-    <integer>-116</integer>
-    <key>uni019F</key>
-    <integer>-90</integer>
-    <key>uni25CF</key>
-    <integer>-90</integer>
-    <key>uogonek</key>
-    <integer>-104</integer>
-    <key>upsilon</key>
-    <integer>-104</integer>
-    <key>upsilondieresis</key>
-    <integer>-104</integer>
-    <key>upsilondieresistonos</key>
-    <integer>-104</integer>
-    <key>upsilontonos</key>
-    <integer>-104</integer>
-    <key>uring</key>
-    <integer>-104</integer>
-    <key>utilde</key>
-    <integer>-81</integer>
-    <key>v</key>
-    <integer>-150</integer>
-    <key>w</key>
-    <integer>-128</integer>
-    <key>wacute</key>
-    <integer>-128</integer>
-    <key>wcircumflex</key>
-    <integer>-128</integer>
-    <key>wdieresis</key>
-    <integer>-104</integer>
-    <key>wgrave</key>
-    <integer>-128</integer>
-    <key>x</key>
-    <integer>-174</integer>
-    <key>xi</key>
-    <integer>-116</integer>
-    <key>y</key>
-    <integer>-150</integer>
-    <key>y.sc</key>
-    <integer>-150</integer>
-    <key>yacute</key>
-    <integer>-150</integer>
-    <key>ycircumflex</key>
-    <integer>-150</integer>
-    <key>ydieresis</key>
-    <integer>-69</integer>
-    <key>ygrave</key>
-    <integer>-150</integer>
-    <key>yogonek</key>
-    <integer>-150</integer>
-    <key>z</key>
-    <integer>-81</integer>
-    <key>zacute</key>
-    <integer>-81</integer>
-    <key>zcaron</key>
-    <integer>-81</integer>
-    <key>zdotaccent</key>
-    <integer>-81</integer>
-    <key>zero</key>
-    <integer>-69</integer>
-    <key>zero.slash</key>
-    <integer>-69</integer>
-    <key>zeta</key>
-    <integer>-162</integer>
-    <key>public.kern2.b.subs2</key>
-    <integer>-256</integer>
-    <key>public.kern2.comma2</key>
-    <integer>-174</integer>
-    <key>public.kern2.edieresis</key>
-    <integer>-104</integer>
-    <key>public.kern2.guilsinglleft2</key>
-    <integer>-267</integer>
-    <key>public.kern2.guilsinglright2</key>
-    <integer>-104</integer>
-    <key>public.kern2.plus2</key>
-    <integer>-151</integer>
-    <key>public.kern2.quotedblbase2</key>
-    <integer>-244</integer>
-  </dict>
-  <key>uni023E</key>
-  <dict>
-    <key>A</key>
-    <integer>-174</integer>
-    <key>AE</key>
-    <integer>-174</integer>
-    <key>AEacute</key>
-    <integer>-174</integer>
-    <key>Aacute</key>
-    <integer>-174</integer>
-    <key>Abreve</key>
-    <integer>-174</integer>
-    <key>Acircumflex</key>
-    <integer>-174</integer>
-    <key>Adieresis</key>
-    <integer>-174</integer>
-    <key>Agrave</key>
-    <integer>-174</integer>
-    <key>Alpha</key>
-    <integer>-174</integer>
-    <key>Alphatonos</key>
-    <integer>-174</integer>
-    <key>Amacron</key>
-    <integer>-174</integer>
-    <key>Aogonek</key>
-    <integer>-174</integer>
-    <key>Aring</key>
-    <integer>-174</integer>
-    <key>Aringacute</key>
-    <integer>-174</integer>
-    <key>Aringogonek</key>
-    <integer>-174</integer>
-    <key>Atilde</key>
-    <integer>-174</integer>
-    <key>C</key>
-    <integer>-90</integer>
-    <key>Cacute</key>
-    <integer>-90</integer>
-    <key>Ccaron</key>
-    <integer>-90</integer>
-    <key>Ccedilla</key>
-    <integer>-90</integer>
-    <key>Ccircumflex</key>
-    <integer>-90</integer>
-    <key>Cdotaccent</key>
-    <integer>-90</integer>
-    <key>G</key>
-    <integer>-90</integer>
-    <key>G.1</key>
-    <integer>-90</integer>
-    <key>Gbreve</key>
-    <integer>-90</integer>
-    <key>Gcaron</key>
-    <integer>-90</integer>
-    <key>Gcircumflex</key>
-    <integer>-90</integer>
-    <key>Gdotaccent</key>
-    <integer>-90</integer>
-    <key>J</key>
-    <integer>-186</integer>
-    <key>Jcircumflex</key>
-    <integer>-186</integer>
-    <key>Lambda</key>
-    <integer>-174</integer>
-    <key>O</key>
-    <integer>-90</integer>
-    <key>OE</key>
-    <integer>-90</integer>
-    <key>Oacute</key>
-    <integer>-90</integer>
-    <key>Obreve</key>
-    <integer>-90</integer>
-    <key>Ocircumflex</key>
-    <integer>-90</integer>
-    <key>Odieresis</key>
-    <integer>-90</integer>
-    <key>Ograve</key>
-    <integer>-90</integer>
-    <key>Ohorn</key>
-    <integer>-90</integer>
-    <key>Ohungarumlaut</key>
-    <integer>-90</integer>
-    <key>Omacron</key>
-    <integer>-90</integer>
-    <key>Omicron</key>
-    <integer>-90</integer>
-    <key>Omicrontonos</key>
-    <integer>-90</integer>
-    <key>Oslash</key>
-    <integer>-90</integer>
-    <key>Oslashacute</key>
-    <integer>-90</integer>
-    <key>Otilde</key>
-    <integer>-90</integer>
-    <key>Phi</key>
-    <integer>-90</integer>
-    <key>Q</key>
-    <integer>-90</integer>
-    <key>Theta</key>
-    <integer>-90</integer>
-    <key>_part.fitacy_bar</key>
-    <integer>-160</integer>
-    <key>a</key>
-    <integer>-160</integer>
-    <key>aacute</key>
-    <integer>-150</integer>
-    <key>abreve</key>
-    <integer>-150</integer>
-    <key>acircumflex</key>
-    <integer>-150</integer>
-    <key>adieresis</key>
-    <integer>-81</integer>
-    <key>ae</key>
-    <integer>-150</integer>
-    <key>aeacute</key>
-    <integer>-150</integer>
-    <key>agrave</key>
-    <integer>-150</integer>
-    <key>alpha</key>
-    <integer>-160</integer>
-    <key>alphatonos</key>
-    <integer>-160</integer>
-    <key>amacron</key>
-    <integer>-150</integer>
-    <key>ampersand</key>
-    <integer>-69</integer>
-    <key>aogonek</key>
-    <integer>-150</integer>
-    <key>approxequal</key>
-    <integer>-69</integer>
-    <key>approxequal.case</key>
-    <integer>-69</integer>
-    <key>approxequal.case.tf</key>
-    <integer>-69</integer>
-    <key>aring</key>
-    <integer>-150</integer>
-    <key>aringacute</key>
-    <integer>-150</integer>
-    <key>aringogonek</key>
-    <integer>-150</integer>
-    <key>arrowdblright</key>
-    <integer>-69</integer>
-    <key>asciitilde</key>
-    <integer>-151</integer>
-    <key>asterisk.case</key>
-    <integer>-69</integer>
-    <key>asterisk.case.tf</key>
-    <integer>-69</integer>
-    <key>at</key>
-    <integer>-90</integer>
-    <key>atilde</key>
-    <integer>-81</integer>
-    <key>beta</key>
-    <integer>-104</integer>
-    <key>bullet</key>
-    <integer>-69</integer>
-    <key>bullet.case</key>
-    <integer>-69</integer>
-    <key>c</key>
-    <integer>-160</integer>
-    <key>cacute</key>
-    <integer>-160</integer>
-    <key>ccaron</key>
-    <integer>-160</integer>
-    <key>ccedilla</key>
-    <integer>-160</integer>
-    <key>ccircumflex</key>
-    <integer>-160</integer>
-    <key>cdotaccent</key>
-    <integer>-160</integer>
-    <key>cent</key>
-    <integer>-160</integer>
-    <key>chi</key>
-    <integer>-150</integer>
-    <key>colon</key>
-    <integer>-81</integer>
-    <key>colon.case</key>
-    <integer>-81</integer>
-    <key>copyright</key>
-    <integer>-90</integer>
-    <key>d</key>
-    <integer>-160</integer>
-    <key>dcaron</key>
-    <integer>-160</integer>
-    <key>dcroat</key>
-    <integer>-160</integer>
-    <key>delta</key>
-    <integer>-122</integer>
-    <key>dong</key>
-    <integer>-160</integer>
-    <key>e</key>
-    <integer>-160</integer>
-    <key>eacute</key>
-    <integer>-160</integer>
-    <key>ebreve</key>
-    <integer>-160</integer>
-    <key>ecaron</key>
-    <integer>-160</integer>
-    <key>ecircumflex</key>
-    <integer>-160</integer>
-    <key>edotaccent</key>
-    <integer>-160</integer>
-    <key>egrave</key>
-    <integer>-160</integer>
-    <key>ellipsis</key>
-    <integer>-174</integer>
-    <key>emacron</key>
-    <integer>-160</integer>
-    <key>eng</key>
-    <integer>-104</integer>
-    <key>eogonek</key>
-    <integer>-160</integer>
-    <key>epsilon</key>
-    <integer>-150</integer>
-    <key>epsilontonos</key>
-    <integer>-267</integer>
-    <key>equal</key>
-    <integer>-69</integer>
-    <key>equal.case</key>
-    <integer>-69</integer>
-    <key>equal.case.tf</key>
-    <integer>-69</integer>
-    <key>eta</key>
-    <integer>-104</integer>
-    <key>etatonos</key>
-    <integer>-104</integer>
-    <key>eth</key>
-    <integer>-160</integer>
-    <key>four</key>
-    <integer>-139</integer>
-    <key>four.ss01</key>
-    <integer>-139</integer>
-    <key>g</key>
-    <integer>-160</integer>
-    <key>gamma</key>
-    <integer>-209</integer>
-    <key>gbreve</key>
-    <integer>-160</integer>
-    <key>gcaron</key>
-    <integer>-160</integer>
-    <key>gcircumflex</key>
-    <integer>-160</integer>
-    <key>gdotaccent</key>
-    <integer>-160</integer>
-    <key>greaterequal</key>
-    <integer>-69</integer>
-    <key>greaterequal.case</key>
-    <integer>-69</integer>
-    <key>greaterequal.case.tf</key>
-    <integer>-69</integer>
-    <key>hyphen</key>
-    <integer>-151</integer>
-    <key>ibreve</key>
-    <integer>186</integer>
-    <key>idieresis</key>
-    <integer>186</integer>
-    <key>imacron</key>
-    <integer>186</integer>
-    <key>iotadieresis</key>
-    <integer>233</integer>
-    <key>iotadieresistonos</key>
-    <integer>233</integer>
-    <key>itilde</key>
-    <integer>186</integer>
-    <key>lambda</key>
-    <integer>-69</integer>
-    <key>less</key>
-    <integer>-162</integer>
-    <key>lessequal</key>
-    <integer>-69</integer>
-    <key>lessequal.case</key>
-    <integer>-69</integer>
-    <key>lessequal.case.tf</key>
-    <integer>-69</integer>
-    <key>logicalnot</key>
-    <integer>-151</integer>
-    <key>m</key>
-    <integer>-104</integer>
-    <key>multiply</key>
-    <integer>-69</integer>
-    <key>multiply.case</key>
-    <integer>-69</integer>
-    <key>multiply.case.tf</key>
-    <integer>-69</integer>
-    <key>n</key>
-    <integer>-104</integer>
-    <key>nacute</key>
-    <integer>-104</integer>
-    <key>ncaron</key>
-    <integer>-104</integer>
-    <key>notequal</key>
-    <integer>-69</integer>
-    <key>notequal.case</key>
-    <integer>-69</integer>
-    <key>notequal.case.tf</key>
-    <integer>-69</integer>
-    <key>ntilde</key>
-    <integer>-104</integer>
-    <key>nu</key>
-    <integer>-150</integer>
-    <key>o</key>
-    <integer>-160</integer>
-    <key>oacute</key>
-    <integer>-160</integer>
-    <key>obreve</key>
-    <integer>-160</integer>
-    <key>ocircumflex</key>
-    <integer>-160</integer>
-    <key>oe</key>
-    <integer>-160</integer>
-    <key>oe.sc</key>
-    <integer>-160</integer>
-    <key>ograve</key>
-    <integer>-160</integer>
-    <key>ohorn</key>
-    <integer>-160</integer>
-    <key>ohungarumlaut</key>
-    <integer>-160</integer>
-    <key>omacron</key>
-    <integer>-160</integer>
-    <key>omega</key>
-    <integer>-267</integer>
-    <key>omegatonos</key>
-    <integer>-267</integer>
-    <key>omicron</key>
-    <integer>-160</integer>
-    <key>omicrontonos</key>
-    <integer>-160</integer>
-    <key>openbullet</key>
-    <integer>-69</integer>
-    <key>openbullet.case</key>
-    <integer>-69</integer>
-    <key>oslash</key>
-    <integer>-160</integer>
-    <key>oslashacute</key>
-    <integer>-160</integer>
-    <key>otilde</key>
-    <integer>-104</integer>
-    <key>p</key>
-    <integer>-104</integer>
-    <key>pecyrillicturn</key>
-    <integer>-104</integer>
-    <key>period</key>
-    <integer>-174</integer>
-    <key>periodcentered</key>
-    <integer>-162</integer>
-    <key>phi</key>
-    <integer>-160</integer>
-    <key>phigreek</key>
-    <integer>-160</integer>
-    <key>pi</key>
-    <integer>-209</integer>
-    <key>plusminus</key>
-    <integer>-69</integer>
-    <key>plusminus.case</key>
-    <integer>-69</integer>
-    <key>plusminus.case.tf</key>
-    <integer>-69</integer>
-    <key>psi</key>
-    <integer>-267</integer>
-    <key>q</key>
-    <integer>-160</integer>
-    <key>r</key>
-    <integer>-104</integer>
-    <key>racute</key>
-    <integer>-104</integer>
-    <key>rcaron</key>
-    <integer>-104</integer>
-    <key>rho</key>
-    <integer>-267</integer>
-    <key>s</key>
-    <integer>-150</integer>
-    <key>sacute</key>
-    <integer>-150</integer>
-    <key>scaron</key>
-    <integer>-150</integer>
-    <key>scedilla</key>
-    <integer>-150</integer>
-    <key>scircumflex</key>
-    <integer>-150</integer>
-    <key>semicolon</key>
-    <integer>-81</integer>
-    <key>semicolon.ss03</key>
-    <integer>-81</integer>
-    <key>sigma</key>
-    <integer>-160</integer>
-    <key>six</key>
-    <integer>-69</integer>
-    <key>slash</key>
-    <integer>-104</integer>
-    <key>tau</key>
-    <integer>-209</integer>
-    <key>theta</key>
-    <integer>-162</integer>
-    <key>u</key>
-    <integer>-104</integer>
-    <key>u.1</key>
-    <integer>-104</integer>
-    <key>uacute</key>
-    <integer>-104</integer>
-    <key>ubreve</key>
-    <integer>-104</integer>
-    <key>ucircumflex</key>
-    <integer>-104</integer>
-    <key>udieresis</key>
-    <integer>-104</integer>
-    <key>ugrave</key>
-    <integer>-104</integer>
-    <key>uhorn</key>
-    <integer>-104</integer>
-    <key>uhungarumlaut</key>
-    <integer>-104</integer>
-    <key>umacron</key>
-    <integer>-104</integer>
-    <key>underscore</key>
-    <integer>-116</integer>
-    <key>uni019F</key>
-    <integer>-90</integer>
-    <key>uni25CF</key>
-    <integer>-90</integer>
-    <key>uogonek</key>
-    <integer>-104</integer>
-    <key>upsilon</key>
-    <integer>-104</integer>
-    <key>upsilondieresis</key>
-    <integer>-104</integer>
-    <key>upsilondieresistonos</key>
-    <integer>-104</integer>
-    <key>upsilontonos</key>
-    <integer>-104</integer>
-    <key>uring</key>
-    <integer>-104</integer>
-    <key>utilde</key>
-    <integer>-81</integer>
-    <key>v</key>
-    <integer>-150</integer>
-    <key>w</key>
-    <integer>-128</integer>
-    <key>wacute</key>
-    <integer>-128</integer>
-    <key>wcircumflex</key>
-    <integer>-128</integer>
-    <key>wdieresis</key>
-    <integer>-104</integer>
-    <key>wgrave</key>
-    <integer>-128</integer>
-    <key>x</key>
-    <integer>-174</integer>
-    <key>xi</key>
-    <integer>-116</integer>
-    <key>y</key>
-    <integer>-150</integer>
-    <key>y.sc</key>
-    <integer>-150</integer>
-    <key>yacute</key>
-    <integer>-150</integer>
-    <key>ycircumflex</key>
-    <integer>-150</integer>
-    <key>ydieresis</key>
-    <integer>-69</integer>
-    <key>ygrave</key>
-    <integer>-150</integer>
-    <key>yogonek</key>
-    <integer>-150</integer>
-    <key>z</key>
-    <integer>-81</integer>
-    <key>zacute</key>
-    <integer>-81</integer>
-    <key>zcaron</key>
-    <integer>-81</integer>
-    <key>zdotaccent</key>
-    <integer>-81</integer>
-    <key>zero</key>
-    <integer>-69</integer>
-    <key>zero.slash</key>
-    <integer>-69</integer>
-    <key>zeta</key>
-    <integer>-162</integer>
-  </dict>
-  <key>uni02A9</key>
-  <dict>
-    <key>T</key>
-    <integer>-151</integer>
-    <key>Tau</key>
-    <integer>-151</integer>
-    <key>Tbar</key>
-    <integer>-151</integer>
-    <key>Tcaron</key>
-    <integer>-151</integer>
-    <key>Upsilon</key>
-    <integer>-151</integer>
-    <key>Upsilondieresis</key>
-    <integer>-151</integer>
-    <key>Upsilontonos</key>
-    <integer>-151</integer>
-    <key>V</key>
-    <integer>-104</integer>
-    <key>W</key>
-    <integer>-104</integer>
-    <key>Wacute</key>
-    <integer>-104</integer>
-    <key>Wcircumflex</key>
-    <integer>-104</integer>
-    <key>Wdieresis</key>
-    <integer>-104</integer>
-    <key>Wgrave</key>
-    <integer>-104</integer>
-    <key>Y</key>
-    <integer>-151</integer>
-    <key>Yacute</key>
-    <integer>-151</integer>
-    <key>Ycircumflex</key>
-    <integer>-151</integer>
-    <key>Ydieresis</key>
-    <integer>-151</integer>
-    <key>Ygrave</key>
-    <integer>-151</integer>
-    <key>Yogonek</key>
-    <integer>-151</integer>
-    <key>backslash</key>
-    <integer>-104</integer>
-    <key>chi</key>
-    <integer>-30</integer>
-    <key>nu</key>
-    <integer>-30</integer>
-    <key>quotedblleft</key>
-    <integer>-93</integer>
-    <key>quotedblleft.ss03</key>
-    <integer>-93</integer>
-    <key>quoteleft</key>
-    <integer>-93</integer>
-    <key>registered</key>
-    <integer>-17</integer>
-    <key>v</key>
-    <integer>-30</integer>
-    <key>y</key>
-    <integer>-30</integer>
-    <key>y.sc</key>
-    <integer>-30</integer>
-    <key>yacute</key>
-    <integer>-30</integer>
-    <key>ycircumflex</key>
-    <integer>-30</integer>
-    <key>ydieresis</key>
-    <integer>-30</integer>
-    <key>ygrave</key>
-    <integer>-30</integer>
-    <key>yogonek</key>
-    <integer>-30</integer>
-    <key>public.kern2.one</key>
-    <integer>-81</integer>
-  </dict>
-  <key>uni02A9.1</key>
-  <dict>
-    <key>T</key>
-    <integer>-197</integer>
-    <key>Tau</key>
-    <integer>-197</integer>
-    <key>Tbar</key>
-    <integer>-197</integer>
-    <key>Tcaron</key>
-    <integer>-197</integer>
-    <key>Upsilon</key>
-    <integer>-151</integer>
-    <key>Upsilondieresis</key>
-    <integer>-151</integer>
-    <key>Upsilontonos</key>
-    <integer>-151</integer>
-    <key>V</key>
-    <integer>-104</integer>
-    <key>W</key>
-    <integer>-104</integer>
-    <key>Wacute</key>
-    <integer>-104</integer>
-    <key>Wcircumflex</key>
-    <integer>-104</integer>
-    <key>Wdieresis</key>
-    <integer>-104</integer>
-    <key>Wgrave</key>
-    <integer>-104</integer>
-    <key>Y</key>
-    <integer>-151</integer>
-    <key>Yacute</key>
-    <integer>-151</integer>
-    <key>Ycircumflex</key>
-    <integer>-151</integer>
-    <key>Ydieresis</key>
-    <integer>-151</integer>
-    <key>Ygrave</key>
-    <integer>-151</integer>
-    <key>Yogonek</key>
-    <integer>-151</integer>
-    <key>backslash</key>
-    <integer>-104</integer>
-    <key>chi</key>
-    <integer>-30</integer>
-    <key>nu</key>
-    <integer>-30</integer>
-    <key>quotedblleft</key>
-    <integer>-93</integer>
-    <key>quotedblleft.ss03</key>
-    <integer>-93</integer>
-    <key>quoteleft</key>
-    <integer>-93</integer>
-    <key>registered</key>
-    <integer>-17</integer>
-    <key>v</key>
-    <integer>-30</integer>
-    <key>y</key>
-    <integer>-30</integer>
-    <key>y.sc</key>
-    <integer>-30</integer>
-    <key>yacute</key>
-    <integer>-30</integer>
-    <key>ycircumflex</key>
-    <integer>-30</integer>
-    <key>ydieresis</key>
-    <integer>-30</integer>
-    <key>ygrave</key>
-    <integer>-30</integer>
-    <key>yogonek</key>
-    <integer>-30</integer>
-    <key>public.kern2.one</key>
-    <integer>-81</integer>
-  </dict>
-  <key>uni041A</key>
-  <dict>
-    <key>C</key>
-    <integer>-69</integer>
-    <key>Cacute</key>
-    <integer>-69</integer>
-    <key>Ccaron</key>
-    <integer>-69</integer>
-    <key>Ccedilla</key>
-    <integer>-69</integer>
-    <key>Ccircumflex</key>
-    <integer>-69</integer>
-    <key>Cdotaccent</key>
-    <integer>-69</integer>
-    <key>G</key>
-    <integer>-69</integer>
-    <key>G.1</key>
-    <integer>-69</integer>
-    <key>Gbreve</key>
-    <integer>-69</integer>
-    <key>Gcaron</key>
-    <integer>-69</integer>
-    <key>Gcircumflex</key>
-    <integer>-69</integer>
-    <key>Gdotaccent</key>
-    <integer>-69</integer>
-    <key>O</key>
-    <integer>-69</integer>
-    <key>OE</key>
-    <integer>-69</integer>
-    <key>Oacute</key>
-    <integer>-69</integer>
-    <key>Obreve</key>
-    <integer>-69</integer>
-    <key>Ocircumflex</key>
-    <integer>-69</integer>
-    <key>Odieresis</key>
-    <integer>-69</integer>
-    <key>Ograve</key>
-    <integer>-69</integer>
-    <key>Ohorn</key>
-    <integer>-69</integer>
-    <key>Ohungarumlaut</key>
-    <integer>-69</integer>
-    <key>Omacron</key>
-    <integer>-69</integer>
-    <key>Omicron</key>
-    <integer>-69</integer>
-    <key>Omicrontonos</key>
-    <integer>-69</integer>
-    <key>Oslash</key>
-    <integer>-69</integer>
-    <key>Oslashacute</key>
-    <integer>-69</integer>
-    <key>Otilde</key>
-    <integer>-69</integer>
-    <key>Phi</key>
-    <integer>-69</integer>
-    <key>Q</key>
-    <integer>-69</integer>
-    <key>Theta</key>
-    <integer>-69</integer>
-    <key>_part.fitacy_bar</key>
-    <integer>-81</integer>
-    <key>a</key>
-    <integer>-81</integer>
-    <key>alpha</key>
-    <integer>-81</integer>
-    <key>alphatonos</key>
-    <integer>-81</integer>
-    <key>approxequal</key>
-    <integer>-69</integer>
-    <key>approxequal.case</key>
-    <integer>-69</integer>
-    <key>approxequal.case.tf</key>
-    <integer>-69</integer>
-    <key>arrowdblright</key>
-    <integer>-69</integer>
-    <key>asciitilde</key>
-    <integer>-221</integer>
-    <key>asterisk.case</key>
-    <integer>-69</integer>
-    <key>asterisk.case.tf</key>
-    <integer>-69</integer>
-    <key>at</key>
-    <integer>-69</integer>
-    <key>bullet</key>
-    <integer>-69</integer>
-    <key>bullet.case</key>
-    <integer>-69</integer>
-    <key>c</key>
-    <integer>-81</integer>
-    <key>cacute</key>
-    <integer>-81</integer>
-    <key>ccaron</key>
-    <integer>-81</integer>
-    <key>ccedilla</key>
-    <integer>-81</integer>
-    <key>ccircumflex</key>
-    <integer>-81</integer>
-    <key>cdotaccent</key>
-    <integer>-81</integer>
-    <key>cent</key>
-    <integer>-81</integer>
-    <key>chi</key>
-    <integer>-81</integer>
-    <key>copyright</key>
-    <integer>-69</integer>
-    <key>d</key>
-    <integer>-81</integer>
-    <key>dcaron</key>
-    <integer>-81</integer>
-    <key>dcroat</key>
-    <integer>-81</integer>
-    <key>dong</key>
-    <integer>-81</integer>
-    <key>e</key>
-    <integer>-81</integer>
-    <key>eacute</key>
-    <integer>-81</integer>
-    <key>ebreve</key>
-    <integer>-81</integer>
-    <key>ecaron</key>
-    <integer>-81</integer>
-    <key>ecircumflex</key>
-    <integer>-81</integer>
-    <key>edotaccent</key>
-    <integer>-81</integer>
-    <key>egrave</key>
-    <integer>-81</integer>
-    <key>emacron</key>
-    <integer>-81</integer>
-    <key>eogonek</key>
-    <integer>-81</integer>
-    <key>equal</key>
-    <integer>-69</integer>
-    <key>equal.case</key>
-    <integer>-69</integer>
-    <key>equal.case.tf</key>
-    <integer>-69</integer>
-    <key>eth</key>
-    <integer>-81</integer>
-    <key>g</key>
-    <integer>-81</integer>
-    <key>gbreve</key>
-    <integer>-81</integer>
-    <key>gcaron</key>
-    <integer>-81</integer>
-    <key>gcircumflex</key>
-    <integer>-81</integer>
-    <key>gdotaccent</key>
-    <integer>-81</integer>
-    <key>greaterequal</key>
-    <integer>-69</integer>
-    <key>greaterequal.case</key>
-    <integer>-69</integer>
-    <key>greaterequal.case.tf</key>
-    <integer>-69</integer>
-    <key>hyphen</key>
-    <integer>-221</integer>
-    <key>ibreve</key>
-    <integer>174</integer>
-    <key>idieresis</key>
-    <integer>174</integer>
-    <key>imacron</key>
-    <integer>174</integer>
-    <key>infinity</key>
-    <integer>-69</integer>
-    <key>itilde</key>
-    <integer>174</integer>
-    <key>less</key>
-    <integer>-139</integer>
-    <key>lessequal</key>
-    <integer>-69</integer>
-    <key>lessequal.case</key>
-    <integer>-69</integer>
-    <key>lessequal.case.tf</key>
-    <integer>-69</integer>
-    <key>logicalnot</key>
-    <integer>-104</integer>
-    <key>multiply</key>
-    <integer>-69</integer>
-    <key>multiply.case</key>
-    <integer>-69</integer>
-    <key>multiply.case.tf</key>
-    <integer>-69</integer>
-    <key>notequal</key>
-    <integer>-69</integer>
-    <key>notequal.case</key>
-    <integer>-69</integer>
-    <key>notequal.case.tf</key>
-    <integer>-69</integer>
-    <key>nu</key>
-    <integer>-81</integer>
-    <key>o</key>
-    <integer>-81</integer>
-    <key>oacute</key>
-    <integer>-81</integer>
-    <key>obreve</key>
-    <integer>-81</integer>
-    <key>ocircumflex</key>
-    <integer>-81</integer>
-    <key>oe</key>
-    <integer>-81</integer>
-    <key>oe.sc</key>
-    <integer>-81</integer>
-    <key>ograve</key>
-    <integer>-81</integer>
-    <key>ohorn</key>
-    <integer>-81</integer>
-    <key>ohungarumlaut</key>
-    <integer>-81</integer>
-    <key>omacron</key>
-    <integer>-81</integer>
-    <key>omicron</key>
-    <integer>-81</integer>
-    <key>omicrontonos</key>
-    <integer>-81</integer>
-    <key>openbullet</key>
-    <integer>-69</integer>
-    <key>openbullet.case</key>
-    <integer>-69</integer>
-    <key>oslash</key>
-    <integer>-81</integer>
-    <key>oslashacute</key>
-    <integer>-81</integer>
-    <key>otilde</key>
-    <integer>-81</integer>
-    <key>pecyrillicturn</key>
-    <integer>-69</integer>
-    <key>periodcentered</key>
-    <integer>-93</integer>
-    <key>phi</key>
-    <integer>-81</integer>
-    <key>phigreek</key>
-    <integer>-81</integer>
-    <key>plusminus</key>
-    <integer>-69</integer>
-    <key>plusminus.case</key>
-    <integer>-69</integer>
-    <key>plusminus.case.tf</key>
-    <integer>-69</integer>
-    <key>q</key>
-    <integer>-81</integer>
-    <key>registered</key>
-    <integer>-30</integer>
-    <key>sigma</key>
-    <integer>-81</integer>
-    <key>u</key>
-    <integer>-69</integer>
-    <key>uacute</key>
-    <integer>-69</integer>
-    <key>ubreve</key>
-    <integer>-69</integer>
-    <key>ucircumflex</key>
-    <integer>-69</integer>
-    <key>udieresis</key>
-    <integer>-69</integer>
-    <key>ugrave</key>
-    <integer>-69</integer>
-    <key>uhorn</key>
-    <integer>-69</integer>
-    <key>uhungarumlaut</key>
-    <integer>-69</integer>
-    <key>umacron</key>
-    <integer>-69</integer>
-    <key>uni019F</key>
-    <integer>-69</integer>
-    <key>uni25CF</key>
-    <integer>-69</integer>
-    <key>uogonek</key>
-    <integer>-69</integer>
-    <key>uring</key>
-    <integer>-69</integer>
-    <key>utilde</key>
-    <integer>-69</integer>
-    <key>v</key>
-    <integer>-81</integer>
-    <key>w</key>
-    <integer>-128</integer>
-    <key>wacute</key>
-    <integer>-128</integer>
-    <key>wcircumflex</key>
-    <integer>-128</integer>
-    <key>wdieresis</key>
-    <integer>-128</integer>
-    <key>wgrave</key>
-    <integer>-128</integer>
-    <key>y</key>
-    <integer>-81</integer>
-    <key>y.sc</key>
-    <integer>-81</integer>
-    <key>yacute</key>
-    <integer>-81</integer>
-    <key>ycircumflex</key>
-    <integer>-81</integer>
-    <key>ydieresis</key>
-    <integer>-81</integer>
-    <key>ygrave</key>
-    <integer>-81</integer>
-    <key>yogonek</key>
-    <integer>-81</integer>
-    <key>public.kern2.edieresis</key>
-    <integer>-81</integer>
-    <key>public.kern2.guilsinglleft2</key>
-    <integer>-104</integer>
-    <key>public.kern2.plus2</key>
-    <integer>-221</integer>
-  </dict>
-  <key>uni1E3D</key>
-  <dict>
-    <key>B</key>
-    <integer>69</integer>
-    <key>Beta</key>
-    <integer>69</integer>
-    <key>D</key>
-    <integer>69</integer>
-    <key>Dcaron</key>
-    <integer>69</integer>
-    <key>Dcroat</key>
-    <integer>69</integer>
-    <key>E</key>
-    <integer>69</integer>
-    <key>Eacute</key>
-    <integer>69</integer>
-    <key>Ebreve</key>
-    <integer>69</integer>
-    <key>Ecaron</key>
-    <integer>69</integer>
-    <key>Ecircumflex</key>
-    <integer>69</integer>
-    <key>Edieresis</key>
-    <integer>69</integer>
-    <key>Edotaccent</key>
-    <integer>69</integer>
-    <key>Egrave</key>
-    <integer>69</integer>
-    <key>Emacron</key>
-    <integer>69</integer>
-    <key>Eng</key>
-    <integer>69</integer>
-    <key>Eogonek</key>
-    <integer>69</integer>
-    <key>Epsilon</key>
-    <integer>69</integer>
-    <key>Eta</key>
-    <integer>69</integer>
-    <key>Etatonos</key>
-    <integer>69</integer>
-    <key>Eth</key>
-    <integer>69</integer>
-    <key>F</key>
-    <integer>69</integer>
-    <key>Gamma</key>
-    <integer>69</integer>
-    <key>H</key>
-    <integer>69</integer>
-    <key>Hbar</key>
-    <integer>69</integer>
-    <key>Hcircumflex</key>
-    <integer>69</integer>
-    <key>I</key>
-    <integer>69</integer>
-    <key>I.1</key>
-    <integer>69</integer>
-    <key>I.double</key>
-    <integer>69</integer>
-    <key>Iacute</key>
-    <integer>69</integer>
-    <key>Idotaccent</key>
-    <integer>69</integer>
-    <key>Igrave</key>
-    <integer>69</integer>
-    <key>Iogonek</key>
-    <integer>69</integer>
-    <key>Iota</key>
-    <integer>69</integer>
-    <key>IotaGreek</key>
-    <integer>69</integer>
-    <key>K</key>
-    <integer>69</integer>
-    <key>Kappa</key>
-    <integer>69</integer>
-    <key>L</key>
-    <integer>69</integer>
-    <key>Lacute</key>
-    <integer>69</integer>
-    <key>Lcaron</key>
-    <integer>69</integer>
-    <key>Lslash</key>
-    <integer>69</integer>
-    <key>M</key>
-    <integer>69</integer>
-    <key>Mu</key>
-    <integer>69</integer>
-    <key>N</key>
-    <integer>69</integer>
-    <key>Nacute</key>
-    <integer>69</integer>
-    <key>Ncaron</key>
-    <integer>69</integer>
-    <key>Ntilde</key>
-    <integer>69</integer>
-    <key>Nu</key>
-    <integer>69</integer>
-    <key>P</key>
-    <integer>69</integer>
-    <key>Pi</key>
-    <integer>69</integer>
-    <key>R</key>
-    <integer>69</integer>
-    <key>Racute</key>
-    <integer>69</integer>
-    <key>Rcaron</key>
-    <integer>69</integer>
-    <key>Rho</key>
-    <integer>69</integer>
-    <key>Thorn</key>
-    <integer>69</integer>
-    <key>_part.f_base</key>
-    <integer>69</integer>
-    <key>b</key>
-    <integer>69</integer>
-    <key>bar</key>
-    <integer>69</integer>
-    <key>chi</key>
-    <integer>10</integer>
-    <key>exclamdown.case</key>
-    <integer>69</integer>
-    <key>f.1</key>
-    <integer>69</integer>
-    <key>filledbox</key>
-    <integer>69</integer>
-    <key>germandbls</key>
-    <integer>69</integer>
-    <key>germandbls.1</key>
-    <integer>69</integer>
-    <key>h</key>
-    <integer>69</integer>
-    <key>hbar</key>
-    <integer>69</integer>
-    <key>hcircumflex</key>
-    <integer>69</integer>
-    <key>ibreve</key>
-    <integer>151</integer>
-    <key>idieresis</key>
-    <integer>151</integer>
-    <key>imacron</key>
-    <integer>151</integer>
-    <key>iotadieresis</key>
-    <integer>110</integer>
-    <key>iotadieresistonos</key>
-    <integer>110</integer>
-    <key>itilde</key>
-    <integer>151</integer>
-    <key>k</key>
-    <integer>69</integer>
-    <key>k.base</key>
-    <integer>69</integer>
-    <key>l</key>
-    <integer>69</integer>
-    <key>l.ss02</key>
-    <integer>69</integer>
-    <key>lacute</key>
-    <integer>69</integer>
-    <key>lacute.ss02</key>
-    <integer>69</integer>
-    <key>lcaron</key>
-    <integer>69</integer>
-    <key>lcaron.ss02</key>
-    <integer>69</integer>
-    <key>ldot</key>
-    <integer>69</integer>
-    <key>ldot.ss02</key>
-    <integer>69</integer>
-    <key>longs</key>
-    <integer>69</integer>
-    <key>lslash</key>
-    <integer>69</integer>
-    <key>nu</key>
-    <integer>10</integer>
-    <key>t.1</key>
-    <integer>69</integer>
-    <key>tcaron.1</key>
-    <integer>69</integer>
-    <key>thorn</key>
-    <integer>69</integer>
-    <key>uni02A9.1</key>
-    <integer>69</integer>
-    <key>uni041A</key>
-    <integer>69</integer>
-    <key>v</key>
-    <integer>10</integer>
-    <key>y</key>
-    <integer>10</integer>
-    <key>y.sc</key>
-    <integer>10</integer>
-    <key>yacute</key>
-    <integer>10</integer>
-    <key>ycircumflex</key>
-    <integer>10</integer>
-    <key>ydieresis</key>
-    <integer>10</integer>
-    <key>ygrave</key>
-    <integer>10</integer>
-    <key>yogonek</key>
-    <integer>10</integer>
-  </dict>
-  <key>uni1E9B</key>
-  <dict>
-    <key>_part.fitacy_bar</key>
-    <integer>-140</integer>
-    <key>a</key>
-    <integer>-140</integer>
-    <key>aacute</key>
-    <integer>-120</integer>
-    <key>abreve</key>
-    <integer>-120</integer>
-    <key>acircumflex</key>
-    <integer>-120</integer>
-    <key>adieresis</key>
-    <integer>-120</integer>
-    <key>ae</key>
-    <integer>-120</integer>
-    <key>aeacute</key>
-    <integer>-120</integer>
-    <key>agrave</key>
-    <integer>-120</integer>
-    <key>alpha</key>
-    <integer>-140</integer>
-    <key>alphatonos</key>
-    <integer>-140</integer>
-    <key>amacron</key>
-    <integer>-120</integer>
-    <key>aogonek</key>
-    <integer>-120</integer>
-    <key>aring</key>
-    <integer>-120</integer>
-    <key>aringacute</key>
-    <integer>-120</integer>
-    <key>aringogonek</key>
-    <integer>-120</integer>
-    <key>atilde</key>
-    <integer>-120</integer>
-    <key>beta</key>
-    <integer>-120</integer>
-    <key>c</key>
-    <integer>-140</integer>
-    <key>cacute</key>
-    <integer>-140</integer>
-    <key>ccaron</key>
-    <integer>-140</integer>
-    <key>ccedilla</key>
-    <integer>-140</integer>
-    <key>ccircumflex</key>
-    <integer>-140</integer>
-    <key>cdotaccent</key>
-    <integer>-140</integer>
-    <key>cent</key>
-    <integer>-140</integer>
-    <key>chi</key>
-    <integer>-120</integer>
-    <key>d</key>
-    <integer>-140</integer>
-    <key>dcaron</key>
-    <integer>-140</integer>
-    <key>dcroat</key>
-    <integer>-140</integer>
-    <key>dong</key>
-    <integer>-140</integer>
-    <key>e</key>
-    <integer>-140</integer>
-    <key>eacute</key>
-    <integer>-140</integer>
-    <key>ebreve</key>
-    <integer>-140</integer>
-    <key>ecaron</key>
-    <integer>-140</integer>
-    <key>ecircumflex</key>
-    <integer>-140</integer>
-    <key>edotaccent</key>
-    <integer>-140</integer>
-    <key>egrave</key>
-    <integer>-140</integer>
-    <key>emacron</key>
-    <integer>-140</integer>
-    <key>eng</key>
-    <integer>-120</integer>
-    <key>eogonek</key>
-    <integer>-140</integer>
-    <key>eta</key>
-    <integer>-120</integer>
-    <key>etatonos</key>
-    <integer>-120</integer>
-    <key>eth</key>
-    <integer>-140</integer>
-    <key>f</key>
-    <integer>-80</integer>
-    <key>g</key>
-    <integer>-140</integer>
-    <key>gbreve</key>
-    <integer>-140</integer>
-    <key>gcaron</key>
-    <integer>-140</integer>
-    <key>gcircumflex</key>
-    <integer>-140</integer>
-    <key>gdotaccent</key>
-    <integer>-140</integer>
-    <key>lslash.ss02</key>
-    <integer>-60</integer>
-    <key>m</key>
-    <integer>-120</integer>
-    <key>n</key>
-    <integer>-120</integer>
-    <key>nacute</key>
-    <integer>-120</integer>
-    <key>ncaron</key>
-    <integer>-120</integer>
-    <key>ntilde</key>
-    <integer>-120</integer>
-    <key>nu</key>
-    <integer>-120</integer>
-    <key>o</key>
-    <integer>-140</integer>
-    <key>oacute</key>
-    <integer>-140</integer>
-    <key>obreve</key>
-    <integer>-140</integer>
-    <key>ocircumflex</key>
-    <integer>-140</integer>
-    <key>oe</key>
-    <integer>-140</integer>
-    <key>oe.sc</key>
-    <integer>-140</integer>
-    <key>ograve</key>
-    <integer>-140</integer>
-    <key>ohorn</key>
-    <integer>-140</integer>
-    <key>ohungarumlaut</key>
-    <integer>-140</integer>
-    <key>omacron</key>
-    <integer>-140</integer>
-    <key>omicron</key>
-    <integer>-140</integer>
-    <key>omicrontonos</key>
-    <integer>-140</integer>
-    <key>oslash</key>
-    <integer>-140</integer>
-    <key>oslashacute</key>
-    <integer>-140</integer>
-    <key>otilde</key>
-    <integer>-140</integer>
-    <key>p</key>
-    <integer>-120</integer>
-    <key>pecyrillicturn</key>
-    <integer>-120</integer>
-    <key>phi</key>
-    <integer>-140</integer>
-    <key>phigreek</key>
-    <integer>-140</integer>
-    <key>pi</key>
-    <integer>-60</integer>
-    <key>q</key>
-    <integer>-140</integer>
-    <key>r</key>
-    <integer>-120</integer>
-    <key>racute</key>
-    <integer>-120</integer>
-    <key>rcaron</key>
-    <integer>-120</integer>
-    <key>rho</key>
-    <integer>-120</integer>
-    <key>sigma</key>
-    <integer>-140</integer>
-    <key>t</key>
-    <integer>-60</integer>
-    <key>t.sc</key>
-    <integer>-60</integer>
-    <key>tau</key>
-    <integer>-60</integer>
-    <key>tbar</key>
-    <integer>-60</integer>
-    <key>tcaron</key>
-    <integer>-60</integer>
-    <key>u</key>
-    <integer>-120</integer>
-    <key>u.1</key>
-    <integer>-120</integer>
-    <key>uacute</key>
-    <integer>-120</integer>
-    <key>ubreve</key>
-    <integer>-120</integer>
-    <key>ucircumflex</key>
-    <integer>-120</integer>
-    <key>udieresis</key>
-    <integer>-120</integer>
-    <key>ugrave</key>
-    <integer>-120</integer>
-    <key>uhorn</key>
-    <integer>-120</integer>
-    <key>uhungarumlaut</key>
-    <integer>-120</integer>
-    <key>umacron</key>
-    <integer>-120</integer>
-    <key>uni02A9</key>
-    <integer>-80</integer>
-    <key>uogonek</key>
-    <integer>-120</integer>
-    <key>upsilon</key>
-    <integer>-120</integer>
-    <key>upsilondieresis</key>
-    <integer>-120</integer>
-    <key>upsilondieresistonos</key>
-    <integer>-120</integer>
-    <key>upsilontonos</key>
-    <integer>-120</integer>
-    <key>uring</key>
-    <integer>-120</integer>
-    <key>utilde</key>
-    <integer>-120</integer>
-    <key>v</key>
-    <integer>-120</integer>
-    <key>w</key>
-    <integer>-120</integer>
-    <key>wacute</key>
-    <integer>-120</integer>
-    <key>wcircumflex</key>
-    <integer>-120</integer>
-    <key>wdieresis</key>
-    <integer>-120</integer>
-    <key>wgrave</key>
-    <integer>-120</integer>
-    <key>x</key>
-    <integer>-120</integer>
-    <key>y</key>
-    <integer>-120</integer>
-    <key>y.sc</key>
-    <integer>-120</integer>
-    <key>yacute</key>
-    <integer>-120</integer>
-    <key>ycircumflex</key>
-    <integer>-120</integer>
-    <key>ydieresis</key>
-    <integer>-120</integer>
-    <key>ygrave</key>
-    <integer>-120</integer>
-    <key>yogonek</key>
-    <integer>-120</integer>
-    <key>z</key>
-    <integer>-120</integer>
-    <key>zacute</key>
-    <integer>-120</integer>
-    <key>zcaron</key>
-    <integer>-120</integer>
-    <key>zdotaccent</key>
-    <integer>-120</integer>
-    <key>public.kern2.edieresis</key>
-    <integer>-140</integer>
-  </dict>
-  <key>uni25CF</key>
-  <dict>
-    <key>A</key>
-    <integer>-70</integer>
-    <key>AE</key>
-    <integer>-70</integer>
-    <key>AEacute</key>
-    <integer>-70</integer>
-    <key>Aacute</key>
-    <integer>-70</integer>
-    <key>Abreve</key>
-    <integer>-70</integer>
-    <key>Acircumflex</key>
-    <integer>-70</integer>
-    <key>Adieresis</key>
-    <integer>-70</integer>
-    <key>Agrave</key>
-    <integer>-70</integer>
-    <key>Alpha</key>
-    <integer>-70</integer>
-    <key>Alphatonos</key>
-    <integer>-70</integer>
-    <key>Amacron</key>
-    <integer>-70</integer>
-    <key>Aogonek</key>
-    <integer>-70</integer>
-    <key>Aring</key>
-    <integer>-70</integer>
-    <key>Aringacute</key>
-    <integer>-70</integer>
-    <key>Aringogonek</key>
-    <integer>-70</integer>
-    <key>Atilde</key>
-    <integer>-70</integer>
-    <key>Chi</key>
-    <integer>-61</integer>
-    <key>Lambda</key>
-    <integer>-70</integer>
-    <key>T</key>
-    <integer>-61</integer>
-    <key>Tau</key>
-    <integer>-61</integer>
-    <key>Tbar</key>
-    <integer>-61</integer>
-    <key>Tcaron</key>
-    <integer>-61</integer>
-    <key>Upsilon</key>
-    <integer>-69</integer>
-    <key>Upsilondieresis</key>
-    <integer>-69</integer>
-    <key>Upsilontonos</key>
-    <integer>-69</integer>
-    <key>V</key>
-    <integer>-69</integer>
-    <key>X</key>
-    <integer>-61</integer>
-    <key>Y</key>
-    <integer>-69</integer>
-    <key>Yacute</key>
-    <integer>-69</integer>
-    <key>Ycircumflex</key>
-    <integer>-69</integer>
-    <key>Ydieresis</key>
-    <integer>-69</integer>
-    <key>Ygrave</key>
-    <integer>-69</integer>
-    <key>Yogonek</key>
-    <integer>-69</integer>
-    <key>backslash</key>
-    <integer>-69</integer>
-    <key>ellipsis</key>
-    <integer>-61</integer>
-    <key>period</key>
-    <integer>-61</integer>
-    <key>quotedblleft</key>
-    <integer>-69</integer>
-    <key>quotedblleft.ss03</key>
-    <integer>-69</integer>
-    <key>quoteleft</key>
-    <integer>-69</integer>
-    <key>registered</key>
-    <integer>-11</integer>
-    <key>slash</key>
-    <integer>-81</integer>
-    <key>underscore</key>
-    <integer>-81</integer>
-    <key>public.kern2.comma2</key>
-    <integer>-61</integer>
-    <key>public.kern2.quotedblbase2</key>
-    <integer>-81</integer>
   </dict>
   <key>uogonek</key>
   <dict>
@@ -45247,6 +45247,8 @@
     <integer>-128</integer>
     <key>K</key>
     <integer>10</integer>
+    <key>Kacyr</key>
+    <integer>10</integer>
     <key>Kappa</key>
     <integer>10</integer>
     <key>L</key>
@@ -45371,6 +45373,10 @@
     <integer>30</integer>
     <key>f.1</key>
     <integer>10</integer>
+    <key>feng</key>
+    <integer>30</integer>
+    <key>feng.1</key>
+    <integer>10</integer>
     <key>filledbox</key>
     <integer>10</integer>
     <key>germandbls</key>
@@ -45475,12 +45481,6 @@
     <integer>10</integer>
     <key>underscore</key>
     <integer>-162</integer>
-    <key>uni02A9</key>
-    <integer>30</integer>
-    <key>uni02A9.1</key>
-    <integer>10</integer>
-    <key>uni041A</key>
-    <integer>10</integer>
     <key>public.kern2.b.subs2</key>
     <integer>-104</integer>
     <key>public.kern2.comma2</key>
@@ -46451,6 +46451,8 @@
     <integer>-46</integer>
     <key>f</key>
     <integer>40</integer>
+    <key>feng</key>
+    <integer>40</integer>
     <key>g</key>
     <integer>-46</integer>
     <key>gbreve</key>
@@ -46542,8 +46544,6 @@
     <key>tbar</key>
     <integer>40</integer>
     <key>tcaron</key>
-    <integer>40</integer>
-    <key>uni02A9</key>
     <integer>40</integer>
     <key>public.kern2.edieresis</key>
     <integer>-46</integer>
@@ -46763,6 +46763,8 @@
     <integer>-128</integer>
     <key>K</key>
     <integer>10</integer>
+    <key>Kacyr</key>
+    <integer>10</integer>
     <key>Kappa</key>
     <integer>10</integer>
     <key>L</key>
@@ -46887,6 +46889,10 @@
     <integer>30</integer>
     <key>f.1</key>
     <integer>10</integer>
+    <key>feng</key>
+    <integer>30</integer>
+    <key>feng.1</key>
+    <integer>10</integer>
     <key>filledbox</key>
     <integer>10</integer>
     <key>germandbls</key>
@@ -46991,12 +46997,6 @@
     <integer>10</integer>
     <key>underscore</key>
     <integer>-162</integer>
-    <key>uni02A9</key>
-    <integer>30</integer>
-    <key>uni02A9.1</key>
-    <integer>10</integer>
-    <key>uni041A</key>
-    <integer>10</integer>
     <key>public.kern2.b.subs2</key>
     <integer>-104</integer>
     <key>public.kern2.comma2</key>
@@ -47112,6 +47112,8 @@
     <integer>-128</integer>
     <key>K</key>
     <integer>10</integer>
+    <key>Kacyr</key>
+    <integer>10</integer>
     <key>Kappa</key>
     <integer>10</integer>
     <key>L</key>
@@ -47236,6 +47238,10 @@
     <integer>30</integer>
     <key>f.1</key>
     <integer>10</integer>
+    <key>feng</key>
+    <integer>30</integer>
+    <key>feng.1</key>
+    <integer>10</integer>
     <key>filledbox</key>
     <integer>10</integer>
     <key>germandbls</key>
@@ -47340,12 +47346,6 @@
     <integer>10</integer>
     <key>underscore</key>
     <integer>-162</integer>
-    <key>uni02A9</key>
-    <integer>30</integer>
-    <key>uni02A9.1</key>
-    <integer>10</integer>
-    <key>uni041A</key>
-    <integer>10</integer>
     <key>public.kern2.b.subs2</key>
     <integer>-104</integer>
     <key>public.kern2.comma2</key>
@@ -47461,6 +47461,8 @@
     <integer>-128</integer>
     <key>K</key>
     <integer>10</integer>
+    <key>Kacyr</key>
+    <integer>10</integer>
     <key>Kappa</key>
     <integer>10</integer>
     <key>L</key>
@@ -47585,6 +47587,10 @@
     <integer>30</integer>
     <key>f.1</key>
     <integer>10</integer>
+    <key>feng</key>
+    <integer>30</integer>
+    <key>feng.1</key>
+    <integer>10</integer>
     <key>filledbox</key>
     <integer>10</integer>
     <key>germandbls</key>
@@ -47689,12 +47695,6 @@
     <integer>10</integer>
     <key>underscore</key>
     <integer>-162</integer>
-    <key>uni02A9</key>
-    <integer>30</integer>
-    <key>uni02A9.1</key>
-    <integer>10</integer>
-    <key>uni041A</key>
-    <integer>10</integer>
     <key>public.kern2.b.subs2</key>
     <integer>-104</integer>
     <key>public.kern2.comma2</key>
@@ -47810,6 +47810,8 @@
     <integer>-128</integer>
     <key>K</key>
     <integer>10</integer>
+    <key>Kacyr</key>
+    <integer>10</integer>
     <key>Kappa</key>
     <integer>10</integer>
     <key>L</key>
@@ -47934,6 +47936,10 @@
     <integer>30</integer>
     <key>f.1</key>
     <integer>10</integer>
+    <key>feng</key>
+    <integer>30</integer>
+    <key>feng.1</key>
+    <integer>10</integer>
     <key>filledbox</key>
     <integer>10</integer>
     <key>germandbls</key>
@@ -48038,12 +48044,6 @@
     <integer>10</integer>
     <key>underscore</key>
     <integer>-162</integer>
-    <key>uni02A9</key>
-    <integer>30</integer>
-    <key>uni02A9.1</key>
-    <integer>10</integer>
-    <key>uni041A</key>
-    <integer>10</integer>
     <key>public.kern2.b.subs2</key>
     <integer>-104</integer>
     <key>public.kern2.comma2</key>
@@ -48159,6 +48159,8 @@
     <integer>-128</integer>
     <key>K</key>
     <integer>10</integer>
+    <key>Kacyr</key>
+    <integer>10</integer>
     <key>Kappa</key>
     <integer>10</integer>
     <key>L</key>
@@ -48283,6 +48285,10 @@
     <integer>30</integer>
     <key>f.1</key>
     <integer>10</integer>
+    <key>feng</key>
+    <integer>30</integer>
+    <key>feng.1</key>
+    <integer>10</integer>
     <key>filledbox</key>
     <integer>10</integer>
     <key>germandbls</key>
@@ -48387,12 +48393,6 @@
     <integer>10</integer>
     <key>underscore</key>
     <integer>-162</integer>
-    <key>uni02A9</key>
-    <integer>30</integer>
-    <key>uni02A9.1</key>
-    <integer>10</integer>
-    <key>uni041A</key>
-    <integer>10</integer>
     <key>public.kern2.b.subs2</key>
     <integer>-104</integer>
     <key>public.kern2.comma2</key>
@@ -48508,6 +48508,8 @@
     <integer>-128</integer>
     <key>K</key>
     <integer>10</integer>
+    <key>Kacyr</key>
+    <integer>10</integer>
     <key>Kappa</key>
     <integer>10</integer>
     <key>L</key>
@@ -48632,6 +48634,10 @@
     <integer>30</integer>
     <key>f.1</key>
     <integer>10</integer>
+    <key>feng</key>
+    <integer>30</integer>
+    <key>feng.1</key>
+    <integer>10</integer>
     <key>filledbox</key>
     <integer>10</integer>
     <key>germandbls</key>
@@ -48736,12 +48742,6 @@
     <integer>10</integer>
     <key>underscore</key>
     <integer>-162</integer>
-    <key>uni02A9</key>
-    <integer>30</integer>
-    <key>uni02A9.1</key>
-    <integer>10</integer>
-    <key>uni041A</key>
-    <integer>10</integer>
     <key>public.kern2.b.subs2</key>
     <integer>-104</integer>
     <key>public.kern2.comma2</key>
@@ -48857,6 +48857,8 @@
     <integer>-128</integer>
     <key>K</key>
     <integer>10</integer>
+    <key>Kacyr</key>
+    <integer>10</integer>
     <key>Kappa</key>
     <integer>10</integer>
     <key>L</key>
@@ -48981,6 +48983,10 @@
     <integer>30</integer>
     <key>f.1</key>
     <integer>10</integer>
+    <key>feng</key>
+    <integer>30</integer>
+    <key>feng.1</key>
+    <integer>10</integer>
     <key>filledbox</key>
     <integer>10</integer>
     <key>germandbls</key>
@@ -49085,12 +49091,6 @@
     <integer>10</integer>
     <key>underscore</key>
     <integer>-162</integer>
-    <key>uni02A9</key>
-    <integer>30</integer>
-    <key>uni02A9.1</key>
-    <integer>10</integer>
-    <key>uni041A</key>
-    <integer>10</integer>
     <key>public.kern2.b.subs2</key>
     <integer>-104</integer>
     <key>public.kern2.comma2</key>
@@ -49696,6 +49696,8 @@
     <integer>-90</integer>
     <key>Oacute</key>
     <integer>-90</integer>
+    <key>Obar</key>
+    <integer>-90</integer>
     <key>Obreve</key>
     <integer>-90</integer>
     <key>Ocircumflex</key>
@@ -49754,6 +49756,8 @@
     <integer>-69</integer>
     <key>at</key>
     <integer>-90</integer>
+    <key>circleblack</key>
+    <integer>-90</integer>
     <key>copyright</key>
     <integer>-90</integer>
     <key>eight</key>
@@ -49766,6 +49770,8 @@
     <integer>-14</integer>
     <key>question</key>
     <integer>-180</integer>
+    <key>quotedblreversed</key>
+    <integer>-279</integer>
     <key>quotedblright</key>
     <integer>-116</integer>
     <key>quotedblright.ss03</key>
@@ -49782,12 +49788,6 @@
     <integer>-52</integer>
     <key>three.ss01</key>
     <integer>-55</integer>
-    <key>uni019F</key>
-    <integer>-90</integer>
-    <key>uni201F</key>
-    <integer>-279</integer>
-    <key>uni25CF</key>
-    <integer>-90</integer>
     <key>zero</key>
     <integer>-52</integer>
     <key>zero.slash</key>
@@ -51020,6 +51020,8 @@
     <integer>40</integer>
     <key>K</key>
     <integer>81</integer>
+    <key>Kacyr</key>
+    <integer>81</integer>
     <key>Kappa</key>
     <integer>81</integer>
     <key>L</key>
@@ -51095,6 +51097,10 @@
     <key>f</key>
     <integer>81</integer>
     <key>f.1</key>
+    <integer>81</integer>
+    <key>feng</key>
+    <integer>81</integer>
+    <key>feng.1</key>
     <integer>81</integer>
     <key>filledbox</key>
     <integer>81</integer>
@@ -51178,12 +51184,6 @@
     <integer>81</integer>
     <key>thorn</key>
     <integer>81</integer>
-    <key>uni02A9</key>
-    <integer>81</integer>
-    <key>uni02A9.1</key>
-    <integer>81</integer>
-    <key>uni041A</key>
-    <integer>81</integer>
     <key>public.kern2.one</key>
     <integer>93</integer>
   </dict>
@@ -51258,6 +51258,8 @@
     <key>OE</key>
     <integer>-11</integer>
     <key>Oacute</key>
+    <integer>-11</integer>
+    <key>Obar</key>
     <integer>-11</integer>
     <key>Obreve</key>
     <integer>-11</integer>
@@ -51361,6 +51363,8 @@
     <integer>-58</integer>
     <key>cent</key>
     <integer>-58</integer>
+    <key>circleblack</key>
+    <integer>-11</integer>
     <key>copyright</key>
     <integer>-11</integer>
     <key>d</key>
@@ -51457,10 +51461,6 @@
     <integer>-58</integer>
     <key>six.ss01</key>
     <integer>-34</integer>
-    <key>uni019F</key>
-    <integer>-11</integer>
-    <key>uni25CF</key>
-    <integer>-11</integer>
     <key>public.kern2.edieresis</key>
     <integer>-58</integer>
   </dict>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="schwadieresiscyr" format="2">
+  <advance width="1179"/>
+  <unicode hex="04DB"/>
+  <anchor x="610" y="14" name="m.uni0326"/>
+  <anchor x="879" y="1677" name="m.uni030F_1"/>
+  <anchor x="818" y="1180" name="m.uni0327_3"/>
+  <anchor x="108" y="855" name="m.uni0328_4"/>
+  <outline>
+    <component base="eturned"/>
+    <component base="dieresiscomb" xOffset="-26"/>
+  </outline>
+</glyph>

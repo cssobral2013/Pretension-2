@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abrevecyr" format="2">
+  <advance width="1210"/>
+  <unicode hex="04D1"/>
+  <anchor x="666" y="0" name="m.uni0326"/>
+  <anchor x="927" y="1599" name="m.uni030F_1"/>
+  <anchor x="1282" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="a"/>
+    <component base="brevecomb" xOffset="107"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>a</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>a</string>
+  </dict>
+  </lib>
+</glyph>

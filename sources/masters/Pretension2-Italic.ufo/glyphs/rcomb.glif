@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcomb" format="2">
+  <unicode hex="036C"/>
+  <outline>
+    <contour>
+      <point x="-390" y="1626" type="line"/>
+      <point x="-460" y="1202" type="line"/>
+      <point x="-594" y="1202" type="line"/>
+      <point x="-504" y="1754" type="line"/>
+      <point x="-401" y="1754" type="line"/>
+    </contour>
+    <contour>
+      <point x="-198" y="1754" type="qcurve"/>
+      <point x="-221" y="1629" type="line"/>
+      <point x="-231" y="1638"/>
+      <point x="-265" y="1647"/>
+      <point x="-279" y="1647" type="qcurve" smooth="yes"/>
+      <point x="-340" y="1647"/>
+      <point x="-412" y="1566"/>
+      <point x="-426" y="1492" type="qcurve"/>
+      <point x="-478" y="1492" type="line"/>
+      <point x="-458" y="1606"/>
+      <point x="-342" y="1760"/>
+      <point x="-243" y="1760" type="qcurve" smooth="yes"/>
+      <point x="-216" y="1760"/>
+    </contour>
+  </outline>
+</glyph>

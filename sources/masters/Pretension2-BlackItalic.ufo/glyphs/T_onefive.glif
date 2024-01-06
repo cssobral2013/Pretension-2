@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tonefive" format="2">
+  <advance width="1376"/>
+  <unicode hex="01BC"/>
+  <outline>
+    <component base="five"/>
+    <contour>
+      <point x="154" y="1166" type="line"/>
+      <point x="208" y="1490" type="line"/>
+      <point x="530" y="1490" type="line"/>
+      <point x="476" y="1166" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=81</string>
+  </dict>
+  </lib>
+</glyph>

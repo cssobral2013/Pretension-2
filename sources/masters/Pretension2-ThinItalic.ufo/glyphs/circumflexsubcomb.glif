@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflexsubcomb" format="2">
   <outline>
-    <component base="uni0302" xOffset="-1289" yOffset="-1689"/>
+    <component base="circumflexcomb" xOffset="-1289" yOffset="-1689"/>
   </outline>
 </glyph>

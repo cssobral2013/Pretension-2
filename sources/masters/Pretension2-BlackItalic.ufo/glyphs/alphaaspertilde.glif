@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alphaaspertilde" format="2">
+  <advance width="1473"/>
+  <unicode hex="1F07"/>
+  <anchor x="531" y="0" name="m.uni0326"/>
+  <anchor x="818" y="1118" name="m.uni030F_1"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="aspertilde" xOffset="319"/>
+  </outline>
+</glyph>

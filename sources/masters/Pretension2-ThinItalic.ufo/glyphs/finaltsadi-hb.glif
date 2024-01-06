@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="finaltsadi-hb" format="2">
+  <advance width="690"/>
+  <unicode hex="02B5"/>
+  <outline>
+    <contour>
+      <point x="136" y="680" type="qcurve"/>
+      <point x="146" y="728" type="line"/>
+      <point x="157" y="724"/>
+      <point x="181" y="721"/>
+      <point x="192" y="722" type="qcurve"/>
+      <point x="272" y="721"/>
+      <point x="407" y="825"/>
+      <point x="438" y="906" type="qcurve"/>
+      <point x="430" y="824" type="line"/>
+      <point x="404" y="775"/>
+      <point x="333" y="709"/>
+      <point x="244" y="675"/>
+      <point x="190" y="674" type="qcurve"/>
+      <point x="178" y="675"/>
+      <point x="152" y="677"/>
+    </contour>
+    <contour>
+      <point x="542" y="334" type="line"/>
+      <point x="533" y="332"/>
+      <point x="516" y="330"/>
+      <point x="499" y="329"/>
+      <point x="490" y="328" type="qcurve"/>
+      <point x="446" y="329"/>
+      <point x="384" y="362"/>
+      <point x="358" y="434"/>
+      <point x="368" y="492" type="qcurve" smooth="yes"/>
+      <point x="526" y="1446" type="line"/>
+      <point x="570" y="1446" type="line"/>
+      <point x="414" y="492" type="line"/>
+      <point x="403" y="418"/>
+      <point x="445" y="375"/>
+      <point x="494" y="376" type="qcurve"/>
+      <point x="509" y="375"/>
+      <point x="537" y="378"/>
+      <point x="550" y="382" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

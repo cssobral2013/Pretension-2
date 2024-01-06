@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.roman" format="2">
+  <advance width="1788"/>
+  <unicode hex="2162"/>
+  <outline>
+    <component base="I"/>
+    <component base="I" xOffset="596"/>
+    <component base="I" xOffset="1192"/>
+  </outline>
+</glyph>

@@ -7,8 +7,8 @@
   <anchor x="1344" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="a"/>
-    <component base="uni030A" xOffset="322"/>
-    <component base="uni0328" xOffset="539"/>
+    <component base="ringcomb" xOffset="322"/>
+    <component base="ogonekcomb" xOffset="539"/>
   </outline>
   <lib>
   <dict>

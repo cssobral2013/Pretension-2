@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="linevertcomb" format="2">
   <outline>
-    <component base="uni02C8" xOffset="-614"/>
+    <component base="verticallinemod" xOffset="-614"/>
   </outline>
 </glyph>

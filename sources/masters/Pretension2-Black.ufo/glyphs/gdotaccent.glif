@@ -6,6 +6,6 @@
   <anchor x="716" y="1637" name="m.uni030F_1"/>
   <outline>
     <component base="g"/>
-    <component base="uni0307" xOffset="317"/>
+    <component base="dotaccentcomb" xOffset="317"/>
   </outline>
 </glyph>

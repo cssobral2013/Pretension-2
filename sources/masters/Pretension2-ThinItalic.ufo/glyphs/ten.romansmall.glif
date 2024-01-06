@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ten.romansmall" format="2">
+  <advance width="1036"/>
+  <unicode hex="2179"/>
+  <anchor x="572" y="0" name="m.uni0326"/>
+  <anchor x="777" y="1242" name="m.uni030F_1"/>
+  <outline>
+    <component base="x" xOffset="-20"/>
+  </outline>
+</glyph>

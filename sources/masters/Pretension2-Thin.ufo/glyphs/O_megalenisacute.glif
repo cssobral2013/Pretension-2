@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegalenisacute" format="2">
+  <advance width="1983"/>
+  <unicode hex="1F6C"/>
+  <anchor x="1866" y="0" name="m.uni0326"/>
+  <anchor x="1868" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <component base="Omega" xOffset="441"/>
+    <component base="lenisacute" xOffset="48" yOffset="-67"/>
+  </outline>
+</glyph>

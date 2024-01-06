@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jstroke" format="2">
+  <advance width="1239"/>
+  <unicode hex="0248"/>
+  <anchor x="1149" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <component base="J"/>
+    <component base="_part.crossbar_compact" xOffset="554" yOffset="139"/>
+  </outline>
+</glyph>

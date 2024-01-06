@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphalenistilde" format="2">
+  <advance width="1897"/>
+  <unicode hex="1F0E"/>
+  <anchor x="1343" y="0" name="m.uni0326"/>
+  <anchor x="1343" y="1490" name="m.uni030F_1"/>
+  <anchor x="2251" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="A" xOffset="269"/>
+    <component base="lenistilde" xOffset="56" yOffset="-80"/>
+  </outline>
+</glyph>

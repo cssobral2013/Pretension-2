@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotalenisgrave" format="2">
+  <advance width="1221"/>
+  <unicode hex="1F3A"/>
+  <anchor x="1437" y="0" name="m.uni0326"/>
+  <anchor x="1688" y="1490" name="m.uni030F_1"/>
+  <anchor x="1764" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="I" xOffset="671"/>
+    <component base="lenisgrave" xOffset="9" yOffset="-68"/>
+  </outline>
+</glyph>

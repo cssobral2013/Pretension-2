@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilonlenisacute" format="2">
+  <advance width="1100"/>
+  <unicode hex="1F14"/>
+  <anchor x="762" y="1180" name="m.uni030F_1"/>
+  <outline>
+    <component base="epsilon"/>
+    <component base="lenisacute" xOffset="177"/>
+  </outline>
+</glyph>

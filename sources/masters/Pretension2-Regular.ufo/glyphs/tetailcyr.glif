@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tetailcyr" format="2">
+  <advance width="954"/>
+  <unicode hex="04AD"/>
+  <anchor x="663" y="1180" name="m.uni030F_1"/>
+  <outline>
+    <component base="t.sc"/>
+    <component base="_part.cyrtic" xOffset="409"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ndot" format="2">
+  <advance width="1196"/>
+  <unicode hex="1E45"/>
+  <anchor x="793" y="0" name="m.uni0326"/>
+  <anchor x="796" y="1586" name="m.uni030F_1"/>
+  <outline>
+    <component base="n"/>
+    <component base="dotaccentcomb" xOffset="414"/>
+  </outline>
+</glyph>

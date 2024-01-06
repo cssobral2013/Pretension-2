@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twelve.romansmall" format="2">
+  <advance width="1908"/>
+  <unicode hex="217B"/>
+  <outline>
+    <component base="x"/>
+    <component base="dotlessi" xOffset="1024"/>
+    <component base="dotaccentcomb" xOffset="1058"/>
+    <component base="dotlessi" xOffset="1466"/>
+    <component base="dotaccentcomb" xOffset="1500"/>
+  </outline>
+</glyph>

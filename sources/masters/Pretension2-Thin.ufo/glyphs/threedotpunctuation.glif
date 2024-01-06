@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threedotpunctuation" format="2">
+  <advance width="730"/>
+  <unicode hex="2056"/>
+  <outline>
+    <component base="dotaccentcomb" xOffset="654" yOffset="-936"/>
+    <component base="dotaccentcomb" xOffset="1272" yOffset="-1352"/>
+    <component base="dotaccentcomb" xOffset="1272" yOffset="-522"/>
+  </outline>
+</glyph>

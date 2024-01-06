@@ -2,6 +2,6 @@
 <glyph name="brevesubcomb" format="2">
   <advance width="30"/>
   <outline>
-    <component base="uni0306" xOffset="-1435" yOffset="-1721"/>
+    <component base="brevecomb" xOffset="-1435" yOffset="-1721"/>
   </outline>
 </glyph>

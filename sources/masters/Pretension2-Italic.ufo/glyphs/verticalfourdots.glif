@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticalfourdots" format="2">
+  <advance width="1980"/>
+  <unicode hex="205E"/>
+  <outline>
+    <component base="dotaccentcomb" xOffset="-285" yOffset="-1722"/>
+    <component base="dotaccentcomb" xOffset="210" yOffset="-1722"/>
+    <component base="dotaccentcomb" xOffset="705" yOffset="-1722"/>
+    <component base="dotaccentcomb" xOffset="1200" yOffset="-1722"/>
+  </outline>
+</glyph>

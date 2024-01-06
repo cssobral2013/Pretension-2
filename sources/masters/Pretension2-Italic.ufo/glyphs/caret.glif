@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caret" format="2">
+  <advance width="932"/>
+  <unicode hex="2038"/>
+  <outline>
+    <contour>
+      <point x="309" y="-265" type="line"/>
+      <point x="89" y="-547" type="line"/>
+      <point x="-90" y="-547" type="line"/>
+      <point x="289" y="-97" type="line"/>
+      <point x="410" y="-97" type="line"/>
+    </contour>
+    <contour>
+      <point x="476" y="-547" type="line"/>
+      <point x="345" y="-265" type="line"/>
+      <point x="305" y="-97" type="line"/>
+      <point x="430" y="-97" type="line"/>
+      <point x="654" y="-547" type="line"/>
+    </contour>
+  </outline>
+</glyph>

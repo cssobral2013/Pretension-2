@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Becyr" format="2">
+  <advance width="1323"/>
+  <unicode hex="0411"/>
+  <outline>
+    <contour>
+      <point x="180" y="0" type="line"/>
+      <point x="180" y="1490" type="line"/>
+      <point x="1070" y="1490" type="line"/>
+      <point x="1070" y="1323" type="line"/>
+      <point x="370" y="1323" type="line"/>
+      <point x="370" y="865" type="line"/>
+      <point x="712" y="865" type="line" smooth="yes"/>
+      <point x="864" y="865"/>
+      <point x="1086" y="762"/>
+      <point x="1207" y="572"/>
+      <point x="1207" y="441" type="qcurve" smooth="yes"/>
+      <point x="1207" y="306"/>
+      <point x="1087" y="108"/>
+      <point x="865" y="0"/>
+      <point x="712" y="0" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="370" y="166" type="line"/>
+      <point x="708" y="166" type="line" smooth="yes"/>
+      <point x="858" y="166"/>
+      <point x="1020" y="310"/>
+      <point x="1020" y="443" type="qcurve" smooth="yes"/>
+      <point x="1020" y="566"/>
+      <point x="858" y="700"/>
+      <point x="708" y="700" type="qcurve" smooth="yes"/>
+      <point x="370" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

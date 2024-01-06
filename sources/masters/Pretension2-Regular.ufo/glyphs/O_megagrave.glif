@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegagrave" format="2">
+  <advance width="1577"/>
+  <unicode hex="1FFA"/>
+  <anchor x="873" y="0" name="m.uni0326"/>
+  <anchor x="875" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <component base="Omega"/>
+    <component base="grave-gr" xOffset="-269"/>
+  </outline>
+</glyph>

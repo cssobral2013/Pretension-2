@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ddot" format="2">
+  <advance width="1322"/>
+  <unicode hex="1E0B"/>
+  <anchor x="429" y="1865" name="m.uni030F_1"/>
+  <outline>
+    <component base="d"/>
+    <component base="dotaccentcomb" xOffset="150" yOffset="186"/>
+  </outline>
+</glyph>

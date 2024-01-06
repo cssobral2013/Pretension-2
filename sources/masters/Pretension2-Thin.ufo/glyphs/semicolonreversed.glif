@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolonreversed" format="2">
+  <advance width="562"/>
+  <unicode hex="204F"/>
+  <outline>
+    <contour>
+      <point x="394" y="-298" type="line"/>
+      <point x="353" y="-298" type="line"/>
+      <point x="244" y="152" type="line"/>
+      <point x="294" y="152" type="line"/>
+    </contour>
+    <contour>
+      <point x="277" y="955" type="qcurve" smooth="yes"/>
+      <point x="255" y="955"/>
+      <point x="224" y="986"/>
+      <point x="224" y="1008" type="qcurve" smooth="yes"/>
+      <point x="224" y="1030"/>
+      <point x="255" y="1061"/>
+      <point x="277" y="1061" type="qcurve" smooth="yes"/>
+      <point x="299" y="1061"/>
+      <point x="330" y="1030"/>
+      <point x="330" y="1008" type="qcurve" smooth="yes"/>
+      <point x="330" y="986"/>
+      <point x="299" y="955"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jinferior" format="2">
+  <advance width="356"/>
+  <unicode hex="2C7C"/>
+  <outline>
+    <component base="jsupmod" yOffset="-1000"/>
+  </outline>
+</glyph>

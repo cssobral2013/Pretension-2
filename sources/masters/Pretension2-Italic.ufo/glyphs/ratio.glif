@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ratio" format="2">
+  <advance width="590"/>
+  <unicode hex="2236"/>
+  <unicode hex="EE01"/>
+  <outline>
+    <component base="period" xOffset="38" yOffset="221"/>
+    <component base="period" xOffset="171" yOffset="1030"/>
+  </outline>
+</glyph>

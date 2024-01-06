@@ -8,6 +8,6 @@
   <anchor x="1291" y="379" name="m.uni0328_4"/>
   <outline>
     <component base="e"/>
-    <component base="uni0304" xOffset="228"/>
+    <component base="macroncomb" xOffset="228"/>
   </outline>
 </glyph>

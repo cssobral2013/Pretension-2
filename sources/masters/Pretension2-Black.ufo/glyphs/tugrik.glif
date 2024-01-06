@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tugrik" format="2">
+  <advance width="1406"/>
+  <unicode hex="20AE"/>
+  <anchor x="748" y="0" name="m.uni0326"/>
+  <anchor x="750" y="1490" name="m.uni030F_1"/>
+  <anchor x="750" y="0" name="m.uni0327_3"/>
+  <outline>
+    <contour>
+      <point x="1058" y="1026" type="line"/>
+      <point x="1058" y="872" type="line"/>
+      <point x="350" y="594" type="line"/>
+      <point x="350" y="742" type="line"/>
+    </contour>
+    <contour>
+      <point x="1058" y="722" type="line"/>
+      <point x="1058" y="568" type="line"/>
+      <point x="350" y="288" type="line"/>
+      <point x="350" y="436" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="1164" type="line"/>
+      <point x="56" y="1490" type="line"/>
+      <point x="1350" y="1490" type="line"/>
+      <point x="1350" y="1164" type="line"/>
+      <point x="905" y="1164" type="line"/>
+      <point x="905" y="0" type="line"/>
+      <point x="501" y="0" type="line"/>
+      <point x="501" y="1164" type="line"/>
+    </contour>
+  </outline>
+</glyph>

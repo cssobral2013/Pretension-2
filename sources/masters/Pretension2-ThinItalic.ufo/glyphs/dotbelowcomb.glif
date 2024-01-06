@@ -4,6 +4,6 @@
   <unicode hex="0323"/>
   <anchor x="255" y="0" name="_m.uni0326"/>
   <outline>
-    <component base="uni0307" xOffset="-279" yOffset="-1686"/>
+    <component base="dotaccentcomb" xOffset="-279" yOffset="-1686"/>
   </outline>
 </glyph>
