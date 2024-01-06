@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ballotx.circled" format="2">
-  <advance width="2846"/>
-  <unicode hex="E13D"/>
-  <outline>
-    <component base="largecircle"/>
-    <component base="ballotx" xOffset="521" yOffset="63"/>
-  </outline>
-</glyph>

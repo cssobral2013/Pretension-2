@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="linevertdblcomb" format="2">
-  <advance width="38"/>
-  <outline>
-    <component base="verticallinemod" xOffset="-1062"/>
-    <component base="verticallinemod" xOffset="-696"/>
-  </outline>
-</glyph>

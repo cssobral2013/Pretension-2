@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="numbersign.circled" format="2">
-  <advance width="2847"/>
-  <unicode hex="E133"/>
-  <outline>
-    <component base="largecircle"/>
-    <component base="numbersign" xOffset="745"/>
-  </outline>
-</glyph>

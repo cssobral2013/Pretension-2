@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lessequal.case" format="2">
-  <advance width="1355"/>
-  <unicode hex="E099"/>
-  <outline>
-    <component base="lessequal" yOffset="140"/>
-  </outline>
-</glyph>

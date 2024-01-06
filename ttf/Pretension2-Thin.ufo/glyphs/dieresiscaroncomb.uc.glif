@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dieresiscaroncomb.uc" format="2">
-  <advance width="1164"/>
-  <unicode hex="E117"/>
-  <outline>
-    <component base="dieresiscaroncomb.lc" yOffset="372"/>
-  </outline>
-</glyph>

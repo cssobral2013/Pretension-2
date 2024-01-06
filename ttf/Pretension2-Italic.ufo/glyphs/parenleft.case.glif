@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="parenleft.case" format="2">
-  <advance width="747"/>
-  <unicode hex="E081"/>
-  <outline>
-    <component base="parenleft" xOffset="16" yOffset="94"/>
-  </outline>
-</glyph>

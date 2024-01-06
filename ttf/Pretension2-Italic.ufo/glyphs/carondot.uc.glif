@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="carondot.uc" format="2">
-  <advance width="828"/>
-  <outline>
-    <component base="carondot.lc" xOffset="62" yOffset="372"/>
-  </outline>
-</glyph>

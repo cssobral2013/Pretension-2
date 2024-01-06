@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dieresisgravecomb.uc" format="2">
-  <advance width="1200"/>
-  <unicode hex="E124"/>
-  <outline>
-    <component base="dieresisgravecomb.lc" xOffset="62" yOffset="372"/>
-  </outline>
-</glyph>

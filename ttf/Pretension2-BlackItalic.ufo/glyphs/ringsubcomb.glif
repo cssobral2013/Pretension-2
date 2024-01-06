@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ringsubcomb" format="2">
-  <advance width="8"/>
-  <outline>
-    <component base="ringcomb" xOffset="-1012" yOffset="-1550"/>
-  </outline>
-</glyph>

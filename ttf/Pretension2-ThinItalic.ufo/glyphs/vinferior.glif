@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="vinferior" format="2">
-  <advance width="722"/>
-  <unicode hex="1D65"/>
-  <outline>
-    <component base="vmod" xOffset="-166" yOffset="-1000"/>
-  </outline>
-</glyph>

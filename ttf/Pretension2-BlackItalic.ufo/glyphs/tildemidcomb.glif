@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tildemidcomb" format="2">
-  <advance width="14"/>
-  <outline>
-    <component base="tildecomb" xOffset="-1216" yOffset="-838"/>
-  </outline>
-</glyph>

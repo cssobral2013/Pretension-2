@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="arrowNW.case" format="2">
-  <advance width="1525"/>
-  <outline>
-    <component base="arrowNW" xOffset="25" yOffset="149"/>
-  </outline>
-</glyph>

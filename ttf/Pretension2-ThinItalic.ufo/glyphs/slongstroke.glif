@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="slongstroke" format="2">
-  <advance width="679"/>
-  <anchor x="890" y="1655" name="m.uni030F_1"/>
-  <outline>
-    <component base="_part.f_base"/>
-    <component base="slashshortcomb.lc" xOffset="128"/>
-  </outline>
-</glyph>
