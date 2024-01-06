@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dasiacombcyr" format="2">
+  <unicode hex="0485"/>
+  <outline>
+    <contour>
+      <point x="-381" y="1301" type="line"/>
+      <point x="-512" y="1502" type="line"/>
+      <point x="-492" y="1626" type="line"/>
+      <point x="-301" y="1626" type="line"/>
+      <point x="-328" y="1484" type="line"/>
+      <point x="-287" y="1369" type="line"/>
+    </contour>
+  </outline>
+</glyph>

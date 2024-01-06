@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="finalmem-hb" format="2">
+  <advance width="962"/>
+  <unicode hex="02AD"/>
+  <outline>
+    <contour>
+      <point x="660" y="584" type="line"/>
+      <point x="628" y="378" type="line"/>
+      <point x="270" y="378" type="line"/>
+      <point x="302" y="584" type="line"/>
+    </contour>
+    <contour>
+      <point x="320" y="584" type="line"/>
+      <point x="224" y="0" type="line"/>
+      <point x="-46" y="0" type="line"/>
+      <point x="50" y="584" type="line"/>
+    </contour>
+    <contour>
+      <point x="914" y="584" type="line"/>
+      <point x="818" y="0" type="line"/>
+      <point x="546" y="0" type="line"/>
+      <point x="642" y="584" type="line"/>
+    </contour>
+    <contour>
+      <point x="806" y="1458" type="line"/>
+      <point x="770" y="1248" type="line"/>
+      <point x="414" y="1248" type="line"/>
+      <point x="448" y="1458" type="line"/>
+    </contour>
+    <contour>
+      <point x="466" y="1458" type="line"/>
+      <point x="370" y="872" type="line"/>
+      <point x="98" y="872" type="line"/>
+      <point x="194" y="1458" type="line"/>
+    </contour>
+    <contour>
+      <point x="1058" y="1458" type="line"/>
+      <point x="962" y="872" type="line"/>
+      <point x="692" y="872" type="line"/>
+      <point x="788" y="1458" type="line"/>
+    </contour>
+  </outline>
+</glyph>

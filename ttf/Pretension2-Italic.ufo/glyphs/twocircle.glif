@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twocircle" format="2">
+  <advance width="2846"/>
+  <unicode hex="2461"/>
+  <unicode hex="2781"/>
+  <anchor x="1601" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <component base="largecircle"/>
+    <component base="two" xOffset="803"/>
+  </outline>
+</glyph>

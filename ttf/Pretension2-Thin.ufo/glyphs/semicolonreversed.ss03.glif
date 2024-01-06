@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolonreversed.ss03" format="2">
+  <advance width="554"/>
+  <outline>
+    <contour>
+      <point x="306" y="-353" type="line"/>
+      <point x="295" y="-293"/>
+      <point x="271" y="-174"/>
+      <point x="248" y="-54"/>
+      <point x="236" y="5" type="qcurve" smooth="yes"/>
+      <point x="227" y="50"/>
+      <point x="264" y="98"/>
+      <point x="295" y="98" type="qcurve" smooth="yes"/>
+      <point x="321" y="98"/>
+      <point x="353" y="68"/>
+      <point x="353" y="44" type="qcurve" smooth="yes"/>
+      <point x="353" y="22"/>
+      <point x="322" y="-10"/>
+      <point x="299" y="-10" type="qcurve" smooth="yes"/>
+      <point x="277" y="-10"/>
+      <point x="253" y="22"/>
+      <point x="253" y="44" type="qcurve"/>
+      <point x="280" y="44" type="line"/>
+      <point x="280" y="37"/>
+      <point x="280" y="21"/>
+      <point x="280" y="13" type="qcurve"/>
+      <point x="292" y="-47"/>
+      <point x="315" y="-166"/>
+      <point x="338" y="-285"/>
+      <point x="349" y="-345" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="269" y="955" type="qcurve" smooth="yes"/>
+      <point x="247" y="955"/>
+      <point x="216" y="986"/>
+      <point x="216" y="1008" type="qcurve" smooth="yes"/>
+      <point x="216" y="1030"/>
+      <point x="247" y="1061"/>
+      <point x="269" y="1061" type="qcurve" smooth="yes"/>
+      <point x="291" y="1061"/>
+      <point x="322" y="1030"/>
+      <point x="322" y="1008" type="qcurve" smooth="yes"/>
+      <point x="322" y="986"/>
+      <point x="291" y="955"/>
+    </contour>
+  </outline>
+</glyph>

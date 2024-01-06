@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acaron" format="2">
+  <advance width="1310"/>
+  <unicode hex="01CD"/>
+  <anchor x="770" y="0" name="m.uni0326"/>
+  <anchor x="1103" y="2007" name="m.uni030F_1"/>
+  <anchor x="1573" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="A"/>
+    <component base="caroncomb" xOffset="285" yOffset="372"/>
+  </outline>
+</glyph>

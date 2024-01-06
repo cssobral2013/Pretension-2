@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="diamondblack-gmtr" format="2">
+  <advance width="2152"/>
+  <unicode hex="25C6"/>
+  <outline>
+    <contour>
+      <point x="2082" y="744" type="line"/>
+      <point x="948" y="-232" type="line"/>
+      <point x="128" y="744" type="line"/>
+      <point x="1274" y="1722" type="line"/>
+    </contour>
+  </outline>
+</glyph>

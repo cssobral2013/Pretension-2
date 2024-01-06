@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.cyrtic_hook" format="2">
+  <advance width="526"/>
+  <outline>
+    <contour>
+      <point x="0" y="-428" type="qcurve" smooth="yes"/>
+      <point x="-31" y="-428"/>
+      <point x="-88" y="-421"/>
+      <point x="-111" y="-414" type="qcurve"/>
+      <point x="-71" y="-259" type="line"/>
+      <point x="-45" y="-263"/>
+      <point x="7" y="-267"/>
+      <point x="32" y="-267" type="qcurve" smooth="yes"/>
+      <point x="93" y="-267"/>
+      <point x="179" y="-191"/>
+      <point x="193" y="-104" type="qcurve" smooth="yes"/>
+      <point x="210" y="0" type="line"/>
+      <point x="133" y="0" type="line"/>
+      <point x="160" y="164" type="line"/>
+      <point x="411" y="164" type="line"/>
+      <point x="370" y="-81" type="line" smooth="yes"/>
+      <point x="342" y="-251"/>
+      <point x="149" y="-428"/>
+    </contour>
+  </outline>
+</glyph>

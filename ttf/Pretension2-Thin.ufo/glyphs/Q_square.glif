@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Qsquare" format="2">
+  <advance width="2828"/>
+  <unicode hex="1F140"/>
+  <anchor x="1400" y="0" name="m.uni0326"/>
+  <anchor x="1400" y="1490" name="m.uni030F_1"/>
+  <anchor x="2032" y="744" name="m.uni0328_4"/>
+  <outline>
+    <component base="whiteLargeSquare"/>
+    <component base="Q" xOffset="649"/>
+  </outline>
+</glyph>

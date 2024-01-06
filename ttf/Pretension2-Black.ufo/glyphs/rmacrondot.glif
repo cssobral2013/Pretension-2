@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rmacrondot" format="2">
+  <advance width="888"/>
+  <unicode hex="1E5D"/>
+  <anchor x="382" y="0" name="m.uni0326"/>
+  <anchor x="581" y="1552" name="m.uni030F_1"/>
+  <outline>
+    <component base="r"/>
+    <component base="dotaccentcomb" xOffset="-28" yOffset="-1714"/>
+    <component base="macroncomb" xOffset="66"/>
+  </outline>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nhookretroflex" format="2">
+  <advance width="1211"/>
+  <unicode hex="0273"/>
+  <anchor x="781" y="0" name="m.uni0326"/>
+  <anchor x="781" y="1180" name="m.uni030F_1"/>
+  <outline>
+    <contour>
+      <point x="1163" y="-427" type="qcurve" smooth="yes"/>
+      <point x="1021" y="-427"/>
+      <point x="873" y="-295"/>
+      <point x="873" y="-171" type="qcurve" smooth="yes"/>
+      <point x="873" y="0" type="line"/>
+      <point x="1053" y="0" type="line"/>
+      <point x="1053" y="-171" type="line" smooth="yes"/>
+      <point x="1053" y="-223"/>
+      <point x="1126" y="-272"/>
+      <point x="1209" y="-272" type="qcurve" smooth="yes"/>
+      <point x="1222" y="-272"/>
+      <point x="1252" y="-270"/>
+      <point x="1268" y="-268" type="qcurve"/>
+      <point x="1268" y="-418" type="line"/>
+      <point x="1253" y="-422"/>
+      <point x="1196" y="-427"/>
+    </contour>
+    <contour>
+      <point x="338" y="670" type="qcurve" smooth="yes"/>
+      <point x="338" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="1118" type="line"/>
+      <point x="331" y="1118" type="line"/>
+      <point x="332" y="847" type="line"/>
+      <point x="307" y="847" type="line"/>
+      <point x="358" y="1002"/>
+      <point x="547" y="1132"/>
+      <point x="674" y="1132" type="qcurve" smooth="yes"/>
+      <point x="787" y="1132"/>
+      <point x="958" y="1039"/>
+      <point x="1053" y="852"/>
+      <point x="1053" y="710" type="qcurve" smooth="yes"/>
+      <point x="1053" y="0" type="line"/>
+      <point x="872" y="0" type="line"/>
+      <point x="872" y="695" type="line" smooth="yes"/>
+      <point x="872" y="824"/>
+      <point x="737" y="970"/>
+      <point x="620" y="970" type="qcurve" smooth="yes"/>
+      <point x="540" y="970"/>
+      <point x="412" y="900"/>
+      <point x="338" y="766"/>
+    </contour>
+  </outline>
+</glyph>

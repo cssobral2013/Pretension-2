@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etalenisgrave" format="2">
+  <advance width="1979"/>
+  <unicode hex="1F2A"/>
+  <anchor x="1782" y="0" name="m.uni0326"/>
+  <anchor x="2029" y="1490" name="m.uni030F_1"/>
+  <anchor x="1316" y="0" name="m.uni0327_3"/>
+  <outline>
+    <component base="H" xOffset="473"/>
+    <component base="lenisgrave" xOffset="37" yOffset="-67"/>
+  </outline>
+</glyph>

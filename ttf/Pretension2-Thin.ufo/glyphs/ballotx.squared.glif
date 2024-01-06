@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ballotx.squared" format="2">
+  <advance width="2828"/>
+  <unicode hex="E15E"/>
+  <outline>
+    <component base="whiteLargeSquare"/>
+    <component base="ballotx" xOffset="512" yOffset="42"/>
+  </outline>
+</glyph>

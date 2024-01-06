@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etaasper" format="2">
+  <advance width="1794"/>
+  <unicode hex="1F29"/>
+  <anchor x="1383" y="0" name="m.uni0326"/>
+  <anchor x="1383" y="1490" name="m.uni030F_1"/>
+  <anchor x="930" y="1" name="m.uni0327_3"/>
+  <outline>
+    <component base="H" xOffset="290"/>
+    <component base="asper" xOffset="48" yOffset="-67"/>
+  </outline>
+</glyph>

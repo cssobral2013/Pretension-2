@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphalenisgraveiotasub" format="2">
+  <advance width="2081"/>
+  <unicode hex="1F8A"/>
+  <anchor x="1432" y="0" name="m.uni0326"/>
+  <anchor x="1679" y="1490" name="m.uni030F_1"/>
+  <anchor x="2340" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="A" xOffset="453"/>
+    <component base="iotaadscript" xOffset="996"/>
+    <component base="lenisgrave" xOffset="-42" yOffset="-105"/>
+  </outline>
+</glyph>

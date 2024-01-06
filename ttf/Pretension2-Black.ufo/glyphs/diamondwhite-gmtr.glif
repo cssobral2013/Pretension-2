@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="diamondwhite-gmtr" format="2">
+  <advance width="2188"/>
+  <unicode hex="25C7"/>
+  <outline>
+    <contour>
+      <point x="2072" y="744" type="line"/>
+      <point x="1100" y="-232" type="line"/>
+      <point x="116" y="744" type="line"/>
+      <point x="1100" y="1722" type="line"/>
+    </contour>
+    <contour>
+      <point x="1662" y="744" type="line"/>
+      <point x="1098" y="1310" type="line"/>
+      <point x="528" y="744" type="line"/>
+      <point x="1098" y="178" type="line"/>
+    </contour>
+  </outline>
+</glyph>

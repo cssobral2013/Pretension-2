@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etaacuteiotasub" format="2">
+  <advance width="1211"/>
+  <unicode hex="1FC4"/>
+  <anchor x="415" y="0" name="m.uni0326"/>
+  <anchor x="771" y="1180" name="m.uni030F_1"/>
+  <outline>
+    <component base="eta"/>
+    <component base="iotaadscript" xOffset="20"/>
+    <component base="tonos.top" xOffset="396"/>
+  </outline>
+</glyph>

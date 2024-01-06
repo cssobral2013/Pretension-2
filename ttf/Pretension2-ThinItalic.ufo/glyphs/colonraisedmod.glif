@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colonraisedmod" format="2">
+  <advance width="156"/>
+  <unicode hex="02F8"/>
+  <outline>
+    <component base="period" xOffset="-180" yOffset="418"/>
+    <component base="period" xOffset="-160" yOffset="1338"/>
+  </outline>
+</glyph>

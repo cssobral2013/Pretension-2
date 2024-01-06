@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aringogonek" format="2">
+  <advance width="1310"/>
+  <unicode hex="EE02"/>
+  <anchor x="770" y="0" name="m.uni0326"/>
+  <anchor x="1017" y="1490" name="m.uni030F_1"/>
+  <anchor x="1573" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="A"/>
+    <component base="ringcomb.uc" xOffset="415"/>
+    <component base="ogonekcomb" xOffset="971"/>
+  </outline>
+</glyph>

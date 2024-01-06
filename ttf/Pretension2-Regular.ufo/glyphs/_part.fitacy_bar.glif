@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.fitacy_bar" format="2">
+  <advance width="1215"/>
+  <outline>
+    <contour>
+      <point x="262" y="424" type="qcurve"/>
+      <point x="184" y="485" type="line"/>
+      <point x="243" y="559"/>
+      <point x="368" y="673"/>
+      <point x="450" y="673" type="qcurve" smooth="yes"/>
+      <point x="518" y="673"/>
+      <point x="629" y="626"/>
+      <point x="723" y="579"/>
+      <point x="764" y="579" type="qcurve" smooth="yes"/>
+      <point x="820" y="579"/>
+      <point x="907" y="630"/>
+      <point x="950" y="694" type="qcurve"/>
+      <point x="1031" y="639" type="line"/>
+      <point x="973" y="553"/>
+      <point x="850" y="448"/>
+      <point x="763" y="448" type="qcurve" smooth="yes"/>
+      <point x="695" y="448"/>
+      <point x="584" y="495"/>
+      <point x="491" y="542"/>
+      <point x="449" y="542" type="qcurve" smooth="yes"/>
+      <point x="400" y="542"/>
+      <point x="308" y="483"/>
+    </contour>
+  </outline>
+</glyph>

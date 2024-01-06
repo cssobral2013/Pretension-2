@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ij" format="2">
+  <advance width="992"/>
+  <unicode hex="0133"/>
+  <anchor x="419" y="0" name="m.uni0326"/>
+  <anchor x="414" y="1682" name="m.uni030F_1"/>
+  <anchor x="736" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="dotaccentcomb" xOffset="2"/>
+    <component base="dotlessj" xOffset="496"/>
+    <component base="dotaccentcomb" xOffset="497"/>
+  </outline>
+</glyph>

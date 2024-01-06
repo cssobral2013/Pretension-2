@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tdieresis" format="2">
+  <advance width="494"/>
+  <unicode hex="1E97"/>
+  <anchor x="289" y="0" name="m.uni0326"/>
+  <anchor x="471" y="1811" name="m.uni030F_1"/>
+  <anchor x="376" y="0" name="m.uni0327_3"/>
+  <outline>
+    <component base="t"/>
+    <component base="dieresiscomb" xOffset="-340" yOffset="266"/>
+  </outline>
+</glyph>

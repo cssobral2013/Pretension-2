@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etaaspergraveiotasub" format="2">
+  <advance width="2418"/>
+  <unicode hex="1F9B"/>
+  <anchor x="1806" y="0" name="m.uni0326"/>
+  <anchor x="2053" y="1490" name="m.uni030F_1"/>
+  <anchor x="1365" y="0" name="m.uni0327_3"/>
+  <outline>
+    <component base="H" xOffset="882"/>
+    <component base="iotaadscript" xOffset="1383"/>
+    <component base="aspergrave" xOffset="-41" yOffset="-105"/>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="izhitsacyr" format="2">
+  <advance width="1258"/>
+  <unicode hex="0475"/>
+  <anchor x="683" y="1242" name="m.uni030F_1"/>
+  <outline>
+    <contour>
+      <point x="501" y="0" type="line"/>
+      <point x="100" y="1118" type="line"/>
+      <point x="149" y="1118" type="line"/>
+      <point x="528" y="58" type="line"/>
+      <point x="534" y="58" type="line"/>
+      <point x="845" y="933" type="line" smooth="yes"/>
+      <point x="879" y="1028"/>
+      <point x="1007" y="1118"/>
+      <point x="1107" y="1118" type="qcurve" smooth="yes"/>
+      <point x="1158" y="1118" type="line"/>
+      <point x="1158" y="1072" type="line"/>
+      <point x="1106" y="1072" type="line" smooth="yes"/>
+      <point x="944" y="1072"/>
+      <point x="890" y="919" type="qcurve" smooth="yes"/>
+      <point x="562" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

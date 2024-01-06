@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lbar" format="2">
+  <advance width="1185"/>
+  <unicode hex="023D"/>
+  <anchor x="771" y="0" name="m.uni0326"/>
+  <anchor x="513" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <component base="L" xOffset="27"/>
+    <component base="crossbar.uc" xOffset="-30"/>
+  </outline>
+</glyph>

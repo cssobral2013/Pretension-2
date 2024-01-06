@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="linevertdblcomb" format="2">
+  <outline>
+    <component base="verticallinemod" xOffset="-710"/>
+    <component base="verticallinemod" xOffset="-530"/>
+  </outline>
+</glyph>

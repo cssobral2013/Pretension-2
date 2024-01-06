@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Mcomb" format="2">
+  <unicode hex="1DDF"/>
+  <outline>
+    <contour>
+      <point x="-455" y="1347" type="line"/>
+      <point x="-202" y="1798" type="line"/>
+      <point x="-85" y="1798" type="line"/>
+      <point x="-424" y="1202" type="line"/>
+      <point x="-536" y="1202" type="line"/>
+      <point x="-676" y="1798" type="line"/>
+      <point x="-559" y="1798" type="line"/>
+    </contour>
+    <contour>
+      <point x="-588" y="1798" type="line"/>
+      <point x="-688" y="1202" type="line"/>
+      <point x="-820" y="1202" type="line"/>
+      <point x="-722" y="1798" type="line"/>
+    </contour>
+    <contour>
+      <point x="-275" y="1202" type="line"/>
+      <point x="-175" y="1798" type="line"/>
+      <point x="-39" y="1798" type="line"/>
+      <point x="-139" y="1202" type="line"/>
+    </contour>
+  </outline>
+</glyph>

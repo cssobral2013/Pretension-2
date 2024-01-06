@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pilcrowsignreversed" format="2">
+  <advance width="1222"/>
+  <unicode hex="204B"/>
+  <outline>
+    <contour>
+      <point x="567" y="552" type="line"/>
+      <point x="675" y="1198" type="line"/>
+      <point x="275" y="1198" type="line"/>
+      <point x="323" y="1490" type="line"/>
+      <point x="809" y="1490" type="line" smooth="yes"/>
+      <point x="977" y="1490"/>
+      <point x="1186" y="1367"/>
+      <point x="1269" y="1156"/>
+      <point x="1247" y="1022" type="qcurve" smooth="yes"/>
+      <point x="1225" y="887"/>
+      <point x="1071" y="674"/>
+      <point x="822" y="552"/>
+      <point x="655" y="552" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="3" y="0" type="line"/>
+      <point x="251" y="1490" type="line"/>
+      <point x="543" y="1490" type="line"/>
+      <point x="295" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

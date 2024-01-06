@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Geupcyr" format="2">
+  <advance width="1185"/>
+  <unicode hex="0490"/>
+  <anchor x="844" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <contour>
+      <point x="1038" y="1330" type="line"/>
+      <point x="1115" y="1792" type="line"/>
+      <point x="1287" y="1792" type="line"/>
+      <point x="1210" y="1330" type="line"/>
+    </contour>
+    <contour>
+      <point x="1241" y="1490" type="line"/>
+      <point x="1212" y="1323" type="line"/>
+      <point x="496" y="1323" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="87" y="0" type="line"/>
+      <point x="334" y="1490" type="line"/>
+    </contour>
+  </outline>
+</glyph>

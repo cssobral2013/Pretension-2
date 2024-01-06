@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphaasperacuteiotasub" format="2">
+  <advance width="2171"/>
+  <unicode hex="1F8D"/>
+  <anchor x="1689" y="0" name="m.uni0326"/>
+  <anchor x="1689" y="1490" name="m.uni030F_1"/>
+  <anchor x="2597" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="A" xOffset="543"/>
+    <component base="iotaadscript" xOffset="1085"/>
+    <component base="asperacute" xOffset="-24" yOffset="-105"/>
+  </outline>
+</glyph>

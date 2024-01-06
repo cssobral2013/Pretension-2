@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotmacron.lc" format="2">
+  <advance width="670"/>
+  <unicode hex="E10C"/>
+  <outline>
+    <contour>
+      <point x="858" y="1858" type="line"/>
+      <point x="819" y="1672" type="line"/>
+      <point x="219" y="1672" type="line"/>
+      <point x="258" y="1858" type="line"/>
+    </contour>
+    <contour>
+      <point x="248" y="1256" type="line"/>
+      <point x="303" y="1586" type="line"/>
+      <point x="705" y="1586" type="line"/>
+      <point x="650" y="1256" type="line"/>
+    </contour>
+  </outline>
+</glyph>

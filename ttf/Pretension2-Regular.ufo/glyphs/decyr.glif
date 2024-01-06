@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="decyr" format="2">
+  <advance width="1286"/>
+  <unicode hex="0434"/>
+  <outline>
+    <contour>
+      <point x="38" y="-321" type="line"/>
+      <point x="38" y="166" type="line"/>
+      <point x="130" y="166" type="line"/>
+      <point x="164" y="201"/>
+      <point x="214" y="284"/>
+      <point x="250" y="400"/>
+      <point x="276" y="565"/>
+      <point x="286" y="680" type="qcurve" smooth="yes"/>
+      <point x="323" y="1118" type="line"/>
+      <point x="1044" y="1118" type="line"/>
+      <point x="1044" y="166" type="line"/>
+      <point x="1214" y="166" type="line"/>
+      <point x="1214" y="-321" type="line"/>
+      <point x="1035" y="-321" type="line"/>
+      <point x="1035" y="0" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="218" y="-321" type="line"/>
+    </contour>
+    <contour>
+      <point x="334" y="166" type="qcurve"/>
+      <point x="865" y="166" type="line"/>
+      <point x="865" y="952" type="line"/>
+      <point x="486" y="952" type="line"/>
+      <point x="462" y="680" type="line" smooth="yes"/>
+      <point x="446" y="502"/>
+      <point x="391" y="243"/>
+    </contour>
+  </outline>
+</glyph>

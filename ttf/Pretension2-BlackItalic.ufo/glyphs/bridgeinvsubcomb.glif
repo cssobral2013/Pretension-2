@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bridgeinvsubcomb" format="2">
+  <advance width="26"/>
+  <outline>
+    <component base="shelfmod" xOffset="-1166" yOffset="-34"/>
+  </outline>
+</glyph>

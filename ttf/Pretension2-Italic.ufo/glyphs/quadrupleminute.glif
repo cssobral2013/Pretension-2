@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quadrupleminute" format="2">
+  <advance width="1807"/>
+  <unicode hex="2057"/>
+  <outline>
+    <component base="minute"/>
+    <component base="minute" xOffset="450"/>
+    <component base="minute" xOffset="900"/>
+    <component base="minute" xOffset="1350"/>
+  </outline>
+</glyph>

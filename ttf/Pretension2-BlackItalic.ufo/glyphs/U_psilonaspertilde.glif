@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilonaspertilde" format="2">
+  <advance width="2336"/>
+  <unicode hex="1F5F"/>
+  <anchor x="1665" y="0" name="m.uni0326"/>
+  <anchor x="1901" y="1490" name="m.uni030F_1"/>
+  <anchor x="1981" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="Y" xOffset="748"/>
+    <component base="aspertilde" xOffset="37" yOffset="-112"/>
+  </outline>
+</glyph>

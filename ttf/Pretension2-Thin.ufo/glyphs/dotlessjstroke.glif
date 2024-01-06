@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessjstroke" format="2">
+  <advance width="448"/>
+  <unicode hex="025F"/>
+  <outline>
+    <component base="dotlessj"/>
+    <component base="crossbar" xOffset="-198" yOffset="-117"/>
+  </outline>
+</glyph>

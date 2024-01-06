@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowdoublerightbelowcomb" format="2">
+  <unicode hex="0362"/>
+  <outline>
+    <contour>
+      <point x="542" y="-294" type="line"/>
+      <point x="536" y="-344" type="line"/>
+      <point x="-672" y="-344" type="line"/>
+      <point x="-664" y="-294" type="line"/>
+    </contour>
+    <contour>
+      <point x="294" y="-558" type="line"/>
+      <point x="174" y="-558" type="line"/>
+      <point x="590" y="-258" type="line"/>
+      <point x="620" y="-320" type="line"/>
+    </contour>
+    <contour>
+      <point x="254" y="-82" type="line"/>
+      <point x="372" y="-82" type="line"/>
+      <point x="620" y="-320" type="line"/>
+      <point x="564" y="-376" type="line"/>
+    </contour>
+  </outline>
+</glyph>

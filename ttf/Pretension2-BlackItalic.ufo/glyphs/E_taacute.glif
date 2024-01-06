@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etaacute" format="2">
+  <advance width="2008"/>
+  <unicode hex="1FCB"/>
+  <anchor x="1346" y="0" name="m.uni0326"/>
+  <anchor x="1593" y="1490" name="m.uni030F_1"/>
+  <anchor x="905" y="0" name="m.uni0327_3"/>
+  <outline>
+    <component base="H" xOffset="472"/>
+    <component base="tonos.top" xOffset="-215" yOffset="-92"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotaaspertilde" format="2">
+  <advance width="1294"/>
+  <unicode hex="1F3F"/>
+  <anchor x="1114" y="0" name="m.uni0326"/>
+  <anchor x="1365" y="1490" name="m.uni030F_1"/>
+  <anchor x="1436" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="I" xOffset="698"/>
+    <component base="aspertilde" xOffset="37" yOffset="-112"/>
+  </outline>
+</glyph>

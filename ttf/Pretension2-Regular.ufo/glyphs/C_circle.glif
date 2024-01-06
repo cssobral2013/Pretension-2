@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccircle" format="2">
+  <advance width="2846"/>
+  <unicode hex="24B8"/>
+  <anchor x="1429" y="1490" name="m.uni030F_1"/>
+  <anchor x="1412" y="1" name="m.uni0327_3"/>
+  <outline>
+    <component base="largecircle"/>
+    <component base="C" xOffset="643"/>
+  </outline>
+</glyph>

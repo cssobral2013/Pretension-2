@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Btopbar" format="2">
+  <advance width="1344"/>
+  <unicode hex="0182"/>
+  <outline>
+    <contour>
+      <point x="88" y="0" type="line"/>
+      <point x="334" y="1490" type="line"/>
+      <point x="1241" y="1490" type="line"/>
+      <point x="1213" y="1323" type="line"/>
+      <point x="497" y="1323" type="line"/>
+      <point x="421" y="870" type="line"/>
+      <point x="789" y="870" type="line" smooth="yes"/>
+      <point x="952" y="870"/>
+      <point x="1158" y="764"/>
+      <point x="1242" y="572"/>
+      <point x="1220" y="441" type="qcurve" smooth="yes"/>
+      <point x="1198" y="311"/>
+      <point x="1049" y="112"/>
+      <point x="807" y="0"/>
+      <point x="646" y="0" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="305" y="165" type="line"/>
+      <point x="673" y="165" type="line" smooth="yes"/>
+      <point x="773" y="165"/>
+      <point x="925" y="244"/>
+      <point x="1020" y="371"/>
+      <point x="1032" y="443" type="qcurve" smooth="yes"/>
+      <point x="1051" y="551"/>
+      <point x="913" y="703"/>
+      <point x="762" y="703" type="qcurve" smooth="yes"/>
+      <point x="394" y="703" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegalenis" format="2">
+  <advance width="1799"/>
+  <unicode hex="1F68"/>
+  <anchor x="1408" y="0" name="m.uni0326"/>
+  <anchor x="1410" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <component base="Omega" xOffset="257"/>
+    <component base="koronis" xOffset="48" yOffset="-59"/>
+  </outline>
+</glyph>

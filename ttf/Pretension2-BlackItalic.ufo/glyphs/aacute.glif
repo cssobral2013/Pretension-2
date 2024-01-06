@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aacute" format="2">
+  <advance width="1210"/>
+  <unicode hex="00E1"/>
+  <anchor x="666" y="0" name="m.uni0326"/>
+  <anchor x="923" y="1574" name="m.uni030F_1"/>
+  <anchor x="1282" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="a"/>
+    <component base="acutecomb" xOffset="493"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>a</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>a</string>
+  </dict>
+  </lib>
+</glyph>

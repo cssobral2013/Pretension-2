@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis.three" format="2">
+  <advance width="1600"/>
+  <unicode hex="E2C7"/>
+  <unicode hex="EE72"/>
+  <anchor x="800" y="1434" name="t.uni030F_1"/>
+  <outline>
+    <contour>
+      <point x="364" y="1319" type="line"/>
+      <point x="364" y="1434" type="line"/>
+      <point x="428" y="1434" type="line"/>
+      <point x="428" y="1319" type="line"/>
+    </contour>
+    <contour>
+      <point x="768" y="1319" type="line"/>
+      <point x="768" y="1434" type="line"/>
+      <point x="832" y="1434" type="line"/>
+      <point x="832" y="1319" type="line"/>
+    </contour>
+    <contour>
+      <point x="1172" y="1319" type="line"/>
+      <point x="1172" y="1434" type="line"/>
+      <point x="1236" y="1434" type="line"/>
+      <point x="1236" y="1319" type="line"/>
+    </contour>
+  </outline>
+</glyph>

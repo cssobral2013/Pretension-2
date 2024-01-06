@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.romansmall" format="2">
+  <advance width="1488"/>
+  <unicode hex="2172"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="dotaccentcomb" xOffset="2"/>
+    <component base="dotlessi" xOffset="496"/>
+    <component base="dotaccentcomb" xOffset="498"/>
+    <component base="dotlessi" xOffset="992"/>
+    <component base="dotaccentcomb" xOffset="994"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Digammapamphylian" format="2">
+  <advance width="1543"/>
+  <unicode hex="0376"/>
+  <anchor x="859" y="0" name="m.uni0326"/>
+  <anchor x="796" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <component base="Icyr"/>
+  </outline>
+</glyph>

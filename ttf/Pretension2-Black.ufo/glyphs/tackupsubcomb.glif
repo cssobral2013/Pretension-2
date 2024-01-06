@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tackupsubcomb" format="2">
+  <advance width="38"/>
+  <outline>
+    <component base="tackupmod" xOffset="-1050" yOffset="-658"/>
+  </outline>
+</glyph>

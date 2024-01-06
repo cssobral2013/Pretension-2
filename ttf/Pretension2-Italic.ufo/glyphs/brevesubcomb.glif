@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevesubcomb" format="2">
+  <outline>
+    <component base="brevecomb" xOffset="-1267" yOffset="-1719"/>
+  </outline>
+</glyph>

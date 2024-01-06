@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashshort.uc" format="2">
+  <advance width="746"/>
+  <outline>
+    <contour>
+      <point x="-3" y="535" type="line"/>
+      <point x="28" y="724" type="line"/>
+      <point x="844" y="1154" type="line"/>
+      <point x="813" y="965" type="line"/>
+    </contour>
+  </outline>
+</glyph>

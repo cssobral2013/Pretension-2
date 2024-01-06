@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.superior.ccmp" format="2">
+  <advance width="724"/>
+  <unicode hex="E0F4"/>
+  <outline>
+    <contour>
+      <point x="488" y="1374" type="line"/>
+      <point x="488" y="562" type="line"/>
+      <point x="242" y="562" type="line"/>
+      <point x="242" y="1374" type="line"/>
+    </contour>
+  </outline>
+</glyph>
