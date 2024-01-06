@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01BC" format="2">
+  <advance width="1229"/>
+  <unicode hex="01BC"/>
+  <outline>
+    <component base="five"/>
+    <contour>
+      <point x="472" y="1490" type="line"/>
+      <point x="472" y="1330" type="line"/>
+      <point x="148" y="1330" type="line"/>
+      <point x="148" y="1490" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=117</string>
+  </dict>
+  </lib>
+</glyph>

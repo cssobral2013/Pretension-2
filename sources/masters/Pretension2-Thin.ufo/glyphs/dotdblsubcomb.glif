@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotdblsubcomb" format="2">
   <outline>
-    <component base="dieresiscomb" xOffset="-1162" yOffset="-1686"/>
+    <component base="uni0308" xOffset="-1162" yOffset="-1686"/>
   </outline>
 </glyph>

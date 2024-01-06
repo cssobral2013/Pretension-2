@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tackdownsubcomb" format="2">
   <outline>
-    <component base="tackdownmod" xOffset="-922" yOffset="-590"/>
+    <component base="uni02D5" xOffset="-922" yOffset="-590"/>
   </outline>
 </glyph>

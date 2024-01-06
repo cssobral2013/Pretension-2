@@ -7,7 +7,7 @@
   <anchor x="1282" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="a"/>
-    <component base="circumflexcomb" xOffset="65"/>
+    <component base="uni0302" xOffset="65"/>
   </outline>
   <lib>
   <dict>

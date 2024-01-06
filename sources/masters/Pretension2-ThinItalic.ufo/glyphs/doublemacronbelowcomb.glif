@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="doublemacronbelowcomb" format="2">
-  <unicode hex="035F"/>
-  <anchor x="548" y="0" name="_m.uni0326"/>
-  <outline>
-    <component base="doublemacroncomb" xOffset="-270" yOffset="-1630"/>
-  </outline>
-</glyph>

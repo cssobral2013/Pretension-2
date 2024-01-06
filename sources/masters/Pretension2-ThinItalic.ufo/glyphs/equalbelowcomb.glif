@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="equalbelowcomb" format="2">
-  <unicode hex="0347"/>
-  <anchor x="-742" y="0" name="_m.uni0326"/>
-  <outline>
-    <component base="equal.superior" xOffset="-1280" yOffset="-1524"/>
-  </outline>
-</glyph>

@@ -7,8 +7,8 @@
   <anchor x="694" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="dotaccentcomb" xOffset="-32"/>
-    <component base="dotlessj" xOffset="606"/>
-    <component base="dotaccentcomb" xOffset="575"/>
+    <component base="uni0307" xOffset="-32"/>
+    <component base="uni0237" xOffset="606"/>
+    <component base="uni0307" xOffset="575"/>
   </outline>
 </glyph>

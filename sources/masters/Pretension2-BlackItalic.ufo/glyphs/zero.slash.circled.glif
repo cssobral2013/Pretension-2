@@ -4,7 +4,7 @@
   <unicode hex="E12B"/>
   <anchor x="1557" y="1490" name="m.uni030F_1"/>
   <outline>
-    <component base="largecircle"/>
+    <component base="uni25EF"/>
     <component base="zero.slash" xOffset="675"/>
   </outline>
 </glyph>

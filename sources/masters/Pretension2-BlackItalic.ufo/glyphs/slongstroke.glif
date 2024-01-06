@@ -4,6 +4,6 @@
   <anchor x="769" y="1538" name="m.uni030F_1"/>
   <outline>
     <component base="_part.f_base"/>
-    <component base="slashshortcomb.lc" xOffset="59"/>
+    <component base="uni0337.lc" xOffset="59"/>
   </outline>
 </glyph>

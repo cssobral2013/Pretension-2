@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni026B.ss02" format="2">
+  <advance width="576"/>
+  <unicode hex="026B"/>
+  <unicode hex="E053"/>
+  <anchor x="681" y="0" name="m.uni0326"/>
+  <anchor x="869" y="1490" name="m.uni030F_1"/>
+  <outline>
+    <component base="l.ss02" xOffset="72"/>
+    <component base="_tildecross.cn" xOffset="-42"/>
+  </outline>
+</glyph>

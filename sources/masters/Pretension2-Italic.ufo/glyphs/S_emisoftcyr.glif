@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Semisoftcyr" format="2">
-  <advance width="1329"/>
-  <unicode hex="048C"/>
-  <outline>
-    <component base="Softcyr"/>
-    <component base="crossbar.uc" xOffset="-37" yOffset="434"/>
-  </outline>
-</glyph>

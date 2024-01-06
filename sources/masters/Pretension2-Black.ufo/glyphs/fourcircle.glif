@@ -5,7 +5,7 @@
   <unicode hex="2783"/>
   <unicode hex="E12E"/>
   <outline>
-    <component base="largecircle"/>
+    <component base="uni25EF"/>
     <component base="four.ss01" xOffset="702"/>
   </outline>
 </glyph>

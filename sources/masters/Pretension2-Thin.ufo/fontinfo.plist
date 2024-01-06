@@ -71,7 +71,7 @@
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Thin</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.050</string>
+  <string>Version 3.051</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -207,7 +207,7 @@
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>50</integer>
+  <integer>51</integer>
   <key>xHeight</key>
   <integer>1118</integer>
 </dict>
