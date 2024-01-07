@@ -10,44 +10,68 @@
       <point x="323" y="840" type="line"/>
     </contour>
     <contour>
-      <point x="1846" y="1024" type="qcurve"/>
+      <point x="1846" y="1024" type="curve"/>
       <point x="1657" y="1021" type="line"/>
-      <point x="1641" y="1097"/>
-      <point x="1564" y="1214"/>
-      <point x="1453" y="1293"/>
-      <point x="1319" y="1334"/>
-      <point x="1246" y="1334" type="qcurve" smooth="yes"/>
-      <point x="1113" y="1334"/>
-      <point x="897" y="1199"/>
-      <point x="771" y="936"/>
-      <point x="771" y="744" type="qcurve" smooth="yes"/>
-      <point x="771" y="553"/>
-      <point x="897" y="291"/>
-      <point x="1113" y="156"/>
-      <point x="1246" y="156" type="qcurve" smooth="yes"/>
-      <point x="1319" y="156"/>
-      <point x="1453" y="196"/>
-      <point x="1564" y="276"/>
-      <point x="1641" y="393"/>
-      <point x="1657" y="469" type="qcurve"/>
+      <point x="1636" y="1122"/>
+      <point x="1583" y="1201"/>
+      <point x="1509" y="1254" type="curve" smooth="yes"/>
+      <point x="1435" y="1306"/>
+      <point x="1343" y="1334"/>
+      <point x="1246" y="1334" type="curve" smooth="yes"/>
+      <point x="1157" y="1334"/>
+      <point x="1077" y="1312"/>
+      <point x="1005" y="1267" type="curve" smooth="yes"/>
+      <point x="933" y="1222"/>
+      <point x="876" y="1155"/>
+      <point x="834" y="1068" type="curve" smooth="yes"/>
+      <point x="792" y="980"/>
+      <point x="771" y="872"/>
+      <point x="771" y="744" type="curve" smooth="yes"/>
+      <point x="771" y="617"/>
+      <point x="792" y="509"/>
+      <point x="834" y="422" type="curve" smooth="yes"/>
+      <point x="876" y="335"/>
+      <point x="933" y="269"/>
+      <point x="1005" y="224" type="curve" smooth="yes"/>
+      <point x="1077" y="179"/>
+      <point x="1157" y="156"/>
+      <point x="1246" y="156" type="curve" smooth="yes"/>
+      <point x="1343" y="156"/>
+      <point x="1435" y="183"/>
+      <point x="1509" y="236" type="curve" smooth="yes"/>
+      <point x="1583" y="289"/>
+      <point x="1636" y="368"/>
+      <point x="1657" y="469" type="curve"/>
       <point x="1846" y="466" type="line"/>
-      <point x="1825" y="352"/>
-      <point x="1718" y="172"/>
-      <point x="1558" y="46"/>
-      <point x="1359" y="-20"/>
-      <point x="1246" y="-20" type="qcurve" smooth="yes"/>
-      <point x="1055" y="-20"/>
-      <point x="756" y="165"/>
-      <point x="586" y="508"/>
-      <point x="586" y="744" type="qcurve" smooth="yes"/>
-      <point x="586" y="981"/>
-      <point x="756" y="1324"/>
-      <point x="1055" y="1510"/>
-      <point x="1246" y="1510" type="qcurve" smooth="yes"/>
-      <point x="1357" y="1510"/>
-      <point x="1556" y="1445"/>
-      <point x="1716" y="1320"/>
-      <point x="1825" y="1139"/>
+      <point x="1818" y="314"/>
+      <point x="1745" y="193"/>
+      <point x="1638" y="109" type="curve" smooth="yes"/>
+      <point x="1531" y="25"/>
+      <point x="1397" y="-20"/>
+      <point x="1246" y="-20" type="curve" smooth="yes"/>
+      <point x="1119" y="-20"/>
+      <point x="1005" y="11"/>
+      <point x="906" y="73" type="curve" smooth="yes"/>
+      <point x="806" y="134"/>
+      <point x="728" y="222"/>
+      <point x="671" y="337" type="curve" smooth="yes"/>
+      <point x="614" y="451"/>
+      <point x="586" y="587"/>
+      <point x="586" y="744" type="curve" smooth="yes"/>
+      <point x="586" y="902"/>
+      <point x="614" y="1038"/>
+      <point x="671" y="1153" type="curve" smooth="yes"/>
+      <point x="728" y="1267"/>
+      <point x="806" y="1355"/>
+      <point x="906" y="1417" type="curve" smooth="yes"/>
+      <point x="1005" y="1479"/>
+      <point x="1119" y="1510"/>
+      <point x="1246" y="1510" type="curve" smooth="yes"/>
+      <point x="1394" y="1510"/>
+      <point x="1529" y="1466"/>
+      <point x="1636" y="1383" type="curve" smooth="yes"/>
+      <point x="1743" y="1299"/>
+      <point x="1818" y="1177"/>
     </contour>
     <contour>
       <point x="370" y="1490" type="line"/>

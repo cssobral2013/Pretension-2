@@ -4,4 +4,12 @@
   <outline>
     <component base="tonetwo"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>s</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>s</string>
+  </dict>
+  </lib>
 </glyph>

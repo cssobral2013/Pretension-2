@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Decyr.loclBGR" format="2">
+  <advance width="1863"/>
+  <outline>
+    <component base="Elcyr.loclBGR" xOffset="162"/>
+    <contour>
+      <point x="56" y="-320" type="line"/>
+      <point x="56" y="326" type="line"/>
+      <point x="1807" y="326" type="line"/>
+      <point x="1807" y="-320" type="line"/>
+      <point x="1407" y="-320" type="line"/>
+      <point x="1407" y="0" type="line"/>
+      <point x="456" y="0" type="line"/>
+      <point x="456" y="-320" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>Decyr</string>
+  </dict>
+  </lib>
+</glyph>

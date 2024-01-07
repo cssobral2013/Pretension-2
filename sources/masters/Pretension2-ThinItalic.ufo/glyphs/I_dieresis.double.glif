@@ -5,6 +5,6 @@
   <outline>
     <component base="I"/>
     <component base="I" xOffset="510"/>
-    <component base="dieresis.three" xOffset="140" yOffset="372"/>
+    <component base="dieresis.three" xOffset="-224" yOffset="372"/>
   </outline>
 </glyph>

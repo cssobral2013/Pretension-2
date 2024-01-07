@@ -218,6 +218,8 @@
   <string>D_dotbelow.glif</string>
   <key>Decyr</key>
   <string>D_ecyr.glif</string>
+  <key>Decyr.loclBGR</key>
+  <string>D_ecyr.loclB_G_R_.glif</string>
   <key>Delta</key>
   <string>D_elta.glif</string>
   <key>Dhook</key>
@@ -468,10 +470,6 @@
   <string>G_commaaccent.glif</string>
   <key>Gcommaaccent.1</key>
   <string>G_commaaccent.1.glif</string>
-  <key>Gcommaaccent.1.ss03</key>
-  <string>G_commaaccent.1.ss03.glif</string>
-  <key>Gcommaaccent.ss03</key>
-  <string>G_commaaccent.ss03.glif</string>
   <key>Gdotaccent</key>
   <string>G_dotaccent.glif</string>
   <key>Gdotaccent.1</key>
@@ -750,8 +748,6 @@
   <string>K_circle.glif</string>
   <key>Kcommaaccent</key>
   <string>K_commaaccent.glif</string>
-  <key>Kcommaaccent.ss03</key>
-  <string>K_commaaccent.ss03.glif</string>
   <key>Kdotbelow</key>
   <string>K_dotbelow.glif</string>
   <key>Khook</key>
@@ -788,8 +784,6 @@
   <string>L_comb.glif</string>
   <key>Lcommaaccent</key>
   <string>L_commaaccent.glif</string>
-  <key>Lcommaaccent.ss03</key>
-  <string>L_commaaccent.ss03.glif</string>
   <key>Ldot</key>
   <string>L_dot.glif</string>
   <key>Ldotbelow</key>
@@ -842,8 +836,6 @@
   <string>N_comb.glif</string>
   <key>Ncommaaccent</key>
   <string>N_commaaccent.glif</string>
-  <key>Ncommaaccent.ss03</key>
-  <string>N_commaaccent.ss03.glif</string>
   <key>Ndot</key>
   <string>N_dot.glif</string>
   <key>Ndotbelow</key>
@@ -1074,8 +1066,6 @@
   <string>R_comb.glif</string>
   <key>Rcommaaccent</key>
   <string>R_commaaccent.glif</string>
-  <key>Rcommaaccent.ss03</key>
-  <string>R_commaaccent.ss03.glif</string>
   <key>Rdblgrave</key>
   <string>R_dblgrave.glif</string>
   <key>Rdot</key>
@@ -1126,8 +1116,6 @@
   <string>S_circumflex.glif</string>
   <key>Scommaaccent</key>
   <string>S_commaaccent.glif</string>
-  <key>Scommaaccent.ss03</key>
-  <string>S_commaaccent.ss03.glif</string>
   <key>Sdot</key>
   <string>S_dot.glif</string>
   <key>Sdotbelow</key>
@@ -2222,8 +2210,6 @@
   <string>colontriangularmod.glif</string>
   <key>comma</key>
   <string>comma.glif</string>
-  <key>comma.ss03</key>
-  <string>comma.ss03.glif</string>
   <key>comma.tf</key>
   <string>comma.tf.glif</string>
   <key>commaabovecomb</key>
@@ -2232,8 +2218,6 @@
   <string>commaaboverightcomb.glif</string>
   <key>commaaccentcomb</key>
   <string>commaaccentcomb.glif</string>
-  <key>commaaccentcomb.ss03</key>
-  <string>commaaccentcomb.ss03.glif</string>
   <key>commaaccentright.cn</key>
   <string>commaaccentright.cn.glif</string>
   <key>commaaccentrotate.cn</key>
@@ -2388,6 +2372,10 @@
   <string>dlinebelow.glif</string>
   <key>dmod</key>
   <string>dmod.glif</string>
+  <key>dngb_ballotx</key>
+  <string>dngb_ballotx.glif</string>
+  <key>dngb_check</key>
+  <string>dngb_check.glif</string>
   <key>dollar</key>
   <string>dollar.glif</string>
   <key>dong</key>
@@ -3320,8 +3308,6 @@
   <string>kcomb.glif</string>
   <key>kcommaaccent</key>
   <string>kcommaaccent.glif</string>
-  <key>kcommaaccent.ss03</key>
-  <string>kcommaaccent.ss03.glif</string>
   <key>kdotbelow</key>
   <string>kdotbelow.glif</string>
   <key>kelvin</key>
@@ -3394,10 +3380,6 @@
   <string>lcommaaccent.glif</string>
   <key>lcommaaccent.ss02</key>
   <string>lcommaaccent.ss02.glif</string>
-  <key>lcommaaccent.ss02.ss03</key>
-  <string>lcommaaccent.ss02.ss03.glif</string>
-  <key>lcommaaccent.ss03</key>
-  <string>lcommaaccent.ss03.glif</string>
   <key>lcurl</key>
   <string>lcurl.glif</string>
   <key>ldot</key>
@@ -3652,8 +3634,6 @@
   <string>ncomb.glif</string>
   <key>ncommaaccent</key>
   <string>ncommaaccent.glif</string>
-  <key>ncommaaccent.ss03</key>
-  <string>ncommaaccent.ss03.glif</string>
   <key>ncurl</key>
   <string>ncurl.glif</string>
   <key>ndot</key>
@@ -4192,28 +4172,16 @@
   <string>quotedblbase.glif</string>
   <key>quotedblleft</key>
   <string>quotedblleft.glif</string>
-  <key>quotedblleft.ss03</key>
-  <string>quotedblleft.ss03.glif</string>
   <key>quotedblreversed</key>
   <string>quotedblreversed.glif</string>
-  <key>quotedblreversed.ss03</key>
-  <string>quotedblreversed.ss03.glif</string>
   <key>quotedblright</key>
   <string>quotedblright.glif</string>
-  <key>quotedblright.ss03</key>
-  <string>quotedblright.ss03.glif</string>
   <key>quoteleft</key>
   <string>quoteleft.glif</string>
-  <key>quoteleft.ss03</key>
-  <string>quoteleft.ss03.glif</string>
   <key>quotereversed</key>
   <string>quotereversed.glif</string>
-  <key>quotereversed.ss03</key>
-  <string>quotereversed.ss03.glif</string>
   <key>quoteright</key>
   <string>quoteright.glif</string>
-  <key>quoteright.ss03</key>
-  <string>quoteright.ss03.glif</string>
   <key>quotesinglbase</key>
   <string>quotesinglbase.glif</string>
   <key>quotesingle</key>
@@ -4242,8 +4210,6 @@
   <string>rcomb.glif</string>
   <key>rcommaaccent</key>
   <string>rcommaaccent.glif</string>
-  <key>rcommaaccent.ss03</key>
-  <string>rcommaaccent.ss03.glif</string>
   <key>rdblgrave</key>
   <string>rdblgrave.glif</string>
   <key>rdot</key>
@@ -4378,8 +4344,6 @@
   <string>scomb.glif</string>
   <key>scommaaccent</key>
   <string>scommaaccent.glif</string>
-  <key>scommaaccent.ss03</key>
-  <string>scommaaccent.ss03.glif</string>
   <key>sdot</key>
   <string>sdot.glif</string>
   <key>sdotbelow</key>
@@ -4394,14 +4358,10 @@
   <string>section.glif</string>
   <key>semicolon</key>
   <string>semicolon.glif</string>
-  <key>semicolon.ss03</key>
-  <string>semicolon.ss03.glif</string>
   <key>semicolon.tf</key>
   <string>semicolon.tf.glif</string>
   <key>semicolonreversed</key>
   <string>semicolonreversed.glif</string>
-  <key>semicolonreversed.ss03</key>
-  <string>semicolonreversed.ss03.glif</string>
   <key>semisoftcyr</key>
   <string>semisoftcyr.glif</string>
   <key>servicemark</key>
@@ -4584,10 +4544,6 @@
   <string>tcommaaccent.glif</string>
   <key>tcommaaccent.1</key>
   <string>tcommaaccent.1.glif</string>
-  <key>tcommaaccent.1.ss03</key>
-  <string>tcommaaccent.1.ss03.glif</string>
-  <key>tcommaaccent.ss03</key>
-  <string>tcommaaccent.ss03.glif</string>
   <key>tcurl</key>
   <string>tcurl.glif</string>
   <key>tdieresis</key>

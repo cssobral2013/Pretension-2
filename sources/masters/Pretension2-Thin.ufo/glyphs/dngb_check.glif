@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dngb_check" format="2">
+  <advance width="1804"/>
+  <outline>
+    <component base="check"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dngb_check</string>
+  </dict>
+  </lib>
+</glyph>

@@ -12,19 +12,22 @@
       <point x="-588" y="1202" type="line"/>
       <point x="-774" y="1202" type="line"/>
       <point x="-774" y="1812" type="line"/>
-      <point x="-773" y="1906"/>
-      <point x="-654" y="2008"/>
-      <point x="-550" y="2008" type="qcurve" smooth="yes"/>
-      <point x="-523" y="2008"/>
-      <point x="-476" y="2000"/>
-      <point x="-466" y="1998" type="qcurve"/>
+      <point x="-773" y="1875"/>
+      <point x="-753" y="1923"/>
+      <point x="-714" y="1957" type="curve" smooth="yes"/>
+      <point x="-674" y="1991"/>
+      <point x="-619" y="2008"/>
+      <point x="-550" y="2008" type="curve" smooth="yes"/>
+      <point x="-514" y="2008"/>
+      <point x="-479" y="2001"/>
+      <point x="-466" y="1998" type="curve"/>
       <point x="-462" y="1858" type="line"/>
-      <point x="-470" y="1863"/>
-      <point x="-490" y="1864"/>
-      <point x="-506" y="1864" type="qcurve" smooth="yes"/>
-      <point x="-547" y="1864"/>
-      <point x="-588" y="1836"/>
-      <point x="-588" y="1812" type="qcurve" smooth="yes"/>
+      <point x="-473" y="1865"/>
+      <point x="-485" y="1864"/>
+      <point x="-506" y="1864" type="curve" smooth="yes"/>
+      <point x="-561" y="1864"/>
+      <point x="-588" y="1844"/>
+      <point x="-588" y="1812" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

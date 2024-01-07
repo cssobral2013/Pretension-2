@@ -7,7 +7,18 @@
   <key>capHeight</key>
   <integer>1490</integer>
   <key>copyright</key>
-  <string>Copyright 2016 The Inter Project Authors</string>
+  <string>Copyright (c) 2022-2024 The Pretension 2 Project Authors
+(https://github.com/cssobral2013/pretension-2)
+
+Portions are:
+
+Copyright (c) 2016-2024 The Inter Project Authors
+&quot;Inter&quot; is a trademark of Rasmus Andersson
+(https://github.com/rsms/inter)
+Copyright (c) 2022 The Inter-Derp Project Authors
+(https://github.com/Derpitron/inter-derp/)
+Copyright (c) 2023 The Pretendard Project Authors
+(https://github.com/orioncactus/Pretendard)</string>
   <key>descender</key>
   <integer>-494</integer>
   <key>familyName</key>
@@ -22,7 +33,7 @@
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>512</integer>
+    <integer>749</integer>
   </dict>
   </array>
   <key>italicAngle</key>
@@ -106,7 +117,7 @@
     <key>languageID</key>
     <integer>1033</integer>
     <key>string</key>
-    <string>Round quotes &amp; commas</string>
+    <string>Disambiguation (no slashed zero)</string>
   </dict>
   <dict>
     <key>nameID</key>
@@ -118,7 +129,7 @@
     <key>languageID</key>
     <integer>1033</integer>
     <key>string</key>
-    <string>Disambiguation (no slashed zero)</string>
+    <string>Circled characters</string>
   </dict>
   <dict>
     <key>nameID</key>
@@ -130,7 +141,7 @@
     <key>languageID</key>
     <integer>1033</integer>
     <key>string</key>
-    <string>Circled characters</string>
+    <string>Squared characters</string>
   </dict>
   <dict>
     <key>nameID</key>
@@ -142,7 +153,7 @@
     <key>languageID</key>
     <integer>1033</integer>
     <key>string</key>
-    <string>Squared characters</string>
+    <string>Alternate one</string>
   </dict>
   <dict>
     <key>nameID</key>
@@ -154,7 +165,7 @@
     <key>languageID</key>
     <integer>1033</integer>
     <key>string</key>
-    <string>Alternate one</string>
+    <string>Open four</string>
   </dict>
   <dict>
     <key>nameID</key>
@@ -166,7 +177,7 @@
     <key>languageID</key>
     <integer>1033</integer>
     <key>string</key>
-    <string>Open four</string>
+    <string>Open six</string>
   </dict>
   <dict>
     <key>nameID</key>
@@ -178,7 +189,7 @@
     <key>languageID</key>
     <integer>1033</integer>
     <key>string</key>
-    <string>Open six</string>
+    <string>Open nine</string>
   </dict>
   <dict>
     <key>nameID</key>
@@ -190,7 +201,7 @@
     <key>languageID</key>
     <integer>1033</integer>
     <key>string</key>
-    <string>Open nine</string>
+    <string>Lower-case L with tail</string>
   </dict>
   <dict>
     <key>nameID</key>
@@ -202,7 +213,7 @@
     <key>languageID</key>
     <integer>1033</integer>
     <key>string</key>
-    <string>Lower-case L with tail</string>
+    <string>Simplified u</string>
   </dict>
   <dict>
     <key>nameID</key>
@@ -214,7 +225,7 @@
     <key>languageID</key>
     <integer>1033</integer>
     <key>string</key>
-    <string>Simplified u</string>
+    <string>Alternate German double s</string>
   </dict>
   <dict>
     <key>nameID</key>
@@ -226,7 +237,7 @@
     <key>languageID</key>
     <integer>1033</integer>
     <key>string</key>
-    <string>Alternate German double s</string>
+    <string>Upper-case i with serif</string>
   </dict>
   <dict>
     <key>nameID</key>
@@ -238,7 +249,7 @@
     <key>languageID</key>
     <integer>1033</integer>
     <key>string</key>
-    <string>Upper-case i with serif</string>
+    <string>Flat-top three</string>
   </dict>
   <dict>
     <key>nameID</key>
@@ -250,7 +261,7 @@
     <key>languageID</key>
     <integer>1033</integer>
     <key>string</key>
-    <string>Flat-top three</string>
+    <string>Capital G with spur</string>
   </dict>
   <dict>
     <key>nameID</key>
@@ -262,7 +273,7 @@
     <key>languageID</key>
     <integer>1033</integer>
     <key>string</key>
-    <string>Capital G with spur</string>
+    <string>Single-story a</string>
   </dict>
   <dict>
     <key>nameID</key>
@@ -274,7 +285,7 @@
     <key>languageID</key>
     <integer>1033</integer>
     <key>string</key>
-    <string>Single-story a</string>
+    <string>Compact f</string>
   </dict>
   <dict>
     <key>nameID</key>
@@ -286,23 +297,11 @@
     <key>languageID</key>
     <integer>1033</integer>
     <key>string</key>
-    <string>Compact f</string>
-  </dict>
-  <dict>
-    <key>nameID</key>
-    <integer>274</integer>
-    <key>platformID</key>
-    <integer>3</integer>
-    <key>encodingID</key>
-    <integer>1</integer>
-    <key>languageID</key>
-    <integer>1033</integer>
-    <key>string</key>
     <string>Compact t</string>
   </dict>
   </array>
   <key>openTypeNameVersion</key>
-  <string>Version 3.052</string>
+  <string>Version 3.053</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -438,7 +437,7 @@
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>52</integer>
+  <integer>53</integer>
   <key>xHeight</key>
   <integer>1118</integer>
 </dict>

@@ -5,6 +5,6 @@
   <anchor x="479" y="1242" name="m.uni030F_1"/>
   <outline>
     <component base="iota"/>
-    <component base="dieresistonos_narrow" xOffset="-259"/>
+    <component base="dieresistonos_narrow" xOffset="-373"/>
   </outline>
 </glyph>

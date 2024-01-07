@@ -7,22 +7,28 @@
   <anchor x="371" y="1490" name="m.uni030F_1"/>
   <outline>
     <contour>
-      <point x="424" y="-2" type="qcurve"/>
-      <point x="324" y="-24"/>
-      <point x="198" y="59"/>
-      <point x="198" y="175" type="qcurve" smooth="yes"/>
+      <point x="424" y="-2" type="curve"/>
+      <point x="357" y="-17"/>
+      <point x="303" y="-10"/>
+      <point x="261" y="18" type="curve" smooth="yes"/>
+      <point x="219" y="45"/>
+      <point x="198" y="98"/>
+      <point x="198" y="175" type="curve" smooth="yes"/>
       <point x="198" y="1490" type="line"/>
       <point x="244" y="1490" type="line"/>
       <point x="244" y="175" type="line" smooth="yes"/>
-      <point x="244" y="77"/>
-      <point x="343" y="26"/>
-      <point x="422" y="45" type="qcurve"/>
-      <point x="428" y="47"/>
-      <point x="424" y="46"/>
-      <point x="430" y="47" type="qcurve"/>
+      <point x="244" y="110"/>
+      <point x="261" y="69"/>
+      <point x="294" y="52" type="curve" smooth="yes"/>
+      <point x="327" y="35"/>
+      <point x="369" y="32"/>
+      <point x="422" y="45" type="curve"/>
+      <point x="430" y="48"/>
+      <point x="422" y="46"/>
+      <point x="430" y="47" type="curve"/>
       <point x="442" y="3" type="line"/>
-      <point x="438" y="2"/>
-      <point x="429" y="0"/>
+      <point x="437" y="2"/>
+      <point x="431" y="1"/>
     </contour>
   </outline>
 </glyph>

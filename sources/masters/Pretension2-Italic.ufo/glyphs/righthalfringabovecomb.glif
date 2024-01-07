@@ -5,22 +5,32 @@
   <anchor x="253" y="1180" name="_t.uni030F"/>
   <outline>
     <contour>
-      <point x="169" y="1189" type="qcurve"/>
+      <point x="169" y="1189" type="curve"/>
       <point x="190" y="1315" type="line"/>
-      <point x="243" y="1315"/>
-      <point x="328" y="1389"/>
-      <point x="336" y="1442" type="qcurve" smooth="yes"/>
-      <point x="344" y="1495"/>
-      <point x="282" y="1566"/>
-      <point x="231" y="1566" type="qcurve"/>
+      <point x="225" y="1315"/>
+      <point x="257" y="1327"/>
+      <point x="286" y="1352" type="curve" smooth="yes"/>
+      <point x="314" y="1377"/>
+      <point x="331" y="1407"/>
+      <point x="336" y="1442" type="curve" smooth="yes"/>
+      <point x="341" y="1477"/>
+      <point x="334" y="1507"/>
+      <point x="313" y="1531" type="curve" smooth="yes"/>
+      <point x="292" y="1554"/>
+      <point x="265" y="1566"/>
+      <point x="231" y="1566" type="curve"/>
       <point x="252" y="1692" type="line"/>
-      <point x="327" y="1692"/>
-      <point x="435" y="1623"/>
-      <point x="485" y="1508"/>
-      <point x="473" y="1440" type="qcurve" smooth="yes"/>
-      <point x="462" y="1372"/>
-      <point x="373" y="1258"/>
-      <point x="243" y="1189"/>
+      <point x="302" y="1692"/>
+      <point x="345" y="1681"/>
+      <point x="381" y="1658" type="curve" smooth="yes"/>
+      <point x="453" y="1612"/>
+      <point x="489" y="1531"/>
+      <point x="473" y="1440" type="curve" smooth="yes"/>
+      <point x="466" y="1395"/>
+      <point x="447" y="1353"/>
+      <point x="418" y="1315" type="curve" smooth="yes"/>
+      <point x="358" y="1239"/>
+      <point x="268" y="1189"/>
     </contour>
   </outline>
 </glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dngb_ballotx" format="2">
+  <advance width="1815"/>
+  <outline>
+    <component base="ballotx"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dngb_ballotx</string>
+  </dict>
+  </lib>
+</glyph>
