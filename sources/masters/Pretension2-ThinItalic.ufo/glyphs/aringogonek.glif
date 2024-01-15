@@ -2,13 +2,13 @@
 <glyph name="aringogonek" format="2">
   <advance width="1108"/>
   <unicode hex="EE04"/>
-  <anchor x="729" y="0" name="m.uni0326"/>
-  <anchor x="900" y="1242" name="m.uni030F_1"/>
-  <anchor x="1253" y="0" name="m.uni0328_4"/>
+  <anchor x="697" y="-0" name="m.uni0326"/>
+  <anchor x="868" y="1242" name="m.uni030F_1"/>
+  <anchor x="1221" y="-0" name="m.uni0328_4"/>
   <outline>
     <component base="a"/>
-    <component base="ringcomb" xOffset="249"/>
-    <component base="ogonekcomb" xOffset="600"/>
+    <component base="ringcomb" xOffset="277"/>
+    <component base="ogonekcomb" xOffset="568"/>
   </outline>
   <lib>
   <dict>

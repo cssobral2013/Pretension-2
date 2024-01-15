@@ -2,12 +2,12 @@
 <glyph name="abrevehoi" format="2">
   <advance width="1155"/>
   <unicode hex="1EB3"/>
-  <anchor x="722" y="0" name="m.uni0326"/>
-  <anchor x="1002" y="1664" name="m.uni030F_1"/>
-  <anchor x="1344" y="0" name="m.uni0328_4"/>
+  <anchor x="709" y="-0" name="m.uni0326"/>
+  <anchor x="989" y="1664" name="m.uni030F_1"/>
+  <anchor x="1331" y="-0" name="m.uni0328_4"/>
   <outline>
     <component base="a"/>
-    <component base="brevecomb_hookabovecomb" xOffset="153"/>
+    <component base="brevecomb_hookabovecomb" xOffset="140"/>
   </outline>
   <lib>
   <dict>

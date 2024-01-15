@@ -2483,6 +2483,7 @@
     <string>gecyr.loclBGR</string>
     <string>decyr.loclBGR</string>
     <string>zhecyr.loclBGR</string>
+    <string>zecyr.loclBGR</string>
     <string>icyr.loclBGR</string>
     <string>ishortcyr.loclBGR</string>
     <string>kacyr.loclBGR</string>
@@ -2605,6 +2606,8 @@
     <string>underscorecomb</string>
     <string>underscoredblcomb</string>
     <string>xsupcomb</string>
+    <string>dngb_ballotx</string>
+    <string>dngb_check</string>
     <string>acutedotcomb.cn</string>
     <string>breveacutecomb.cn</string>
     <string>brevegravecomb.cn</string>
@@ -2631,8 +2634,6 @@
     <string>tildedieresiscomb.uc</string>
     <string>crossbar.uc</string>
     <string>slashshort.uc</string>
-    <string>dngb_check</string>
-    <string>dngb_ballotx</string>
   </array>
 </dict>
 </plist>

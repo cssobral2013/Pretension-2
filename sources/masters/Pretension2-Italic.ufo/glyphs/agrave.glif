@@ -2,12 +2,12 @@
 <glyph name="agrave" format="2">
   <advance width="1155"/>
   <unicode hex="00E0"/>
-  <anchor x="722" y="0" name="m.uni0326"/>
-  <anchor x="996" y="1667" name="m.uni030F_1"/>
-  <anchor x="1344" y="0" name="m.uni0328_4"/>
+  <anchor x="709" y="-0" name="m.uni0326"/>
+  <anchor x="983" y="1667" name="m.uni030F_1"/>
+  <anchor x="1331" y="-0" name="m.uni0328_4"/>
   <outline>
     <component base="a"/>
-    <component base="gravecomb" xOffset="134"/>
+    <component base="gravecomb" xOffset="121"/>
   </outline>
   <lib>
   <dict>

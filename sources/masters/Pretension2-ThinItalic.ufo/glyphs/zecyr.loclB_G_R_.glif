@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zecyr.loclBGR" format="2">
+  <advance width="996"/>
+  <anchor x="764" y="1705" name="m.uni030F_1"/>
+  <anchor x="560" y="-9" name="m.uni0327_3"/>
+  <outline>
+    <contour>
+      <point x="365" y="-470" type="curve" smooth="yes"/>
+      <point x="215" y="-470"/>
+      <point x="52" y="-363"/>
+      <point x="52" y="-127" type="curve" smooth="yes"/>
+      <point x="52" y="-106"/>
+      <point x="53" y="-88"/>
+      <point x="55" y="-70" type="curve"/>
+      <point x="101" y="-70" type="line"/>
+      <point x="99" y="-84"/>
+      <point x="98" y="-102"/>
+      <point x="98" y="-121" type="curve" smooth="yes"/>
+      <point x="98" y="-330"/>
+      <point x="237" y="-423"/>
+      <point x="372" y="-423" type="curve" smooth="yes"/>
+      <point x="548" y="-423"/>
+      <point x="732" y="-261"/>
+      <point x="732" y="2" type="curve" smooth="yes"/>
+      <point x="732" y="232"/>
+      <point x="568" y="344"/>
+      <point x="425" y="344" type="curve" smooth="yes"/>
+      <point x="402" y="344" type="line"/>
+      <point x="407" y="389" type="line"/>
+      <point x="432" y="389" type="line" smooth="yes"/>
+      <point x="607" y="389"/>
+      <point x="788" y="535"/>
+      <point x="788" y="801" type="curve" smooth="yes"/>
+      <point x="788" y="994"/>
+      <point x="675" y="1087"/>
+      <point x="545" y="1087" type="curve" smooth="yes"/>
+      <point x="388" y="1087"/>
+      <point x="248" y="957"/>
+      <point x="221" y="736" type="curve"/>
+      <point x="174" y="736" type="line"/>
+      <point x="205" y="982"/>
+      <point x="380" y="1134"/>
+      <point x="553" y="1134" type="curve" smooth="yes"/>
+      <point x="694" y="1134"/>
+      <point x="835" y="1030"/>
+      <point x="835" y="811" type="curve" smooth="yes"/>
+      <point x="835" y="594"/>
+      <point x="709" y="431"/>
+      <point x="566" y="378" type="curve"/>
+      <point x="566" y="360" type="line"/>
+      <point x="681" y="324"/>
+      <point x="778" y="184"/>
+      <point x="778" y="11" type="curve" smooth="yes"/>
+      <point x="778" y="-222"/>
+      <point x="620" y="-470"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>zecyr</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>zecyr</string>
+  </dict>
+  </lib>
+</glyph>

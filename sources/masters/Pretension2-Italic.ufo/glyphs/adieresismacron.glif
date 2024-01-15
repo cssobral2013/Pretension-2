@@ -2,12 +2,12 @@
 <glyph name="adieresismacron" format="2">
   <advance width="1155"/>
   <unicode hex="01DF"/>
-  <anchor x="722" y="0" name="m.uni0326"/>
-  <anchor x="915" y="1180" name="m.uni030F_1"/>
-  <anchor x="1344" y="0" name="m.uni0328_4"/>
+  <anchor x="709" y="-0" name="m.uni0326"/>
+  <anchor x="902" y="1180" name="m.uni030F_1"/>
+  <anchor x="1331" y="-0" name="m.uni0328_4"/>
   <outline>
     <component base="a"/>
-    <component base="dieresismacroncomb.lc" xOffset="-52"/>
+    <component base="dieresismacroncomb.lc" xOffset="-65"/>
   </outline>
   <lib>
   <dict>

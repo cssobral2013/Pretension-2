@@ -2,12 +2,12 @@
 <glyph name="atilde" format="2">
   <advance width="1155"/>
   <unicode hex="00E3"/>
-  <anchor x="722" y="0" name="m.uni0326"/>
-  <anchor x="996" y="1639" name="m.uni030F_1"/>
-  <anchor x="1344" y="0" name="m.uni0328_4"/>
+  <anchor x="709" y="-0" name="m.uni0326"/>
+  <anchor x="983" y="1639" name="m.uni030F_1"/>
+  <anchor x="1331" y="-0" name="m.uni0328_4"/>
   <outline>
     <component base="a"/>
-    <component base="tildecomb" xOffset="20"/>
+    <component base="tildecomb" xOffset="30"/>
   </outline>
   <lib>
   <dict>

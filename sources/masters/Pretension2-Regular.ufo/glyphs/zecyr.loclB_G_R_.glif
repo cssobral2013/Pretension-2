@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zecyr.loclBGR" format="2">
+  <advance width="1048"/>
+  <anchor x="676" y="1180" name="m.uni030F_1"/>
+  <anchor x="676" y="-0" name="m.uni0327_3"/>
+  <outline>
+    <contour>
+      <point x="521" y="-441" type="curve" smooth="yes"/>
+      <point x="290" y="-441"/>
+      <point x="120" y="-274"/>
+      <point x="114" y="-39" type="curve"/>
+      <point x="297" y="-39" type="line"/>
+      <point x="304" y="-155"/>
+      <point x="413" y="-253"/>
+      <point x="521" y="-253" type="curve" smooth="yes"/>
+      <point x="660" y="-253"/>
+      <point x="746" y="-114"/>
+      <point x="746" y="19" type="curve" smooth="yes"/>
+      <point x="746" y="171"/>
+      <point x="647" y="267"/>
+      <point x="496" y="267" type="curve" smooth="yes"/>
+      <point x="424" y="267" type="line"/>
+      <point x="424" y="458" type="line"/>
+      <point x="496" y="458" type="line" smooth="yes"/>
+      <point x="631" y="458"/>
+      <point x="716" y="562"/>
+      <point x="716" y="692" type="curve" smooth="yes"/>
+      <point x="716" y="809"/>
+      <point x="656" y="954"/>
+      <point x="526" y="954" type="curve" smooth="yes"/>
+      <point x="406" y="954"/>
+      <point x="314" y="832"/>
+      <point x="312" y="712" type="curve"/>
+      <point x="139" y="712" type="line"/>
+      <point x="143" y="987"/>
+      <point x="336" y="1133"/>
+      <point x="525" y="1132" type="curve" smooth="yes"/>
+      <point x="710" y="1131"/>
+      <point x="891" y="989"/>
+      <point x="891" y="703" type="curve" smooth="yes"/>
+      <point x="891" y="562"/>
+      <point x="825" y="410"/>
+      <point x="678" y="371" type="curve"/>
+      <point x="678" y="364" type="line"/>
+      <point x="678" y="368" type="line"/>
+      <point x="860" y="330"/>
+      <point x="934" y="176"/>
+      <point x="934" y="2" type="curve" smooth="yes"/>
+      <point x="934" y="-238"/>
+      <point x="776" y="-441"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>zecyr</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>zecyr</string>
+  </dict>
+  </lib>
+</glyph>

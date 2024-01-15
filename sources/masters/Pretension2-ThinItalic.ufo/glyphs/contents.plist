@@ -5114,6 +5114,8 @@
   <string>zdotbelow.glif</string>
   <key>zecyr</key>
   <string>zecyr.glif</string>
+  <key>zecyr.loclBGR</key>
+  <string>zecyr.loclB_G_R_.glif</string>
   <key>zedieresiscyr</key>
   <string>zedieresiscyr.glif</string>
   <key>zero</key>

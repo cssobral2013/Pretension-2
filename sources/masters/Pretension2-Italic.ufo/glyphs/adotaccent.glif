@@ -2,12 +2,12 @@
 <glyph name="adotaccent" format="2">
   <advance width="1155"/>
   <unicode hex="0227"/>
-  <anchor x="722" y="0" name="m.uni0326"/>
-  <anchor x="999" y="1682" name="m.uni030F_1"/>
-  <anchor x="1344" y="0" name="m.uni0328_4"/>
+  <anchor x="709" y="-0" name="m.uni0326"/>
+  <anchor x="986" y="1682" name="m.uni030F_1"/>
+  <anchor x="1331" y="-0" name="m.uni0328_4"/>
   <outline>
     <component base="a"/>
-    <component base="dotaccentcomb" xOffset="300"/>
+    <component base="dotaccentcomb" xOffset="287"/>
   </outline>
   <lib>
   <dict>

@@ -45,8 +45,8 @@
 @frac = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
 @frac2 = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
 @frac_ordn = [zero one two three four five six seven eight nine];
-@loclBGR = [Kacyr Decyr Elcyr vecyr gecyr decyr zhecyr icyr ishortcyr kacyr elcyr pecyr tecyr tsecyr shacyr shchacyr];
-@loclBGR1 = [Kacyr.loclBGR Decyr.loclBGR Elcyr.loclBGR vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR];
+@loclBGR = [Kacyr Decyr Elcyr vecyr gecyr decyr zhecyr icyr ishortcyr kacyr elcyr pecyr tecyr tsecyr shacyr shchacyr zecyr];
+@loclBGR1 = [Kacyr.loclBGR Decyr.loclBGR Elcyr.loclBGR vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR zecyr.loclBGR];
 @mkmk = [gravecomb acutecomb circumflexcomb tildecomb macroncomb brevecomb dotaccentcomb dieresiscomb ringcomb caroncomb hookabovecomb dblgravecomb righthalfringabovecomb doublemacroncomb macronacutecomb asteriskabovecomb ringcomb.uc brevecomb_hookabovecomb macrongravecomb.lc];
 @numr = [i n zero one two three four five six seven eight nine one.ss01 three.ss01 four.ss01 six.ss01 nine.ss01 parenleft parenright equal plus minus];
 @numr2 = [i.numr n.numr zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr one.numr three.numr four.numr six.numr nine.numr parenleft.numr parenright.numr equal.numr plus.numr minus.numr];

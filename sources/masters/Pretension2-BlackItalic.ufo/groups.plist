@@ -7092,6 +7092,7 @@
     <string>tsecyr</string>
     <string>shacyr</string>
     <string>shchacyr</string>
+    <string>zecyr</string>
   </array>
   <key>loclBGR1</key>
   <array>
@@ -7111,6 +7112,7 @@
     <string>tsecyr.loclBGR</string>
     <string>shacyr.loclBGR</string>
     <string>shchacyr.loclBGR</string>
+    <string>zecyr.loclBGR</string>
   </array>
   <key>mkmk</key>
   <array>

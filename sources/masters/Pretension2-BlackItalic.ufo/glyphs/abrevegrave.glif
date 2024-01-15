@@ -2,12 +2,12 @@
 <glyph name="abrevegrave" format="2">
   <advance width="1210"/>
   <unicode hex="1EB1"/>
-  <anchor x="666" y="0" name="m.uni0326"/>
-  <anchor x="976" y="1897" name="m.uni030F_1"/>
-  <anchor x="1282" y="0" name="m.uni0328_4"/>
+  <anchor x="672" y="-0" name="m.uni0326"/>
+  <anchor x="982" y="1897" name="m.uni030F_1"/>
+  <anchor x="1288" y="-0" name="m.uni0328_4"/>
   <outline>
     <component base="a"/>
-    <component base="brevegravecomb.cn" xOffset="76"/>
+    <component base="brevegravecomb.cn" xOffset="82"/>
   </outline>
   <lib>
   <dict>

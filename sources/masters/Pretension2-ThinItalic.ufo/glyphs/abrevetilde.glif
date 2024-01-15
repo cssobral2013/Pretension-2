@@ -2,12 +2,12 @@
 <glyph name="abrevetilde" format="2">
   <advance width="1108"/>
   <unicode hex="1EB5"/>
-  <anchor x="729" y="0" name="m.uni0326"/>
-  <anchor x="1049" y="2141" name="m.uni030F_1"/>
-  <anchor x="1253" y="0" name="m.uni0328_4"/>
+  <anchor x="697" y="-0" name="m.uni0326"/>
+  <anchor x="1017" y="2141" name="m.uni030F_1"/>
+  <anchor x="1221" y="-0" name="m.uni0328_4"/>
   <outline>
     <component base="a"/>
-    <component base="brevetildecomb.cn" xOffset="127"/>
+    <component base="brevetildecomb.cn" xOffset="175"/>
   </outline>
   <lib>
   <dict>

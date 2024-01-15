@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kacyr.loclBGR" format="2">
-  <advance width="1242"/>
+  <advance width="1266"/>
+  <anchor x="829" y="1118" name="m.uni030F_1"/>
   <outline>
     <contour>
-      <point x="413" y="264" type="line"/>
-      <point x="492" y="742" type="line"/>
-      <point x="548" y="742" type="line"/>
-      <point x="880" y="1118" type="line"/>
-      <point x="1332" y="1118" type="line"/>
-      <point x="781" y="532" type="line"/>
-      <point x="667" y="532" type="line"/>
-    </contour>
-    <contour>
-      <point x="9" y="0" type="line"/>
+      <point x="16" y="0" type="line"/>
       <point x="256" y="1490" type="line"/>
       <point x="658" y="1490" type="line"/>
-      <point x="411" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="699" y="0" type="line"/>
-      <point x="516" y="442" type="line"/>
-      <point x="826" y="728" type="line"/>
-      <point x="1157" y="0" type="line"/>
+      <point x="532" y="686" type="line"/>
+      <point x="594" y="686" type="line"/>
+      <point x="911" y="1118" type="line"/>
+      <point x="1371" y="1118" type="line"/>
+      <point x="919" y="552" type="line"/>
+      <point x="1188" y="0" type="line"/>
+      <point x="722" y="0" type="line"/>
+      <point x="564" y="386" type="line"/>
+      <point x="482" y="386" type="line"/>
+      <point x="418" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>kacyr</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>kacyr</string>
+  </dict>
+  </lib>
 </glyph>
