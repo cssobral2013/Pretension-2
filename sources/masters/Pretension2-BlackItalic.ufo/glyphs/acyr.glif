@@ -2,9 +2,9 @@
 <glyph name="acyr" format="2">
   <advance width="1210"/>
   <unicode hex="0430"/>
-  <anchor x="672" y="-0" name="m.uni0326"/>
+  <anchor x="672" y="0" name="m.uni0326"/>
   <anchor x="853" y="1180" name="m.uni030F_1"/>
-  <anchor x="1288" y="-0" name="m.uni0328_4"/>
+  <anchor x="1288" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="a"/>
   </outline>

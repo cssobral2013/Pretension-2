@@ -2,9 +2,9 @@
 <glyph name="adotbelow" format="2">
   <advance width="1155"/>
   <unicode hex="1EA1"/>
-  <anchor x="709" y="-0" name="m.uni0326"/>
+  <anchor x="709" y="0" name="m.uni0326"/>
   <anchor x="902" y="1180" name="m.uni030F_1"/>
-  <anchor x="1331" y="-0" name="m.uni0328_4"/>
+  <anchor x="1331" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="a"/>
     <component base="dotaccentcomb" xOffset="79" yOffset="-1722"/>

@@ -2,9 +2,9 @@
 <glyph name="adotmacron" format="2">
   <advance width="1108"/>
   <unicode hex="01E1"/>
-  <anchor x="697" y="-0" name="m.uni0326"/>
+  <anchor x="697" y="0" name="m.uni0326"/>
   <anchor x="868" y="1242" name="m.uni030F_1"/>
-  <anchor x="1221" y="-0" name="m.uni0328_4"/>
+  <anchor x="1221" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="a"/>
     <component base="dotmacron.lc" xOffset="312"/>

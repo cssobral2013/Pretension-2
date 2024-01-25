@@ -2,9 +2,9 @@
 <glyph name="abrevehoi" format="2">
   <advance width="1210"/>
   <unicode hex="1EB3"/>
-  <anchor x="672" y="-0" name="m.uni0326"/>
+  <anchor x="672" y="0" name="m.uni0326"/>
   <anchor x="934" y="1598" name="m.uni030F_1"/>
-  <anchor x="1288" y="-0" name="m.uni0328_4"/>
+  <anchor x="1288" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="a"/>
     <component base="brevecomb_hookabovecomb" xOffset="102"/>

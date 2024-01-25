@@ -2,9 +2,9 @@
 <glyph name="acircumflexgrave" format="2">
   <advance width="1155"/>
   <unicode hex="1EA7"/>
-  <anchor x="709" y="-0" name="m.uni0326"/>
+  <anchor x="709" y="0" name="m.uni0326"/>
   <anchor x="1052" y="2084" name="m.uni030F_1"/>
-  <anchor x="1331" y="-0" name="m.uni0328_4"/>
+  <anchor x="1331" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="a"/>
     <component base="circumflexgravecomb.cn" xOffset="89"/>

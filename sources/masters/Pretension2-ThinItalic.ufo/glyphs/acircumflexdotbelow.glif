@@ -2,9 +2,9 @@
 <glyph name="acircumflexdotbelow" format="2">
   <advance width="1108"/>
   <unicode hex="1EAD"/>
-  <anchor x="697" y="-0" name="m.uni0326"/>
+  <anchor x="697" y="0" name="m.uni0326"/>
   <anchor x="955" y="1765" name="m.uni030F_1"/>
-  <anchor x="1221" y="-0" name="m.uni0328_4"/>
+  <anchor x="1221" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="a"/>
     <component base="circumflexcomb" xOffset="75"/>

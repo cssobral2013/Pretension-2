@@ -2,9 +2,9 @@
 <glyph name="ainvertedbreve" format="2">
   <advance width="1155"/>
   <unicode hex="0203"/>
-  <anchor x="709" y="-0" name="m.uni0326"/>
+  <anchor x="709" y="0" name="m.uni0326"/>
   <anchor x="990" y="1704" name="m.uni030F_1"/>
-  <anchor x="1331" y="-0" name="m.uni0328_4"/>
+  <anchor x="1331" y="0" name="m.uni0328_4"/>
   <outline>
     <component base="a"/>
     <component base="breveinvcomb" xOffset="114"/>

@@ -2,7 +2,7 @@
 <glyph name="zecyr.loclBGR" format="2">
   <advance width="1048"/>
   <anchor x="676" y="1180" name="m.uni030F_1"/>
-  <anchor x="676" y="-0" name="m.uni0327_3"/>
+  <anchor x="676" y="0" name="m.uni0327_3"/>
   <outline>
     <contour>
       <point x="521" y="-441" type="curve" smooth="yes"/>
