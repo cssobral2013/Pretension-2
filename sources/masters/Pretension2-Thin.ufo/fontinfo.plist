@@ -82,7 +82,7 @@ Copyright (c) 2023 The Pretendard Project Authors
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Thin</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.053</string>
+  <string>Version 3.054</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -218,7 +218,7 @@ Copyright (c) 2023 The Pretendard Project Authors
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>53</integer>
+  <integer>54</integer>
   <key>xHeight</key>
   <integer>1118</integer>
 </dict>

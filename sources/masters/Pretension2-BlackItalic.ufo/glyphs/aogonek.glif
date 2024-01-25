@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aogonek" format="2">
-  <advance width="1210"/>
+  <advance width="1222"/>
   <unicode hex="0105"/>
   <anchor x="672" y="0" name="m.uni0326"/>
   <anchor x="853" y="1118" name="m.uni030F_1"/>

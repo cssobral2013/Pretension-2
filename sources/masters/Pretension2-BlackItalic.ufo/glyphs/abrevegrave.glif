@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abrevegrave" format="2">
-  <advance width="1210"/>
+  <advance width="1222"/>
   <unicode hex="1EB1"/>
   <anchor x="672" y="0" name="m.uni0326"/>
   <anchor x="982" y="1897" name="m.uni030F_1"/>

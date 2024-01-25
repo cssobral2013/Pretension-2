@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="adotaccent" format="2">
-  <advance width="1155"/>
+  <advance width="1142"/>
   <unicode hex="0227"/>
   <anchor x="709" y="0" name="m.uni0326"/>
   <anchor x="986" y="1682" name="m.uni030F_1"/>

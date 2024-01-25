@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aringacute" format="2">
-  <advance width="1108"/>
+  <advance width="1076"/>
   <unicode hex="01FB"/>
   <anchor x="697" y="0" name="m.uni0326"/>
   <anchor x="868" y="1242" name="m.uni030F_1"/>

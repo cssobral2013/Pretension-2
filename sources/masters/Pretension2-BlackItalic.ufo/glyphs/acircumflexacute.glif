@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acircumflexacute" format="2">
-  <advance width="1210"/>
+  <advance width="1222"/>
   <unicode hex="1EA5"/>
   <anchor x="672" y="0" name="m.uni0326"/>
   <anchor x="992" y="1959" name="m.uni030F_1"/>

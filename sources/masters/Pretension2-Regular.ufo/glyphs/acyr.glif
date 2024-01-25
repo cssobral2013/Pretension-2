@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acyr" format="2">
-  <advance width="1150"/>
+  <advance width="1142"/>
   <unicode hex="0430"/>
   <anchor x="701" y="0" name="m.uni0326"/>
   <anchor x="738" y="1180" name="m.uni030F_1"/>
@@ -8,4 +8,12 @@
   <outline>
     <component base="a"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>a</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>a</string>
+  </dict>
+  </lib>
 </glyph>

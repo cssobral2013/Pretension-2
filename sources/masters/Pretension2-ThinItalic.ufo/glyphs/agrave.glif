@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="agrave" format="2">
-  <advance width="1108"/>
+  <advance width="1076"/>
   <unicode hex="00E0"/>
   <anchor x="697" y="0" name="m.uni0326"/>
   <anchor x="946" y="1734" name="m.uni030F_1"/>

@@ -77,10 +77,10 @@
       <point x="898" y="680" type="line"/>
       <point x="887" y="695"/>
       <point x="872" y="708"/>
-      <point x="855" y="719" type="curve"/>
+      <point x="855" y="719" type="curve" smooth="yes"/>
       <point x="838" y="729"/>
       <point x="818" y="737"/>
-      <point x="797" y="743" type="curve"/>
+      <point x="797" y="743" type="curve" smooth="yes"/>
       <point x="776" y="748"/>
       <point x="753" y="751"/>
     </contour>
