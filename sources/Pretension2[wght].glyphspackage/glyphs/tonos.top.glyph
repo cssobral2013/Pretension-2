@@ -1,0 +1,50 @@
+{
+glyphname = tonos.top;
+layers = (
+{
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(256,1256,l),
+(288,1582,l),
+(624,1582,l),
+(480,1256,l)
+);
+}
+);
+width = 822;
+},
+{
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+closed = 1;
+nodes = (
+(162,1264,l),
+(196,1558,l),
+(389,1558,l),
+(287,1264,l)
+);
+}
+);
+width = 553;
+},
+{
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(120,1283,l),
+(158,1557,l),
+(207,1557,l),
+(156,1283,l)
+);
+}
+);
+width = 326;
+}
+);
+}

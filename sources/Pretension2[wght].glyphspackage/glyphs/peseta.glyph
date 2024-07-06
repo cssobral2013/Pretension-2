@@ -1,0 +1,83 @@
+{
+glyphname = peseta;
+layers = (
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{1986, 0}";
+},
+{
+name = m.uni0327_3;
+position = "{2067, 0}";
+}
+);
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+alignment = -1;
+ref = P;
+},
+{
+alignment = -1;
+pos = (1344,0);
+ref = t;
+}
+);
+width = 2162;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{2172, 0}";
+},
+{
+name = m.uni0327_3;
+position = "{2293, 0}";
+}
+);
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+alignment = -1;
+ref = P;
+},
+{
+alignment = -1;
+pos = (1308,0);
+ref = t;
+}
+);
+width = 1978;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{1934, 0}";
+},
+{
+name = m.uni0327_3;
+position = "{2020, 0}";
+}
+);
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+alignment = -1;
+ref = P;
+},
+{
+alignment = -1;
+pos = (1162,0);
+ref = t;
+}
+);
+width = 1654;
+}
+);
+leftKerningGroup = B2;
+rightKerningGroup = t;
+unicode = 8359;
+}

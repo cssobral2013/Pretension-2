@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="acutesubcomb" format="2">
-  <advance width="33"/>
-  <outline>
-    <component base="acutecomb" xOffset="-1223" yOffset="-1606"/>
-  </outline>
-</glyph>

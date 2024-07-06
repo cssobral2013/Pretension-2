@@ -1,0 +1,39 @@
+{
+glyphname = vinferior;
+layers = (
+{
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+alignment = -1;
+pos = (0,-1000);
+ref = vmod;
+}
+);
+width = 832;
+},
+{
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+alignment = -1;
+pos = (0,-1000);
+ref = vmod;
+}
+);
+width = 781;
+},
+{
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+alignment = -1;
+pos = (0,-1000);
+ref = vmod;
+}
+);
+width = 722;
+}
+);
+unicode = 7525;
+}

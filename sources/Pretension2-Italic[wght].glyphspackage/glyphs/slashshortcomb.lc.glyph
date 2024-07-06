@@ -1,0 +1,50 @@
+{
+glyphname = slashshortcomb.lc;
+layers = (
+{
+layerId = "0C8A2A23-4AE2-454C-AEC2-B13207615F2B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-15,466,l),
+(33,754,l),
+(747,1130,l),
+(699,842,l)
+);
+}
+);
+width = 652;
+},
+{
+layerId = "70700972-0F8E-4D63-A70C-6AC279DB2638";
+shapes = (
+{
+closed = 1;
+nodes = (
+(20,665,l),
+(46,826,l),
+(614,1126,l),
+(588,965,l)
+);
+}
+);
+width = 521;
+},
+{
+layerId = "70E6EC48-9A24-4AD5-9BFE-11FF46F6DBD6";
+shapes = (
+{
+closed = 1;
+nodes = (
+(49,855,l),
+(57,904,l),
+(475,1126,l),
+(467,1077,l)
+);
+}
+);
+width = 381;
+}
+);
+}

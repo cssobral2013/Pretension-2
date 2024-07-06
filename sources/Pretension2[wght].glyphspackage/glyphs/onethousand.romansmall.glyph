@@ -1,0 +1,66 @@
+{
+glyphname = onethousand.romansmall;
+layers = (
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{1051, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{1050, 1118}";
+}
+);
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+alignment = -1;
+ref = m;
+}
+);
+width = 1932;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{1088, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{1086, 1180}";
+}
+);
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+alignment = -1;
+ref = m;
+}
+);
+width = 1794;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{1080, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{1076, 1242}";
+}
+);
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+alignment = -1;
+ref = m;
+}
+);
+width = 1774;
+}
+);
+unicode = 8575;
+}

@@ -1,0 +1,54 @@
+{
+glyphname = colonraisedmod;
+layers = (
+{
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+alignment = -1;
+pos = (40,372);
+ref = period;
+},
+{
+alignment = -1;
+pos = (8,1178);
+ref = period;
+}
+);
+width = 704;
+},
+{
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+alignment = -1;
+pos = (-104,402);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-104,1278);
+ref = period;
+}
+);
+width = 360;
+},
+{
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+alignment = -1;
+pos = (-192,418);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-174,1338);
+ref = period;
+}
+);
+width = 154;
+}
+);
+unicode = 760;
+}

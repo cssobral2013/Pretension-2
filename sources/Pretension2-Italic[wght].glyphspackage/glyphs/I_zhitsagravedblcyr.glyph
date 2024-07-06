@@ -1,0 +1,69 @@
+{
+glyphname = Izhitsagravedblcyr;
+layers = (
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{1152, 1971}";
+}
+);
+layerId = "0C8A2A23-4AE2-454C-AEC2-B13207615F2B";
+shapes = (
+{
+alignment = -1;
+ref = Izhitsacyr;
+},
+{
+alignment = -1;
+pos = (140,372);
+ref = dblgravecomb;
+}
+);
+width = 1646;
+},
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{1186, 1977}";
+}
+);
+layerId = "70700972-0F8E-4D63-A70C-6AC279DB2638";
+shapes = (
+{
+alignment = -1;
+ref = Izhitsacyr;
+},
+{
+alignment = -1;
+pos = (176,372);
+ref = dblgravecomb;
+}
+);
+width = 1442;
+},
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{1096, 1982}";
+}
+);
+layerId = "70E6EC48-9A24-4AD5-9BFE-11FF46F6DBD6";
+shapes = (
+{
+alignment = -1;
+ref = Izhitsacyr;
+},
+{
+alignment = -1;
+pos = (207,372);
+ref = dblgravecomb;
+}
+);
+width = 1328;
+}
+);
+unicode = 1142;
+}

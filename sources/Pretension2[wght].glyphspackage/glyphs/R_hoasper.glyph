@@ -1,0 +1,72 @@
+{
+glyphname = Rhoasper;
+layers = (
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{1251, 1490}";
+}
+);
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+alignment = -1;
+pos = (471,0);
+ref = P;
+},
+{
+alignment = -1;
+pos = (-24,-105);
+ref = asper;
+}
+);
+width = 1815;
+},
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{1343, 1490}";
+}
+);
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+alignment = -1;
+pos = (387,0);
+ref = P;
+},
+{
+alignment = -1;
+pos = (18,-68);
+ref = asper;
+}
+);
+width = 1695;
+},
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{1292, 1490}";
+}
+);
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+alignment = -1;
+pos = (332,0);
+ref = P;
+},
+{
+alignment = -1;
+pos = (48,-67);
+ref = asper;
+}
+);
+width = 1574;
+}
+);
+unicode = 8172;
+}

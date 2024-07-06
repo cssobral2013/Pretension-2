@@ -1,0 +1,51 @@
+{
+glyphname = lcomb;
+layers = (
+{
+layerId = "0C8A2A23-4AE2-454C-AEC2-B13207615F2B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-526,1990,l),
+(-344,1990,l),
+(-472,1202,l),
+(-654,1202,l)
+);
+}
+);
+width = 0;
+},
+{
+layerId = "70700972-0F8E-4D63-A70C-6AC279DB2638";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-416,1992,l),
+(-284,1992,l),
+(-414,1202,l),
+(-546,1202,l)
+);
+}
+);
+width = 0;
+},
+{
+layerId = "70E6EC48-9A24-4AD5-9BFE-11FF46F6DBD6";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-322,1996,l),
+(-276,1996,l),
+(-410,1202,l),
+(-456,1202,l)
+);
+}
+);
+width = 0;
+}
+);
+unicode = 7645;
+}

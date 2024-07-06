@@ -1,0 +1,83 @@
+{
+glyphname = Wgrave;
+layers = (
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{1198, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{1198, 1971}";
+}
+);
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+alignment = -1;
+ref = W;
+},
+{
+alignment = -1;
+pos = (590,372);
+ref = gravecomb;
+}
+);
+width = 2216;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{1235, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{1235, 1977}";
+}
+);
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+alignment = -1;
+ref = W;
+},
+{
+alignment = -1;
+pos = (595,372);
+ref = gravecomb;
+}
+);
+width = 2018;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{1147, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{1143, 1982}";
+}
+);
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+alignment = -1;
+ref = W;
+},
+{
+alignment = -1;
+pos = (586,372);
+ref = gravecomb;
+}
+);
+width = 1902;
+}
+);
+leftKerningGroup = W2;
+rightKerningGroup = W;
+unicode = 7808;
+}

@@ -1,0 +1,66 @@
+{
+glyphname = Tonefive;
+rightMetricsKey = "=141";
+layers = (
+{
+layerId = "0C8A2A23-4AE2-454C-AEC2-B13207615F2B";
+rightMetricsKey = "=81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(154,1166,l),
+(208,1490,l),
+(530,1490,l),
+(476,1166,l)
+);
+},
+{
+alignment = -1;
+ref = five;
+}
+);
+width = 1375;
+},
+{
+layerId = "70700972-0F8E-4D63-A70C-6AC279DB2638";
+shapes = (
+{
+closed = 1;
+nodes = (
+(145,1330,l),
+(172,1490,l),
+(488,1490,l),
+(461,1330,l)
+);
+},
+{
+alignment = -1;
+ref = five;
+}
+);
+width = 1252;
+},
+{
+layerId = "70E6EC48-9A24-4AD5-9BFE-11FF46F6DBD6";
+rightMetricsKey = "=177";
+shapes = (
+{
+closed = 1;
+nodes = (
+(251,1444,l),
+(259,1490,l),
+(467,1490,l),
+(459,1444,l)
+);
+},
+{
+alignment = -1;
+ref = five;
+}
+);
+width = 1185;
+}
+);
+unicode = 444;
+}

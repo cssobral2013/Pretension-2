@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="arrowheadrightabovecomb" format="2">
-  <unicode hex="0350"/>
-  <outline>
-    <component base="arrowheadrightmod" xOffset="-974" yOffset="666"/>
-  </outline>
-</glyph>

@@ -1,0 +1,53 @@
+{
+glyphname = LLwelsh;
+layers = (
+{
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+alignment = -1;
+pos = (96,0);
+ref = L;
+},
+{
+alignment = -1;
+pos = (634,0);
+ref = L;
+}
+);
+width = 2138;
+},
+{
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (398,0);
+ref = L;
+}
+);
+width = 1550;
+},
+{
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+alignment = -1;
+pos = (-58,0);
+ref = L;
+},
+{
+alignment = -1;
+pos = (258,0);
+ref = L;
+}
+);
+width = 1198;
+}
+);
+unicode = 7930;
+}

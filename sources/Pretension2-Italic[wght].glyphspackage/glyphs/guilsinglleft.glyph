@@ -1,0 +1,59 @@
+{
+glyphname = guilsinglleft;
+layers = (
+{
+layerId = "0C8A2A23-4AE2-454C-AEC2-B13207615F2B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(412,144,l),
+(89,616,l),
+(568,1088,l),
+(982,1088,l),
+(510,616,l),
+(826,144,l)
+);
+}
+);
+width = 965;
+},
+{
+layerId = "70700972-0F8E-4D63-A70C-6AC279DB2638";
+shapes = (
+{
+closed = 1;
+nodes = (
+(432,144,l),
+(109,616,l),
+(588,1088,l),
+(794,1088,l),
+(322,616,l),
+(638,144,l)
+);
+}
+);
+width = 787;
+},
+{
+layerId = "70E6EC48-9A24-4AD5-9BFE-11FF46F6DBD6";
+shapes = (
+{
+closed = 1;
+nodes = (
+(432,144,l),
+(109,616,l),
+(588,1088,l),
+(645,1088,l),
+(170,616,l),
+(489,144,l)
+);
+}
+);
+width = 658;
+}
+);
+leftKerningGroup = guilsinglleft2;
+rightKerningGroup = guilsinglleft;
+unicode = 8249;
+}

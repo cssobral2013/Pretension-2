@@ -1,0 +1,84 @@
+{
+glyphname = fourdotsabovecomb;
+layers = (
+{
+layerId = "0C8A2A23-4AE2-454C-AEC2-B13207615F2B";
+shapes = (
+{
+alignment = -1;
+pos = (-1842,1300);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-1330,1300);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-818,1300);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-306,1300);
+ref = period;
+}
+);
+width = 0;
+},
+{
+layerId = "70700972-0F8E-4D63-A70C-6AC279DB2638";
+shapes = (
+{
+alignment = -1;
+pos = (-1346,1300);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-964,1300);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-582,1300);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-200,1300);
+ref = period;
+}
+);
+width = 0;
+},
+{
+layerId = "70E6EC48-9A24-4AD5-9BFE-11FF46F6DBD6";
+shapes = (
+{
+alignment = -1;
+pos = (-1154,1300);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-802,1300);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-450,1300);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-98,1300);
+ref = period;
+}
+);
+width = 0;
+}
+);
+unicode = 8412;
+}

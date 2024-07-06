@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="two.numr" format="2">
-  <advance width="760"/>
-  <unicode hex="E0DE"/>
-  <outline>
-    <component base="two.dnom" yOffset="698"/>
-  </outline>
-</glyph>

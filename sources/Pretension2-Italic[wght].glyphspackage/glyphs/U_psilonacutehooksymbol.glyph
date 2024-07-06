@@ -1,0 +1,72 @@
+{
+glyphname = Upsilonacutehooksymbol;
+layers = (
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{1654, 1490}";
+}
+);
+layerId = "0C8A2A23-4AE2-454C-AEC2-B13207615F2B";
+shapes = (
+{
+alignment = -1;
+pos = (512,0);
+ref = Upsilonhooksymbol;
+},
+{
+alignment = -1;
+pos = (-215,-92);
+ref = tonos.top;
+}
+);
+width = 2018;
+},
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{1750, 1490}";
+}
+);
+layerId = "70700972-0F8E-4D63-A70C-6AC279DB2638";
+shapes = (
+{
+alignment = -1;
+pos = (363,0);
+ref = Upsilonhooksymbol;
+},
+{
+alignment = -1;
+pos = (-74,-68);
+ref = tonos.top;
+}
+);
+width = 1726;
+},
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{1437, 1490}";
+}
+);
+layerId = "70E6EC48-9A24-4AD5-9BFE-11FF46F6DBD6";
+shapes = (
+{
+alignment = -1;
+pos = (240,0);
+ref = Upsilonhooksymbol;
+},
+{
+alignment = -1;
+pos = (-3,-67);
+ref = tonos.top;
+}
+);
+width = 1522;
+}
+);
+unicode = 979;
+}

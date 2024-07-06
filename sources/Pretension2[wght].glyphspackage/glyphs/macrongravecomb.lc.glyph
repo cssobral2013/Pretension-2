@@ -1,0 +1,107 @@
+{
+glyphname = macrongravecomb.lc;
+layers = (
+{
+anchors = (
+{
+name = _m.uni030F_1;
+position = "{384, 1118}";
+},
+{
+name = _t.uni030F;
+position = "{384, 1118}";
+}
+);
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(716,1508,l),
+(716,1276,l),
+(116,1276,l),
+(116,1508,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(327,1632,l),
+(153,1893,l),
+(428,1893,l),
+(539,1632,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _m.uni030F_1;
+position = "{456, 1180}";
+},
+{
+name = _t.uni030F;
+position = "{456, 1180}";
+}
+);
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+closed = 1;
+nodes = (
+(766,1463,l),
+(766,1321,l),
+(212,1321,l),
+(212,1463,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(423,1615,l),
+(230,1891,l),
+(431,1891,l),
+(571,1615,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _m.uni030F_1;
+position = "{408, 1242}";
+},
+{
+name = _t.uni030F;
+position = "{408, 1242}";
+}
+);
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(633,1415,l),
+(633,1369,l),
+(167,1369,l),
+(167,1415,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(383,1616,l),
+(216,1890,l),
+(276,1890,l),
+(429,1616,l)
+);
+}
+);
+width = 0;
+}
+);
+}

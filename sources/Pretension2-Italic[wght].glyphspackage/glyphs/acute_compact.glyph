@@ -1,0 +1,68 @@
+{
+glyphname = acute_compact;
+layers = (
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{525, 1574}";
+}
+);
+layerId = "0C8A2A23-4AE2-454C-AEC2-B13207615F2B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(285,1256,l),
+(477,1582,l),
+(821,1582,l),
+(549,1256,l)
+);
+}
+);
+width = 822;
+},
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{610, 1617}";
+}
+);
+layerId = "70700972-0F8E-4D63-A70C-6AC279DB2638";
+shapes = (
+{
+closed = 1;
+nodes = (
+(280,1282,l),
+(466,1558,l),
+(667,1558,l),
+(427,1282,l)
+);
+}
+);
+width = 662;
+},
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{630, 1659}";
+}
+);
+layerId = "70E6EC48-9A24-4AD5-9BFE-11FF46F6DBD6";
+shapes = (
+{
+closed = 1;
+nodes = (
+(300,1283,l),
+(499,1557,l),
+(559,1557,l),
+(346,1283,l)
+);
+}
+);
+width = 574;
+}
+);
+}

@@ -1,0 +1,69 @@
+{
+glyphname = Gehookcyr;
+layers = (
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{814, 1490}";
+}
+);
+layerId = "0C8A2A23-4AE2-454C-AEC2-B13207615F2B";
+shapes = (
+{
+alignment = -1;
+ref = Gamma;
+},
+{
+alignment = -1;
+pos = (232,0);
+ref = largerighthook;
+}
+);
+width = 1381;
+},
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{844, 1490}";
+}
+);
+layerId = "70700972-0F8E-4D63-A70C-6AC279DB2638";
+shapes = (
+{
+alignment = -1;
+ref = Gamma;
+},
+{
+alignment = -1;
+pos = (212,0);
+ref = largerighthook;
+}
+);
+width = 1336;
+},
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{838, 1490}";
+}
+);
+layerId = "70E6EC48-9A24-4AD5-9BFE-11FF46F6DBD6";
+shapes = (
+{
+alignment = -1;
+ref = Gamma;
+},
+{
+alignment = -1;
+pos = (174,0);
+ref = largerighthook;
+}
+);
+width = 1411;
+}
+);
+unicode = 1172;
+}

@@ -1,0 +1,50 @@
+{
+glyphname = downArrowToBar.squared;
+layers = (
+{
+layerId = "0C8A2A23-4AE2-454C-AEC2-B13207615F2B";
+shapes = (
+{
+alignment = -1;
+ref = whiteLargeSquare;
+},
+{
+alignment = -1;
+pos = (437,0);
+ref = downArrowToBar;
+}
+);
+width = 2828;
+},
+{
+layerId = "70700972-0F8E-4D63-A70C-6AC279DB2638";
+shapes = (
+{
+alignment = -1;
+ref = whiteLargeSquare;
+},
+{
+alignment = -1;
+pos = (437,0);
+ref = downArrowToBar;
+}
+);
+width = 2828;
+},
+{
+layerId = "70E6EC48-9A24-4AD5-9BFE-11FF46F6DBD6";
+shapes = (
+{
+alignment = -1;
+ref = whiteLargeSquare;
+},
+{
+alignment = -1;
+pos = (437,0);
+ref = downArrowToBar;
+}
+);
+width = 2828;
+}
+);
+}

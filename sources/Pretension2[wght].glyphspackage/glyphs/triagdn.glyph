@@ -1,0 +1,48 @@
+{
+glyphname = triagdn;
+layers = (
+{
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(122,1490,l),
+(2078,1490,l),
+(1100,-94,l)
+);
+}
+);
+width = 2200;
+},
+{
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+closed = 1;
+nodes = (
+(102,1490,l),
+(1968,1490,l),
+(1034,-94,l)
+);
+}
+);
+width = 2070;
+},
+{
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(90,1490,l),
+(1896,1490,l),
+(992,-94,l)
+);
+}
+);
+width = 1986;
+}
+);
+unicode = 9660;
+}

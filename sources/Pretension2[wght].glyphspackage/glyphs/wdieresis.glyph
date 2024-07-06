@@ -1,0 +1,82 @@
+{
+glyphname = wdieresis;
+layers = (
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{1014, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{1022, 1629}";
+}
+);
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+alignment = -1;
+ref = w;
+},
+{
+alignment = -1;
+pos = (231,0);
+ref = dieresiscomb;
+}
+);
+width = 1796;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{1082, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{1090, 1677}";
+}
+);
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+alignment = -1;
+ref = w;
+},
+{
+alignment = -1;
+pos = (233,0);
+ref = dieresiscomb;
+}
+);
+width = 1676;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{1109, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{1117, 1589}";
+}
+);
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+alignment = -1;
+ref = w;
+},
+{
+alignment = -1;
+pos = (246,0);
+ref = dieresiscomb;
+}
+);
+width = 1656;
+}
+);
+rightKerningGroup = w;
+unicode = 7813;
+}

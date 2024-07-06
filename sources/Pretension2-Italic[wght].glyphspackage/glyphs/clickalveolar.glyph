@@ -1,0 +1,69 @@
+{
+glyphname = clickalveolar;
+layers = (
+{
+layerId = "0C8A2A23-4AE2-454C-AEC2-B13207615F2B";
+shapes = (
+{
+alignment = -1;
+pos = (-29,0);
+ref = clickdental;
+},
+{
+alignment = -1;
+pos = (-191,167);
+ref = crossbar;
+},
+{
+alignment = -1;
+pos = (-267,-295);
+ref = crossbar;
+}
+);
+width = 606;
+},
+{
+layerId = "70700972-0F8E-4D63-A70C-6AC279DB2638";
+shapes = (
+{
+alignment = -1;
+pos = (-29,0);
+ref = clickdental;
+},
+{
+alignment = -1;
+pos = (-172,276);
+ref = crossbar;
+},
+{
+alignment = -1;
+pos = (-254,-218);
+ref = crossbar;
+}
+);
+width = 496;
+},
+{
+layerId = "70E6EC48-9A24-4AD5-9BFE-11FF46F6DBD6";
+shapes = (
+{
+alignment = -1;
+pos = (32,0);
+ref = clickdental;
+},
+{
+alignment = -1;
+pos = (-152,296);
+ref = crossbar;
+},
+{
+alignment = -1;
+pos = (-240,-230);
+ref = crossbar;
+}
+);
+width = 444;
+}
+);
+unicode = 450;
+}

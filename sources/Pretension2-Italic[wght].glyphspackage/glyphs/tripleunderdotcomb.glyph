@@ -1,0 +1,69 @@
+{
+glyphname = tripleunderdotcomb;
+layers = (
+{
+layerId = "0C8A2A23-4AE2-454C-AEC2-B13207615F2B";
+shapes = (
+{
+alignment = -1;
+pos = (-1586,-500);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-1012,-500);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-542,-500);
+ref = period;
+}
+);
+width = 0;
+},
+{
+layerId = "70700972-0F8E-4D63-A70C-6AC279DB2638";
+shapes = (
+{
+alignment = -1;
+pos = (-1300,-500);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-856,-500);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-436,-500);
+ref = period;
+}
+);
+width = 0;
+},
+{
+layerId = "70E6EC48-9A24-4AD5-9BFE-11FF46F6DBD6";
+shapes = (
+{
+alignment = -1;
+pos = (-1128,-500);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-766,-500);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-376,-500);
+ref = period;
+}
+);
+width = 0;
+}
+);
+unicode = 8424;
+}

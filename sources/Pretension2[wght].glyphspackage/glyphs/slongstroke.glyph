@@ -1,0 +1,80 @@
+{
+glyphname = slongstroke;
+layers = (
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{467, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{501, 1552}";
+}
+);
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+alignment = -1;
+ref = _part.f_base;
+},
+{
+alignment = -1;
+pos = (58,0);
+ref = slashshortcomb.lc;
+}
+);
+width = 840;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{504, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{537, 1614}";
+}
+);
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+alignment = -1;
+ref = _part.f_base;
+},
+{
+alignment = -1;
+pos = (63,0);
+ref = slashshortcomb.lc;
+}
+);
+width = 746;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{504, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{555, 1676}";
+}
+);
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+alignment = -1;
+ref = _part.f_base;
+},
+{
+alignment = -1;
+pos = (126,0);
+ref = slashshortcomb.lc;
+}
+);
+width = 678;
+}
+);
+}

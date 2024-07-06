@@ -1,0 +1,54 @@
+{
+glyphname = clicklateral;
+layers = (
+{
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+alignment = -1;
+pos = (-18,0);
+ref = clickdental;
+},
+{
+alignment = -1;
+pos = (250,0);
+ref = clickdental;
+}
+);
+width = 856;
+},
+{
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+alignment = -1;
+pos = (-56,0);
+ref = clickdental;
+},
+{
+alignment = -1;
+pos = (216,0);
+ref = clickdental;
+}
+);
+width = 734;
+},
+{
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+alignment = -1;
+pos = (-78,0);
+ref = clickdental;
+},
+{
+alignment = -1;
+pos = (194,0);
+ref = clickdental;
+}
+);
+width = 660;
+}
+);
+unicode = 449;
+}

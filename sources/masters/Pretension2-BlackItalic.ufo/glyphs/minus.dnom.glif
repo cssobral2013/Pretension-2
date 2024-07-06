@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="minus.dnom" format="2">
-  <advance width="830"/>
-  <unicode hex="E0C9"/>
-  <outline>
-    <component base="minus.numr" xOffset="-163" yOffset="-984"/>
-  </outline>
-</glyph>

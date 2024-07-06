@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dotlessjstrokehook" format="2">
-  <advance width="650"/>
-  <unicode hex="0284"/>
-  <outline>
-    <component base="integral"/>
-    <component base="crossbar" xOffset="-126" yOffset="-721"/>
-  </outline>
-</glyph>

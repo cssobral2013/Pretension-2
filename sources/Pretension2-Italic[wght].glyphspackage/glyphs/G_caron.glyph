@@ -1,0 +1,82 @@
+{
+glyphname = Gcaron;
+layers = (
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{693, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{1028, 1971}";
+}
+);
+layerId = "0C8A2A23-4AE2-454C-AEC2-B13207615F2B";
+shapes = (
+{
+alignment = -1;
+ref = G;
+},
+{
+alignment = -1;
+pos = (337,372);
+ref = caroncomb;
+}
+);
+width = 1546;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{702, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{1043, 1977}";
+}
+);
+layerId = "70700972-0F8E-4D63-A70C-6AC279DB2638";
+shapes = (
+{
+alignment = -1;
+ref = G;
+},
+{
+alignment = -1;
+pos = (415,372);
+ref = caroncomb;
+}
+);
+width = 1527;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{629, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{976, 2007}";
+}
+);
+layerId = "70E6EC48-9A24-4AD5-9BFE-11FF46F6DBD6";
+shapes = (
+{
+alignment = -1;
+ref = G;
+},
+{
+alignment = -1;
+pos = (386,372);
+ref = caroncomb;
+}
+);
+width = 1512;
+}
+);
+leftKerningGroup = C2;
+rightKerningGroup = G;
+}

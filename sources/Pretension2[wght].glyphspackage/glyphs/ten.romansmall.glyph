@@ -1,0 +1,68 @@
+{
+glyphname = ten.romansmall;
+layers = (
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{692, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{692, 1118}";
+}
+);
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+alignment = -1;
+ref = x;
+}
+);
+width = 1248;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{732, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{732, 1180}";
+}
+);
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+alignment = -1;
+pos = (-12,0);
+ref = x;
+}
+);
+width = 1106;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{677, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{677, 1242}";
+}
+);
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+alignment = -1;
+pos = (-20,0);
+ref = x;
+}
+);
+width = 1036;
+}
+);
+unicode = 8569;
+}

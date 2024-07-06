@@ -1,0 +1,81 @@
+{
+glyphname = Reverseddottedsigmalunatesymbol;
+layers = (
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{680, 0}";
+},
+{
+name = m.uni0327_3;
+position = "{941, 1478}";
+}
+);
+layerId = "0C8A2A23-4AE2-454C-AEC2-B13207615F2B";
+shapes = (
+{
+alignment = -1;
+ref = Oopen;
+},
+{
+alignment = -1;
+pos = (478,566);
+ref = period;
+}
+);
+width = 1532;
+},
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{666, 0}";
+},
+{
+name = m.uni0327_3;
+position = "{931, 1489}";
+}
+);
+layerId = "70700972-0F8E-4D63-A70C-6AC279DB2638";
+shapes = (
+{
+alignment = -1;
+ref = Oopen;
+},
+{
+alignment = -1;
+pos = (523,626);
+ref = period;
+}
+);
+width = 1495;
+},
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{583, 0}";
+},
+{
+name = m.uni0327_3;
+position = "{849, 1489}";
+}
+);
+layerId = "70E6EC48-9A24-4AD5-9BFE-11FF46F6DBD6";
+shapes = (
+{
+alignment = -1;
+ref = Oopen;
+},
+{
+alignment = -1;
+pos = (559,701);
+ref = period;
+}
+);
+width = 1480;
+}
+);
+unicode = 1023;
+}

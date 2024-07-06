@@ -1,0 +1,51 @@
+{
+glyphname = onecircle;
+layers = (
+{
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+alignment = -1;
+ref = largecircle;
+},
+{
+alignment = -1;
+pos = (843,0);
+ref = one.ss01;
+}
+);
+width = 2846;
+},
+{
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+alignment = -1;
+ref = largecircle;
+},
+{
+alignment = -1;
+pos = (923,0);
+ref = one.ss01;
+}
+);
+width = 2846;
+},
+{
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+alignment = -1;
+ref = largecircle;
+},
+{
+alignment = -1;
+pos = (1035,0);
+ref = one.ss01;
+}
+);
+width = 2846;
+}
+);
+unicode = (9312,10112,57644);
+}

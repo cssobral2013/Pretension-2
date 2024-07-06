@@ -1,0 +1,38 @@
+{
+glyphname = breveinvsubcomb;
+layers = (
+{
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+alignment = -1;
+pos = (0,-1768);
+ref = breveinvcomb;
+}
+);
+width = 1024;
+},
+{
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+alignment = -1;
+pos = (0,-1773);
+ref = breveinvcomb;
+}
+);
+width = 840;
+},
+{
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+alignment = -1;
+pos = (0,-1664);
+ref = breveinvcomb;
+}
+);
+width = 724;
+}
+);
+}

@@ -1,0 +1,81 @@
+{
+glyphname = Rlinebelow;
+layers = (
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{642, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{866, 1490}";
+}
+);
+layerId = "0C8A2A23-4AE2-454C-AEC2-B13207615F2B";
+shapes = (
+{
+alignment = -1;
+ref = R;
+},
+{
+alignment = -1;
+pos = (-3,-1714);
+ref = macroncomb;
+}
+);
+width = 1368;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{662, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{877, 1490}";
+}
+);
+layerId = "70700972-0F8E-4D63-A70C-6AC279DB2638";
+shapes = (
+{
+alignment = -1;
+ref = R;
+},
+{
+alignment = -1;
+pos = (-97,-1722);
+ref = macroncomb;
+}
+);
+width = 1318;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{596, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{825, 1490}";
+}
+);
+layerId = "70E6EC48-9A24-4AD5-9BFE-11FF46F6DBD6";
+shapes = (
+{
+alignment = -1;
+ref = R;
+},
+{
+alignment = -1;
+pos = (-34,-1686);
+ref = macroncomb;
+}
+);
+width = 1260;
+}
+);
+unicode = 7774;
+}

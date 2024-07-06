@@ -1,0 +1,69 @@
+{
+glyphname = tricolon;
+layers = (
+{
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+alignment = -1;
+pos = (0,-1714);
+ref = dotaccentcomb;
+},
+{
+alignment = -1;
+pos = (670,-1714);
+ref = dotaccentcomb;
+},
+{
+alignment = -1;
+pos = (1340,-1714);
+ref = dotaccentcomb;
+}
+);
+width = 2010;
+},
+{
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+alignment = -1;
+pos = (0,-1722);
+ref = dotaccentcomb;
+},
+{
+alignment = -1;
+pos = (495,-1722);
+ref = dotaccentcomb;
+},
+{
+alignment = -1;
+pos = (990,-1722);
+ref = dotaccentcomb;
+}
+);
+width = 1485;
+},
+{
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+alignment = -1;
+pos = (698,-144);
+ref = dotaccentcomb;
+},
+{
+alignment = -1;
+pos = (742,-756);
+ref = dotaccentcomb;
+},
+{
+alignment = -1;
+pos = (698,-1352);
+ref = dotaccentcomb;
+}
+);
+width = 200;
+}
+);
+unicode = 8285;
+}

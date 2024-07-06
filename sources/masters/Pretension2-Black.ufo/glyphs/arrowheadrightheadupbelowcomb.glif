@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="arrowheadrightheadupbelowcomb" format="2">
-  <unicode hex="0356"/>
-  <outline>
-    <component base="arrowheadrightlowmod" xOffset="-1344"/>
-    <component base="arrowheaduplowmod" xOffset="-750"/>
-  </outline>
-</glyph>

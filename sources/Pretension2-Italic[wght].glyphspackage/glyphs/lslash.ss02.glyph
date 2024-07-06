@@ -1,0 +1,86 @@
+{
+glyphname = lslash.ss02;
+layers = (
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{378, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{579, 1490}";
+}
+);
+layerId = "0C8A2A23-4AE2-454C-AEC2-B13207615F2B";
+shapes = (
+{
+alignment = -1;
+pos = (45,0);
+ref = l.ss02;
+},
+{
+alignment = -1;
+pos = (23,20);
+ref = slashshortcomb.lc;
+}
+);
+width = 764;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{380, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{584, 1490}";
+}
+);
+layerId = "70700972-0F8E-4D63-A70C-6AC279DB2638";
+shapes = (
+{
+alignment = -1;
+pos = (29,0);
+ref = l.ss02;
+},
+{
+alignment = -1;
+pos = (18,1);
+ref = slashshortcomb.lc;
+}
+);
+width = 611;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{244, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{432, 1490}";
+}
+);
+layerId = "70E6EC48-9A24-4AD5-9BFE-11FF46F6DBD6";
+shapes = (
+{
+alignment = -1;
+pos = (-21,0);
+ref = l.ss02;
+},
+{
+alignment = -1;
+pos = (10,0);
+ref = slashshortcomb.lc;
+}
+);
+width = 460;
+}
+);
+leftKerningGroup = t2;
+rightKerningGroup = t;
+unicode = (322,57425);
+}

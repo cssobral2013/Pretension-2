@@ -1,0 +1,79 @@
+{
+glyphname = exclamdown.case;
+layers = (
+{
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(570,1024,l),
+(600,0,l),
+(176,0,l),
+(206,1024,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(592,1490,l),
+(592,1139,l),
+(184,1139,l),
+(184,1490,l)
+);
+}
+);
+width = 776;
+},
+{
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+closed = 1;
+nodes = (
+(367,1011,l),
+(379,0,l),
+(175,0,l),
+(188,1011,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(394,1490,l),
+(394,1258,l),
+(160,1258,l),
+(160,1490,l)
+);
+}
+);
+width = 554;
+},
+{
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(292,1056,l),
+(292,0,l),
+(246,0,l),
+(246,1056,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(314,1490,l),
+(314,1400,l),
+(224,1400,l),
+(224,1490,l)
+);
+}
+);
+width = 538;
+}
+);
+leftKerningGroup = B2;
+rightKerningGroup = H;
+}

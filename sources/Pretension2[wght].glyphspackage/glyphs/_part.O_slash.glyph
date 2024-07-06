@@ -1,0 +1,50 @@
+{
+glyphname = _part.Oslash;
+layers = (
+{
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(202,-78,l),
+(40,32,l),
+(1128,1566,l),
+(1290,1454,l)
+);
+}
+);
+width = 1330;
+},
+{
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+closed = 1;
+nodes = (
+(136,-46,l),
+(6,44,l),
+(1044,1536,l),
+(1174,1446,l)
+);
+}
+);
+width = 1180;
+},
+{
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(104,-13,l),
+(66,13,l),
+(1048,1503,l),
+(1086,1477,l)
+);
+}
+);
+width = 1146;
+}
+);
+}

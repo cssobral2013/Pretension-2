@@ -1,0 +1,51 @@
+{
+glyphname = "grave-gr";
+layers = (
+{
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(566,1256,l),
+(342,1256,l),
+(198,1582,l),
+(534,1582,l)
+);
+}
+);
+width = 822;
+},
+{
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+closed = 1;
+nodes = (
+(391,1264,l),
+(266,1264,l),
+(164,1558,l),
+(357,1558,l)
+);
+}
+);
+width = 553;
+},
+{
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(206,1283,l),
+(170,1283,l),
+(119,1557,l),
+(168,1557,l)
+);
+}
+);
+width = 326;
+}
+);
+unicode = 8175;
+}

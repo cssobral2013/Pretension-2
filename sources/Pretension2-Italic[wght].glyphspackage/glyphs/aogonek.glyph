@@ -1,0 +1,97 @@
+{
+glyphname = aogonek;
+leftMetricsKey = a;
+widthMetricsKey = a;
+layers = (
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{672, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{853, 1118}";
+},
+{
+name = m.uni0328_4;
+position = "{1288, 0}";
+}
+);
+layerId = "0C8A2A23-4AE2-454C-AEC2-B13207615F2B";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (656,80);
+ref = ogonek.a;
+}
+);
+width = 1210;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{709, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{902, 1180}";
+},
+{
+name = m.uni0328_4;
+position = "{1331, 0}";
+}
+);
+layerId = "70700972-0F8E-4D63-A70C-6AC279DB2638";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (603,50);
+ref = ogonek.a;
+}
+);
+width = 1123;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{697, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{868, 1242}";
+},
+{
+name = m.uni0328_4;
+position = "{1221, 0}";
+}
+);
+layerId = "70E6EC48-9A24-4AD5-9BFE-11FF46F6DBD6";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (675,10);
+ref = ogonek.a;
+}
+);
+width = 1062;
+}
+);
+leftKerningGroup = a2;
+rightKerningGroup = a;
+unicode = 261;
+}

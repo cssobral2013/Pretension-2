@@ -1,0 +1,69 @@
+{
+glyphname = Ezhcaron;
+layers = (
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{746, 1971}";
+}
+);
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+alignment = -1;
+ref = Ezh;
+},
+{
+alignment = -1;
+pos = (194,372);
+ref = caroncomb;
+}
+);
+width = 1412;
+},
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{796, 1977}";
+}
+);
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+alignment = -1;
+ref = Ezh;
+},
+{
+alignment = -1;
+pos = (277,372);
+ref = caroncomb;
+}
+);
+width = 1402;
+},
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{852, 2007}";
+}
+);
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+alignment = -1;
+ref = Ezh;
+},
+{
+alignment = -1;
+pos = (280,372);
+ref = caroncomb;
+}
+);
+width = 1422;
+}
+);
+unicode = 494;
+}

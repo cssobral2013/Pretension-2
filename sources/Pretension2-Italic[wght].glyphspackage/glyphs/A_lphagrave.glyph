@@ -1,0 +1,93 @@
+{
+glyphname = Alphagrave;
+layers = (
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{828, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{1075, 1490}";
+},
+{
+name = m.uni0328_4;
+position = "{1736, 0}";
+}
+);
+layerId = "0C8A2A23-4AE2-454C-AEC2-B13207615F2B";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (-32,14);
+ref = "grave-gr";
+}
+);
+width = 1628;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{856, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{1103, 1490}";
+},
+{
+name = m.uni0328_4;
+position = "{1773, 0}";
+}
+);
+layerId = "70700972-0F8E-4D63-A70C-6AC279DB2638";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (-8,0);
+ref = "grave-gr";
+}
+);
+width = 1413;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{770, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{1017, 1490}";
+},
+{
+name = m.uni0328_4;
+position = "{1573, 0}";
+}
+);
+layerId = "70E6EC48-9A24-4AD5-9BFE-11FF46F6DBD6";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (32,-8);
+ref = "grave-gr";
+}
+);
+width = 1310;
+}
+);
+unicode = 8122;
+}

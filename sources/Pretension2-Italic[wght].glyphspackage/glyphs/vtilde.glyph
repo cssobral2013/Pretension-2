@@ -1,0 +1,81 @@
+{
+glyphname = vtilde;
+layers = (
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{635, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{892, 1593}";
+}
+);
+layerId = "0C8A2A23-4AE2-454C-AEC2-B13207615F2B";
+shapes = (
+{
+alignment = -1;
+ref = v;
+},
+{
+alignment = -1;
+pos = (135,0);
+ref = tildecomb;
+}
+);
+width = 1294;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{682, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{947, 1639}";
+}
+);
+layerId = "70700972-0F8E-4D63-A70C-6AC279DB2638";
+shapes = (
+{
+alignment = -1;
+ref = v;
+},
+{
+alignment = -1;
+pos = (58,0);
+ref = tildecomb;
+}
+);
+width = 1151;
+},
+{
+anchors = (
+{
+name = m.uni0326;
+position = "{686, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{958, 1677}";
+}
+);
+layerId = "70E6EC48-9A24-4AD5-9BFE-11FF46F6DBD6";
+shapes = (
+{
+alignment = -1;
+ref = v;
+},
+{
+alignment = -1;
+pos = (54,0);
+ref = tildecomb;
+}
+);
+width = 1114;
+}
+);
+unicode = 7805;
+}

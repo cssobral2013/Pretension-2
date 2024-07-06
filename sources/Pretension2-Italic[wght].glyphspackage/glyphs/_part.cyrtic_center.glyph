@@ -1,0 +1,50 @@
+{
+glyphname = _part.cyrtic_center;
+layers = (
+{
+layerId = "0C8A2A23-4AE2-454C-AEC2-B13207615F2B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-10,-320,l),
+(46,64,l),
+(456,64,l),
+(384,-320,l)
+);
+}
+);
+width = 666;
+},
+{
+layerId = "70700972-0F8E-4D63-A70C-6AC279DB2638";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-18,-320,l),
+(46,64,l),
+(226,64,l),
+(162,-320,l)
+);
+}
+);
+width = 436;
+},
+{
+layerId = "70E6EC48-9A24-4AD5-9BFE-11FF46F6DBD6";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-82,-320,l),
+(-25,24,l),
+(21,24,l),
+(-36,-320,l)
+);
+}
+);
+width = 174;
+}
+);
+}

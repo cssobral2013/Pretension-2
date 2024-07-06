@@ -1,0 +1,54 @@
+{
+glyphname = Jecyr;
+layers = (
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{970, 1490}";
+}
+);
+layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+shapes = (
+{
+alignment = -1;
+ref = J;
+}
+);
+width = 1220;
+},
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{999, 1490}";
+}
+);
+layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+shapes = (
+{
+alignment = -1;
+ref = J;
+}
+);
+width = 1169;
+},
+{
+anchors = (
+{
+name = m.uni030F_1;
+position = "{1059, 1490}";
+}
+);
+layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+shapes = (
+{
+alignment = -1;
+ref = J;
+}
+);
+width = 1144;
+}
+);
+unicode = 1032;
+}
