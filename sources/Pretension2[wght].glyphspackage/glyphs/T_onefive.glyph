@@ -3,7 +3,7 @@ glyphname = Tonefive;
 rightMetricsKey = "=117";
 layers = (
 {
-layerId = "5004196B-162C-4C82-BCAB-67337630B14F";
+layerId = "5F52F939-73AD-4133-B212-C472907279A8";
 rightMetricsKey = "=75";
 shapes = (
 {
@@ -23,7 +23,7 @@ ref = five;
 width = 1370;
 },
 {
-layerId = "B1312A1D-33BE-4648-8D8B-BF9AFD6F3133";
+layerId = "EC53454B-9049-4A8E-9DF5-E39A1CD11388";
 shapes = (
 {
 closed = 1;
@@ -39,10 +39,10 @@ alignment = -1;
 ref = five;
 }
 );
-width = 1228;
+width = 1255;
 },
 {
-layerId = "3CB5008A-C4A1-41CB-9BE0-5E5E5E92B0B4";
+layerId = "BBB03204-D1F5-4C2C-82D7-85F2E10FE6A0";
 rightMetricsKey = "=138";
 shapes = (
 {
