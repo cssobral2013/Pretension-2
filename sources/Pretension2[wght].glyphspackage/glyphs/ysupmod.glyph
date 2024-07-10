@@ -3,8 +3,8 @@ color = 1;
 glyphname = ysupmod;
 layers = (
 {
-layerId = "072D883C-D96E-4A9F-950E-DBD66212B3EA";
-associatedMasterId = "5F52F939-73AD-4133-B212-C472907279A8";
+layerId = "D6662033-F87E-4A2B-86C1-368090055810";
+associatedMasterId = "DD6EF60E-12CE-4CFD-A219-13982E9D034C";
 name = "May 15, 21 16:42";
 shapes = (
 {
@@ -34,7 +34,7 @@ nodes = (
 width = 867;
 },
 {
-layerId = "5F52F939-73AD-4133-B212-C472907279A8";
+layerId = "DD6EF60E-12CE-4CFD-A219-13982E9D034C";
 shapes = (
 {
 closed = 1;
@@ -63,8 +63,8 @@ nodes = (
 width = 832;
 },
 {
-layerId = "EE0DDBA3-C2CD-4462-800D-72F73ECA8F42";
-associatedMasterId = "EC53454B-9049-4A8E-9DF5-E39A1CD11388";
+layerId = "0E443BA3-EFE7-4B72-9DDC-4EBC58667DBA";
+associatedMasterId = "09B6B0AE-BF01-4DA1-8E4B-D236F68CE7ED";
 name = "May 15, 21 16:42";
 shapes = (
 {
@@ -94,7 +94,7 @@ nodes = (
 width = 730;
 },
 {
-layerId = "EC53454B-9049-4A8E-9DF5-E39A1CD11388";
+layerId = "09B6B0AE-BF01-4DA1-8E4B-D236F68CE7ED";
 shapes = (
 {
 closed = 1;
@@ -123,8 +123,8 @@ nodes = (
 width = 745;
 },
 {
-layerId = "287C9AB7-87A9-4D79-B56D-00D9144B4DBF";
-associatedMasterId = "BBB03204-D1F5-4C2C-82D7-85F2E10FE6A0";
+layerId = "B3D812A3-BC13-473D-9916-BD9ABB7B8136";
+associatedMasterId = "35B86B34-8686-44F8-9959-14CD414BA805";
 name = "May 15, 21 16:42";
 shapes = (
 {
@@ -154,7 +154,7 @@ nodes = (
 width = 675;
 },
 {
-layerId = "BBB03204-D1F5-4C2C-82D7-85F2E10FE6A0";
+layerId = "35B86B34-8686-44F8-9959-14CD414BA805";
 shapes = (
 {
 closed = 1;
