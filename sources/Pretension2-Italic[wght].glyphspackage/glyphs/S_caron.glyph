@@ -1,31 +1,32 @@
 {
 glyphname = Scaron;
+leftMetricsKey = S;
+widthMetricsKey = S;
 layers = (
 {
 anchors = (
 {
 name = m.uni0326;
-position = "{668, 0}";
+position = "{669, 0}";
 },
 {
 name = m.uni030F_1;
-position = "{994, 1971}";
+position = "{995, 1971}";
 },
 {
 name = m.uni0327_3;
-position = "{661, 0}";
+position = "{662, 0}";
 }
 );
-layerId = "EF0863B1-A80B-4AC4-A80D-A5009A8E023C";
+layerId = "BF2F17A8-34C3-4EBA-8163-9D00BAFD6277";
 shapes = (
 {
 alignment = -1;
-pos = (-1,0);
 ref = S;
 },
 {
 alignment = -1;
-pos = (234,372);
+pos = (235,372);
 ref = caroncomb;
 }
 );
@@ -35,61 +36,59 @@ width = 1363;
 anchors = (
 {
 name = m.uni0326;
-position = "{685, 0}";
+position = "{686, 0}";
 },
 {
 name = m.uni030F_1;
-position = "{1020, 1977}";
+position = "{1021, 1977}";
 },
 {
 name = m.uni0327_3;
-position = "{679, 0}";
+position = "{680, 0}";
 }
 );
-layerId = "772355B8-E81A-4CAE-88E1-18D30E544C30";
+layerId = "074E11EA-331B-4F91-A771-D63337ECF1B1";
 shapes = (
 {
 alignment = -1;
-pos = (-1,0);
 ref = S;
 },
 {
 alignment = -1;
-pos = (293,372);
+pos = (294,372);
 ref = caroncomb;
 }
 );
-width = 1347;
+width = 1335;
 },
 {
 anchors = (
 {
 name = m.uni0326;
-position = "{601, 0}";
+position = "{600, 0}";
 },
 {
 name = m.uni030F_1;
-position = "{962, 2007}";
+position = "{961, 2007}";
 },
 {
 name = m.uni0327_3;
-position = "{599, 0}";
+position = "{598, 0}";
 }
 );
-layerId = "F09EDC10-DC28-4948-8673-8B4992B77282";
+layerId = "B31D44BF-3352-4B16-8DB9-CDCEC9E4DE37";
 shapes = (
 {
 alignment = -1;
-pos = (1,0);
 ref = S;
 },
 {
 alignment = -1;
-pos = (258,372);
+pos = (257,372);
 ref = caroncomb;
 }
 );
-width = 1256;
+width = 1255;
 }
 );
 leftKerningGroup = S2;
