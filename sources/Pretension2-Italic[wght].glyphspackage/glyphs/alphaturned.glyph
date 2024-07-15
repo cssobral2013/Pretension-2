@@ -2,7 +2,7 @@
 glyphname = alphaturned;
 layers = (
 {
-layerId = "EF0863B1-A80B-4AC4-A80D-A5009A8E023C";
+layerId = "BF2F17A8-34C3-4EBA-8163-9D00BAFD6277";
 shapes = (
 {
 closed = 1;
@@ -91,7 +91,7 @@ nodes = (
 width = 1321;
 },
 {
-layerId = "772355B8-E81A-4CAE-88E1-18D30E544C30";
+layerId = "074E11EA-331B-4F91-A771-D63337ECF1B1";
 shapes = (
 {
 closed = 1;
@@ -180,7 +180,7 @@ nodes = (
 width = 1254;
 },
 {
-layerId = "F09EDC10-DC28-4948-8673-8B4992B77282";
+layerId = "B31D44BF-3352-4B16-8DB9-CDCEC9E4DE37";
 shapes = (
 {
 closed = 1;
