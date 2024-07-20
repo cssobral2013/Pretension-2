@@ -2,7 +2,7 @@
 glyphname = arrowanticlockwiseopencircle;
 layers = (
 {
-layerId = "D8A92F70-7B12-4FFB-B168-20459808C763";
+layerId = "980E6A92-2867-40CE-A48E-C7FE9FEAD785";
 shapes = (
 {
 closed = 1;
@@ -59,7 +59,7 @@ nodes = (
 width = 1954;
 },
 {
-layerId = "F2144881-BF72-4154-AA19-0D7773A1BBB5";
+layerId = "2C2418C1-41DF-4EE0-8E81-595C00A08566";
 shapes = (
 {
 closed = 1;
@@ -116,7 +116,7 @@ nodes = (
 width = 1954;
 },
 {
-layerId = "6534D9E7-D8F5-49CB-AE3D-9F113790C5C9";
+layerId = "6C81FF26-15E7-4A5E-89E1-0A5A89E23E00";
 shapes = (
 {
 closed = 1;
