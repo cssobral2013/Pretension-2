@@ -2,7 +2,7 @@
 glyphname = four.ss01;
 layers = (
 {
-layerId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
 shapes = (
 {
 closed = 1;
@@ -32,7 +32,7 @@ nodes = (
 width = 1492;
 },
 {
-layerId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
 shapes = (
 {
 closed = 1;
@@ -62,29 +62,29 @@ nodes = (
 width = 1345;
 },
 {
-layerId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
 shapes = (
 {
 closed = 1;
 nodes = (
-(122.5,375,l),
-(127.167,409,l),
-(999.333,1490,l),
-(1057.333,1490,l),
-(197.833,425,l),
-(197.167,421,l),
-(1058.167,421,l),
-(1050.5,375,l)
+(123,375,l),
+(127,409,l),
+(999,1490,l),
+(1057,1490,l),
+(198,425,l),
+(197,421,l),
+(1058,421,l),
+(1051,375,l)
 );
 },
 {
 closed = 1;
 nodes = (
 (756,0,l),
-(819.833,389,l),
-(823.167,403,l),
-(910.,930,l),
-(956.,930,l),
+(820,389,l),
+(823,403,l),
+(910,930,l),
+(956,930,l),
 (802,0,l)
 );
 }
@@ -92,6 +92,6 @@ nodes = (
 width = 1231;
 }
 );
-rightKerningGroup = four;
+rightKerningGroup = public.kern1.four;
 unicode = 52;
 }

@@ -2,7 +2,7 @@
 glyphname = ogonek.e;
 layers = (
 {
-layerId = "980E6A92-2867-40CE-A48E-C7FE9FEAD785";
+layerId = "6E2892C3-3C02-46A0-9D36-E256ACFD9F2E";
 shapes = (
 {
 closed = 1;
@@ -28,7 +28,7 @@ nodes = (
 (339,-145,cs),
 (339,-166,o),
 (344,-183,o),
-(355,-196,cs),
+(355,-196,c),
 (366,-208,o),
 (381,-214,o),
 (402,-214,cs),
@@ -48,7 +48,7 @@ nodes = (
 width = 612;
 },
 {
-layerId = "2C2418C1-41DF-4EE0-8E81-595C00A08566";
+layerId = "F267B978-EB02-4A9B-884E-61DA4654DD4B";
 shapes = (
 {
 closed = 1;
@@ -74,7 +74,7 @@ nodes = (
 (275,-206,cs),
 (275,-231,o),
 (282,-250,o),
-(296,-264,cs),
+(296,-264,c),
 (309,-278,o),
 (330,-285,o),
 (358,-285,cs),
@@ -94,7 +94,7 @@ nodes = (
 width = 582;
 },
 {
-layerId = "6C81FF26-15E7-4A5E-89E1-0A5A89E23E00";
+layerId = "5994B614-1BA3-4C22-AA0B-9CE5DDB3E1DA";
 shapes = (
 {
 closed = 1;

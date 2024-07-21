@@ -2,7 +2,25 @@
 glyphname = eight.romansmall;
 layers = (
 {
-layerId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
+anchors = (
+{
+name = m.uni030F_1;
+position = "{2978, 1118}";
+},
+{
+name = m.uni0326;
+position = "{2797, 0}";
+},
+{
+name = m.uni0328_4;
+position = "{3110, 0}";
+},
+{
+name = t.uni030F;
+position = "{2981, 1586}";
+}
+);
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
 shapes = (
 {
 alignment = -1;
@@ -11,38 +29,41 @@ ref = v;
 {
 alignment = -1;
 pos = (1294,0);
-ref = dotlessi;
-},
-{
-alignment = -1;
-pos = (1262,0);
-ref = dotaccentcomb;
+ref = i;
 },
 {
 alignment = -1;
 pos = (1901,0);
-ref = dotlessi;
-},
-{
-alignment = -1;
-pos = (1869,0);
-ref = dotaccentcomb;
+ref = i;
 },
 {
 alignment = -1;
 pos = (2508,0);
-ref = dotlessi;
-},
-{
-alignment = -1;
-pos = (2476,0);
-ref = dotaccentcomb;
+ref = i;
 }
 );
 width = 3115;
 },
 {
-layerId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
+anchors = (
+{
+name = m.uni030F_1;
+position = "{2658, 1180}";
+},
+{
+name = m.uni0326;
+position = "{2467, 0}";
+},
+{
+name = m.uni0328_4;
+position = "{2784, 0}";
+},
+{
+name = t.uni030F;
+position = "{2550, 1490}";
+}
+);
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
 shapes = (
 {
 alignment = -1;
@@ -51,38 +72,41 @@ ref = v;
 {
 alignment = -1;
 pos = (1151,0);
-ref = dotlessi;
-},
-{
-alignment = -1;
-pos = (1153,0);
-ref = dotaccentcomb;
+ref = i;
 },
 {
 alignment = -1;
 pos = (1648,0);
-ref = dotlessi;
-},
-{
-alignment = -1;
-pos = (1650,0);
-ref = dotaccentcomb;
+ref = i;
 },
 {
 alignment = -1;
 pos = (2145,0);
-ref = dotlessi;
-},
-{
-alignment = -1;
-pos = (2147,0);
-ref = dotaccentcomb;
+ref = i;
 }
 );
 width = 2642;
 },
 {
-layerId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
+anchors = (
+{
+name = m.uni030F_1;
+position = "{2473, 1242}";
+},
+{
+name = m.uni0326;
+position = "{2272, 0}";
+},
+{
+name = m.uni0328_4;
+position = "{2466, 0}";
+},
+{
+name = t.uni030F;
+position = "{2365, 1434}";
+}
+);
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
 shapes = (
 {
 alignment = -1;
@@ -91,32 +115,17 @@ ref = v;
 {
 alignment = -1;
 pos = (1114,0);
-ref = dotlessi;
-},
-{
-alignment = -1;
-pos = (1148,0);
-ref = dotaccentcomb;
+ref = i;
 },
 {
 alignment = -1;
 pos = (1557,0);
-ref = dotlessi;
-},
-{
-alignment = -1;
-pos = (1591,0);
-ref = dotaccentcomb;
+ref = i;
 },
 {
 alignment = -1;
 pos = (2000,0);
-ref = dotlessi;
-},
-{
-alignment = -1;
-pos = (2034,0);
-ref = dotaccentcomb;
+ref = i;
 }
 );
 width = 2443;

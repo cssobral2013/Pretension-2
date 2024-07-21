@@ -2,7 +2,25 @@
 glyphname = feng.1;
 layers = (
 {
-layerId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
+anchors = (
+{
+name = bottom;
+position = "{271, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{1450, 1118}";
+},
+{
+name = m.uni0326;
+position = "{1264, 0}";
+},
+{
+name = top;
+position = "{678, 1676}";
+}
+);
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
 shapes = (
 {
 alignment = -1;
@@ -17,7 +35,25 @@ ref = eng;
 width = 1951;
 },
 {
-layerId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
+anchors = (
+{
+name = bottom;
+position = "{211, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{1310, 1180}";
+},
+{
+name = m.uni0326;
+position = "{1112, 0}";
+},
+{
+name = top;
+position = "{566, 1676}";
+}
+);
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
 shapes = (
 {
 alignment = -1;
@@ -32,7 +68,25 @@ ref = eng;
 width = 1641;
 },
 {
-layerId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
+anchors = (
+{
+name = bottom;
+position = "{201, 0}";
+},
+{
+name = m.uni030F_1;
+position = "{1217, 1242}";
+},
+{
+name = m.uni0326;
+position = "{1004, 0}";
+},
+{
+name = top;
+position = "{489, 1676}";
+}
+);
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
 shapes = (
 {
 alignment = -1;
@@ -47,6 +101,6 @@ ref = eng;
 width = 1512;
 }
 );
-leftKerningGroup = B2;
-rightKerningGroup = a;
+leftKerningGroup = public.kern2.B2;
+rightKerningGroup = public.kern1.a;
 }

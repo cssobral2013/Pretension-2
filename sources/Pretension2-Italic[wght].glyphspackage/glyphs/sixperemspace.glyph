@@ -1,4 +1,18 @@
 {
 glyphname = sixperemspace;
+layers = (
+{
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
+width = 340;
+},
+{
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
+width = 340;
+},
+{
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
+width = 340;
+}
+);
 unicode = 8198;
 }

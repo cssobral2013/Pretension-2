@@ -8,7 +8,7 @@ name = m.uni030F_1;
 position = "{394, 872}";
 }
 );
-layerId = "980E6A92-2867-40CE-A48E-C7FE9FEAD785";
+layerId = "6E2892C3-3C02-46A0-9D36-E256ACFD9F2E";
 shapes = (
 {
 closed = 1;
@@ -22,13 +22,13 @@ nodes = (
 (299,231,l),
 (301,219,o),
 (312,209,o),
-(331,202,cs),
+(331,202,c),
 (350,194,o),
 (372,190,o),
 (397,190,cs),
 (426,190,o),
 (448,197,o),
-(463,212,cs),
+(463,212,c),
 (478,226,o),
 (485,247,o),
 (485,276,cs),
@@ -72,7 +72,7 @@ name = m.uni030F_1;
 position = "{373, 872}";
 }
 );
-layerId = "2C2418C1-41DF-4EE0-8E81-595C00A08566";
+layerId = "F267B978-EB02-4A9B-884E-61DA4654DD4B";
 shapes = (
 {
 closed = 1;
@@ -136,7 +136,7 @@ name = m.uni030F_1;
 position = "{277, 782}";
 }
 );
-layerId = "6C81FF26-15E7-4A5E-89E1-0A5A89E23E00";
+layerId = "5994B614-1BA3-4C22-AA0B-9CE5DDB3E1DA";
 shapes = (
 {
 closed = 1;
@@ -194,6 +194,6 @@ nodes = (
 width = 716;
 }
 );
-leftKerningGroup = three.dnom;
+leftKerningGroup = public.kern2.three.dnom;
 unicode = 57527;
 }

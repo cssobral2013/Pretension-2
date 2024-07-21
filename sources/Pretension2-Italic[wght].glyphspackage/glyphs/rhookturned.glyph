@@ -2,7 +2,7 @@
 glyphname = rhookturned;
 layers = (
 {
-layerId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
 shapes = (
 {
 closed = 1;
@@ -22,7 +22,7 @@ nodes = (
 (843,-417,l),
 (822,-422,o),
 (801,-427,o),
-(780,-431,cs),
+(780,-431,c),
 (736,-438,o),
 (689,-441,o),
 (641,-441,cs)
@@ -62,7 +62,7 @@ nodes = (
 width = 889;
 },
 {
-layerId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
 shapes = (
 {
 closed = 1;
@@ -82,7 +82,7 @@ nodes = (
 (657,-418,l),
 (651,-419,o),
 (643,-421,o),
-(633,-422,cs),
+(633,-422,c),
 (612,-425,o),
 (586,-426,o),
 (555,-426,cs)
@@ -122,7 +122,7 @@ nodes = (
 width = 763;
 },
 {
-layerId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
 shapes = (
 {
 closed = 1;

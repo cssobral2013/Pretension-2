@@ -2,7 +2,7 @@
 glyphname = question;
 layers = (
 {
-layerId = "980E6A92-2867-40CE-A48E-C7FE9FEAD785";
+layerId = "6E2892C3-3C02-46A0-9D36-E256ACFD9F2E";
 shapes = (
 {
 closed = 1;
@@ -50,7 +50,7 @@ nodes = (
 width = 1230;
 },
 {
-layerId = "2C2418C1-41DF-4EE0-8E81-595C00A08566";
+layerId = "F267B978-EB02-4A9B-884E-61DA4654DD4B";
 shapes = (
 {
 closed = 1;
@@ -98,7 +98,7 @@ nodes = (
 width = 1047;
 },
 {
-layerId = "6C81FF26-15E7-4A5E-89E1-0A5A89E23E00";
+layerId = "5994B614-1BA3-4C22-AA0B-9CE5DDB3E1DA";
 shapes = (
 {
 closed = 1;
@@ -107,7 +107,7 @@ nodes = (
 (472,544,ls),
 (472,662,o),
 (510,723,o),
-(648,824,cs),
+(648,824,c),
 (807,937,o),
 (864,1023,o),
 (864,1146,cs),
@@ -126,7 +126,7 @@ nodes = (
 (818,1146,cs),
 (818,1041,o),
 (770,965,o),
-(622,862,cs),
+(622,862,c),
 (473,756,o),
 (424,678,o),
 (424,544,cs),
@@ -146,7 +146,7 @@ nodes = (
 width = 980;
 }
 );
-leftKerningGroup = uni203D_2;
-rightKerningGroup = uni203D;
+leftKerningGroup = public.kern2.uni203D_2;
+rightKerningGroup = public.kern1.uni203D;
 unicode = (63,58032);
 }

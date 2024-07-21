@@ -2,7 +2,15 @@
 glyphname = emspace;
 layers = (
 {
-layerId = "2C2418C1-41DF-4EE0-8E81-595C00A08566";
+layerId = "F267B978-EB02-4A9B-884E-61DA4654DD4B";
+width = 2048;
+},
+{
+layerId = "6E2892C3-3C02-46A0-9D36-E256ACFD9F2E";
+width = 2048;
+},
+{
+layerId = "5994B614-1BA3-4C22-AA0B-9CE5DDB3E1DA";
 width = 2048;
 }
 );

@@ -1,5 +1,4 @@
 {
-color = (153, 213, 255, 255);
 glyphname = f;
 layers = (
 {
@@ -13,23 +12,15 @@ name = top;
 position = "{492, 1676}";
 }
 );
-guides = (
-{
-position = "{0, 893}";
-},
-{
-position = "{0, 186}";
-}
-);
-layerId = "980E6A92-2867-40CE-A48E-C7FE9FEAD785";
+layerId = "6E2892C3-3C02-46A0-9D36-E256ACFD9F2E";
 shapes = (
 {
 closed = 1;
 nodes = (
-(23.273,1117.091,l),
-(23.273,826.182,l),
-(770.909,826.182,l),
-(770.909,1117.091,l)
+(23,1117,l),
+(23,826,l),
+(771,826,l),
+(771,1117,l)
 );
 },
 {
@@ -67,15 +58,15 @@ name = top;
 position = "{380, 1676}";
 }
 );
-layerId = "2C2418C1-41DF-4EE0-8E81-595C00A08566";
+layerId = "F267B978-EB02-4A9B-884E-61DA4654DD4B";
 shapes = (
 {
 closed = 1;
 nodes = (
-(36.364,1117.091,l),
-(36.364,971.636,l),
-(638.545,971.636,l),
-(638.545,1117.091,l)
+(36,1117,l),
+(36,972,l),
+(639,972,l),
+(639,1117,l)
 );
 },
 {
@@ -106,46 +97,6 @@ width = 707;
 anchors = (
 {
 name = bottom;
-position = "{285, 0}";
-},
-{
-name = top;
-position = "{329, 1679}";
-}
-);
-layerId = "28A19745-FA6F-48E4-BA9F-CA3F88C6B67D";
-associatedMasterId = "6C81FF26-15E7-4A5E-89E1-0A5A89E23E00";
-name = "Nov 26 18, 09:09";
-shapes = (
-{
-closed = 1;
-nodes = (
-(61.091,1117.091,l),
-(61.091,1070.545,l),
-(573.091,1070.545,l),
-(573.091,1117.091,l)
-);
-},
-{
-closed = 0;
-nodes = (
-(631.273,1498.182,l),
-(605.091,1506.909,o),
-(578.909,1512.727,o),
-(549.818,1512.727,cs),
-(421.091,1512.727,o),
-(317.091,1408.727,o),
-(317.091,1280.,cs),
-(317.091,0,l)
-);
-}
-);
-width = 678;
-},
-{
-anchors = (
-{
-name = bottom;
 position = "{294, 0}";
 },
 {
@@ -153,28 +104,22 @@ name = top;
 position = "{303, 1676}";
 }
 );
-guides = (
-{
-angle = 90;
-position = "{218, 0}";
-}
-);
-layerId = "6C81FF26-15E7-4A5E-89E1-0A5A89E23E00";
+layerId = "5994B614-1BA3-4C22-AA0B-9CE5DDB3E1DA";
 shapes = (
 {
 closed = 1;
 nodes = (
-(116.364,1117.091,l),
-(116.364,1070.545,l),
-(558.545,1070.545,l),
-(558.545,1117.091,l)
+(116,1117,l),
+(116,1071,l),
+(559,1071,l),
+(559,1117,l)
 );
 },
 {
 closed = 1;
 nodes = (
 (316,0,l),
-(317,1300,ls),
+(317,1300,l),
 (317,1431,o),
 (380,1510,o),
 (497,1510,cs),
@@ -195,7 +140,7 @@ nodes = (
 width = 631;
 }
 );
-leftKerningGroup = f2;
-rightKerningGroup = f;
+leftKerningGroup = public.kern2.f2;
+rightKerningGroup = public.kern1.f;
 unicode = 102;
 }

@@ -2,7 +2,7 @@
 glyphname = downArrowToBar;
 layers = (
 {
-layerId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
 shapes = (
 {
 closed = 1;
@@ -63,7 +63,7 @@ nodes = (
 width = 1802;
 },
 {
-layerId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
 shapes = (
 {
 closed = 1;
@@ -114,7 +114,7 @@ nodes = (
 (789,549,cs),
 (788,576,o),
 (789,604,o),
-(791,632,cs),
+(791,632,c),
 (792,659,o),
 (795,687,o),
 (800,714,cs)
@@ -124,7 +124,7 @@ nodes = (
 width = 1715;
 },
 {
-layerId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
 shapes = (
 {
 closed = 1;
@@ -143,7 +143,7 @@ nodes = (
 (865,486,ls),
 (862,466,o),
 (859,445,o),
-(855,424,cs),
+(855,424,c),
 (850,402,o),
 (846,380,o),
 (841,359,cs),

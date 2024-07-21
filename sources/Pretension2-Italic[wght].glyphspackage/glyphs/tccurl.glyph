@@ -2,7 +2,7 @@
 glyphname = tccurl;
 layers = (
 {
-layerId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
 shapes = (
 {
 closed = 1;
@@ -55,7 +55,7 @@ nodes = (
 (1387,290,c),
 (1414,294,o),
 (1424,305,o),
-(1427,320,cs),
+(1427,320,c),
 (1428,328,o),
 (1425,335,o),
 (1417,342,cs),
@@ -131,7 +131,7 @@ nodes = (
 width = 1894;
 },
 {
-layerId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
 shapes = (
 {
 closed = 1;
@@ -260,7 +260,7 @@ nodes = (
 width = 1636;
 },
 {
-layerId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
 shapes = (
 {
 closed = 1;
@@ -310,7 +310,7 @@ nodes = (
 (968,22,cs),
 (1030,22,o),
 (1088,31,o),
-(1141,50,cs),
+(1141,50,c),
 (1248,86,o),
 (1322,156,o),
 (1338,252,cs),

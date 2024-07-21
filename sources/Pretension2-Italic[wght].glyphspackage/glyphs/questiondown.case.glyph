@@ -2,7 +2,7 @@
 glyphname = questiondown.case;
 layers = (
 {
-layerId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
 shapes = (
 {
 closed = 1;
@@ -57,7 +57,7 @@ nodes = (
 (104,608,cs),
 (157,664,o),
 (223,713,o),
-(302,754,cs),
+(302,754,c),
 (340,775,o),
 (373,796,o),
 (400,818,cs),
@@ -83,7 +83,7 @@ nodes = (
 width = 1229;
 },
 {
-layerId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
 shapes = (
 {
 closed = 1;
@@ -98,7 +98,7 @@ nodes = (
 (523,701,cs),
 (485,672,o),
 (441,643,o),
-(390,616,cs),
+(390,616,c),
 (342,589,o),
 (300,556,o),
 (263,515,cs),
@@ -164,7 +164,7 @@ nodes = (
 width = 1047;
 },
 {
-layerId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
 shapes = (
 {
 closed = 1;
@@ -213,7 +213,7 @@ nodes = (
 (153,27,cs),
 (49,90,o),
 (-4,204,o),
-(19,344,cs),
+(19,344,c),
 (30,405,o),
 (55,460,o),
 (95,509,cs),

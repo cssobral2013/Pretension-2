@@ -2,7 +2,7 @@
 glyphname = registered;
 layers = (
 {
-layerId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
 shapes = (
 {
 closed = 1;
@@ -118,7 +118,7 @@ nodes = (
 width = 1350;
 },
 {
-layerId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
 shapes = (
 {
 closed = 1;
@@ -234,7 +234,7 @@ nodes = (
 width = 1374;
 },
 {
-layerId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
 shapes = (
 {
 closed = 1;
@@ -265,7 +265,7 @@ nodes = (
 (934,1042,cs),
 (939,1078,o),
 (933,1106,o),
-(916,1126,cs),
+(916,1126,c),
 (898,1146,o),
 (868,1156,o),
 (826,1156,cs),
@@ -319,7 +319,7 @@ nodes = (
 (1127,550,cs),
 (1225,648,o),
 (1283,780,o),
-(1282,928,cs),
+(1282,928,c),
 (1282,1027,o),
 (1258,1117,o),
 (1210,1198,cs),
@@ -343,14 +343,14 @@ nodes = (
 (478,465,cs),
 (559,417,o),
 (649,393,o),
-(748,392,cs)
+(748,392,c)
 );
 }
 );
 width = 1374;
 }
 );
-leftKerningGroup = uni2117_2;
-rightKerningGroup = uni2117;
+leftKerningGroup = public.kern2.uni2117_2;
+rightKerningGroup = public.kern1.uni2117;
 unicode = 174;
 }

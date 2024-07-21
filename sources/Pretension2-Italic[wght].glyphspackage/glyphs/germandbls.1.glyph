@@ -2,7 +2,7 @@
 glyphname = germandbls.1;
 layers = (
 {
-layerId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
 shapes = (
 {
 closed = 1;
@@ -33,7 +33,7 @@ nodes = (
 (1109,802,cs),
 (1106,781,o),
 (1111,762,o),
-(1126,743,cs),
+(1126,743,c),
 (1140,724,o),
 (1158,705,o),
 (1180,684,cs),
@@ -61,7 +61,7 @@ nodes = (
 (577,308,l),
 (595,304,o),
 (619,299,o),
-(648,294,cs),
+(648,294,c),
 (677,288,o),
 (718,285,o),
 (769,286,c),
@@ -107,7 +107,7 @@ nodes = (
 width = 1372;
 },
 {
-layerId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
 shapes = (
 {
 closed = 1;
@@ -212,7 +212,7 @@ nodes = (
 width = 1301;
 },
 {
-layerId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
 shapes = (
 {
 closed = 1;
@@ -280,7 +280,7 @@ nodes = (
 (874,85,cs),
 (931,124,o),
 (966,181,o),
-(979,258,cs),
+(979,258,c),
 (992,345,o),
 (945,418,o),
 (879,483,cs),
@@ -317,7 +317,7 @@ nodes = (
 width = 1232;
 }
 );
-leftKerningGroup = B2;
-rightKerningGroup = B;
+leftKerningGroup = public.kern2.B2;
+rightKerningGroup = public.kern1.B;
 unicode = 57450;
 }

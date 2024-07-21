@@ -2,7 +2,29 @@
 glyphname = jecyr;
 layers = (
 {
-layerId = "980E6A92-2867-40CE-A48E-C7FE9FEAD785";
+anchors = (
+{
+name = _t.uni030F;
+position = "{304, 1118}";
+},
+{
+name = _t.uni030F_1;
+position = "{304, 1118}";
+},
+{
+name = m.uni030F_1;
+position = "{380, 1118}";
+},
+{
+name = m.uni0326;
+position = "{318, -336}";
+},
+{
+name = t.uni030F;
+position = "{304, 1586}";
+}
+);
+layerId = "6E2892C3-3C02-46A0-9D36-E256ACFD9F2E";
 shapes = (
 {
 alignment = -1;
@@ -17,7 +39,29 @@ ref = dotaccentcomb;
 width = 606;
 },
 {
-layerId = "2C2418C1-41DF-4EE0-8E81-595C00A08566";
+anchors = (
+{
+name = _t.uni030F;
+position = "{249, 1118}";
+},
+{
+name = _t.uni030F_1;
+position = "{249, 1118}";
+},
+{
+name = m.uni030F_1;
+position = "{417, 1180}";
+},
+{
+name = m.uni0326;
+position = "{355, -333}";
+},
+{
+name = t.uni030F;
+position = "{249, 1490}";
+}
+);
+layerId = "F267B978-EB02-4A9B-884E-61DA4654DD4B";
 shapes = (
 {
 alignment = -1;
@@ -32,7 +76,29 @@ ref = dotaccentcomb;
 width = 496;
 },
 {
-layerId = "6C81FF26-15E7-4A5E-89E1-0A5A89E23E00";
+anchors = (
+{
+name = _t.uni030F;
+position = "{227, 1118}";
+},
+{
+name = _t.uni030F_1;
+position = "{227, 1118}";
+},
+{
+name = m.uni030F_1;
+position = "{385, 1242}";
+},
+{
+name = m.uni0326;
+position = "{379, -297}";
+},
+{
+name = t.uni030F;
+position = "{227, 1434}";
+}
+);
+layerId = "5994B614-1BA3-4C22-AA0B-9CE5DDB3E1DA";
 shapes = (
 {
 alignment = -1;

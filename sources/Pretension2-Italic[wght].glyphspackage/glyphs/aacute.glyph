@@ -10,15 +10,11 @@ name = m.uni0326;
 position = "{672, 0}";
 },
 {
-name = m.uni030F_1;
-position = "{929, 1574}";
-},
-{
 name = m.uni0328_4;
 position = "{1288, 0}";
 }
 );
-layerId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
 shapes = (
 {
 alignment = -1;
@@ -41,13 +37,9 @@ position = "{709, 0}";
 {
 name = m.uni0328_4;
 position = "{1331, 0}";
-},
-{
-name = t.uni030F;
-position = "{826, 1617}";
 }
 );
-layerId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
 shapes = (
 {
 alignment = -1;
@@ -68,21 +60,18 @@ name = m.uni0326;
 position = "{697, 0}";
 },
 {
-name = m.uni030F_1;
-position = "{943, 1659}";
-},
-{
 name = m.uni0328_4;
 position = "{1221, 0}";
 }
 );
-layerId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
 shapes = (
 {
 alignment = -1;
 ref = a;
 },
 {
+alignment = -1;
 pos = (702,417);
 ref = acutecomb;
 }
@@ -90,7 +79,7 @@ ref = acutecomb;
 width = 1062;
 }
 );
-leftKerningGroup = a2;
-rightKerningGroup = a;
+leftKerningGroup = public.kern2.a2;
+rightKerningGroup = public.kern1.a;
 unicode = 225;
 }

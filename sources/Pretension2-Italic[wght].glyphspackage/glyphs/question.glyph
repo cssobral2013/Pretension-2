@@ -2,7 +2,7 @@
 glyphname = question;
 layers = (
 {
-layerId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
 shapes = (
 {
 closed = 1;
@@ -57,7 +57,7 @@ nodes = (
 (1125,883,cs),
 (1072,826,o),
 (1006,777,o),
-(927,736,cs),
+(927,736,c),
 (889,715,o),
 (856,694,o),
 (829,673,cs),
@@ -83,7 +83,7 @@ nodes = (
 width = 1229;
 },
 {
-layerId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
 shapes = (
 {
 closed = 1;
@@ -98,7 +98,7 @@ nodes = (
 (524,790,cs),
 (562,819,o),
 (606,847,o),
-(657,874,cs),
+(657,874,c),
 (705,901,o),
 (748,935,o),
 (785,976,cs),
@@ -129,7 +129,7 @@ nodes = (
 (675,1510,cs),
 (762,1510,o),
 (834,1493,o),
-(893,1460,cs),
+(893,1460,c),
 (1009,1392,o),
 (1062,1269,o),
 (1037,1117,cs),
@@ -164,7 +164,7 @@ nodes = (
 width = 1047;
 },
 {
-layerId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
 shapes = (
 {
 closed = 1;
@@ -188,7 +188,7 @@ nodes = (
 (916,1146,cs),
 (926,1208,o),
 (920,1263,o),
-(899,1311,cs),
+(899,1311,c),
 (855,1406,o),
 (761,1464,o),
 (636,1464,cs),
@@ -213,7 +213,7 @@ nodes = (
 (829,1463,cs),
 (932,1400,o),
 (985,1286,o),
-(962,1146,cs),
+(962,1146,c),
 (951,1085,o),
 (926,1030,o),
 (886,982,cs),
@@ -245,7 +245,7 @@ nodes = (
 width = 981;
 }
 );
-leftKerningGroup = uni203D_2;
-rightKerningGroup = uni203D;
+leftKerningGroup = public.kern2.uni203D_2;
+rightKerningGroup = public.kern1.uni203D;
 unicode = (63,58032);
 }

@@ -2,7 +2,7 @@
 glyphname = n.superior;
 layers = (
 {
-layerId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
 shapes = (
 {
 closed = 1;
@@ -24,7 +24,7 @@ nodes = (
 (920,1208,cs),
 (840,744,l),
 (576,744,l),
-(646,1160,ls),
+(646,1160,l),
 (651,1195,o),
 (648,1224,o),
 (636,1247,cs),
@@ -43,7 +43,7 @@ nodes = (
 width = 872;
 },
 {
-layerId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
 shapes = (
 {
 closed = 1;
@@ -84,7 +84,7 @@ nodes = (
 width = 831;
 },
 {
-layerId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
 shapes = (
 {
 closed = 1;
@@ -106,7 +106,7 @@ nodes = (
 (766,1240,cs),
 (680,744,l),
 (638,744,l),
-(718,1240,ls),
+(718,1240,l),
 (729,1303,o),
 (718,1355,o),
 (687,1395,cs),

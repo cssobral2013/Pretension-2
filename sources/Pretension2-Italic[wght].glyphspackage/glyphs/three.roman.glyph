@@ -2,7 +2,21 @@
 glyphname = three.roman;
 layers = (
 {
-layerId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
+anchors = (
+{
+name = m.uni030F_1;
+position = "{1696, 1490}";
+},
+{
+name = m.uni0326;
+position = "{1445, 0}";
+},
+{
+name = m.uni0328_4;
+position = "{1767, 0}";
+}
+);
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
 shapes = (
 {
 alignment = -1;
@@ -22,7 +36,21 @@ ref = I;
 width = 1788;
 },
 {
-layerId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
+anchors = (
+{
+name = m.uni030F_1;
+position = "{1635, 1490}";
+},
+{
+name = m.uni0326;
+position = "{1384, 0}";
+},
+{
+name = m.uni0328_4;
+position = "{1711, 0}";
+}
+);
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
 shapes = (
 {
 alignment = -1;
@@ -42,7 +70,21 @@ ref = I;
 width = 1650;
 },
 {
-layerId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
+anchors = (
+{
+name = m.uni030F_1;
+position = "{1519, 1490}";
+},
+{
+name = m.uni0326;
+position = "{1268, 0}";
+},
+{
+name = m.uni0328_4;
+position = "{1461, 0}";
+}
+);
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
 shapes = (
 {
 alignment = -1;

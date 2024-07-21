@@ -2,7 +2,7 @@
 glyphname = acutedotcomb.lc;
 layers = (
 {
-layerId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
 shapes = (
 {
 closed = 1;
@@ -46,7 +46,7 @@ nodes = (
 width = 693;
 },
 {
-layerId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
 shapes = (
 {
 closed = 1;
@@ -90,7 +90,7 @@ nodes = (
 width = 528;
 },
 {
-layerId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
 shapes = (
 {
 closed = 1;
@@ -115,19 +115,19 @@ nodes = (
 (329,1715,cs),
 (337,1706,o),
 (340,1695,o),
-(337,1682,cs),
+(337,1682,c),
 (335,1669,o),
 (329,1658,o),
-(318,1649,cs),
+(318,1649,c),
 (307,1639,o),
 (295,1634,o),
 (282,1634,cs),
 (270,1634,o),
 (260,1639,o),
-(252,1649,cs),
+(252,1649,c),
 (244,1658,o),
 (241,1669,o),
-(243,1682,cs)
+(243,1682,c)
 );
 }
 );

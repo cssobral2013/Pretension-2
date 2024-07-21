@@ -5,32 +5,6 @@ layers = (
 {
 anchors = (
 {
-name = bottom;
-position = "{1028, 0}";
-},
-{
-name = ogonek;
-position = "{828, -419}";
-},
-{
-name = top;
-position = "{634, 1303}";
-}
-);
-layerId = "010CA2FC-4FD0-4842-9B84-2D5DD36B0DB4";
-associatedMasterId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
-name = "May 15, 21 16:47";
-shapes = (
-{
-alignment = -1;
-ref = y;
-}
-);
-width = 1274;
-},
-{
-anchors = (
-{
 name = m.uni0326;
 position = "{1136, 0}";
 },
@@ -55,7 +29,13 @@ name = top;
 position = "{771, 1303}";
 }
 );
-layerId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
+guides = (
+{
+angle = 90;
+position = "{556, 0}";
+}
+);
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
 shapes = (
 {
 closed = 1;
@@ -98,38 +78,6 @@ width = 1239;
 {
 anchors = (
 {
-name = bottom;
-position = "{823, -49}";
-},
-{
-name = ogonek;
-position = "{700, -419}";
-},
-{
-name = top;
-position = "{547, 1303}";
-}
-);
-guides = (
-{
-angle = 90;
-position = "{518, 0}";
-}
-);
-layerId = "6E903D4E-492E-4DFF-A9B6-5EF54F7C66A4";
-associatedMasterId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
-name = "May 15, 21 16:47";
-shapes = (
-{
-alignment = -1;
-ref = y;
-}
-);
-width = 1094;
-},
-{
-anchors = (
-{
 name = m.uni0326;
 position = "{1195, 0}";
 },
@@ -160,7 +108,7 @@ angle = 90;
 position = "{556, 0}";
 }
 );
-layerId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
 shapes = (
 {
 closed = 1;
@@ -203,32 +151,6 @@ width = 1108;
 {
 anchors = (
 {
-name = bottom;
-position = "{716, -86}";
-},
-{
-name = ogonek;
-position = "{537, -419}";
-},
-{
-name = top;
-position = "{512, 1303}";
-}
-);
-layerId = "1D53415E-5496-40FA-A501-B2739CE4FFC9";
-associatedMasterId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
-name = "May 15, 21 16:47";
-shapes = (
-{
-alignment = -1;
-ref = y;
-}
-);
-width = 1024;
-},
-{
-anchors = (
-{
 name = m.uni0326;
 position = "{1021, 0}";
 },
@@ -253,7 +175,13 @@ name = top;
 position = "{680, 1303}";
 }
 );
-layerId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
+guides = (
+{
+angle = 90;
+position = "{556, 0}";
+}
+);
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
 shapes = (
 {
 closed = 1;

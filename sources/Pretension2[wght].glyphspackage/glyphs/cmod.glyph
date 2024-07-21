@@ -2,7 +2,7 @@
 glyphname = cmod;
 layers = (
 {
-layerId = "980E6A92-2867-40CE-A48E-C7FE9FEAD785";
+layerId = "6E2892C3-3C02-46A0-9D36-E256ACFD9F2E";
 shapes = (
 {
 closed = 1;
@@ -28,7 +28,7 @@ nodes = (
 (530,1198,l),
 (524,1227,o),
 (513,1250,o),
-(498,1267,cs),
+(498,1267,c),
 (482,1284,o),
 (459,1292,o),
 (428,1292,cs),
@@ -46,7 +46,7 @@ nodes = (
 (428,940,cs),
 (457,940,o),
 (480,948,o),
-(496,965,cs),
+(496,965,c),
 (512,981,o),
 (522,1003,o),
 (526,1030,c),
@@ -63,7 +63,7 @@ nodes = (
 width = 812;
 },
 {
-layerId = "2C2418C1-41DF-4EE0-8E81-595C00A08566";
+layerId = "F267B978-EB02-4A9B-884E-61DA4654DD4B";
 shapes = (
 {
 closed = 1;
@@ -124,7 +124,7 @@ nodes = (
 width = 789;
 },
 {
-layerId = "6C81FF26-15E7-4A5E-89E1-0A5A89E23E00";
+layerId = "5994B614-1BA3-4C22-AA0B-9CE5DDB3E1DA";
 shapes = (
 {
 closed = 1;

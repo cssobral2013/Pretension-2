@@ -12,7 +12,7 @@ name = m.uni030F_1;
 position = "{579, 1490}";
 }
 );
-layerId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
 shapes = (
 {
 alignment = -1;
@@ -25,7 +25,7 @@ pos = (23,20);
 ref = slashshortcomb.lc;
 }
 );
-width = 764;
+width = 762;
 },
 {
 anchors = (
@@ -38,7 +38,7 @@ name = m.uni030F_1;
 position = "{584, 1490}";
 }
 );
-layerId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
 shapes = (
 {
 alignment = -1;
@@ -51,7 +51,7 @@ pos = (18,1);
 ref = slashshortcomb.lc;
 }
 );
-width = 611;
+width = 610;
 },
 {
 anchors = (
@@ -64,7 +64,7 @@ name = m.uni030F_1;
 position = "{432, 1490}";
 }
 );
-layerId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
 shapes = (
 {
 alignment = -1;
@@ -77,10 +77,10 @@ pos = (10,0);
 ref = slashshortcomb.lc;
 }
 );
-width = 460;
+width = 461;
 }
 );
-leftKerningGroup = t2;
-rightKerningGroup = t;
+leftKerningGroup = public.kern2.t2;
+rightKerningGroup = public.kern1.t;
 unicode = (322,57425);
 }

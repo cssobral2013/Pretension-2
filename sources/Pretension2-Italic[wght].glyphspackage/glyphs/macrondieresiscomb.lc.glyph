@@ -2,7 +2,7 @@
 glyphname = macrondieresiscomb.lc;
 layers = (
 {
-layerId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
 shapes = (
 {
 closed = 1;
@@ -75,7 +75,7 @@ nodes = (
 width = 833;
 },
 {
-layerId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
 shapes = (
 {
 closed = 1;
@@ -148,7 +148,7 @@ nodes = (
 width = 979;
 },
 {
-layerId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
 shapes = (
 {
 closed = 1;
@@ -164,7 +164,7 @@ closed = 1;
 nodes = (
 (767,1634,o),
 (757,1639,o),
-(750,1648,cs),
+(750,1648,c),
 (742,1657,o),
 (739,1668,o),
 (741,1681,cs),
@@ -193,7 +193,7 @@ closed = 1;
 nodes = (
 (363,1634,o),
 (353,1639,o),
-(346,1648,cs),
+(346,1648,c),
 (338,1657,o),
 (335,1668,o),
 (337,1681,cs),

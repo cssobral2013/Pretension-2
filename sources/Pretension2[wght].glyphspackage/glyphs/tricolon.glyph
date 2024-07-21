@@ -2,7 +2,21 @@
 glyphname = tricolon;
 layers = (
 {
-layerId = "980E6A92-2867-40CE-A48E-C7FE9FEAD785";
+anchors = (
+{
+name = _t.uni030F;
+position = "{335, -596}";
+},
+{
+name = _t.uni030F_1;
+position = "{1675, -596}";
+},
+{
+name = t.uni030F;
+position = "{1675, -128}";
+}
+);
+layerId = "6E2892C3-3C02-46A0-9D36-E256ACFD9F2E";
 shapes = (
 {
 alignment = -1;
@@ -23,7 +37,21 @@ ref = dotaccentcomb;
 width = 2010;
 },
 {
-layerId = "2C2418C1-41DF-4EE0-8E81-595C00A08566";
+anchors = (
+{
+name = _t.uni030F;
+position = "{248, -604}";
+},
+{
+name = _t.uni030F_1;
+position = "{1238, -604}";
+},
+{
+name = t.uni030F;
+position = "{1238, -232}";
+}
+);
+layerId = "F267B978-EB02-4A9B-884E-61DA4654DD4B";
 shapes = (
 {
 alignment = -1;
@@ -44,7 +72,21 @@ ref = dotaccentcomb;
 width = 1485;
 },
 {
-layerId = "6C81FF26-15E7-4A5E-89E1-0A5A89E23E00";
+anchors = (
+{
+name = _t.uni030F;
+position = "{884, 974}";
+},
+{
+name = _t.uni030F_1;
+position = "{884, -234}";
+},
+{
+name = t.uni030F;
+position = "{884, 82}";
+}
+);
+layerId = "5994B614-1BA3-4C22-AA0B-9CE5DDB3E1DA";
 shapes = (
 {
 alignment = -1;

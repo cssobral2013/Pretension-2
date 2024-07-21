@@ -1,5 +1,4 @@
 {
-color = 9;
 glyphname = lbelt.ss02;
 layers = (
 {
@@ -25,13 +24,7 @@ name = top;
 position = "{710, 1676}";
 }
 );
-guides = (
-{
-angle = 90;
-position = "{602, 0}";
-}
-);
-layerId = "980E6A92-2867-40CE-A48E-C7FE9FEAD785";
+layerId = "6E2892C3-3C02-46A0-9D36-E256ACFD9F2E";
 shapes = (
 {
 closed = 1;
@@ -46,7 +39,7 @@ nodes = (
 (436,867,cs),
 (482,867,o),
 (500,832,o),
-(500,759,c),
+(500,759,cs),
 (500,573,l),
 (902,573,l),
 (902,649,l),
@@ -109,7 +102,7 @@ name = top;
 position = "{522, 1676}";
 }
 );
-layerId = "2C2418C1-41DF-4EE0-8E81-595C00A08566";
+layerId = "F267B978-EB02-4A9B-884E-61DA4654DD4B";
 shapes = (
 {
 closed = 1;
@@ -187,13 +180,7 @@ name = top;
 position = "{420, 1676}";
 }
 );
-guides = (
-{
-angle = 90;
-position = "{344, 0}";
-}
-);
-layerId = "6C81FF26-15E7-4A5E-89E1-0A5A89E23E00";
+layerId = "5994B614-1BA3-4C22-AA0B-9CE5DDB3E1DA";
 shapes = (
 {
 closed = 1;
@@ -211,7 +198,7 @@ nodes = (
 (403,880,cs),
 (403,660,l),
 (449,660,l),
-(449,880,l),
+(449,880,ls),
 (449,1022,o),
 (365,1130,o),
 (220,1130,cs),
@@ -220,7 +207,7 @@ nodes = (
 (-4,903,cs),
 (-4,777,o),
 (107,676,o),
-(252,676,cs),
+(252,676,c),
 (585,678,l)
 );
 },

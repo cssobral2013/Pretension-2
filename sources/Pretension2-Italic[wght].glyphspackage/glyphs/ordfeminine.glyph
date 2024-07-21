@@ -3,20 +3,7 @@ glyphname = ordfeminine;
 widthMetricsKey = "=921";
 layers = (
 {
-layerId = "68728CD2-A059-41C6-90B0-4174F4317B7A";
-associatedMasterId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
-name = "May 15, 21 16:46";
-shapes = (
-{
-alignment = -1;
-pos = (13,0);
-ref = amod;
-}
-);
-width = 820;
-},
-{
-layerId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
 shapes = (
 {
 closed = 1;
@@ -32,7 +19,7 @@ closed = 1;
 nodes = (
 (708,1174,l),
 (685,1017,l),
-(536,1001,ls),
+(536,1001,l),
 (500,998,o),
 (459,965,o),
 (459,928,cs),
@@ -41,7 +28,7 @@ nodes = (
 (531,888,cs),
 (608,888,o),
 (657,928,o),
-(662,962,cs),
+(662,962,c),
 (704,1211,ls),
 (709,1240,o),
 (693,1267,o),
@@ -72,23 +59,10 @@ nodes = (
 );
 }
 );
-width = 1050;
+width = 921;
 },
 {
-layerId = "65CD9EC0-5D7B-4EE2-88A1-78836BBB0CD5";
-associatedMasterId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
-name = "May 15, 21 16:46";
-shapes = (
-{
-alignment = -1;
-pos = (16,0);
-ref = amod;
-}
-);
-width = 710;
-},
-{
-layerId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
 shapes = (
 {
 closed = 1;
@@ -127,7 +101,7 @@ nodes = (
 (597,1457,cs),
 (742,1457,o),
 (875,1381,o),
-(843,1219,cs),
+(843,1219,c),
 (761,724,l),
 (617,724,l),
 (635,834,l),
@@ -147,20 +121,7 @@ nodes = (
 width = 921;
 },
 {
-layerId = "016B44BA-F3F9-47E4-98D6-01F784189F71";
-associatedMasterId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
-name = "May 15, 21 16:46";
-shapes = (
-{
-alignment = -1;
-pos = (22,0);
-ref = amod;
-}
-);
-width = 679;
-},
-{
-layerId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
 shapes = (
 {
 closed = 1;
@@ -185,7 +146,7 @@ nodes = (
 (356,750,cs),
 (494,750,o),
 (615,866,o),
-(642,1024,cs),
+(642,1024,c),
 (677,1239,ls),
 (696,1352,o),
 (625,1417,o),
@@ -199,7 +160,7 @@ nodes = (
 (516,1460,cs),
 (653,1460,o),
 (750,1375,o),
-(722,1236,cs),
+(722,1236,c),
 (637,724,l),
 (592,724,l),
 (615,863,l),
@@ -216,10 +177,10 @@ nodes = (
 );
 }
 );
-width = 738;
+width = 921;
 }
 );
-leftKerningGroup = dagger2;
-rightKerningGroup = dagger;
+leftKerningGroup = public.kern2.dagger2;
+rightKerningGroup = public.kern1.dagger;
 unicode = 170;
 }

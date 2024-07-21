@@ -2,7 +2,25 @@
 glyphname = twelve.romansmall;
 layers = (
 {
-layerId = "980E6A92-2867-40CE-A48E-C7FE9FEAD785";
+anchors = (
+{
+name = m.uni030F_1;
+position = "{2231, 1118}";
+},
+{
+name = m.uni0326;
+position = "{2235, 0}";
+},
+{
+name = m.uni0328_4;
+position = "{2548, 0}";
+},
+{
+name = t.uni030F;
+position = "{2157, 1586}";
+}
+);
+layerId = "6E2892C3-3C02-46A0-9D36-E256ACFD9F2E";
 shapes = (
 {
 alignment = -1;
@@ -11,28 +29,36 @@ ref = x;
 {
 alignment = -1;
 pos = (1248,0);
-ref = dotlessi;
-},
-{
-alignment = -1;
-pos = (1216,0);
-ref = dotaccentcomb;
+ref = i;
 },
 {
 alignment = -1;
 pos = (1854,0);
-ref = dotlessi;
-},
-{
-alignment = -1;
-pos = (1822,0);
-ref = dotaccentcomb;
+ref = i;
 }
 );
 width = 2460;
 },
 {
-layerId = "2C2418C1-41DF-4EE0-8E81-595C00A08566";
+anchors = (
+{
+name = m.uni030F_1;
+position = "{2029, 1180}";
+},
+{
+name = m.uni0326;
+position = "{2033, 0}";
+},
+{
+name = m.uni0328_4;
+position = "{2350, 0}";
+},
+{
+name = t.uni030F;
+position = "{1864, 1490}";
+}
+);
+layerId = "F267B978-EB02-4A9B-884E-61DA4654DD4B";
 shapes = (
 {
 alignment = -1;
@@ -41,28 +67,36 @@ ref = x;
 {
 alignment = -1;
 pos = (1118,0);
-ref = dotlessi;
-},
-{
-alignment = -1;
-pos = (1120,0);
-ref = dotaccentcomb;
+ref = i;
 },
 {
 alignment = -1;
 pos = (1614,0);
-ref = dotlessi;
-},
-{
-alignment = -1;
-pos = (1616,0);
-ref = dotaccentcomb;
+ref = i;
 }
 );
 width = 2110;
 },
 {
-layerId = "6C81FF26-15E7-4A5E-89E1-0A5A89E23E00";
+anchors = (
+{
+name = m.uni030F_1;
+position = "{1836, 1242}";
+},
+{
+name = m.uni0326;
+position = "{1840, 0}";
+},
+{
+name = m.uni0328_4;
+position = "{2034, 0}";
+},
+{
+name = t.uni030F;
+position = "{1686, 1434}";
+}
+);
+layerId = "5994B614-1BA3-4C22-AA0B-9CE5DDB3E1DA";
 shapes = (
 {
 alignment = -1;
@@ -71,22 +105,12 @@ ref = x;
 {
 alignment = -1;
 pos = (1024,0);
-ref = dotlessi;
-},
-{
-alignment = -1;
-pos = (1058,0);
-ref = dotaccentcomb;
+ref = i;
 },
 {
 alignment = -1;
 pos = (1466,0);
-ref = dotlessi;
-},
-{
-alignment = -1;
-pos = (1500,0);
-ref = dotaccentcomb;
+ref = i;
 }
 );
 width = 1908;

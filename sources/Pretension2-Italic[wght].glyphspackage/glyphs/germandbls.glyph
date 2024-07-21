@@ -2,7 +2,7 @@
 glyphname = germandbls;
 layers = (
 {
-layerId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
 shapes = (
 {
 closed = 1;
@@ -86,7 +86,7 @@ nodes = (
 width = 1418;
 },
 {
-layerId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
 shapes = (
 {
 closed = 1;
@@ -170,13 +170,13 @@ nodes = (
 width = 1262;
 },
 {
-layerId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
 shapes = (
 {
 closed = 1;
 nodes = (
 (139,0,l),
-(330,1152,ls),
+(330,1152,l),
 (343,1226,o),
 (368,1290,o),
 (406,1343,cs),
@@ -234,7 +234,7 @@ nodes = (
 (769,835,cs),
 (896,893,o),
 (980,1003,o),
-(1004,1152,cs),
+(1004,1152,c),
 (1021,1250,o),
 (1006,1327,o),
 (960,1382,cs),
@@ -246,7 +246,7 @@ nodes = (
 (498,1382,cs),
 (433,1327,o),
 (393,1250,o),
-(376,1152,cs),
+(376,1152,c),
 (185,0,l)
 );
 }
@@ -254,6 +254,6 @@ nodes = (
 width = 1178;
 }
 );
-leftKerningGroup = B2;
+leftKerningGroup = public.kern2.B2;
 unicode = 223;
 }

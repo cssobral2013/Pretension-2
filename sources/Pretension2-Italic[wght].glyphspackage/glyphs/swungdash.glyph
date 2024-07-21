@@ -2,7 +2,7 @@
 glyphname = swungdash;
 layers = (
 {
-layerId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
 shapes = (
 {
 closed = 1;
@@ -10,7 +10,7 @@ nodes = (
 (1512,562,l),
 (1476,531,o),
 (1437,502,o),
-(1394,477,cs),
+(1394,477,c),
 (1309,425,o),
 (1215,393,o),
 (1120,392,cs),
@@ -57,7 +57,7 @@ nodes = (
 width = 1620;
 },
 {
-layerId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
 shapes = (
 {
 closed = 1;
@@ -112,7 +112,7 @@ nodes = (
 width = 1486;
 },
 {
-layerId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
 shapes = (
 {
 closed = 1;
@@ -157,7 +157,7 @@ nodes = (
 (866,714,cs),
 (907,691,o),
 (952,680,o),
-(1000,680,cs),
+(1000,680,c),
 (1079,681,o),
 (1169,721,o),
 (1258,782,c)

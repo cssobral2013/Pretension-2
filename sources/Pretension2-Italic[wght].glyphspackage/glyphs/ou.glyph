@@ -2,7 +2,7 @@
 glyphname = ou;
 layers = (
 {
-layerId = "FAC11FF2-8AA5-4867-8567-384AA135D88B";
+layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
 shapes = (
 {
 closed = 1;
@@ -142,7 +142,7 @@ nodes = (
 width = 1426;
 },
 {
-layerId = "3D85B7E1-85F7-4D8B-A4DD-E195C561FF62";
+layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
 shapes = (
 {
 closed = 1;
@@ -282,7 +282,7 @@ nodes = (
 width = 1294;
 },
 {
-layerId = "5DA1E196-784D-41F4-ABD2-5FC63B6ED9FB";
+layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
 shapes = (
 {
 closed = 1;
@@ -374,7 +374,7 @@ nodes = (
 (1170,1494,cs),
 (1245,1429,o),
 (1274,1324,o),
-(1250,1188,cs),
+(1250,1188,c),
 (1236,1101,o),
 (1205,1028,o),
 (1158,968,cs),
