@@ -2,7 +2,7 @@
 glyphname = exclam;
 layers = (
 {
-layerId = "CA727784-8AA1-4300-8B34-14310001C03E";
+layerId = "B92D097E-6F62-4818-9792-FACFD7690A0B";
 shapes = (
 {
 closed = 1;
@@ -26,7 +26,7 @@ nodes = (
 width = 776;
 },
 {
-layerId = "C35C9F9E-A7EE-4180-9620-B6D8D84AB5E2";
+layerId = "14A30E1C-002E-4EDB-A2B6-9D6791ECC38B";
 shapes = (
 {
 closed = 1;
@@ -50,7 +50,7 @@ nodes = (
 width = 555;
 },
 {
-layerId = "FB0E6F58-CE6D-4D5A-8B32-1EB8A97466B2";
+layerId = "536BEFF9-0CB2-44EC-980E-54189405B9DA";
 shapes = (
 {
 closed = 1;
