@@ -1,5 +1,7 @@
 {
 glyphname = ecircumflexacute;
+leftMetricsKey = e;
+widthMetricsKey = e;
 layers = (
 {
 anchors = (
@@ -20,7 +22,7 @@ name = m.uni0328_4;
 position = "{1291, 379}";
 }
 );
-layerId = "B92D097E-6F62-4818-9792-FACFD7690A0B";
+layerId = "B1221E90-548C-4905-8880-9EE25E37C96B";
 shapes = (
 {
 alignment = -1;
@@ -53,7 +55,7 @@ name = m.uni0328_4;
 position = "{1343, 325}";
 }
 );
-layerId = "14A30E1C-002E-4EDB-A2B6-9D6791ECC38B";
+layerId = "072C83FE-E797-476D-AD14-FFA4AF9D5A34";
 shapes = (
 {
 alignment = -1;
@@ -65,7 +67,7 @@ pos = (197,0);
 ref = circumflexacutecomb.cn;
 }
 );
-width = 1196;
+width = 1161;
 },
 {
 anchors = (
@@ -86,7 +88,7 @@ name = m.uni0328_4;
 position = "{1236, 197}";
 }
 );
-layerId = "536BEFF9-0CB2-44EC-980E-54189405B9DA";
+layerId = "E51591BD-FE93-453F-89B8-2F40CEFC943D";
 shapes = (
 {
 alignment = -1;
@@ -98,7 +100,7 @@ pos = (173,0);
 ref = circumflexacutecomb.cn;
 }
 );
-width = 1181;
+width = 1135;
 }
 );
 unicode = 7871;

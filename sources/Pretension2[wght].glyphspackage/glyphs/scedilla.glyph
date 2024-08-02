@@ -1,5 +1,7 @@
 {
 glyphname = scedilla;
+leftMetricsKey = s;
+widthMetricsKey = s;
 layers = (
 {
 anchors = (
@@ -34,15 +36,14 @@ angle = 90;
 position = "{515, 0}";
 }
 );
-layerId = "DF515781-E436-4A88-B51E-316BD4FA0343";
+layerId = "AA18C446-7083-4EE4-9FA4-5ED387604317";
 shapes = (
 {
 alignment = -1;
 ref = s;
 },
 {
-alignment = -1;
-pos = (160,0);
+pos = (235,0);
 ref = cedillacomb;
 }
 );
@@ -81,19 +82,18 @@ angle = 90;
 position = "{515, 0}";
 }
 );
-layerId = "6C060D37-EA61-4F06-B959-8B1B04C15508";
+layerId = "83678DE6-86A5-4DC1-9516-590C67EEE957";
 shapes = (
 {
 alignment = -1;
 ref = s;
 },
 {
-alignment = -1;
-pos = (280,0);
+pos = (247,0);
 ref = cedillacomb;
 }
 );
-width = 1070;
+width = 1039;
 },
 {
 anchors = (
@@ -128,19 +128,18 @@ angle = 90;
 position = "{515, 0}";
 }
 );
-layerId = "D5D2BA9E-C9D4-4EBC-A272-0297FDC83579";
+layerId = "011F2186-E3F6-4CD7-BC01-D546573589F3";
 shapes = (
 {
 alignment = -1;
 ref = s;
 },
 {
-alignment = -1;
-pos = (299,0);
+pos = (286,0);
 ref = cedillacomb;
 }
 );
-width = 1010;
+width = 963;
 }
 );
 leftKerningGroup = public.kern2.s2;

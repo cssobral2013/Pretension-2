@@ -2,7 +2,7 @@
 glyphname = Upsilonafrican;
 layers = (
 {
-layerId = "B92D097E-6F62-4818-9792-FACFD7690A0B";
+layerId = "B1221E90-548C-4905-8880-9EE25E37C96B";
 shapes = (
 {
 closed = 1;
@@ -77,7 +77,7 @@ nodes = (
 width = 1618;
 },
 {
-layerId = "14A30E1C-002E-4EDB-A2B6-9D6791ECC38B";
+layerId = "072C83FE-E797-476D-AD14-FFA4AF9D5A34";
 shapes = (
 {
 closed = 1;
@@ -152,7 +152,7 @@ nodes = (
 width = 1567;
 },
 {
-layerId = "536BEFF9-0CB2-44EC-980E-54189405B9DA";
+layerId = "E51591BD-FE93-453F-89B8-2F40CEFC943D";
 shapes = (
 {
 closed = 1;
