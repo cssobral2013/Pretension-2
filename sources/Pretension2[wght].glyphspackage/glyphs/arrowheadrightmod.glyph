@@ -2,7 +2,7 @@
 glyphname = arrowheadrightmod;
 layers = (
 {
-layerId = "AA18C446-7083-4EE4-9FA4-5ED387604317";
+layerId = "C940992A-BC26-484D-9AD3-39561C0256D5";
 shapes = (
 {
 closed = 1;
@@ -28,7 +28,7 @@ nodes = (
 width = 1310;
 },
 {
-layerId = "83678DE6-86A5-4DC1-9516-590C67EEE957";
+layerId = "9514E43D-89D9-4083-9B59-14FFE90A8056";
 shapes = (
 {
 closed = 1;
@@ -54,7 +54,7 @@ nodes = (
 width = 924;
 },
 {
-layerId = "011F2186-E3F6-4CD7-BC01-D546573589F3";
+layerId = "F1B44250-5A04-4AFC-8A77-A7E8F224F396";
 shapes = (
 {
 closed = 1;
