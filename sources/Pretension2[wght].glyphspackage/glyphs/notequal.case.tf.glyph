@@ -2,7 +2,7 @@
 glyphname = notequal.case.tf;
 layers = (
 {
-layerId = "C940992A-BC26-484D-9AD3-39561C0256D5";
+layerId = "C2BA7105-123B-4065-95E4-2C8249C8089A";
 shapes = (
 {
 alignment = -1;
@@ -13,7 +13,7 @@ ref = notequal;
 width = 1320;
 },
 {
-layerId = "9514E43D-89D9-4083-9B59-14FFE90A8056";
+layerId = "9CF24730-065A-453E-8BED-A6F959227B57";
 shapes = (
 {
 alignment = -1;
@@ -24,7 +24,7 @@ ref = notequal;
 width = 1328;
 },
 {
-layerId = "F1B44250-5A04-4AFC-8A77-A7E8F224F396";
+layerId = "01511CED-EE56-4E59-B654-85BB35A5B07B";
 shapes = (
 {
 alignment = -1;
